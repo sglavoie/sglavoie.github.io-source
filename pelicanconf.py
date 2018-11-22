@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Sébastien Lavoie'
-SITENAME = 'sglavoie'
+SITENAME = 'sglavoie.com'
 SITEURL = ''
 SITESUBTITLE = ''
 DISQUS_SITENAME = 'sglavoie'
