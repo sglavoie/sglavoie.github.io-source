@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+{% set active_page = "home" %}
+
+{% block content %}
+<section id="content" class="jumbotron body">
+{% block content_title %}
+<h2 class="display-4 uppercase-title">All articles</h2>
+{% endblock %}
+
+<div class="card">
+<ol id="post-list">
+{% for article in articles_page.object_list %}
+<div class="card-body">
+    <li><article class="hentry">
+            <header> <h2 class="card-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>
+            <footer class="post-info card-subtitle mb-2 text-muted">
+
+                {% if not category_view %}
+                    Category: <div class="category-article emphasis post-info-space extra-space"><a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a></div>
+                {% endif %}
+
+
+            {% if article.tags %}
+            <div class="tags">
+                Tags:
+                {% for tag in article.tags %}
+                <a class="category-article emphasis post-info-space extra-space" href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
+                {% endfor %}
+            </div>
+            {% endif %}
+
+                <time class="published" datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }} </time>
+                {#                    <address class="vcard author">By
+                    {% for author in article.authors %}
+                    <a class="url fn" href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
+                    {% endfor %}
+                </address> #}
+            </footer><!-- /.post-info -->
+            <div class="entry-content card-text"> {{ article.summary }} </div><!-- /.entry-content -->
+        </article></li>
+</div>
+  <hr class="my-4">
+{% endfor %}
+{% if articles_page.object_list == [] %}
+<li style="padding-top:20px">Nothing yet.</li>
+{% endif %}
+
+</ol>
+</div>
+<!-- /#posts-list -->
+{% if articles_page.has_other_pages() %}
+    {% include 'pagination.html' %}
+{% endif %}
+</section><!-- /#content -->
+{% endblock content %}
