@@ -187,11 +187,11 @@ nav#menu {
 #bg-darker {
     background-color: #000000!important;
     text-shadow: 0px 0px 1px black;
-    background-image: url("/theme/images/header/abstraction_levels.svg");
-    background-repeat: no-repeat;
-    background-size: 40%;
-    background-position: right;
-    background-position-x: 99%;
+    /*background-image: url("/theme/images/header/sglavoie_logo.svg");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 40%;*/
+    /*background-position: right;*/
+    /*background-position-x: 99%;*/
 }
 
 .navbar-expand-lg .navbar-nav .nav-link {
@@ -221,11 +221,11 @@ nav#menu {
 #bg-darker {
     background-color: #000000!important;
     text-shadow: 0px 0px 1px black;
-    background-image: url("/theme/images/header/abstraction_levels.svg");
-    background-repeat: no-repeat;
-    background-size: 50%;
-    background-position-y: 0;
-    background-position-x: 50%;
+    /*background-image: url("/theme/images/header/sglavoie_logo.svg");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 50%;*/
+    /*background-position-y: 5px;*/
+    /*background-position-x: 50%;*/
 }
 
 .navbar-toggler {
@@ -251,11 +251,11 @@ footer#contentinfo {
 #bg-darker {
     background-color: #000000!important;
     text-shadow: 0px 0px 1px black;
-    background-image: url("/theme/images/header/abstraction_levels.svg");
-    background-repeat: no-repeat;
-    background-size: 60%;
-    background-position-x: 50%;
-    background-position-y: 0;
+    /*background-image: url("/theme/images/header/sglavoie_logo.svg");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 60%;*/
+    /*background-position-x: 50%;*/
+    /*background-position-y: 5px;*/
 }
 
 .navbar-toggler {
