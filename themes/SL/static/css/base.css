@@ -113,10 +113,6 @@ footer#contentinfo a:hover {
     color: #d0f2ff;
 }
 
-a.nav-link {
-    font-size: 1.5rem;
-}
-
 time.modified {
     font-size: 0.95rem;
     line-height: 200%;
@@ -188,6 +184,16 @@ nav#menu {
 
 @media (min-width: 992px) {
 
+#bg-darker {
+    background-color: #000000!important;
+    text-shadow: 0px 0px 1px black;
+    background-image: url("/theme/images/header/abstraction_levels.svg");
+    background-repeat: no-repeat;
+    background-size: 40%;
+    background-position: right;
+    background-position-x: 99%;
+}
+
 .navbar-expand-lg .navbar-nav .nav-link {
     padding-right: 2rem;
     padding-left: 2rem;
@@ -211,6 +217,21 @@ nav#menu {
 
 
 @media (max-width: 992px) {
+
+#bg-darker {
+    background-color: #000000!important;
+    text-shadow: 0px 0px 1px black;
+    background-image: url("/theme/images/header/abstraction_levels.svg");
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position-y: 0;
+    background-position-x: 50%;
+}
+
+.navbar-toggler {
+    margin-top: 50px;
+}
+
 .always-white {
     color: #ffffff;
 }
@@ -225,6 +246,21 @@ footer#contentinfo {
 }
 
 @media (max-width: 576px) {
+
+
+#bg-darker {
+    background-color: #000000!important;
+    text-shadow: 0px 0px 1px black;
+    background-image: url("/theme/images/header/abstraction_levels.svg");
+    background-repeat: no-repeat;
+    background-size: 60%;
+    background-position-x: 50%;
+    background-position-y: 0;
+}
+
+.navbar-toggler {
+    margin-top: 50px;
+}
 
 .jumbotron {
     padding: 1%;
@@ -252,6 +288,7 @@ footer.post-info {
     padding: 2%;
 }
 }
+
 
 /* END @media */
 
@@ -329,11 +366,6 @@ p {
 
 .bg-dark {
     background-color: #002e5f!important;
-    text-shadow: 0px 0px 1px black;
-}
-
-#bg-darker {
-    background-color: #000000!important;
     text-shadow: 0px 0px 1px black;
 }
 
