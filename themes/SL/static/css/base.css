@@ -1,10 +1,5 @@
 @import 'pygment.css';
 
-.comments-count-text {
-    color: #000000;
-    font-size: 0.9rem;
-}
-
 .position-comments-count {
     text-align: right;
 }
@@ -14,38 +9,8 @@
 }
 
 .paginator {
-    text-align: center;
     margin: 20px;
-}
-
-.btn {
-    border-radius: 0;
-}
-
-a:visited.btn {
-     color: #ffffff; 
-}
-.btn-outline-info {
-    color: #1b6182;
-    border-color: #1b6182;
-}
-
-.btn-outline-info:hover {
-    color: #fff;
-    background-color: #002e5f;
-    border-color: #17a2b8;
-}
-
-.btn-info {
-    color: #fff;
-    background-color: #002e5f;
-    border-color: #002e5f;
-}
-
-.btn-info:hover {
-    color: #fff;
-    background-color: #000000;
-    border-color: #45464c;
+    text-align: center;
 }
 
 .category-article {
@@ -87,19 +52,18 @@ footer#contentinfo {
 }
 
 address {
-    margin-bottom: 1rem;
+    display: table-cell;
     font-style: normal;
     line-height: inherit;
-    display: table-cell;
-    vertical-align: middle;
+    margin-bottom: 1rem;
     padding-top: 15px;
     text-shadow: 0 0 3px black;
+    vertical-align: middle;
 }
 
 address.footer-icons {
     display: table-header-group;
 }
-
 
 #contentinfo a {
     color: #fff;
@@ -107,8 +71,8 @@ address.footer-icons {
 
 section#content {
     height: auto;
-    min-height: 100%;
     margin: 1%;
+    min-height: 100%;
 }
 
 ol#post-list {
@@ -145,7 +109,6 @@ a.brand-link {
     max-width: 50px;
 }
 
-
 a.nav-link-smaller {
     font-size: 1.2rem;
 }
@@ -156,8 +119,8 @@ a.nav-link-smallest {
 nav#menu {
     border-top: #1b6182 1px solid;
     display: block;
-    width: 100%;
     text-align: right;
+    width: 100%;
 }
 
 .post-info-space {
@@ -178,8 +141,8 @@ nav#menu {
 }
 
 .uppercase-title {
-    text-transform: uppercase;
     font-size: 2rem;
+    text-transform: uppercase;
 }
 
 .lowercase-title {
@@ -187,11 +150,10 @@ nav#menu {
 }
 
 .img-categories {
+    bottom:30%;
     position:absolute;
     right: 3%;
-    bottom:30%;
 }
-
 
 /* @media queries */
 
@@ -200,6 +162,7 @@ nav#menu {
 #bg-darker {
     background-color: #000000!important;
     text-shadow: 0px 0px 1px black;
+
     /*background-image: url("/theme/images/header/sglavoie_logo.svg");*/
     /*background-repeat: no-repeat;*/
     /*background-size: 40%;*/
@@ -208,8 +171,8 @@ nav#menu {
 }
 
 .navbar-expand-lg .navbar-nav .nav-link {
-    padding-right: 2rem;
     padding-left: 2rem;
+    padding-right: 2rem;
 }
 
 .to-the-right {
@@ -228,12 +191,12 @@ nav#menu {
 
 /* END @media (min-width: 992px) {*/
 
-
 @media (max-width: 992px) {
 
 #bg-darker {
     background-color: #000000!important;
     text-shadow: 0px 0px 1px black;
+
     /*background-image: url("/theme/images/header/sglavoie_logo.svg");*/
     /*background-repeat: no-repeat;*/
     /*background-size: 50%;*/
@@ -260,10 +223,10 @@ footer#contentinfo {
 
 @media (max-width: 576px) {
 
-
 #bg-darker {
     background-color: #000000!important;
     text-shadow: 0px 0px 1px black;
+
     /*background-image: url("/theme/images/header/sglavoie_logo.svg");*/
     /*background-repeat: no-repeat;*/
     /*background-size: 60%;*/
@@ -276,8 +239,8 @@ footer#contentinfo {
 }
 
 .jumbotron {
-    padding: 1%;
     border-radius: 0;
+    padding: 1%;
 }
 
 section#content {
@@ -285,12 +248,12 @@ section#content {
 }
 
 .card {
-    border: none;
+    border-bottom: 1px solid rgba(0,0,0,.125);
     border-radius: unset;
     border-top: 1px solid rgba(0,0,0,.125);
-    border-bottom: 1px solid rgba(0,0,0,.125);
-    margin: -1%;
+    border: none;
     margin-bottom: 2%;
+    margin: -1%;
 }
 
 footer.post-info {
@@ -302,7 +265,6 @@ footer.post-info {
 }
 }
 
-
 /* END @media */
 
 button.navbar-toggler:focus {
@@ -312,10 +274,10 @@ button.navbar-toggler:focus {
 /* Code Blocks */
 
 table {
-        display: block;
-        overflow-x: auto;
-        white-space: nowrap;
-    }
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+}
 
 pre {
     padding: 0 10px;
@@ -339,6 +301,41 @@ html, body {
 body {
     font-family: 'Lato', sans-serif;
     min-height: 100%;
+}
+
+.btn {
+    border-radius: 0;
+}
+
+.badge {
+    border-radius: 0;
+}
+
+a:visited.btn {
+     color: #ffffff; 
+}
+
+.btn-outline-info {
+    border-color: #1b6182;
+    color: #1b6182;
+}
+
+.btn-outline-info:hover {
+    background-color: #002e5f;
+    border-color: #17a2b8;
+    color: #fff;
+}
+
+.btn-info {
+    background-color: #002e5f;
+    border-color: #002e5f;
+    color: #fff;
+}
+
+.btn-info:hover {
+    background-color: #000000;
+    border-color: #45464c;
+    color: #fff;
 }
 
 .display-4 {
@@ -387,4 +384,3 @@ p {
     background-repeat: repeat;
     padding: 12px 0px;
 }
-
