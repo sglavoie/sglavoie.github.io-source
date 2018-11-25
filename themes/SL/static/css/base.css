@@ -1,5 +1,18 @@
 @import 'pygment.css';
 
+.comments-count-text {
+    color: #000000;
+    font-size: 0.9rem;
+}
+
+.position-comments-count {
+    text-align: right;
+}
+
+.position-comments-count a:link, .position-comments-count a:visited, .position-comments-count, a:hover {
+    color:#ffffff
+}
+
 .paginator {
     text-align: center;
     margin: 20px;
