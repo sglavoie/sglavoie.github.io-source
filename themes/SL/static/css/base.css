@@ -155,6 +155,10 @@ nav#menu {
     right: 3%;
 }
 
+#author-footer {
+    margin-top: 0.5rem;
+}
+
 /* @media queries */
 
 @media (min-width: 992px) {
