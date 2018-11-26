@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+from datetime import datetime
+
+SITE_VERSION = 'v0.3.0'
+CURRENT_YEAR = datetime.today().year
 
 AUTHOR = 'Sébastien Lavoie'
 SITENAME = 'sglavoie.com'
@@ -10,7 +14,6 @@ DISQUS_SITENAME = 'sglavoie'
 TWITTER_USERNAME = 'sgdlavoie'
 THEME = 'themes/SL'
 ABOUT_VERSION = '0.1.0'
-SITE_VERSION = 'v0.2.1'
 
 PATH = 'content'
 
