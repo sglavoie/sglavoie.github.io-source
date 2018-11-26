@@ -103,4 +103,4 @@ I add the following aliases in `~/.bash_aliases` to automate a chunk of the work
 
 ---
 
-The content of this post can be found on [Github](https://github.com/sglavoie/better-vim-experience#tmux-integration).
+The content of this post can be found on [GitHub](https://github.com/sglavoie/better-vim-experience#tmux-integration).
