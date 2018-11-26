@@ -1,130 +1,25 @@
 @import 'pygment.css';
 
-.position-comments-count {
-    text-align: right;
-}
-
-.position-comments-count a:link, .position-comments-count a:visited, .position-comments-count, a:hover {
-    color:#ffffff
-}
-
-.paginator {
-    margin: 20px;
-    text-align: center;
-}
-
-.category-article {
-    display:inline-block;
-    padding-right: 1rem;
-}
-
-.max-size-img-post {
-    max-width: 90%;
-}
-
-.extra-space {
-    margin: 1rem 0;
-}
-
-.emphasis {
-    background-color: #d0dcff;
-    color: #000000!important;
-    font-weight: bold;
-    padding: 0 0.5rem;
-    text-transform: lowercase;
-}
-
-ul#post-list {
-    list-style-type: none;
-}
-
-footer#contentinfo {
-    background-color: #283B42;
-    border-bottom: #000 1px solid;
-    border-top: #000 1px solid;
-    color: #f8f9fa;
-    display: table;
-    font-size: 0.8rem;
-    padding: 3%;
-    position: relative;
-    text-align: center;
-    width: 100%;
-}
-
-address {
-    display: table-cell;
-    font-style: normal;
-    line-height: inherit;
-    margin-bottom: 1rem;
-    padding-top: 15px;
-    text-shadow: 0 0 3px black;
-    vertical-align: middle;
-}
-
-address.footer-icons {
-    display: table-header-group;
-}
-
-#contentinfo a {
-    color: #fff;
-}
-
-section#content {
-    height: auto;
-    margin: 1%;
-    min-height: 100%;
-}
-
+/* BASE TEMPLATE */
 ol#post-list {
     font-size: 1.2rem;
     list-style-type: none;
 }
 
-section#content:after {
-    content: "";
-    display: block;
-    height: 1px;
+figure {
+	background: #fff;
+	overflow: hidden;
 }
 
-footer#contentinfo a:hover {
-    color: #d0f2ff;
+.hover-img {
+	opacity: 1;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
 }
 
-time.modified {
-    font-size: 0.95rem;
-    line-height: 200%;
-    padding-left: 10px;
-}
-
-#index {
-    background-color: #CEDBD9;
-    color: #283B42;
-}
-
-a.brand-link {
-    display: contents;
-}
-
-.brand-logo {
-    max-width: 50px;
-}
-
-a.nav-link-smaller {
-    font-size: 1.2rem;
-}
-
-a.nav-link-smallest {
-    font-size: 1.0rem;
-}
-nav#menu {
-    border-top: #1b6182 1px solid;
-    display: block;
-    text-align: right;
-    width: 100%;
-}
-
-.post-info-space {
-    padding-left: 0.5rem;
+.hover-img:hover {
+    color:#fff;
+	opacity: .5;
 }
 
 .always-white:visited {
@@ -155,12 +50,186 @@ nav#menu {
     right: 3%;
 }
 
+#index {
+    background-color: #CEDBD9;
+    color: #283B42;
+}
+
+a.brand-link {
+    display: contents;
+}
+
+.brand-logo {
+    max-width: 50px;
+}
+
+a.nav-link-smaller {
+    font-size: 1.2rem;
+}
+
+a.nav-link-smallest {
+    font-size: 1.0rem;
+}
+
+nav#menu {
+    border-top: #1b6182 1px solid;
+    display: block;
+    text-align: right;
+    width: 100%;
+}
+
+.extra-space {
+    margin: 1rem 0;
+}
+
+.emphasis {
+    background-color: #d0dcff;
+    color: #000000!important;
+    font-weight: bold;
+    padding: 0 0.5rem;
+    text-transform: lowercase;
+}
+
+.emphasis:hover {
+    background-color: #d3e6ff;
+}
+
+ul#post-list {
+    list-style-type: none;
+}
+/* end BASE TEMPLATE */
+
+
+/* FOOTER */
+footer#contentinfo {
+    background-color: #283B42;
+    border-bottom: #000 1px solid;
+    border-top: #000 1px solid;
+    color: #f8f9fa;
+    display: table;
+    font-size: 0.8rem;
+    padding: 3%;
+    position: relative;
+    text-align: center;
+    width: 100%;
+}
+
+address {
+    display: table-cell;
+    font-style: normal;
+    line-height: inherit;
+    margin-bottom: 1rem;
+    padding-top: 15px;
+    text-shadow: 0 0 3px black;
+    vertical-align: middle;
+}
+
+address.footer-icons {
+    display: table-header-group;
+}
+
+footer#contentinfo a:hover {
+    color: #d0f2ff;
+}
+
+footer#contentinfo:hover {
+    border-bottom: #003274 1px solid;
+    border-top: #003274 1px solid;
+}
+
+.hover-footer-bg {
+	opacity: 1;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.hover-footer-bg:hover {
+    color:#fff;
+	opacity: .97;
+}
+
+.get-in-touch-icons {
+    display: inline-flex;
+}
+
 #author-footer {
     margin-top: 0.5rem;
 }
 
-/* @media queries */
+#author-footer:hover {
+    margin-top: 0.5rem;
+}
 
+#version-footer {
+    font-size: 0.7rem;
+}
+
+
+.footer-bottom-icon {
+    height: 1rem;
+    width: auto;
+    padding: 0 0.25rem;
+}
+/* end FOOTER */
+
+
+/* ARTICLE PAGE */
+.category-article {
+    display:inline-block;
+    padding-right: 1rem;
+}
+
+.max-size-img-post {
+    max-width: 90%;
+}
+
+#contentinfo a {
+    color: #fff;
+}
+
+section#content {
+    height: auto;
+    margin: 1%;
+    min-height: 100%;
+}
+
+section#content:after {
+    content: "";
+    display: block;
+    height: 1px;
+}
+
+time.modified {
+    font-size: 0.95rem;
+    line-height: 200%;
+    padding-left: 10px;
+}
+
+.post-info-space {
+    padding-left: 0.5rem;
+}
+/* end ARTICLE PAGE */
+
+
+/* INDEX PAGE */
+.paginator {
+    margin: 20px;
+    text-align: center;
+}
+/* end INDEX PAGE */
+
+
+/* DISQUS */
+.position-comments-count {
+    text-align: right;
+}
+
+.position-comments-count a:link, .position-comments-count a:visited, .position-comments-count, a:hover {
+    color:#ffffff
+}
+/* end DISQUS */
+
+
+/* @MEDIA QUERIES */
 @media (min-width: 992px) {
 
 #bg-darker {
@@ -193,7 +262,7 @@ nav#menu {
 }
 }
 
-/* END @media (min-width: 992px) {*/
+/* end @MEDIA (MIN-WIDTH: 992PX) */
 
 @media (max-width: 992px) {
 
@@ -224,6 +293,8 @@ footer#contentinfo {
     display: none;
 }
 }
+
+/* end @MEDIA (MAX-WIDTH: 992PX) */
 
 @media (max-width: 576px) {
 
@@ -268,15 +339,12 @@ footer.post-info {
     padding: 2%;
 }
 }
+/* end @MEDIA (MAX-WIDTH: 576PX) */
 
-/* END @media */
+/* end @MEDIA */
 
-button.navbar-toggler:focus {
-    outline: none;
-}
 
-/* Code Blocks */
-
+/* CODE BLOCKS */
 table {
     display: block;
     overflow-x: auto;
@@ -290,9 +358,10 @@ pre {
 .linenodiv {
     background-color: #d4e5ea;
 }
+/* end CODE BLOCKS */
+
 
 /* Bootstrap modifications below */
-
 html, body {
     background-color: #CEDBD9;
     color: #283B42;
@@ -309,6 +378,10 @@ body {
 
 .btn {
     border-radius: 0;
+}
+
+button.navbar-toggler:focus {
+    outline: none;
 }
 
 .badge {
