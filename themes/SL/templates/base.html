@@ -1,6 +1,7 @@
 {% set navigation_bar = [
     ('/', 'home', 'home'),
-    ('/tags.html', 'tags', 'tags')
+    ('/tags.html', 'tags', 'tags'),
+    ('/about.html', 'about', 'about')
 ] -%}
 
 {% set active_page = active_page|default('home') -%}
@@ -69,9 +70,9 @@
 
 <nav id="bg-darker" class="navbar navbar-expand-lg navbar-dark bg-dark">
       <a class="brand-link" href="/">
-          <img class="brand-logo" src="/theme/images/sglavoie.svg" alt="sglavoie.svg">
+          <img class="brand-logo hover-img" src="/theme/images/sglavoie.svg" alt="sglavoie.svg">
       </a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#sglavoie-menu" aria-controls="sglavoie-menu" aria-expanded="false" aria-label="Toggle navigation">
+  <button class="navbar-toggler hover-img" type="button" data-toggle="collapse" data-target="#sglavoie-menu" aria-controls="sglavoie-menu" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
     Main Menu
   </button>
@@ -82,7 +83,7 @@
 
     {% for href, id, caption in navigation_bar %}
     <li class="nav-item {% if id == active_page %}active{% endif %}">
-        <a class="nav-link" href="{{ href|e }}">{{ caption|e }}</a>
+        <a class="nav-link" href="{{ href|e }}">{% if id == 'home' %}<i class="fas fa-home"></i>{% endif %}{% if 'tags' in caption %}<i class="fas fa-hashtag"></i>{% endif %}{% if 'about' in caption %}<i class="fas fa-info"></i>{% endif %} {{ caption|e }}</a>
     </li>
 {% endfor %}
 
@@ -93,7 +94,7 @@
 
 <nav id="menu" class="navbar navbar-expand-lg navbar-dark bg-dark">
 
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#sglavoie-menu-second" aria-controls="sglavoie-menu-second" aria-expanded="false" aria-label="Toggle navigation">
+  <button class="navbar-toggler hover-img" type="button" data-toggle="collapse" data-target="#sglavoie-menu-second" aria-controls="sglavoie-menu-second" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
     Categories
   </button>
@@ -135,13 +136,15 @@
         {% block content %}
         {% endblock %}
         <div class="footer-borders">
-            <footer id="contentinfo" class="body bg-border">
+            <footer id="contentinfo" class="body bg-border hover-footer-bg">
 
         <address class="footer-icons">
-        <a href="https://github.com/sglavoie"><img src="/theme/images/footer/github.png" height="32px" width="32px" style="margin-left:5px; margin-right:5px"></a>
-        <a href="https://www.facebook.com/sgdlavoie"><img src="/theme/images/footer/facebook.png" height="32px" width="32px" style="margin-left:5px; margin-right:5px"></a>
-        <a href="https://www.twitter.com/sgdlavoie"><img src="/theme/images/footer/twitter.png" height="32px" width="32px" style="margin-left:5px; margin-right:5px"></a>
-        <a href="https://www.hackerrank.com/sglavoie"><img src="/theme/images/footer/hackerrank.svg" height="32px" width="32px" style="margin-left:5px; margin-right:5px"></a>
+
+            <div class="get-in-touch-icons">
+        <div class="hover-img"><a href="https://github.com/sglavoie"><img src="/theme/images/footer/github.png" height="32px" width="32px" style="margin-left:5px; margin-right:5px"></a></div>
+        <div class="hover-img"><a href="https://www.facebook.com/sgdlavoie"><img src="/theme/images/footer/facebook.png" height="32px" width="32px" style="margin-left:5px; margin-right:5px"></a></div>
+        <div class="hover-img"><a href="https://www.twitter.com/sgdlavoie"><img src="/theme/images/footer/twitter.png" height="32px" width="32px" style="margin-left:5px; margin-right:5px"></a></div>
+        <div class="hover-img"><a href="https://www.hackerrank.com/sglavoie"><img src="/theme/images/footer/hackerrank.svg" height="32px" width="32px" style="margin-left:5px; margin-right:5px"></a></div>
 <script type="text/javascript" language="javascript">
 <!--
 // Email obfuscator script 2.1 by Tim Williams, University of Arizona
@@ -162,19 +165,24 @@
       link += (key.charAt(ltr))
     }
   }
-document.write("<a href='mailto:"+link+"'>"+'<img src="/theme/images/footer/gmail.svg" height="32px" width="32px" style="margin-left:5px; margin-right:5px">'+"</a>")
+    document.write("<div class='hover-img'><a href='mailto:"+link+"'>"+'<img src="/theme/images/footer/gmail.svg" height="32px" width="32px" style="margin-left:5px; margin-right:5px">'+"</a></div>")
 }
 //-->
 </script><noscript>Sorry, you need Javascript on to email me.</noscript>
 
+        </div>
+
       </address>
 
       <address id="about" class="vcard body">
-                    Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
-                    which takes great advantage of <a href="http://python.org">Python</a>.
+          Proudly powered by <a href="http://getpelican.com/">Pelican<img class="footer-bottom-icon" src="/theme/images/footer/pelican.svg"></a>,
+          which takes great advantage of <a href="http://python.org">Python<img class="footer-bottom-icon" src="/theme/images/footer/python.svg"></a> .
 
       <div id="author-footer">
-                Copyright © 2018 — Sébastien Lavoie
+                Copyright <i class="far fa-copyright"></i> 2018 | Sébastien Lavoie
+      </div>
+      <div id="version-footer">
+                {{ SITE_VERSION }}
       </div>
                 </address>
                 
