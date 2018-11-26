@@ -9,6 +9,8 @@ SITESUBTITLE = ''
 DISQUS_SITENAME = 'sglavoie'
 TWITTER_USERNAME = 'sgdlavoie'
 THEME = 'themes/SL'
+ABOUT_VERSION = '0.1.0'
+SITE_VERSION = 'v0.2.0'
 
 PATH = 'content'
 
@@ -28,6 +30,11 @@ AUTHOR_FEED_RSS = None
     # 'extra/robots.txt',
     # ]
 
+
+DIRECT_TEMPLATES = [
+    'index', 'categories', 'authors', 'archives',  # (default)
+    'tags', 'about',  # other HTML templates to render
+]
 
 DISPLAY_PAGES_ON_MENU = False
 DEFAULT_PAGINATION = 5
