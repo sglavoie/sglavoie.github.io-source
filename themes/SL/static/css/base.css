@@ -175,6 +175,31 @@ footer#contentinfo:hover {
     width: auto;
     padding: 0 0.25rem;
 }
+
+footer .social-footer {
+    padding: 10px;
+    list-style: none;
+}
+
+footer .social-footer li {
+    display: inline-block;
+    margin: 0 10px;
+	opacity: 1;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+
+footer .social-footer li:hover a {
+    color: #ffffff;
+	opacity: .5;
+}
+
+footer .social-footer li a img {
+    width: 32px;
+    height: 32px;
+}
+
+
 /* end FOOTER */
 
 
