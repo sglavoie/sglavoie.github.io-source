@@ -32,12 +32,12 @@
             {{ translations.translations_for(article) }}
         </header>
         <footer class="post-info">
-            <time class="published" datetime="{{ article.date.isoformat() }}">
+            <i class="fas fa-calendar-alt"></i> <time class="published" datetime="{{ article.date.isoformat() }}">
                 {{ article.locale_date }}
             </time>
             {% if article.modified %}
-            <time class="modified" datetime="{{ article.modified.isoformat() }}">
-                (modified on {{ article.locale_modified }})
+             <time class="modified" datetime="{{ article.modified.isoformat() }}">
+                <i class="fas fa-angle-double-right"></i> modified on {{ article.locale_modified }}
             </time>
             {% endif %}
             {% if article.authors %}
@@ -49,12 +49,12 @@
             {% endif %}
             {% if article.category %}
             <div class="category">
-                Category: <a class="emphasis post-info-space" href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
+                <i class="fas fa-tags"></i> Category: <a class="emphasis post-info-space" href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
             </div>
             {% endif %}
             {% if article.tags %}
             <div class="tags">
-                Tags:
+                <i class="fas fa-hashtag"></i> Tags:
                 {% for tag in article.tags %}
                 <a class="emphasis post-info-space" href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
                 {% endfor %}
@@ -71,7 +71,7 @@
 
 	<hr>
 
-	<h2 class="display-4">Comments</h2>
+	<h2 class="display-4"><i class="fas fa-comment-alt"></i> Comments</h2>
         {% include 'disqus.html' %}
 
 

@@ -4,7 +4,7 @@
 {% block content %}
 <section id="content" class="jumbotron body">
 {% block content_title %}
-<h2 class="display-4 uppercase-title">All articles</h2>
+<h2 class="display-4 uppercase-title"><i class="far fa-newspaper"></i> All articles</h2>
 {% endblock %}
 
 <div class="card">
@@ -16,20 +16,20 @@
             <footer class="post-info card-subtitle mb-2 text-muted">
 
                 {% if not category_view %}
-                    Category: <div class="category-article emphasis post-info-space extra-space"><a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a></div>
+                    <i class="fas fa-tags"></i> Category: <div class="category-article emphasis post-info-space extra-space"><a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a></div>
                 {% endif %}
 
 
             {% if article.tags %}
             <div class="tags">
-                Tags:
+                <i class="fas fa-hashtag"></i> Tags:
                 {% for tag in article.tags %}
                 <a class="category-article emphasis post-info-space extra-space" href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
                 {% endfor %}
             </div>
             {% endif %}
 
-                <time class="published" datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }} </time>
+                <i class="fas fa-calendar-alt"></i> <time class="published" datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }} </time>
                 {#                    <address class="vcard author">By
                     {% for author in article.authors %}
                     <a class="url fn" href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
@@ -37,7 +37,7 @@
                 </address> #}
             </footer><!-- /.post-info -->
             <div class="entry-content card-text"> {{ article.summary }} </div>
-            <div class="position-comments-count"><a class="badge badge-dark" href="{{ SITEURL }}/{{ article.url }}#disqus_thread">(article comments)</a></div><!-- /.entry-content -->
+            <div class="position-comments-count"><a class="badge badge-dark" href="{{ SITEURL }}/{{ article.url }}#disqus_thread"><i class="fas fa-comments" style="padding-right:5px"></i> (article comments)</a></div><!-- /.entry-content -->
         </article></li>
 </div>
   <hr class="my-4">
