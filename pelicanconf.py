@@ -10,7 +10,7 @@ DISQUS_SITENAME = 'sglavoie'
 TWITTER_USERNAME = 'sgdlavoie'
 THEME = 'themes/SL'
 ABOUT_VERSION = '0.1.0'
-SITE_VERSION = 'v0.2.0'
+SITE_VERSION = 'v0.2.1'
 
 PATH = 'content'
 

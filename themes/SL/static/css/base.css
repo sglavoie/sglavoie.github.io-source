@@ -101,6 +101,12 @@ ul#post-list {
 
 
 /* FOOTER */
+.footer-borders {
+    background-image: url("/theme/images/footer/contributions.svg");
+    background-repeat: repeat;
+    padding: 12px 0px;
+}
+
 footer#contentinfo {
     background-color: #283B42;
     border-bottom: #000 1px solid;
@@ -229,121 +235,6 @@ time.modified {
 /* end DISQUS */
 
 
-/* @MEDIA QUERIES */
-@media (min-width: 992px) {
-
-#bg-darker {
-    background-color: #000000!important;
-    text-shadow: 0px 0px 1px black;
-
-    /*background-image: url("/theme/images/header/sglavoie_logo.svg");*/
-    /*background-repeat: no-repeat;*/
-    /*background-size: 40%;*/
-    /*background-position: right;*/
-    /*background-position-x: 99%;*/
-}
-
-.navbar-expand-lg .navbar-nav .nav-link {
-    padding-left: 2rem;
-    padding-right: 2rem;
-}
-
-.to-the-right {
-    padding-left: 20px;
-}
-
-.always-white {
-    color: #ffffff;
-    padding-right: 2.5rem;
-    white-space: nowrap;
-}
-#submenu-categories-legend{
-    display: none;
-}
-}
-
-/* end @MEDIA (MIN-WIDTH: 992PX) */
-
-@media (max-width: 992px) {
-
-#bg-darker {
-    background-color: #000000!important;
-    text-shadow: 0px 0px 1px black;
-
-    /*background-image: url("/theme/images/header/sglavoie_logo.svg");*/
-    /*background-repeat: no-repeat;*/
-    /*background-size: 50%;*/
-    /*background-position-y: 5px;*/
-    /*background-position-x: 50%;*/
-}
-
-.navbar-toggler {
-    margin-top: 50px;
-}
-
-.always-white {
-    color: #ffffff;
-}
-
-footer#contentinfo {
-    padding: 5% 10%;
-}
-
-#menu-categories-legend-id{
-    display: none;
-}
-}
-
-/* end @MEDIA (MAX-WIDTH: 992PX) */
-
-@media (max-width: 576px) {
-
-#bg-darker {
-    background-color: #000000!important;
-    text-shadow: 0px 0px 1px black;
-
-    /*background-image: url("/theme/images/header/sglavoie_logo.svg");*/
-    /*background-repeat: no-repeat;*/
-    /*background-size: 60%;*/
-    /*background-position-x: 50%;*/
-    /*background-position-y: 5px;*/
-}
-
-.navbar-toggler {
-    margin-top: 50px;
-}
-
-.jumbotron {
-    border-radius: 0;
-    padding: 1%;
-}
-
-section#content {
-     margin: 0; 
-}
-
-.card {
-    border-bottom: 1px solid rgba(0,0,0,.125);
-    border-radius: unset;
-    border-top: 1px solid rgba(0,0,0,.125);
-    border: none;
-    margin-bottom: 2%;
-    margin: -1%;
-}
-
-footer.post-info {
-    padding: 2%;
-}
-
-.display-4 {
-    padding: 2%;
-}
-}
-/* end @MEDIA (MAX-WIDTH: 576PX) */
-
-/* end @MEDIA */
-
-
 /* CODE BLOCKS */
 table {
     display: block;
@@ -456,8 +347,121 @@ p {
     text-shadow: 0px 0px 1px black;
 }
 
-.footer-borders {
-    background-image: url("/theme/images/footer/contributions.svg");
-    background-repeat: repeat;
-    padding: 12px 0px;
+
+/* @MEDIA QUERIES */
+@media (min-width: 992px) {
+
+#bg-darker {
+    background-color: #000000!important;
+    text-shadow: 0px 0px 1px black;
+
+    /*background-image: url("/theme/images/header/sglavoie_logo.svg");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 40%;*/
+    /*background-position: right;*/
+    /*background-position-x: 99%;*/
 }
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.to-the-right {
+    padding-left: 20px;
+}
+
+.always-white {
+    color: #ffffff;
+    padding-right: 2.5rem;
+    white-space: nowrap;
+}
+#submenu-categories-legend{
+    display: none;
+}
+}
+
+/* end @MEDIA (MIN-WIDTH: 992PX) */
+
+@media (max-width: 992px) {
+
+.navbar {
+     padding: 0rem 1rem 0.5rem 0.5rem;
+}
+
+#bg-darker {
+    background-color: #000000!important;
+    text-shadow: 0px 0px 1px black;
+
+    /*background-image: url("/theme/images/header/sglavoie_logo.svg");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 50%;*/
+    /*background-position-y: 5px;*/
+    /*background-position-x: 50%;*/
+}
+
+.navbar-toggler {
+    margin-top: 50px;
+}
+
+.always-white {
+    color: #ffffff;
+}
+
+footer#contentinfo {
+    padding: 5% 10%;
+}
+
+#menu-categories-legend-id{
+    display: none;
+}
+}
+
+/* end @MEDIA (MAX-WIDTH: 992PX) */
+
+@media (max-width: 576px) {
+
+#bg-darker {
+    background-color: #000000!important;
+    text-shadow: 0px 0px 1px black;
+
+    /*background-image: url("/theme/images/header/sglavoie_logo.svg");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 60%;*/
+    /*background-position-x: 50%;*/
+    /*background-position-y: 5px;*/
+}
+
+.navbar-toggler {
+    margin-top: 50px;
+}
+
+.jumbotron {
+    border-radius: 0;
+    padding: 1%;
+}
+
+section#content {
+     margin: 0; 
+}
+
+.card {
+    border-bottom: 1px solid rgba(0,0,0,.125);
+    border-radius: unset;
+    border-top: 1px solid rgba(0,0,0,.125);
+    border: none;
+    margin-bottom: 2%;
+    margin: -1%;
+}
+
+footer.post-info {
+    padding: 2%;
+}
+
+.display-4 {
+    padding: 2%;
+}
+}
+/* end @MEDIA (MAX-WIDTH: 576PX) */
+
+/* end @MEDIA */
