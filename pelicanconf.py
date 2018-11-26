@@ -2,6 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 from datetime import datetime
+from pelican import __version__
+
+PELICAN_VERSION = __version__
 
 SITE_VERSION = 'v0.3.0'
 CURRENT_YEAR = datetime.today().year
