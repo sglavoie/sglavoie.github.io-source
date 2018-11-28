@@ -158,32 +158,36 @@
           Proudly powered by <a href="http://getpelican.com/">Pelican {{ PELICAN_VERSION }}<img class="footer-bottom-icon" src="/theme/images/footer/pelican.svg"></a>,
           which takes great advantage of <a href="http://python.org">Python<img class="footer-bottom-icon" src="/theme/images/footer/python.svg"></a> .
 
-      <div id="author-footer">
-          Copyright <i class="far fa-copyright"></i> {{ CURRENT_YEAR }} | Sébastien Lavoie 
-<script type="text/javascript" language="javascript">
-<!--
+          <div>
+              <script type="text/javascript" language="javascript">
+                  <!--
 // Email obfuscator script 2.1 by Tim Williams, University of Arizona
 // Random encryption key feature coded by Andrew Moulden
 // This code is freeware provided these four comment lines remain intact
 // A wizard to generate this code is at http://www.jottings.com/obfuscator/
 { coded = "Efp9ExWfz@EoU9R5Wf.45D"
-  key = "RXmOLk0xFelpj9ihYV4PZ5AGDB3wsKdfUn12WHJgvqNIrCytS8EbQa6zuMc7To"
-  shift=coded.length
-  link=""
-  for (i=0; i<coded.length; i++) {
-    if (key.indexOf(coded.charAt(i))==-1) {
-      ltr = coded.charAt(i)
-      link += (ltr)
+    key = "RXmOLk0xFelpj9ihYV4PZ5AGDB3wsKdfUn12WHJgvqNIrCytS8EbQa6zuMc7To"
+    shift=coded.length
+    link=""
+    for (i=0; i<coded.length; i++) {
+        if (key.indexOf(coded.charAt(i))==-1) {
+            ltr = coded.charAt(i)
+            link += (ltr)
+        }
+        else {     
+            ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
+            link += (key.charAt(ltr))
+        }
     }
-    else {     
-      ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
-      link += (key.charAt(ltr))
-    }
-  }
-    document.write("<li><a href='mailto:"+link+"'>"+'<img src="/theme/images/footer/email.svg">'+"</a></li>")
+    // Adding inline style to 'img' tag as it seems to be more trustworthy inside this script.
+    document.write("<ul class='social-footer'><li><a style='font-weight: normal' href='mailto:"+link+"'>Would you like to email me? "+"<img style='height: 16px; width: auto' src='/theme/images/footer/email.svg'>"+"</a></li></ul>")
 }
 //-->
-</script><noscript>Sorry, you need Javascript on to email me.</noscript>
+              </script><noscript>Sorry, you need Javascript on to email me.</noscript>
+          </div>
+
+      <div id="author-footer">
+          Copyright <i class="far fa-copyright"></i> {{ CURRENT_YEAR }} | Sébastien Lavoie 
 
       </div>
       <div id="version-footer">

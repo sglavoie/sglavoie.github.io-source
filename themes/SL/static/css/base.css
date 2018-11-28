@@ -157,10 +157,6 @@ footer#contentinfo:hover {
     display: inline-flex;
 }
 
-#author-footer {
-    margin-top: 0.5rem;
-}
-
 #author-footer li {
     display: inline-flex;
     padding-left: 5px;
@@ -172,10 +168,6 @@ footer#contentinfo:hover {
 #author-footer li a img {
     width: 16px;
     height: 16px;
-}
-
-#author-footer:hover {
-    margin-top: 0.5rem;
 }
 
 #version-footer {
