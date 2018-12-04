@@ -48,10 +48,12 @@ Boostnote comes with nice features such as Tags, the ability to set multiple sto
 
 - You have to open your notes with Boostnote if you want them to be fully readable out of the box. Vimwiki does almost no processing with the content of the files so that it is very easy to open them with any other text editor. On a related note, it is much easier to export many notes at the same time with Vimwiki. Boostnote does have a few options to export individual notes (`.md`, `.txt`, `.html` and print), but it is not as user-friendly with many notes.
 
-- Vimwiki makes it easy to link notes together and navigate between them, even within subfolders: highlight text, use `Enter` to create a link and open a new note, write your note and press `Backspace` to go back to where you created the link. That's quick and easy!
+- Vimwiki makes it easy to link notes together and navigate between them, even within subfolders: highlight text, press `Enter` to create a link and open a new note, write your note and press `Backspace` to go back to where you created the link. That's quick and easy!
 
 ----
 
 # Conclusion
 
 In the end, it is a matter of taste as those programs are indeed very distinct. Boostnote has a polished interface, is much easier to use and has many settings easily changed. Vim/Neovim, on the contrary, requires a lot of initial effort both to understand and to set up according to your needs, but it does deliver a good dose of productivity... Eventually <i class="fas fa-laugh-beam"></i>!
+
+Where things really get in favor of Vim, you could mention the extensive help system (command `:help`), the use of macros, words and lines completion, the dot (`.`) command, the many registers at your disposal for different tasks, the impressive amount of plugins available, the ways in which you can configure mappings, functions... But that's for a whole new story!
