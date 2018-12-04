@@ -1,6 +1,20 @@
 @import 'pygment.css';
 
 /* BASE TEMPLATE */
+blockquote {
+    background-color: #d4e5ea;
+    border: 1px solid #c3d5da;
+    font-style: italic;
+    padding: 1% 3%;
+}
+
+sub, sup {
+    position: inherit;
+    font-size: 90%;
+    border: 1px dashed #d9d9ff;
+    background-color: #f8f8ff;
+}
+
 ol#post-list {
     font-size: 1.2rem;
     list-style-type: none;
