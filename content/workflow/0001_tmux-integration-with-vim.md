@@ -55,10 +55,10 @@ This is a small Bash script that I like to have for automatic set up of a develo
     # Split terminal window vertically, then split the right pane horizontally,
     # then switch to the left pane
     # _________________
-    # | >_    |>      |
+    # |       |       |
     # |       |       |
     # | FOCUS |-------|
-    # | HERE  |>      |
+    # | HERE  |       |
     # |       |       |
     # -----------------
     tmux split-window -h
