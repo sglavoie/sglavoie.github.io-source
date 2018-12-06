@@ -123,8 +123,27 @@ ul#post-list {
     filter: FlipH;
     -ms-filter: “FlipH”;
 }
-
 /* end BASE TEMPLATE */
+
+/* SCROLLBAR */
+body::-webkit-scrollbar {
+    width: 0.5rem;
+    background-color: #ffffff;
+}
+ 
+body::-webkit-scrollbar:hover {
+    background-color: #e9ecef;
+}
+
+body::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px #ffffff;
+}
+ 
+body::-webkit-scrollbar-thumb {
+    background-color: #007bff;
+    outline: 1px solid #ffffff;
+}
+/* end SCROLLBAR */
 
 
 /* FOOTER */
