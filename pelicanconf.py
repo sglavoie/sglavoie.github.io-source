@@ -24,6 +24,21 @@ TIMEZONE = 'America/Mexico_City'
 
 DEFAULT_LANG = 'en'
 
+# `fenced_code` enables the following syntax for code blocks and make it
+# possible to use special symbols, among other things:
+# ~~~~{.language_name_here}
+# code goes here
+# ~~~~
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.codehilite': {'css_class': 'highlight'},
+        'markdown.extensions.fenced_code': {},
+        'markdown.extensions.extra': {},
+        'markdown.extensions.meta': {},
+    },
+    'output_format': 'html5',
+}
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
@@ -35,7 +50,6 @@ AUTHOR_FEED_RSS = None
     # 'pictures',
     # 'extra/robots.txt',
     # ]
-
 
 DIRECT_TEMPLATES = [
     'index', 'categories', 'authors', 'archives',  # (default)
