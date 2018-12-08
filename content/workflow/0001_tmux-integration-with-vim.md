@@ -13,24 +13,25 @@ Summary: This is a short introduction that shows a possible workflow with tmux a
 
 ## Configuration file: ~/.tmux.conf
 
-    #!bash
-    # split panes using | and -
-    bind | split-window -h
-    bind - split-window -v
-    unbind '"'
-    unbind %
+~~~~{.bash}
+# split panes using | and -
+bind | split-window -h
+bind - split-window -v
+unbind '"'
+unbind %
 
-    # switch panes using Alt-arrow without prefix
-    bind -n M-Left select-pane -L
-    bind -n M-Right select-pane -R
-    bind -n M-Up select-pane -U
-    bind -n M-Down select-pane -D
+# switch panes using Alt-arrow without prefix
+bind -n M-Left select-pane -L
+bind -n M-Right select-pane -R
+bind -n M-Up select-pane -U
+bind -n M-Down select-pane -D
 
 
-    # Enable mouse mode (tmux 2.1 and above)
-    set -g mouse on
+# Enable mouse mode (tmux 2.1 and above)
+set -g mouse on
 
-    source-file "${HOME}/.tmux-themepack/blue.tmuxtheme"
+source-file "${HOME}/.tmux-themepack/blue.tmuxtheme"
+~~~~
 
 
 This is all very self-explanatory. [Many themes can be found here](https://github.com/jimeh/tmux-themepack).
@@ -101,7 +102,8 @@ alias adev='tmux attach-session -t dev'
 
 ### tmux demo
 
-<img src="{static}/images/posts/0001_tmux-integration-with-vim/tmux-demo.gif" class="max-size-img-post">
+(click to open image)
+<a href="{static}/images/posts/0001_tmux-integration-with-vim/tmux-demo.gif"><img src="{static}/images/posts/0001_tmux-integration-with-vim/tmux-demo.gif" class="max-size-img-post"></a>
 
 ---
 
