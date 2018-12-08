@@ -1,6 +1,6 @@
 Title: Aliases: Also Known as Terminal User's Best Friends
 Date: 2018-12-08 13:52
-Tags: terminal, tips-and-tricks, aliases, bash
+Tags: terminal, aliases, bash
 Slug: aliases-also-known-as-terminal-users-best-friends
 Authors: Sébastien Lavoie
 Summary: Here are presented a few terminal aliases that that I find myself using regularly.
