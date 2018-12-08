@@ -3,7 +3,7 @@ Date: 2018-12-08 13:52
 Tags: terminal, tips-and-tricks
 Slug: aliases-also-known-as-terminal-users-best-friends
 Authors: Sébastien Lavoie
-Summary: This needs a description.
+Summary: Here are presented a few terminal aliases that that I find myself using regularly.
 
 
 # Some aliases that I find useful
@@ -223,3 +223,9 @@ alias pyclean='find . -regex ".*\(__pycache__\|\.py[co]\)" -delete'
 ~~~~
 
 This will delete recursively all files and directories that match one of the following patterns in their name: `__pycache__`, `.pyc` or `.pyo`.
+
+---
+
+# Conclusion
+
+I hope you will find at least one alias to improve your productivity. Of course, you are welcome to chime in with your own suggestions <i class="fas fa-smile-wink"></i>!
