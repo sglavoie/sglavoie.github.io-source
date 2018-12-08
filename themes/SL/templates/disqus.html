@@ -1,8 +1,10 @@
 {% if DISQUS_SITENAME %}
 <div id="disqus_thread"></div>
 <script type="text/javascript">
-    var disqus_shortname = '{{ DISQUS_SITENAME }}'; 
-    var disqus_title = '{{ article.title }}';
+    // Substitute single quotation mark (') for double (") to allow
+    // article's title to contain single quotes.
+    var disqus_shortname = "{{ DISQUS_SITENAME }}"; 
+    var disqus_title = "{{ article.title }}";
 
     (function() {
         var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
