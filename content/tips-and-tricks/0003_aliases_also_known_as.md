@@ -3,7 +3,7 @@ Date: 2018-12-08 13:52
 Tags: terminal, aliases, bash
 Slug: aliases-also-known-as-terminal-users-best-friends
 Authors: Sébastien Lavoie
-Summary: Here are presented a few terminal aliases that that I find myself using regularly.
+Summary: Here are presented a few terminal aliases that I find myself using regularly.
 
 
 # Some aliases that I find useful
@@ -90,7 +90,7 @@ It comes in handy to spot if a file shouldn't be there or to check for lower or 
 alias findinfiles='ag --nobreak --nonumbers --noheading . | fzf'
 ~~~~
 
-In this example, the alias is set up with [fzf](https://github.com/junegunn/fzf), a great fuzzy finder.
+In this example, the alias is set up with [ag](https://github.com/ggreer/the_silver_searcher), a fast code-searching tool and [fzf](https://github.com/junegunn/fzf), a great fuzzy finder.
 
 ---
 
@@ -111,7 +111,7 @@ This will reboot or power off the system without root privileges in most working
 alias treeold='tree -hDF | less'
 ~~~~
 
-This requires the command `tree` to be installed. The parameters are:
+This requires the command `tree` to be installed. The parameters are (descriptions taken from `man tree`):
 
 `-h`: Print the size of files in a human readable way.
 
@@ -163,7 +163,7 @@ alias ll='ls -ahlF'
 alias ls='ls --color=auto'
 ~~~~
 
-Different ways to set up the command ls to quickly see the needed files. The parameters are:
+Different ways to set up the command ls to quickly see the needed files. The parameters are (descriptions taken from `man ls`):
 
 `-A`: _Do not list implied `.` and `..`._
 
@@ -191,11 +191,10 @@ alias aa='source ~/Programming/anaconda3/bin/activate'  # Example using Anaconda
 The purpose is to activate a specific virtual environment quickly. The command `cd` could be added to go to the related project also:
 
 ~~~~{.bash}
-alias gNameOfProject='cd /path/to/project/ && ./venv/bin/activate'
-alias gNameOfProject='cd /path/to/project/ && ./venv/bin/activate'
+alias gNameOfProject='cd /path/to/project/ && ./.venv/bin/activate'
 ~~~~
 
-Where `venv` would be the name of the virtual environment.
+Where `.venv` would be the name of the virtual environment.
 
 I like to **a**ctivate environments starting aliases with `a` and **go** and activate at the same time starting aliases with `g`. This way, it feels like I am speaking the Vim language (`cw` for **c**hange **w**ord, for example).
 
@@ -228,4 +227,4 @@ This will delete recursively all files and directories that match one of the fol
 
 # Conclusion
 
-I hope you will find at least one alias to improve your productivity. Of course, you are welcome to chime in with your own suggestions <i class="fas fa-smile-wink"></i>!
+I hope you will find at least one alias to improve your productivity. Of course, you are welcome to chime in with your own suggestions <i class="fas fa-smile-wink"></i> !
