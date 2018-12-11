@@ -345,6 +345,54 @@ pre {
 }
 /* end PAGE LEARNING-PROCESS */
 
+/* TAG CLOUD PELICAN PLUGIN */
+ul.tagcloud {
+    list-style: none;
+    padding: 0;
+    margin: 2.5rem 0 0 0;
+    text-align: center;
+    background-color: #eff4f9;
+    border-radius: .75rem;
+    border: 1px solid #d0e5fb;
+    text-align: center;
+    box-shadow: 0px 0px 2px #cbdae8;
+}
+
+ul.tagcloud li {
+    display: inline-block;
+    padding: 1rem;
+}
+
+li.tag-1 {
+    font-size: 180%;
+}
+
+li.tag-2 {
+    font-size: 160%;
+}
+
+li.tag-2 {
+    font-size: 140%;
+}
+
+li.tag-3 {
+    font-size: 120%;
+}
+
+li.tag-4 {
+    font-size: 100%;
+}
+
+li.tag-5 {
+    font-size: 80%;
+}
+
+ul.tagcloud .list-group-item span.badge {
+    background-color: grey;
+    color: white;
+}
+/* end TAG CLOUD PELICAN PLUGIN */
+
 /* Bootstrap modifications below */
 html, body {
     background-color: #CEDBD9;
