@@ -15,8 +15,13 @@
 {% block content %}
     <section id="content" class="jumbotron body">
         <header>
-            <h2 class=".h2">{{ page.title }}</h2>
-        </header>
+            <h2 class=".h2">
+                {% for href, id, icon in MENUITEMS %}
+                {% if output_file in href %} {{ icon }} {% endif %}
+                {% endfor %}
+           {{ page.title }}
+            </h2>
+    </header>
 
   <hr class="my-4">
 
