@@ -29,10 +29,21 @@ MENUITEMS = [
     # path, id, icon
     ('/index.html', 'home', '<i class="fas fa-home"></i>'),
     ('/tags.html', 'tags', '<i class="fas fa-hashtag"></i>'),
-    ('/learning-process.html', 'learning', '<i class="fas fa-graduation-cap"></i>'),
+    ('/learning-progress.html', 'learning',
+     '<i class="fas fa-graduation-cap"></i>'),
     ('/about.html', 'about', '<i class="fas fa-info"></i>')
 ]
 
+PLUGIN_PATHS = ["plugins"]
+PLUGINS = ["tag_cloud"]
+
+# Plugins
+TAG_CLOUD_STEPS = 5  # default 4
+TAG_CLOUD_MAX_ITEMS = 100
+TAG_CLOUD_BADGE = True
+
+# default is random (also alphabetically, alphabetically-rev, size, size-rev)
+TAG_CLOUD_SORTING = 'size'
 
 
 # `fenced_code` enables the following syntax for code blocks and make it
