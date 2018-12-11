@@ -1,9 +1,3 @@
-{% set navigation_bar = [
-    ('/', 'home', 'home'),
-    ('/tags.html', 'tags', 'tags'),
-    ('/about.html', 'about', 'about')
-] -%}
-
 {% set active_page = active_page|default('home') -%}
 
 <!DOCTYPE html>
@@ -81,12 +75,11 @@
       <div class="to-the-right">
           <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
 
-    {% for href, id, caption in navigation_bar %}
-    <li class="nav-item {% if id == active_page %}active{% endif %}">
-        <a class="nav-link" href="{{ href|e }}">{% if id == 'home' %}<i class="fas fa-home"></i>{% endif %}{% if 'tags' in caption %}<i class="fas fa-hashtag"></i>{% endif %}{% if 'about' in caption %}<i class="fas fa-info"></i>{% endif %} {{ caption|e }}</a>
+    {% for href, id, icon in MENUITEMS %}
+    <li class="nav-item {% if output_file in href %}active{% endif %}">
+        <a class="nav-link" href="{{ href|e }}">{{ icon }} {{ id }}</a>
     </li>
 {% endfor %}
-
           </ul>
       </div>
   </div>
@@ -105,9 +98,11 @@
       </div>
           <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
               <li class="nav-item active">
+{#
         {% for title, link in MENUITEMS %}
             <a class="lowercase-title always-white nav-link-smaller" href="{{ link }}">{{ title }}</a>
         {% endfor %}
+#}
               </li>
         {% if DISPLAY_PAGES_ON_MENU %}
           {% for p in pages %}
