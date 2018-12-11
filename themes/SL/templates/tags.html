@@ -22,6 +22,22 @@
 <li style="padding-top:20px">Nothing yet.</li>
 {% endif %}
     </ul>
+
+<!-- Tag Cloud plugin -->
+<ul class="tagcloud">
+    {% for tag in tag_cloud %}
+        <li class="tag-{{ tag.1 }}">
+            <a href="{{ SITEURL }}/{{ tag.0.url }}">
+            {{ tag.0 }}
+                {% if TAG_CLOUD_BADGE %}
+                    <span class="badge badge-primary">{{ tag.2 }}</span>
+                {% endif %}
+            </a>
+        </li>
+    {% endfor %}
+</ul>
+<!-- /. Tag Cloud plugin -->
+
       </div>
   </div>
         <!-- /.entry-content -->
