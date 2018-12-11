@@ -11,7 +11,7 @@
 <ol id="post-list">
 {% for article in articles_page.object_list %}
 <div class="card-body">
-    <li><article class="hentry">
+    <li class="no-li-marker"><article class="hentry">
             <header> <h2 class="card-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>
             <footer class="post-info card-subtitle mb-2 text-muted">
 
