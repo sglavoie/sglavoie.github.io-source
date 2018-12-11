@@ -123,6 +123,10 @@ ul#post-list {
     filter: FlipH;
     -ms-filter: “FlipH”;
 }
+
+.no-li-marker {
+    list-style: none;
+}
 /* end BASE TEMPLATE */
 
 /* SCROLLBAR */
@@ -327,6 +331,19 @@ pre {
 }
 /* end CODE BLOCKS */
 
+/* PAGE LEARNING-PROCESS */
+.learning-year {
+    text-align: center;
+    font-weight: bold;
+    font-size:x-large;
+}
+
+.learning-month {
+    text-align: center;
+    font-weight: bold;
+    padding-bottom: 1rem;
+}
+/* end PAGE LEARNING-PROCESS */
 
 /* Bootstrap modifications below */
 html, body {
@@ -409,6 +426,10 @@ p {
     padding: 0;
 }
 
+li {
+    list-style-type: square;
+}
+
 .navbar {
     padding: 1.5rem 1rem;
     text-align: right;
@@ -423,6 +444,21 @@ p {
     text-shadow: 0px 0px 1px black;
 }
 
+.table {
+    display: table;
+    white-space: normal;
+    margin-bottom: 3rem;
+}
+
+.table .thead-dark th {
+    background-color: #002e5f;
+    border: none;
+    padding: 1rem;
+}
+
+th {
+    text-align: center;
+}
 
 /* @MEDIA QUERIES */
 @media (min-width: 992px) {
@@ -491,6 +527,10 @@ footer#contentinfo {
 #menu-categories-legend-id{
     display: none;
 }
+}
+
+li.nav-item {
+    list-style: none;
 }
 
 /* end @MEDIA (MAX-WIDTH: 992PX) */
