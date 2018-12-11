@@ -453,7 +453,7 @@ li {
 .table .thead-dark th {
     background-color: #002e5f;
     border: none;
-    padding: 1rem;
+    padding: 0.5rem;
 }
 
 th {
