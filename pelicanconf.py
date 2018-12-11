@@ -51,8 +51,17 @@ MARKDOWN = {
 }
 
 # Feed generation is usually not desired when developing
-FEED_ALL_RSS = 'feeds/all.rss.xml'
-CATEGORY_FEED_RSS = 'feeds/{slug}.rss.xml'
+# FEED_DOMAIN = SITEURL
+FEED_ALL_ATOM = None
+CATEGORY_FEED_ATOM = None
+TRANSLATION_FEED_ATOM = None
+AUTHOR_FEED_ATOM = None
+AUTHOR_FEED_RSS = None
+FEED_ATOM = None
+FEED_ATOM_URL = None
+FEED_RSS = None
+FEED_ALL_RSS = 'feeds/sglavoie.rss.xml'
+CATEGORY_FEED_RSS = None
 
 # STATIC_PATHS = [
     # 'pictures',
@@ -75,4 +84,4 @@ ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 DEFAULT_DATE_FORMAT = '%B %d, %Y'
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = False
+# RELATIVE_URLS = True
