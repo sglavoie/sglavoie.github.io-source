@@ -5,9 +5,10 @@ Authors: Sébastien Lavoie
 URL:
 save_as: learning-progress.html
 
-> Learning is an eternal path. I wanted to share my own adventure primarily for the following practical reasons: to help me remember what I have supposedly been working on and to help me practice a technique that is known as [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition). This is really just a summary to motivate myself to keep on track and be remembered as often as possible to stay a bit more humble, as it becomes obvious that I don't know much in the end.
+> Learning is an eternal path. I wanted to share my own adventure primarily for the following practical reasons: to help me remember what I have supposedly been working on and to help me practice a technique that is known as <a href="https://en.wikipedia.org/wiki/Spaced_repetition">spaced repetition</a>. This is really just a summary to motivate myself to keep on track and be remembered as often as possible to stay a bit more humble, as it becomes obvious that I don’t know much in the end.
 
 > In the process, I hope you may find some inspiration too.
+
 
 <div class="learning-year">2018</div>
 
@@ -961,45 +962,42 @@ save_as: learning-progress.html
 
   <thead class="thead-dark">
     <tr>
-      <th scope="col">Topic</th>
-      <th scope="col">Description of subjects covered</th>
+      <th scope="col">Topics covered</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row">Git & GitHub</th>
       <td>
+<strong>Git & GitHub</strong>
      <ul>
          <li>Contribute a pull request and get feedback.</li> 
-         <li>Make use of forks and new public/private repositories.</li> 
+         <li>Make use of forks and public/private repositories.</li> 
          <li>Use GitHub from terminal.</li> 
      </ul>
       </td>
     </tr>
     <tr>
-      <th scope="row">Programming</th>
       <td>
-     <span>Python</span>
+<strong>Python</strong>
      <ul>
          <li>Algorithms and Data Structures on <a href="https://www.hackerrank.com/">HackerRank.com</a>, <a href="http://www.codeabbey.com/">Code Abbey</a>, <a href="https://projecteuler.net/">Project Euler</a>, etc.</li> 
-         <li>Finish Complete Python Masterclass on Udemy, by Tim Buchalka.</li> 
+         <li>Finish <em>Complete Python Masterclass</em> on Udemy, by Tim Buchalka.</li> 
          <li>Jupyter Notebooks.</li> 
          <li>Build a CLI with Click.</li> 
          <li>Use <a href="https://www.anaconda.com">Anaconda distribution</a> with scientific libraries.</li> 
          <li><code>subprocess</code> module in Python.</li> 
      </ul>
 
-     <span>SQL</span>
+<strong>SQL</strong>
      <ul>
-
          <li>[Basic] Certificate of Completion of <em>Database for Developers</em>, by Oracle.</li> 
      </ul>
 
       </td>
     </tr>
     <tr>
-      <th scope="row">Vim/Neovim & other text editors</th>
       <td>
+<strong>Vim/Neovim & other text editors</strong>
      <ul>
          <li>Clear variables and registers in Neovim to improve mappings efficiency.</li> 
          <li>Completion with <code>Ctrl + x</code> in Neovim.</li> 
@@ -1038,14 +1036,13 @@ save_as: learning-progress.html
 
   <thead class="thead-dark">
     <tr>
-      <th scope="col">Topic</th>
-      <th scope="col">Description of subjects covered</th>
+      <th scope="col">Topics covered</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row">Linux</th>
       <td>
+<strong>Linux</strong>
      <ul>
          <li>Bash scripting.</li> 
          <li>Disk encryption with cryptsetup.</li> 
@@ -1055,8 +1052,8 @@ save_as: learning-progress.html
       </td>
     </tr>
     <tr>
-      <th scope="row">Basics of...</th>
       <td>
+<strong>Basics of...</strong>
      <ul>
          <li>Python: Get <a href="https://www.sololearn.com/Certificate/1073-6555674/pdf/">certificate</a> for Python 3 Tutorial on SoloLearn.</li> 
          <li>HTML, CSS, JavaScript, SQL, Visual Basic, Pascal, Scribus, LibreOffice, GIMP, Audacity, Inkscape, Blender, XAMPP (Apache distribution), Wordpress, Freeplane (mind mapping software).</li> 
