@@ -11,7 +11,8 @@ Summary: This is a short introduction that shows a possible workflow with tmux a
 
 ---
 
-## Configuration file: `~/.tmux.conf`
+## Configuration file:
+##### `~/.tmux.conf`
 
 ~~~~{.bash}
 # split panes using | and -
@@ -38,7 +39,8 @@ This is all very self-explanatory. [Many themes can be found here](https://githu
 
 ---
 
-### Automating the launch of a default session: `~/.tmux_default_session.sh`
+### Automating the launch of a default session:
+##### `~/.tmux_default_session.sh`
 This is a small Bash script that I like to have for automatic set up of a development environment with tmux and Vim/Neovim. As my current workflow, I enjoy the following:
 
 ~~~~{.bash}
@@ -80,7 +82,8 @@ tmux -2 attach-session -t "$sn"
 
 ---
 
-### Aliases to make use of `.tmux_default_session.sh`
+### Aliases to make use of:
+##### `.tmux_default_session.sh`
 I add the following aliases in `~/.bash_aliases` to automate a chunk of the workflow:
 
 ~~~~{.bash}
