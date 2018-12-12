@@ -5,7 +5,7 @@ Authors: Sébastien Lavoie
 URL:
 save_as: learning-progress.html
 
-> Learning is an eternal path. I wanted to share my own adventure primarily for the following practical reasons: to help me remember what I have supposedly been working on and to help me practice a technique that is known as <a href="https://en.wikipedia.org/wiki/Spaced_repetition">spaced repetition</a>. This is really just a summary to motivate myself to keep on track and be remembered as often as possible to stay a bit more humble, as it becomes obvious that I don’t know much in the end.
+> Learning is an eternal path. I wanted to share my own adventure primarily for the following practical reasons: to help me remember what I have supposedly been working on and to help me practice a technique that is known as <a href="https://en.wikipedia.org/wiki/Spaced_repetition">spaced repetition</a>. This is really just a summary to motivate myself to keep on track and be reminded as often as possible to stay a bit more humble, as it becomes obvious that I don’t know much in the end.
 
 > In the process, I hope you may find some inspiration too.
 
