@@ -5,6 +5,10 @@ Authors: Sébastien Lavoie
 URL:
 save_as: learning-progress.html
 
+> Learning is an eternal path. I wanted to share my own adventure primarily for the following practical reasons: to help me remember what I have supposedly been working on and to help me practice a technique that is known as [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition). This is really just a summary to motivate myself to keep on track and be remembered as often as possible to stay a bit more humble, as it becomes obvious that I don't know much in the end.
+
+> In the process, I hope you may find some inspiration too.
+
 <div class="learning-year">2018</div>
 
 ---
@@ -43,7 +47,7 @@ save_as: learning-progress.html
       <th scope="row">9</th>
       <td>
      <ul>
-         <li>Manage Python dictionary with (x, y) coordinates (Advent of Code, day 3).</li> 
+         <li>Manage Python dictionary with <code>(x, y)</code> coordinates (Advent of Code, day 3).</li> 
      </ul>
       </td>
     </tr>
@@ -53,11 +57,10 @@ save_as: learning-progress.html
       <ul>
           <li>Use fenced code blocks in Markdown <i class="fab fa-markdown"></i>.</li>
           <li>Add Markdown extensions in Pelican.</li>
-          <li>Emmet syntax.</li>
+          <li>Emmet syntax with Vim plugin <code>emmet-vim</code>.</li>
       </ul>
       </td>
     </tr>
-    <tr>
     <tr>
       <th scope="row">7</th>
       <td>
@@ -81,7 +84,7 @@ save_as: learning-progress.html
       <th scope="row">5</th>
       <td>
       <ul>
-          <li>Use markdown-preview plugin for Neovim.</li>
+          <li>Use <code>markdown-preview</code> plugin for Neovim.</li>
           <li>Storing Python dictionaries into files and retrieving them.</li>
           <li>Convert list of strings to integers.</li>
       </ul>
@@ -92,7 +95,7 @@ save_as: learning-progress.html
       <td>
       <ul>
           <li>Apply text transformations in CSS (example with Copyleft symbol instead of Copyright).</li>
-          <li><code>p5.js</code> library.</li>
+          <li><code>p5.js</code> library: Simple themes like shapes, colors and text.</li>
       </ul>
       </td>
     </tr>
@@ -257,7 +260,6 @@ save_as: learning-progress.html
       </ul>
       </td>
     </tr>
-    <tr>
     <tr>
       <th scope="row">15</th>
       <td>
@@ -673,7 +675,7 @@ save_as: learning-progress.html
       <td>
      <ul>
          <li>Find duplicates in Vim and highlight them with macro.</li> 
-         <li>More on POST request in Python with Flask application.</li> 
+         <li>More on POST requests in Python with Flask application.</li> 
      </ul>
       </td>
     </tr>
@@ -905,7 +907,6 @@ save_as: learning-progress.html
      </ul>
       </td>
     </tr>
-    <tr>
     <tr>
       <th scope="row">6</th>
       <td>
