@@ -238,20 +238,23 @@ footer .social-footer {
 footer .social-footer li {
     display: inline-flex;
     margin: 0 10px;
-	opacity: 1;
-	-webkit-transition: .3s ease-in-out;
-	transition: .3s ease-in-out;
 }
 
 footer .social-footer li:hover a {
     color: #ffffff;
-	opacity: .5;
 }
 
 footer .social-footer li a img {
     width: 32px;
     height: 32px;
     margin: 0 5px;
+	opacity: 1;
+	-webkit-transition: .5s ease-in-out;
+	transition: .5s ease-in-out;
+}
+
+footer .social-footer li a img:hover {
+	opacity: .5;
 }
 
 
