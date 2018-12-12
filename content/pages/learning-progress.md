@@ -31,6 +31,7 @@ save_as: learning-progress.html
       <td>
      <ul>
          <li>Add plugins to Pelican (static site generator): plugin <code>tag_cloud</code>.</li> 
+         <li>Enrolled in <a href="https://www.coursera.org/specializations/google-it-support">Google IT Support Professional Certificate</a> on Coursera.</li> 
      </ul>
       </td>
     </tr>
