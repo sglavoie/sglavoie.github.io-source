@@ -27,11 +27,20 @@ save_as: learning-progress.html
   </thead>
   <tbody>
     <tr>
+      <th scope="row">12</th>
+      <td>
+     <ul>
+         <li>Google IT on Hardware: CPU and other components, Overclocking, BIOS, Computer Assembly.</li> 
+         <li>Google IT on Operating System: File Systems, Kernel, Logs, User Space, Boot Process.</li> 
+     </ul>
+      </td>
+    </tr>
+    <tr>
       <th scope="row">11</th>
       <td>
      <ul>
          <li>Add plugins to Pelican (static site generator): plugin <code>tag_cloud</code>.</li> 
-         <li>Enrolled in <a href="https://www.coursera.org/specializations/google-it-support">Google IT Support Professional Certificate</a> on Coursera.</li> 
+         <li>Enrolled in <a href="https://www.coursera.org/specializations/google-it-support">Google IT Support Professional Certificate</a> on Coursera: Introduction to IT Support, History of Computing, Digital Logic, Computer Architecture Layer.</li> 
      </ul>
       </td>
     </tr>
