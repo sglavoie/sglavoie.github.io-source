@@ -30,8 +30,8 @@ save_as: learning-progress.html
       <th scope="row">12</th>
       <td>
      <ul>
-         <li>Google IT on Hardware: CPU and other components, Overclocking, BIOS, Computer Assembly.</li> 
-         <li>Google IT on Operating System: File Systems, Kernel, Logs, User Space, Boot Process.</li> 
+         <li><em>Google IT</em> on Hardware: CPU and other components, Overclocking, BIOS, Computer Assembly.</li> 
+         <li><em>Google IT</em> on Operating System: File Systems, Kernel, Logs, User Space, Boot Process.</li> 
      </ul>
       </td>
     </tr>
@@ -40,7 +40,7 @@ save_as: learning-progress.html
       <td>
      <ul>
          <li>Add plugins to Pelican (static site generator): plugin <code>tag_cloud</code>.</li> 
-         <li>Enrolled in <a href="https://www.coursera.org/specializations/google-it-support">Google IT Support Professional Certificate</a> on Coursera: Introduction to IT Support, History of Computing, Digital Logic, Computer Architecture Layer.</li> 
+         <li>Enrolled in <em><a href="https://www.coursera.org/specializations/google-it-support">Google IT Support Professional Certificate</a></em> on Coursera: Introduction to IT Support, History of Computing, Digital Logic, Computer Architecture Layer.</li> 
      </ul>
       </td>
     </tr>
