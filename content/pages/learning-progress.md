@@ -27,11 +27,28 @@ save_as: learning-progress.html
   </thead>
   <tbody>
     <tr>
+      <th scope="row">13</th>
+      <td>
+     <ul>
+         <li><em>Google IT</em>
+         <ul>
+             <li>Operating System: Installing Windows/Linux/Mac, Virtual Machines, Chrome OS.</li>
+             <li>Networking: TCP/IP, History, Limitations, Impact, Security, Privacy.</li> 
+             <li>Software: Abstractions, Types of software, Interacting with software.</li> 
+             <li>Troubleshooting: Best Practices, Customer Service, Documentation & Writing Effective Documentation, Technical Interview.</li> 
+         </ul>
+     </ul>
+      </td>
+    </tr>
+    <tr>
       <th scope="row">12</th>
       <td>
      <ul>
-         <li><em>Google IT</em> on Hardware: CPU and other components, Overclocking, BIOS, Computer Assembly.</li> 
-         <li><em>Google IT</em> on Operating System: File Systems, Kernel, Logs, User Space, Boot Process.</li> 
+         <li><em>Google IT</em></li> 
+         <ul>
+             <li>Hardware: CPU and other components, Overclocking, BIOS, Computer Assembly.</li>
+             <li>Operating System: File Systems, Kernel, Logs, User Space, Boot Process.</li>
+         </ul>
      </ul>
       </td>
     </tr>
@@ -40,7 +57,10 @@ save_as: learning-progress.html
       <td>
      <ul>
          <li>Add plugins to Pelican (static site generator): plugin <code>tag_cloud</code>.</li> 
-         <li>Enrolled in <em><a href="https://www.coursera.org/specializations/google-it-support">Google IT Support Professional Certificate</a></em> on Coursera: Introduction to IT Support, History of Computing, Digital Logic, Computer Architecture Layer.</li> 
+         <li>Enrolled in <em><a href="https://www.coursera.org/specializations/google-it-support">Google IT Support Professional Certificate</a></em> on Coursera.</li> 
+         <ul>
+             <li>Introduction to IT Support, History of Computing, Digital Logic, Computer Architecture Layer.</li>
+         </ul>
      </ul>
       </td>
     </tr>
