@@ -27,6 +27,14 @@ save_as: learning-progress.html
   </thead>
   <tbody>
     <tr>
+      <th scope="row">15</th>
+      <td>
+         <ul>
+             <li>Test Driven Development: Pytest, Unittest, Doctest, Test Doubles, Test Coverage.</li>
+         </ul>
+      </td>
+    </tr>
+    <tr>
       <th scope="row">14</th>
       <td>
      <ul>
