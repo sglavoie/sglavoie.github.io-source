@@ -27,6 +27,18 @@ save_as: learning-progress.html
   </thead>
   <tbody>
     <tr>
+      <th scope="row">17</th>
+      <td>
+     <ul>
+         <li><em>Google IT</em>
+         <ul>
+             <li>Routing (tables, protocols, addresses).</li>
+             <li>Transport Layer, Application Layer.</li>
+         </ul>
+     </ul>
+      </td>
+    </tr>
+    <tr>
       <th scope="row">16</th>
       <td>
      <ul>
