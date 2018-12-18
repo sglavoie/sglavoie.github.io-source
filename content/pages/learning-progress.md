@@ -14,9 +14,9 @@ save_as: learning-progress.html
 
 ---
 
-<div class="learning-month">December</div>
+<div class="learning-month collapsible">December</div>
 
-<div class="w-auto">
+<div class="w-auto month-content">
 <table class="table table-striped table-sm">
 
   <thead class="thead-dark">
@@ -210,9 +210,9 @@ save_as: learning-progress.html
 
 ---
 
-<div class="learning-month">November</div>
+<div class="learning-month collapsible">November</div>
 
-<div class="w-auto">
+<div class="w-auto month-content">
 <table class="table table-striped table-sm">
 
   <thead class="thead-dark">
@@ -471,9 +471,9 @@ save_as: learning-progress.html
 
 ---
 
-<div class="learning-month">October</div>
+<div class="learning-month collapsible">October</div>
 
-<div class="w-auto">
+<div class="w-auto month-content">
 <table class="table table-striped table-sm">
 
   <thead class="thead-dark">
@@ -758,9 +758,9 @@ save_as: learning-progress.html
 
 ---
 
-<div class="learning-month">September</div>
+<div class="learning-month collapsible">September</div>
 
-<div class="w-auto">
+<div class="w-auto month-content">
 <table class="table table-striped table-sm">
 
   <thead class="thead-dark">
@@ -1027,9 +1027,9 @@ save_as: learning-progress.html
 
 ---
 
-<div class="learning-month">Earlier in 2018</div>
+<div class="learning-month collapsible">Earlier in 2018</div>
 
-<div class="w-auto">
+<div class="w-auto month-content">
 <table class="table table-striped table-sm">
 
   <thead class="thead-dark">
@@ -1099,11 +1099,9 @@ save_as: learning-progress.html
 
 ---
 
-<div class="learning-year">2017 and earlier</div>
+<div class="learning-year collapsible">2017 and earlier</div>
 
----
-
-<div class="w-auto">
+<div class="w-auto month-content">
 <table class="table table-striped table-sm">
 
   <thead class="thead-dark">
@@ -1135,3 +1133,22 @@ save_as: learning-progress.html
   </tbody>
 </table>
 </div>
+
+
+<!-- Allows for content to be collapsible -->
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    } 
+  });
+}
+</script>

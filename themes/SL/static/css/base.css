@@ -347,6 +347,30 @@ pre {
 }
 /* end PAGE LEARNING-PROCESS */
 
+/* COLLAPSIBLE CONTENT */
+/* https://www.w3schools.com/howto/howto_js_collapsible.asp
+Style the button that is used to open and close the collapsible content */
+.collapsible {
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.collapsible:hover {
+  background-color: #fafcff;
+}
+
+/* Style the collapsible content. Note: hidden by default */
+.month-content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease-out;
+  transition: max-height 0.3s ease-in;
+}
+/* end COLLAPSIBLE CONTENT */
+
+
 /* TAG CLOUD PELICAN PLUGIN */
 ul.tagcloud {
     list-style: none;
@@ -395,7 +419,8 @@ ul.tagcloud .list-group-item span.badge {
 }
 /* end TAG CLOUD PELICAN PLUGIN */
 
-/* Bootstrap modifications below */
+
+/* BOOTSTRAP MODIFICATIONS BELOW */
 html, body {
     background-color: #CEDBD9;
     color: #283B42;
