@@ -6,13 +6,13 @@ from pelican import __version__
 
 PELICAN_VERSION = __version__
 
-SITE_VERSION = 'v0.3.14'
+SITE_VERSION = 'v0.3.15'
 CURRENT_YEAR = datetime.today().year
 
 AUTHOR = 'Sébastien Lavoie'
 SITENAME = 'sglavoie.com'
 SITEURL = 'https://www.sglavoie.com'
-SITESUBTITLE = ''
+SITESUBTITLE = 'The Learning Journey to the Summit of Commits'
 DISQUS_SITENAME = 'sglavoie'
 TWITTER_USERNAME = 'sgdlavoie'
 THEME = 'themes/SL'
