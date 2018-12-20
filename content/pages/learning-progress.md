@@ -27,6 +27,32 @@ save_as: learning-progress.html
   </thead>
   <tbody>
     <tr>
+      <th scope="row">19</th>
+      <td>
+     <ul>
+         <li><em>Google IT</em>
+         <ul>
+             <li>Networking Services: VPNs, Proxies.</li>
+             <li>Connecting to Internet: Dial-up, broadband, wireless, WANs.</li>
+             <li>Troubleshooting: Verifying Connectivity, Digging into DNS, Cloud, IPv6.</li>
+             <li>Operating Systems: Basic commands (PowerShell & Bash).</li>
+         </ul>
+     </ul>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">18</th>
+      <td>
+     <ul>
+         <li><em>Google IT</em>
+         <ul>
+             <li>Networking Services: Name Resolution, DNS, DHCP, NAT.</li>
+         </ul>
+         <li>Implementing linked lists in Python.</li>
+     </ul>
+      </td>
+    </tr>
+    <tr>
       <th scope="row">17</th>
       <td>
      <ul>
