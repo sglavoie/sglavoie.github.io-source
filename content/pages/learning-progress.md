@@ -27,6 +27,17 @@ save_as: learning-progress.html
   </thead>
   <tbody>
     <tr>
+      <th scope="row">20</th>
+      <td>
+     <ul>
+         <li><em>Google IT</em>
+         <ul>
+             <li>Operating Systems: File and Text Manipulation, Users and Permissions, Package and Software Management.</li>
+         </ul>
+     </ul>
+      </td>
+    </tr>
+    <tr>
       <th scope="row">19</th>
       <td>
      <ul>
