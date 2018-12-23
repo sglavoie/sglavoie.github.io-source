@@ -27,6 +27,29 @@ save_as: learning-progress.html
   </thead>
   <tbody>
     <tr>
+      <th scope="row">22</th>
+      <td>
+     <ul>
+         <li><em>Google IT</em>
+         <ul>
+             <li>System Administration & Tasks.</li>
+         </ul>
+         <li>Regular expressions in Python.</li>
+     </ul>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">21</th>
+      <td>
+     <ul>
+         <li><em>Google IT</em>
+         <ul>
+             <li>Operating Systems: Filesystems, Process management, Remote access, Virtualization, Logging.</li>
+         </ul>
+     </ul>
+      </td>
+    </tr>
+    <tr>
       <th scope="row">20</th>
       <td>
      <ul>
