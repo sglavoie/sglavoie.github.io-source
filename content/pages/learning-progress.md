@@ -27,6 +27,19 @@ save_as: learning-progress.html
   </thead>
   <tbody>
     <tr>
+      <th scope="row">23</th>
+      <td>
+     <ul>
+         <li><em>Google IT</em>
+         <ul>
+             <li>IT Infrastructure Services</li>
+         </ul>
+         <li>Regular expressions in Python.</li>
+         <li>Working with JSON files in Python.</li>
+     </ul>
+      </td>
+    </tr>
+    <tr>
       <th scope="row">22</th>
       <td>
      <ul>
