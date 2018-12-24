@@ -132,6 +132,11 @@ ul#post-list {
     margin-bottom: 1rem;
     margin-top: 1rem;
 }
+
+.inline-icon {
+    display: inline-block;
+    float: right;
+}
 /* end BASE TEMPLATE */
 
 /* SCROLLBAR */
