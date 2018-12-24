@@ -5,13 +5,13 @@ Slug: tmux-integration-with-vim-neovim-first-steps
 Authors: Sébastien Lavoie
 Summary: This is a short introduction that shows a possible workflow with tmux and Vim/Neovim.
 
-# tmux integration
+## tmux integration
 
 [tmux](https://github.com/tmux/tmux) offers many advantages in the context of remote access to another machine, but it also shines on a local setup! Here is how I currently like to set it up.
 
 ---
 
-## Configuration file:
+### Configuration file:
 ##### `~/.tmux.conf`
 
 ~~~~{.bash}

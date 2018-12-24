@@ -5,7 +5,7 @@ Slug: using-vimwiki-for-note-taking
 Authors: Sébastien Lavoie
 Summary: This short article explains why Vimwiki felt like the right solution to organize my notes.
 
-# What is Vimwiki?
+## What is Vimwiki?
 
 From the [official website](https://vimwiki.github.io/):
 > Vimwiki is a personal wiki for Vim – interlinked, plain text files written in a markup language.
@@ -14,7 +14,7 @@ As this relies upon Vim's power to write content in a simple format, this quickl
 
 ----
 
-# What were the other options <span style="white-space:nowrap">considered?</span>
+## What were the other options <span style="white-space:nowrap">considered?</span>
 
 I have used various approaches in the past for different purposes and reasons, including *Evernote*, *Simplenote*, *Microsoft OneNote*, *Google Docs*, *Boostnote*, *Freeplane*/*FreeMind* (mind-mapping), *Workflowy* and even plain `.txt` files. Each has its pros and cons, but I then decided to limit my options based on the following self-imposed requirements:
 
@@ -29,16 +29,16 @@ I have used various approaches in the past for different purposes and reasons, i
 
 ----
 
-# Why did Vimwiki win in the end?
+## Why did Vimwiki win in the end?
 
-## In short
+### In short
 > The modal nature of Vim makes it very hard to enjoy any other text editor once you get used to it. The learning curve is quite considerable and nearly infinite, but this is also why I think it is worth investing more time to master it as it has proven to be an everlasting piece of trusty software <i class="fas fa-thumbs-up"></i>.
 
 > There is a feature in Boostnote to set the Editor Keymap to `vim` so that you can edit text in a very similar way, but then you miss out on Vim's `Command mode` which adds tremendous extensibility.
 
 ---
 
-## Expanded edition
+#### Expanded edition
 
 Boostnote comes with nice features such as Tags, the ability to set multiple storage locations for notes, a `Preferences` panel to adjust many options, a feature to add code snippets, real-time preview of Markdown being edited, etc. Make no mistake: this is a great program. But there are many Vim features that are hard or impossible to replicate and everything that you can do in Boostnote can be done in Vim also (ctags, emmet syntax, plugins for Markdown, etc.).
 
@@ -52,7 +52,7 @@ Boostnote comes with nice features such as Tags, the ability to set multiple sto
 
 ----
 
-# Conclusion
+## Conclusion
 
 In the end, it is a matter of taste as those programs are indeed very distinct. Boostnote has a polished interface, is much easier to use and has many settings easily changed. Vim/Neovim, on the contrary, requires a lot of initial effort both to understand and to set up according to your needs, but it does deliver a good dose of productivity... Eventually <i class="fas fa-laugh-beam"></i>!
 

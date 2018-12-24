@@ -6,17 +6,17 @@ Authors: Sébastien Lavoie
 Summary: Here are presented a few terminal aliases that I find myself using regularly.
 
 
-# Some aliases that I find useful
+## Some aliases that I find useful
 
 ---
 
 > In all the following example, the dollar sign `$` at the beginning of commands represents the prompt, it should not be typed.
 
-## General-purpose
+### General-purpose
 
 ---
 
-### List all aliases
+#### List all aliases
 
 ~~~~{.bash}
 $ alias
@@ -30,7 +30,7 @@ $ alias | less
 
 ---
 
-### Setting an alias in `~/.bash_aliases`
+#### Setting an alias in `~/.bash_aliases`
 
 ~~~~{.bash}
 alias c='clear'
@@ -44,7 +44,7 @@ $ source ~/.bash_aliases
 
 ---
 
-### Clear the screen
+#### Clear the screen
 
 ~~~~{.bash}
 alias c='clear'
@@ -54,7 +54,7 @@ I like being absorbed into the emptiness of the terminal, so this one comes in h
 
 ---
 
-### Reset the terminal
+#### Reset the terminal
 
 ~~~~{.bash}
 alias re='tput reset'
@@ -64,7 +64,7 @@ If for some reasons the terminal displays badly or display funky characters, it 
 
 ---
 
-### Exit from the terminal
+#### Exit from the terminal
 
 ~~~~{.bash}
 alias q='exit'
@@ -74,7 +74,7 @@ For exiting the terminal as if you were still in Vim!
 
 ---
 
-### Display all file extensions recursively from the current directory
+#### Display all file extensions recursively from the current directory
 
 ~~~~{.bash}
 alias allextensions="find . -type f -name '*.*' | sed 's|.*\.||' | sort -u"
@@ -84,7 +84,7 @@ It comes in handy to spot if a file shouldn't be there or to check for lower or 
 
 ---
 
-### Find text inside files, including filenames
+#### Find text inside files, including filenames
 
 ~~~~{.bash}
 alias findinfiles='ag --nobreak --nonumbers --noheading . | fzf'
@@ -94,7 +94,7 @@ In this example, the alias is set up with [ag](https://github.com/ggreer/the_sil
 
 ---
 
-### Reboot and shutdown the system
+#### Reboot and shutdown the system
 
 ~~~~{.bash}
 alias reboot='systemctl reboot'
@@ -105,7 +105,7 @@ This will reboot or power off the system without root privileges in most working
 
 ---
 
-### List and sort files and directories by modification time
+#### List and sort files and directories by modification time
 
 ~~~~{.bash}
 alias treeold='tree -hDF | less'
@@ -121,7 +121,7 @@ This requires the command `tree` to be installed. The parameters are (descriptio
 
 ---
 
-### Open files quickly with default applications
+#### Open files quickly with default applications
 
 ~~~~{.bash}
 alias o='xdg-open'
@@ -131,7 +131,7 @@ This will open files and URLs specified as argument in the default application d
 
 ---
 
-### Moving around
+#### Moving around
 
 If you are going to be working on projects for some time and require to `cd` into them, I have found the following to be useful:
 
@@ -154,7 +154,7 @@ Make it easier to navigate into deep directory structures by basically doing `cd
 
 ---
 
-### Listing files
+#### Listing files
 
 ~~~~{.bash}
 alias l='ls -CFh'
@@ -179,7 +179,7 @@ Different ways to set up the command ls to quickly see the needed files. The par
 
 ---
 
-## Python-related
+### Python-related
 
 ---
 
@@ -225,6 +225,6 @@ This will delete recursively all files and directories that match one of the fol
 
 ---
 
-# Conclusion
+## Conclusion
 
 I hope you will find at least one alias to improve your productivity. Of course, you are welcome to chime in with your own suggestions <i class="fas fa-smile-wink"></i> !

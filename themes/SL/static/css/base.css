@@ -93,7 +93,7 @@ nav#menu {
 }
 
 .extra-space {
-    margin: 1rem 0;
+    margin: 0.25rem 0;
 }
 
 .emphasis {
@@ -126,6 +126,11 @@ ul#post-list {
 
 .no-li-marker {
     list-style: none;
+}
+
+.tags {
+    margin-bottom: 1rem;
+    margin-top: 1rem;
 }
 /* end BASE TEMPLATE */
 
@@ -611,6 +616,10 @@ li.nav-item {
 /* end @MEDIA (MAX-WIDTH: 992PX) */
 
 @media (max-width: 576px) {
+
+.category-article {
+    display: block;
+}
 
 footer .social-footer li {
     display: contents;

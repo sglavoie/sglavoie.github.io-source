@@ -4,7 +4,7 @@
 {% block content %}
 <section id="content" class="jumbotron body">
 {% block content_title %}
-<h2 class="display-4 uppercase-title"><i class="far fa-newspaper"></i> All articles</h2>
+<h3 class="display-4 uppercase-title"><i class="far fa-newspaper"></i> All articles</h3>
 {% endblock %}
 
 <div class="card">
@@ -12,7 +12,7 @@
 {% for article in articles_page.object_list %}
 <div class="card-body">
     <li class="no-li-marker"><article class="hentry">
-            <header> <h2 class="card-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>
+            <header> <h3 class="card-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h3> </header>
             <footer class="post-info card-subtitle mb-2 text-muted">
 
                 {% if not category_view %}
