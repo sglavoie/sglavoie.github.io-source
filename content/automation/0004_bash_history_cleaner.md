@@ -17,7 +17,7 @@ The idea behind this small utility was simple:
 
 ----
 
-# Make history in a big way
+## Make history in a big way
 
 I took advantage of the fact that the history can be cleaned with the script you are about to see and set up what is known as an _eternal history_ which, as it sounds like, can grow infinitely big! All you have to do is append the following lines to the file `~/.bashrc`:
 
@@ -39,14 +39,14 @@ PROMPT_COMMAND="history -a; $PROMPT_COMMAND"
 
 ----
 
-# Bash History Cleaner
+## Bash History Cleaner
 
 And here is the script in question. It comes in two files that need to be in the same directory:
 
 - One is a Python file that needs to be launched from the terminal with Python 3.
 - The other file, `settings.json`, is a JSON file used to store the settings of the script, which will be detailed below.
 
-## `bash_history_cleaner.py`
+##### `bash_history_cleaner.py`
 
 ~~~~{.python}
 '''
@@ -254,7 +254,7 @@ if __name__ == '__main__':
     launch_cleanup(SETTINGS, HISTORY_FILE, ALIASES_FILE)
 ~~~~
 
-## `settings.json`
+##### `settings.json`
 
 ~~~~{.json}
 {
@@ -301,7 +301,7 @@ if __name__ == '__main__':
 
 ----
 
-# Description of available settings in `settings.json`
+## Description of available settings in `settings.json`
 
 | Name of setting | Description |
 | --------------- | ----------- |
@@ -316,12 +316,12 @@ if __name__ == '__main__':
 
 ----
 
-# Anecdotal evidence of satisfying performances
+## Anecdotal evidence of satisfying <span style="white-space: nowrap">performances</span>
 
 Performance-wise, this scans ~8,300 lines per second on my modest Intel Core i5 laptop with files of over 200,000 lines long. Not that I type so much stuff in the terminal: I just duplicated many lines <i class="fas fa-smile"></i>.
 
 ----
 
-# Conclusion
+## Conclusion
 
 This is a simple solution to an nonexistent problem, but it was in the end very instructive to me nonetheless. You may even find a use for it! Otherwise, you might use the same functions for other files such as logs! If you would like to take a closer look at the source in a more convenient way, you can find the code <a href="https://github.com/sglavoie/python-utilities/tree/master/bash_history_cleaner">available on Github</a> <i class="fab fa-github-alt"></i>.
