@@ -1,6 +1,6 @@
 Title: Using Vimwiki for note-taking
 Date: 2018-12-03 13:26
-Tags: vim, neovim, vimwiki, note-taking
+Tags: neovim, note-taking, vim, vimwiki
 Slug: using-vimwiki-for-note-taking
 Authors: Sébastien Lavoie
 Summary: This short article explains why Vimwiki felt like the right solution to organize my notes.
