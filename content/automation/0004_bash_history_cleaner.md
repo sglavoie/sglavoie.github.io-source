@@ -1,5 +1,6 @@
 Title: Bash History Cleaner
 Date: 2018-12-23 19:35
+Modified: 2018-12-25 9:05
 Tags: bash, python, regex, terminal
 Slug: bash-history-cleaner
 Authors: Sébastien Lavoie
