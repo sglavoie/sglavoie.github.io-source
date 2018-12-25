@@ -34,10 +34,9 @@ MENUITEMS = [
     ('/about.html', 'about', '<i class="fas fa-info"></i>')
 ]
 
+# Plugins
 PLUGIN_PATHS = ["plugins"]
 PLUGINS = ["tag_cloud"]
-
-# Plugins
 TAG_CLOUD_STEPS = 5  # default 4
 TAG_CLOUD_MAX_ITEMS = 100
 TAG_CLOUD_BADGE = True
@@ -73,11 +72,6 @@ FEED_ATOM_URL = None
 FEED_RSS = None
 FEED_ALL_RSS = 'feeds/sglavoie.rss.xml'
 CATEGORY_FEED_RSS = None
-
-# STATIC_PATHS = [
-    # 'pictures',
-    # 'extra/robots.txt',
-    # ]
 
 DIRECT_TEMPLATES = [
     'index', 'categories', 'authors', 'archives',  # (default)
