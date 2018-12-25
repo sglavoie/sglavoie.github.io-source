@@ -34,7 +34,7 @@ I have used various approaches in the past for different purposes and reasons, i
 ### In short
 > The modal nature of Vim makes it very hard to enjoy any other text editor once you get used to it. The learning curve is quite considerable and nearly infinite, but this is also why I think it is worth investing more time to master it as it has proven to be an everlasting piece of trusty software <i class="fas fa-thumbs-up"></i>.
 
-> There is a feature in Boostnote to set the Editor Keymap to `vim` so that you can edit text in a very similar way, but then you miss out on Vim's `Command mode` which adds tremendous extensibility.
+> There is a feature in Boostnote to set the Editor Keymap to `vim` so that you can edit text in a very similar way, but then you miss out on Vim's `Command mode` which adds tremendous extensibility and the ability to create any mappings you wish on the fly.
 
 ---
 
@@ -55,5 +55,7 @@ Boostnote comes with nice features such as Tags, the ability to set multiple sto
 ## Conclusion
 
 In the end, it is a matter of taste as those programs are indeed very distinct. Boostnote has a polished interface, is much easier to use and has many settings easily changed. Vim/Neovim, on the contrary, requires a lot of initial effort both to understand and to set up according to your needs, but it does deliver a good dose of productivity... Eventually <i class="fas fa-laugh-beam"></i>!
+
+An honorable mention goes to Simplenote, which is a joy to use with mobile devices and allows for quick synchronization between different devices across all the supported platforms.
 
 Where things really get in favor of Vim, you could mention the extensive help system (command `:help`), the use of macros, words and lines completion, the dot (`.`) command, the many registers at your disposal for different tasks, the impressive amount of plugins available, the ways in which you can configure mappings, functions... But that's for a whole new story!
