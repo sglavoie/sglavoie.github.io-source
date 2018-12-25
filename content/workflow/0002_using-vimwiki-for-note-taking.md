@@ -1,5 +1,6 @@
 Title: Using Vimwiki for note-taking
 Date: 2018-12-03 13:26
+Modified: 2018-12-25 11:25
 Tags: neovim, note-taking, vim, vimwiki
 Slug: using-vimwiki-for-note-taking
 Authors: Sébastien Lavoie
