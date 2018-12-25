@@ -10,7 +10,7 @@ Summary: Here are presented a few terminal aliases that I find myself using regu
 
 ---
 
-> In all the following example, the dollar sign `$` at the beginning of commands represents the prompt, it should not be typed.
+> In all the following examples, the dollar sign `$` at the beginning of commands represents the prompt, it should not be typed.
 
 ### General-purpose
 
@@ -101,7 +101,7 @@ alias reboot='systemctl reboot'
 alias shutdown='systemctl poweroff'
 ~~~~
 
-This will reboot or power off the system without root privileges in most working conditions.
+This will reboot or power off the system without needing root privileges in most working conditions.
 
 ---
 
