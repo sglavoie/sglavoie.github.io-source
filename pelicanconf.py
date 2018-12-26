@@ -24,6 +24,7 @@ PATH = 'content'
 TIMEZONE = 'America/Mexico_City'
 
 DEFAULT_LANG = 'en'
+LOCALE = 'en_US'
 
 MENUITEMS = [
     # path, id, icon

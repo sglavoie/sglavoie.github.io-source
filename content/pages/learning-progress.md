@@ -27,12 +27,37 @@ save_as: learning-progress.html
   </thead>
   <tbody>
     <tr>
+      <th scope="row">26</th>
+      <td>
+     <ul>
+         <li><em>Google IT</em>
+         <ul>
+             <li></li>
+         </ul>
+     </ul>
+      </td>
+    </tr>
+    <tr>
+    <tr>
+      <th scope="row">25</th>
+      <td>
+     <ul>
+         <li><em>Google IT</em>
+         <ul>
+             <li>Physical Infrastructure Services.</li>
+             <li>Configuring Network Services.</li>
+         </ul>
+         <li>i3wm setup and configuration.</li>
+     </ul>
+      </td>
+    </tr>
+    <tr>
       <th scope="row">23</th>
       <td>
      <ul>
          <li><em>Google IT</em>
          <ul>
-             <li>IT Infrastructure Services</li>
+             <li>IT Infrastructure Services.</li>
          </ul>
          <li>Regular expressions in Python.</li>
          <li>Working with JSON files in Python.</li>
