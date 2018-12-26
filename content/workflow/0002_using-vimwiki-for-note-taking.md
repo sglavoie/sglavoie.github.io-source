@@ -1,6 +1,6 @@
 Title: Using Vimwiki for note-taking
 Date: 2018-12-03 13:26
-Modified: 2018-12-25 11:25
+Modified: 2018-12-26 14:45
 Tags: neovim, note-taking, vim, vimwiki
 Slug: using-vimwiki-for-note-taking
 Authors: Sébastien Lavoie
@@ -27,6 +27,22 @@ I have used various approaches in the past for different purposes and reasons, i
 - On top of everything else, it has to be **available offline**, in a **portable and readable format**. Now, after discarding most options, we are left with *Boostnote* which uses CoffeeScript-Object-Notation and *Vimwiki* which has its own Wiki syntax that's similar in many ways to Markdown\*. Those are the strongest contenders that I could think of but of course, if you would like to share your recommendations, please do so in the comments below!
 
 \* <sub>I somehow discredited **[Emacs](https://www.gnu.org/software/emacs)** simply because I started to learn Vim first and since I'm still far from understanding all of its features, I had to postpone the discovery of Emacs <i class="fas fa-grin-beam"></i>.</sub> 
+
+### One feature-rich alternative to Vimwiki
+
+After settling down on Vimwiki, I later found out about <a href="https://joplin.cozic.net">Joplin</a>, which comes with many great features and characteristics such as:
+
+- Free & Open Source
+- Manages notes and todo lists
+- Search across all notes/todos
+- Import/Export from/to various formats, including Markdown and even imports from Evernote
+- Support for attachments
+- Tags
+- Synchronization with multiple providers such as Dropbox, Nextcloud, OneDrive and even your own private cloud
+- Available for Windows, Linux, macOS, Android and iOS
+- Web Clipper integration
+
+This application left me a great first impression to say the least and I will make sure to stay up to date on its active development, which you can <a href="https://github.com/laurent22/joplin">follow on GitHub <i class="fab fa-github"></i></a>.
 
 ----
 
