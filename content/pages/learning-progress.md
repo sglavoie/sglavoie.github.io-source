@@ -30,10 +30,7 @@ save_as: learning-progress.html
       <th scope="row">26</th>
       <td>
      <ul>
-         <li><em>Google IT</em>
-         <ul>
-             <li></li>
-         </ul>
+         <li>i3wm configuration: Status Bar, Workspaces, Themes, Modules.</li>
      </ul>
       </td>
     </tr>
