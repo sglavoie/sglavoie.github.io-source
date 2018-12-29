@@ -34,8 +34,6 @@ save_as: learning-progress.html
          <ul>
              <li>Managing Resources on Cloud Services, Platform Services (servers & databases), Directory Services, Centralized Management.</li>
          </ul>
-
-         <li></li>
      </ul>
       </td>
     </tr>
