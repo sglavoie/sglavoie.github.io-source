@@ -27,6 +27,34 @@ save_as: learning-progress.html
   </thead>
   <tbody>
     <tr>
+      <th scope="row">28</th>
+      <td>
+     <ul>
+         <li><em>Google IT</em>
+         <ul>
+             <li>Managing Resources on Cloud Services, Platform Services (servers & databases), Directory Services, Centralized Management.</li>
+         </ul>
+
+         <li></li>
+     </ul>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">27</th>
+      <td>
+     <ul>
+         <li><em>Google IT</em>
+         <ul>
+             <li>Print Services, NFS Servers, Chat Communication Services (XMPP, IRC, etc.)</li>
+         </ul>
+
+         <li>Configure locales on Linux.</li>
+         <li>Using <a href="https://joplin.cozic.net">Joplin</a> and <a href="https://todoist.com/">Todoist</a>.</li>
+         <li>Setting up <a href="https://github.com/tobi-wan-kenobi/bumblebee-status">bumblebee-status</a> with <a href="https://i3wm.org/">i3</a>.</li>
+     </ul>
+      </td>
+    </tr>
+    <tr>
       <th scope="row">26</th>
       <td>
      <ul>
@@ -34,7 +62,6 @@ save_as: learning-progress.html
      </ul>
       </td>
     </tr>
-    <tr>
     <tr>
       <th scope="row">25</th>
       <td>
