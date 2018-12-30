@@ -1,6 +1,6 @@
 Title: Bash History Cleaner
 Date: 2018-12-23 19:35
-Modified: 2018-12-25 9:05
+Modified: 2018-12-29 20:25
 Tags: bash, python, regex, terminal
 Slug: bash-history-cleaner
 Authors: Sébastien Lavoie
@@ -74,6 +74,13 @@ Description of available settings in `settings.json`:
     "add_aliases":      Boolean. If set to True, aliases from `aliases_file`
                         will be added to `ignore_patterns`.
 
+    "aliases_match_greedily":
+                        Boolean. If set to True, any line in `history_file`
+                        starting with an alias in `aliases_file` will be
+                        deleted. If set to False, delete line if the alias is
+                        the content of the whole line (with optional space at
+                        the end): False matches "^alias$" or "^alias $" only.
+
     "backup_history":   Boolean. If set to True, `history_file` will be backed
                         up in the same directory with a name ending in .bak
                         based on the current date.
@@ -116,7 +123,7 @@ def user_says_yes(message=""):
     return choice
 
 
-def delete_logs(settings, history_file):
+def delete_logs(settings: dict, history_file: str):
     '''Delete log files in `home_directory` based on `history_file`.'''
 
     # Retrieve a list of all matching log files
@@ -148,7 +155,7 @@ def delete_logs(settings, history_file):
     return
 
 
-def generate_date_string():
+def generate_date_string() -> str:
     '''Return date formatted string to backup a file.'''
     return datetime.strftime(datetime.today(), '_%Y%m%d_%H%M%S.bak')
 
@@ -160,10 +167,12 @@ def load_settings(settings_file: str) -> dict:
     return settings
 
 
-def get_list_aliases(bash_aliases_file: str) -> list:
+def get_list_aliases(bash_aliases_file: str, settings: dict) -> list:
     '''Retrieve the name of all the aliases specified in `bash_aliases_file`.
 
     Return aliases as a list of strings formatted as regular expressions.'''
+
+    match_whole_line = bool(settings['aliases_match_greedily'])
 
     with open(bash_aliases_file) as file:
         content = file.read().splitlines()  # one alias per line
@@ -181,8 +190,13 @@ def get_list_aliases(bash_aliases_file: str) -> list:
             except AttributeError:
                 continue
 
-            # Reformat as a regular expression
-            alias = f'^{alias}( )?$'
+            if match_whole_line:
+                # Match the whole line if it starts with the alias.
+                alias = f'^{alias}( )?$|^{alias} .*'
+            else:
+                # Will match only when alias is the whole content of the line,
+                # followed by optional space.
+                alias = f'^{alias}( )?$'
 
             # Escape dots in alias
             alias = alias.translate(str.maketrans({".":  r"\."}))
@@ -228,7 +242,7 @@ def launch_cleanup(settings: dict, history_file: str, aliases_file: str):
     bash_aliases = None
     if settings['add_aliases']:
         try:
-            bash_aliases = get_list_aliases(aliases_file)
+            bash_aliases = get_list_aliases(aliases_file, settings)
 
             # add aliases to list of patterns to ignore
             settings['ignore_patterns'].extend(bash_aliases)
@@ -266,10 +280,11 @@ if __name__ == '__main__':
 
 ~~~~{.json}
 {
-    "home_directory": "/home/your_username",
-    "history_file": ".bash_history",
-    "aliases_file": ".bash_aliases",
+    "home_directory": "/home/sglavoie",
+    "history_file": ".bash_eternal_history",
     "add_aliases": true,
+    "aliases_file": ".bash_aliases",
+    "aliases_match_greedily": true,
     "backup_history": true,
     "delete_logs_without_confirming": false,
     "ignore_patterns": [
@@ -286,9 +301,10 @@ if __name__ == '__main__':
         "^df( )?",
         "^du( )?",
         "^exit$",
+        "^git branch",
         "^git checkout master",
-        "^git log",
-        "^git push",
+        "^git log$",
+        "^git push$",
         "^git status$",
         "^git stauts$",
         "^kill \\d+.*",
@@ -318,6 +334,7 @@ if __name__ == '__main__':
 | `aliases_file`  | Name of file where Bash aliases are set up. |
 | `ignore_patterns` | List of patterns to ignore in `history_file`. Each line where a pattern is found will be deleted. Patterns are specified as regular expressions. |
 | `add_aliases` | Boolean. If set to `True`, aliases from `aliases_file` will be added to `ignore_patterns`. (Default: `True`) |
+| `aliases_match_greedily` | Boolean. If set to `True`, any line in `history_file` starting with an alias in `aliases_file` will be deleted. If set to `False`, delete line if the alias is the content of the whole line (with optional space at the end): `False` matches "^alias$" or "^alias $" only. |
 | `backup_history` | Boolean. If set to `True`, `history_file` will be backed up in the same directory with a name ending in .bak based on the current date. (Default: `True`) |
 | `delete_logs_without_confirming` | Boolean. If set to `True`, script with flag `-c` will automatically delete all the backup files found for `history_file`. (Default: `False`) |
 
