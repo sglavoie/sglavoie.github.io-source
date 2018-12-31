@@ -27,6 +27,32 @@ save_as: learning-progress.html
   </thead>
   <tbody>
     <tr>
+      <th scope="row">31</th>
+      <td>
+     <ul>
+         <li>Managing configuration in <a href="https://ranger.github.io/">ranger</a>.</li>
+     </ul>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">30</th>
+      <td>
+     <ul>
+         <li><a href="https://www.youtube.com/watch?v=DSq9uGs_z0E">DiSSS technique</a>, from Tim Ferriss.</li>
+         <li>Binary trees implementations in Python.</li>
+         <li>Managing builds in Travis CI.</li>
+     </ul>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">29</th>
+      <td>
+     <ul>
+         <li>Using <a href="https://clickup.com">ClickUp</a> for task and project management.</li>
+     </ul>
+      </td>
+    </tr>
+    <tr>
       <th scope="row">28</th>
       <td>
      <ul>
@@ -195,9 +221,9 @@ save_as: learning-progress.html
          <li><em>Google IT</em>
          <ul>
              <li>Operating System: Installing Windows/Linux/Mac, Virtual Machines, Chrome OS.</li>
-             <li>Networking: TCP/IP, History, Limitations, Impact, Security, Privacy.</li> 
-             <li>Software: Abstractions, Types of software, Interacting with software.</li> 
-             <li>Troubleshooting: Best Practices, Customer Service, Documentation & Writing Effective Documentation, Technical Interview.</li> 
+             <li>Networking: TCP/IP, History, Limitations, Impact, Security, Privacy.</li>
+             <li>Software: Abstractions, Types of software, Interacting with software.</li>
+             <li>Troubleshooting: Best Practices, Customer Service, Documentation & Writing Effective Documentation, Technical Interview.</li>
          </ul>
      </ul>
       </td>
@@ -206,7 +232,7 @@ save_as: learning-progress.html
       <th scope="row">12</th>
       <td>
      <ul>
-         <li><em>Google IT</em></li> 
+         <li><em>Google IT</em></li>
          <ul>
              <li>Hardware: CPU and other components, Overclocking, BIOS, Computer Assembly.</li>
              <li>Operating System: File Systems, Kernel, Logs, User Space, Boot Process.</li>
@@ -218,8 +244,8 @@ save_as: learning-progress.html
       <th scope="row">11</th>
       <td>
      <ul>
-         <li>Add plugins to Pelican (static site generator): plugin <code>tag_cloud</code>.</li> 
-         <li>Enrolled in <em><a href="https://www.coursera.org/specializations/google-it-support">Google IT Support Professional Certificate</a></em> on Coursera.</li> 
+         <li>Add plugins to Pelican (static site generator): plugin <code>tag_cloud</code>.</li>
+         <li>Enrolled in <em><a href="https://www.coursera.org/specializations/google-it-support">Google IT Support Professional Certificate</a></em> on Coursera.</li>
          <ul>
              <li>Introduction to IT Support, History of Computing, Digital Logic, Computer Architecture Layer.</li>
          </ul>
@@ -230,9 +256,9 @@ save_as: learning-progress.html
       <th scope="row">10</th>
       <td>
      <ul>
-         <li>Bootstrap (web framework): Tables.</li> 
-         <li>Pelican (static site generator): Use <em>Pages</em> in theme; Integrate menu items; Add a custom 404 error page.</li> 
-         <li>Read <em><a href="http://a.co/d/81yHmxn">The Complete Software Developer's Career Guide</a></em>, by <a href="https://simpleprogrammer.com/">John Sonmez</a>: Section 3 (What you need to know about software development) and Section 4 (Working as a developer). Section 4 contained the inspiration I needed to write about this <em>Learning Progress</em>.</li> 
+         <li>Bootstrap (web framework): Tables.</li>
+         <li>Pelican (static site generator): Use <em>Pages</em> in theme; Integrate menu items; Add a custom 404 error page.</li>
+         <li>Read <em><a href="http://a.co/d/81yHmxn">The Complete Software Developer's Career Guide</a></em>, by <a href="https://simpleprogrammer.com/">John Sonmez</a>: Section 3 (What you need to know about software development) and Section 4 (Working as a developer). Section 4 contained the inspiration I needed to write about this <em>Learning Progress</em>.</li>
      </ul>
       </td>
     </tr>
@@ -240,7 +266,7 @@ save_as: learning-progress.html
       <th scope="row">9</th>
       <td>
      <ul>
-         <li>Manage Python dictionary with <code>(x, y)</code> coordinates (Advent of Code, day 3).</li> 
+         <li>Manage Python dictionary with <code>(x, y)</code> coordinates (Advent of Code, day 3).</li>
      </ul>
       </td>
     </tr>
@@ -346,7 +372,7 @@ save_as: learning-progress.html
       <th scope="row">29</th>
       <td>
      <ul>
-         <li>Implement linked list in Python.</li> 
+         <li>Implement linked list in Python.</li>
      </ul>
       </td>
     </tr>
@@ -354,10 +380,10 @@ save_as: learning-progress.html
       <th scope="row">27</th>
       <td>
      <ul>
-         <li>SVG icon transparency in CSS.</li> 
-         <li>Make better use of <code>display</code> properties in CSS.</li> 
-         <li>SVG rendering of PNG images with Inkscape.</li> 
-         <li>SVG support in modern web browsers.</li> 
+         <li>SVG icon transparency in CSS.</li>
+         <li>Make better use of <code>display</code> properties in CSS.</li>
+         <li>SVG rendering of PNG images with Inkscape.</li>
+         <li>SVG support in modern web browsers.</li>
      </ul>
       </td>
     </tr>
@@ -607,7 +633,7 @@ save_as: learning-progress.html
       <th scope="row">31</th>
       <td>
      <ul>
-         <li>Use compose key in Linux.</li> 
+         <li>Use compose key in Linux.</li>
      </ul>
       </td>
     </tr>
@@ -615,8 +641,8 @@ save_as: learning-progress.html
       <th scope="row">30</th>
       <td>
      <ul>
-         <li>Use of algorithms for <a href="http://fotoforensics.com/">forensic analysis of pictures</a>.</li> 
-         <li>Review basics of Python 3 (built-in functions, indexes and slices in lists).</li> 
+         <li>Use of algorithms for <a href="http://fotoforensics.com/">forensic analysis of pictures</a>.</li>
+         <li>Review basics of Python 3 (built-in functions, indexes and slices in lists).</li>
      </ul>
       </td>
     </tr>
@@ -624,9 +650,9 @@ save_as: learning-progress.html
       <th scope="row">28</th>
       <td>
      <ul>
-         <li>Review tuples, strings and loops in Python.</li> 
-         <li><code>breakpoint()</code> function in Python 3.7.</li> 
-         <li>Integrate plugins in WordPress.</li> 
+         <li>Review tuples, strings and loops in Python.</li>
+         <li><code>breakpoint()</code> function in Python 3.7.</li>
+         <li>Integrate plugins in WordPress.</li>
      </ul>
       </td>
     </tr>
@@ -634,7 +660,7 @@ save_as: learning-progress.html
       <th scope="row">27</th>
       <td>
      <ul>
-         <li>Review Vim macros.</li> 
+         <li>Review Vim macros.</li>
      </ul>
       </td>
     </tr>
@@ -642,9 +668,9 @@ save_as: learning-progress.html
       <th scope="row">26</th>
       <td>
      <ul>
-         <li>Use and modify dictionary autocompletion in Neovim.</li> 
-         <li>Use mappings in Neovim that toggle one command.</li> 
-         <li>Create scatter plots, subplots, annotations and trendlines with Matplotlib.</li> 
+         <li>Use and modify dictionary autocompletion in Neovim.</li>
+         <li>Use mappings in Neovim that toggle one command.</li>
+         <li>Create scatter plots, subplots, annotations and trendlines with Matplotlib.</li>
      </ul>
       </td>
     </tr>
@@ -652,8 +678,8 @@ save_as: learning-progress.html
       <th scope="row">25</th>
       <td>
      <ul>
-         <li>Regex examples in Vim.</li> 
-         <li>Use <code>pandas</code> and <code>numpy</code> modules to manage data from CSV files to generate plots with Matplotlib.</li> 
+         <li>Regex examples in Vim.</li>
+         <li>Use <code>pandas</code> and <code>numpy</code> modules to manage data from CSV files to generate plots with Matplotlib.</li>
      </ul>
       </td>
     </tr>
@@ -661,8 +687,8 @@ save_as: learning-progress.html
       <th scope="row">24</th>
       <td>
      <ul>
-         <li>Iterators and iterables in Python.</li> 
-         <li>Selenium module in python and XPath selections.</li> 
+         <li>Iterators and iterables in Python.</li>
+         <li>Selenium module in python and XPath selections.</li>
      </ul>
       </td>
     </tr>
@@ -670,9 +696,9 @@ save_as: learning-progress.html
       <th scope="row">23</th>
       <td>
      <ul>
-         <li>Arithmetic in SQL.</li> 
-         <li><code>yaml</code> logging and configuration format.</li> 
-         <li>Logging in Python with <code>logging</code> module.</li> 
+         <li>Arithmetic in SQL.</li>
+         <li><code>yaml</code> logging and configuration format.</li>
+         <li>Logging in Python with <code>logging</code> module.</li>
      </ul>
       </td>
     </tr>
@@ -680,7 +706,7 @@ save_as: learning-progress.html
       <th scope="row">22</th>
       <td>
      <ul>
-         <li>Apply circular text transformations in GIMP.</li> 
+         <li>Apply circular text transformations in GIMP.</li>
      </ul>
       </td>
     </tr>
@@ -688,7 +714,7 @@ save_as: learning-progress.html
       <th scope="row">21</th>
       <td>
      <ul>
-         <li>Use quickfix list in Vim.</li> 
+         <li>Use quickfix list in Vim.</li>
      </ul>
       </td>
     </tr>
@@ -696,10 +722,10 @@ save_as: learning-progress.html
       <th scope="row">20</th>
       <td>
      <ul>
-         <li>Redraw the screen in Neovim and clear highlighted selection.</li> 
-         <li>Threading in Python.</li> 
-         <li>Incorporate log files automatically with Python script.</li> 
-         <li>Use <code>argparse</code> Python module.</li> 
+         <li>Redraw the screen in Neovim and clear highlighted selection.</li>
+         <li>Threading in Python.</li>
+         <li>Incorporate log files automatically with Python script.</li>
+         <li>Use <code>argparse</code> Python module.</li>
      </ul>
       </td>
     </tr>
@@ -707,7 +733,7 @@ save_as: learning-progress.html
       <th scope="row">19</th>
       <td>
      <ul>
-         <li>Configure MySQL/MariaDB server locally.</li> 
+         <li>Configure MySQL/MariaDB server locally.</li>
      </ul>
       </td>
     </tr>
@@ -715,9 +741,9 @@ save_as: learning-progress.html
       <th scope="row">18</th>
       <td>
      <ul>
-         <li>Learn about <code>pipenv</code>.</li> 
-         <li>Set Python PATH with different versions installed from source.</li> 
-         <li>Improve workflow of virtual environments in Python.</li> 
+         <li>Learn about <code>pipenv</code>.</li>
+         <li>Set Python PATH with different versions installed from source.</li>
+         <li>Improve workflow of virtual environments in Python.</li>
      </ul>
       </td>
     </tr>
@@ -725,8 +751,8 @@ save_as: learning-progress.html
       <th scope="row">17</th>
       <td>
      <ul>
-         <li>Manage dashboard in Conekta.</li> 
-         <li>Functions to find elements in Python module <code>selenium</code>.</li> 
+         <li>Manage dashboard in Conekta.</li>
+         <li>Functions to find elements in Python module <code>selenium</code>.</li>
      </ul>
       </td>
     </tr>
@@ -734,7 +760,7 @@ save_as: learning-progress.html
       <th scope="row">16</th>
       <td>
      <ul>
-         <li>Use <code>urllib.request</code> in Python to get the HTTP status of web pages programmatically.</li> 
+         <li>Use <code>urllib.request</code> in Python to get the HTTP status of web pages programmatically.</li>
      </ul>
       </td>
     </tr>
@@ -742,7 +768,7 @@ save_as: learning-progress.html
       <th scope="row">15</th>
       <td>
      <ul>
-         <li>Options in <code>rsync</code> command to build backup script in Python.</li> 
+         <li>Options in <code>rsync</code> command to build backup script in Python.</li>
      </ul>
       </td>
     </tr>
@@ -750,9 +776,9 @@ save_as: learning-progress.html
       <th scope="row">14</th>
       <td>
      <ul>
-         <li>Applications of blockchain technology.</li> 
-         <li><code>coverage.py</code> to test all Python code.</li> 
-         <li>Simple algorithms in Python to count (reverse, consecutive).</li> 
+         <li>Applications of blockchain technology.</li>
+         <li><code>coverage.py</code> to test all Python code.</li>
+         <li>Simple algorithms in Python to count (reverse, consecutive).</li>
      </ul>
       </td>
     </tr>
@@ -760,8 +786,8 @@ save_as: learning-progress.html
       <th scope="row">12</th>
       <td>
      <ul>
-         <li>Review concept of recursion.</li> 
-         <li>Review conversion of numbers from different bases (mainly binary and octal).</li> 
+         <li>Review concept of recursion.</li>
+         <li>Review conversion of numbers from different bases (mainly binary and octal).</li>
      </ul>
       </td>
     </tr>
@@ -769,8 +795,8 @@ save_as: learning-progress.html
       <th scope="row">11</th>
       <td>
      <ul>
-         <li>Themes in Pelican (static site generator).</li> 
-         <li>Set aliases for domain name to get HTTPS everywhere.</li> 
+         <li>Themes in Pelican (static site generator).</li>
+         <li>Set aliases for domain name to get HTTPS everywhere.</li>
      </ul>
       </td>
     </tr>
@@ -778,7 +804,7 @@ save_as: learning-progress.html
       <th scope="row">10</th>
       <td>
      <ul>
-         <li>Review rounding in Python (built-in functions and <code>math</code> module).</li> 
+         <li>Review rounding in Python (built-in functions and <code>math</code> module).</li>
      </ul>
       </td>
     </tr>
@@ -786,8 +812,8 @@ save_as: learning-progress.html
       <th scope="row">9</th>
       <td>
      <ul>
-         <li>Make a website on <a href="https://pages.github.com/">GitHub Pages <i class="fab fa-github"></i></a>.</li> 
-         <li>Git commands (submodule, branch, merge, revert, show, log).</li> 
+         <li>Make a website on <a href="https://pages.github.com/">GitHub Pages <i class="fab fa-github"></i></a>.</li>
+         <li>Git commands (submodule, branch, merge, revert, show, log).</li>
      </ul>
       </td>
     </tr>
@@ -795,10 +821,10 @@ save_as: learning-progress.html
       <th scope="row">8</th>
       <td>
      <ul>
-         <li>Use linters with <code>ALE</code> (Vim plugin).</li> 
-         <li>Use JSON in Python.</li> 
-         <li>Use Twilio dashboard.</li> 
-         <li>Webhooks (reverse APIs).</li> 
+         <li>Use linters with <code>ALE</code> (Vim plugin).</li>
+         <li>Use JSON in Python.</li>
+         <li>Use Twilio dashboard.</li>
+         <li>Webhooks (reverse APIs).</li>
      </ul>
       </td>
     </tr>
@@ -806,11 +832,11 @@ save_as: learning-progress.html
       <th scope="row">7</th>
       <td>
      <ul>
-         <li>Use <code>argparse</code> module in Python scripts.</li> 
-         <li>Threading in Python (<code>threading</code> module).</li> 
-         <li>Install latest Python version from source (<a href="https://realpython.com/installing-python/">article on Real Python</a>).</li> 
-         <li>Enable fonts with ligatures in Neovim.</li> 
-         <li><code>rsync</code> command and graphical interfaces (including Grsync).</li> 
+         <li>Use <code>argparse</code> module in Python scripts.</li>
+         <li>Threading in Python (<code>threading</code> module).</li>
+         <li>Install latest Python version from source (<a href="https://realpython.com/installing-python/">article on Real Python</a>).</li>
+         <li>Enable fonts with ligatures in Neovim.</li>
+         <li><code>rsync</code> command and graphical interfaces (including Grsync).</li>
      </ul>
       </td>
     </tr>
@@ -818,9 +844,9 @@ save_as: learning-progress.html
       <th scope="row">6</th>
       <td>
      <ul>
-         <li>Review Vim basics (editing, modes, word commands, search features, find and replace commands).</li> 
-         <li>Basic features in <a href="https://krita.org/">Krita</a> (digital painting).</li> 
-         <li>Use applications packaged with flatpak.</li> 
+         <li>Review Vim basics (editing, modes, word commands, search features, find and replace commands).</li>
+         <li>Basic features in <a href="https://krita.org/">Krita</a> (digital painting).</li>
+         <li>Use applications packaged with flatpak.</li>
      </ul>
       </td>
     </tr>
@@ -828,8 +854,8 @@ save_as: learning-progress.html
       <th scope="row">5</th>
       <td>
      <ul>
-         <li>Options in Terminator (terminal emulator).</li> 
-         <li>Basics of restoring files with <code>extundelete</code> command.</li> 
+         <li>Options in Terminator (terminal emulator).</li>
+         <li>Basics of restoring files with <code>extundelete</code> command.</li>
      </ul>
       </td>
     </tr>
@@ -837,10 +863,10 @@ save_as: learning-progress.html
       <th scope="row">4</th>
       <td>
      <ul>
-         <li>Set up account and website configuration in Disqus.</li> 
-         <li>Basics of restoring files with <code>extundelete</code> command.</li> 
-         <li>Manage Flask messages (errors).</li> 
-         <li>Set up custom domain on <a href="https://www.pythonanywhere.com/">Pythonanywere</a> (superb platform to use Python in the cloud).</li> 
+         <li>Set up account and website configuration in Disqus.</li>
+         <li>Basics of restoring files with <code>extundelete</code> command.</li>
+         <li>Manage Flask messages (errors).</li>
+         <li>Set up custom domain on <a href="https://www.pythonanywhere.com/">Pythonanywere</a> (superb platform to use Python in the cloud).</li>
      </ul>
       </td>
     </tr>
@@ -848,8 +874,8 @@ save_as: learning-progress.html
       <th scope="row">3</th>
       <td>
      <ul>
-         <li>Modal popups in Bootstrap.</li> 
-         <li>Concept of using AJAX to avoid page refresh.</li> 
+         <li>Modal popups in Bootstrap.</li>
+         <li>Concept of using AJAX to avoid page refresh.</li>
      </ul>
       </td>
     </tr>
@@ -857,9 +883,9 @@ save_as: learning-progress.html
       <th scope="row">2</th>
       <td>
      <ul>
-         <li>Fields validation in Flask WTForms.</li> 
-         <li>Capture and use arguments in URL within Flask application.</li> 
-         <li>Basic inner workings of Blockchain technology.</li> 
+         <li>Fields validation in Flask WTForms.</li>
+         <li>Capture and use arguments in URL within Flask application.</li>
+         <li>Basic inner workings of Blockchain technology.</li>
      </ul>
       </td>
     </tr>
@@ -867,8 +893,8 @@ save_as: learning-progress.html
       <th scope="row">1</th>
       <td>
      <ul>
-         <li>Find duplicates in Vim and highlight them with macro.</li> 
-         <li>More on POST requests in Python with Flask application.</li> 
+         <li>Find duplicates in Vim and highlight them with macro.</li>
+         <li>More on POST requests in Python with Flask application.</li>
      </ul>
       </td>
     </tr>
@@ -894,8 +920,8 @@ save_as: learning-progress.html
       <th scope="row">30</th>
       <td>
      <ul>
-         <li>Logging in multiple files in Python.</li> 
-         <li>Manage errors in pylint.</li> 
+         <li>Logging in multiple files in Python.</li>
+         <li>Manage errors in pylint.</li>
      </ul>
       </td>
     </tr>
@@ -903,9 +929,9 @@ save_as: learning-progress.html
       <th scope="row">29</th>
       <td>
      <ul>
-         <li>Use CSS grids with Bootstrap.</li> 
-         <li>Convert images from PNG to SVG.</li> 
-         <li>String encryption in JavaScript.</li> 
+         <li>Use CSS grids with Bootstrap.</li>
+         <li>Convert images from PNG to SVG.</li>
+         <li>String encryption in JavaScript.</li>
      </ul>
       </td>
     </tr>
@@ -913,7 +939,7 @@ save_as: learning-progress.html
       <th scope="row">28</th>
       <td>
      <ul>
-         <li>Connect to AWS database instance through SSH.</li> 
+         <li>Connect to AWS database instance through SSH.</li>
      </ul>
       </td>
     </tr>
@@ -921,8 +947,8 @@ save_as: learning-progress.html
       <th scope="row">27</th>
       <td>
      <ul>
-         <li>Set CNAME and other records for domain name.</li> 
-         <li>Deploy a website to GitHub.</li> 
+         <li>Set CNAME and other records for domain name.</li>
+         <li>Deploy a website to GitHub.</li>
      </ul>
       </td>
     </tr>
@@ -930,8 +956,8 @@ save_as: learning-progress.html
       <th scope="row">26</th>
       <td>
      <ul>
-         <li>Manage downloaded files with <code>selenium</code> module in Python.</li> 
-         <li>Quickly clean big chunks of data in Vim with regular expressions.</li> 
+         <li>Manage downloaded files with <code>selenium</code> module in Python.</li>
+         <li>Quickly clean big chunks of data in Vim with regular expressions.</li>
      </ul>
       </td>
     </tr>
@@ -939,8 +965,8 @@ save_as: learning-progress.html
       <th scope="row">25</th>
       <td>
      <ul>
-         <li>Working with invisible elements with <code>selenium</code> Python module.</li> 
-         <li>Manage Python requests to login forms with hidden token.</li> 
+         <li>Working with invisible elements with <code>selenium</code> Python module.</li>
+         <li>Manage Python requests to login forms with hidden token.</li>
      </ul>
       </td>
     </tr>
@@ -948,9 +974,9 @@ save_as: learning-progress.html
       <th scope="row">24</th>
       <td>
      <ul>
-         <li>Regex to set more complicated mappings in Neovim.</li> 
-         <li>Set up xmodmap to remap all keys.</li> 
-         <li>Use <em>diff</em> mode in Neovim.</li> 
+         <li>Regex to set more complicated mappings in Neovim.</li>
+         <li>Set up xmodmap to remap all keys.</li>
+         <li>Use <em>diff</em> mode in Neovim.</li>
      </ul>
       </td>
     </tr>
@@ -958,8 +984,8 @@ save_as: learning-progress.html
       <th scope="row">23</th>
       <td>
      <ul>
-         <li>Basics on Python web scraping with <em>Beautiful Soup</em>.</li> 
-         <li>Check/change DNS settings and speed.</li> 
+         <li>Basics on Python web scraping with <em>Beautiful Soup</em>.</li>
+         <li>Check/change DNS settings and speed.</li>
      </ul>
       </td>
     </tr>
@@ -967,8 +993,8 @@ save_as: learning-progress.html
       <th scope="row">22</th>
       <td>
      <ul>
-         <li>Start to use Silver Searcher.</li> 
-         <li>Buffer navigation with more mappings in Neovim.</li> 
+         <li>Start to use Silver Searcher.</li>
+         <li>Buffer navigation with more mappings in Neovim.</li>
      </ul>
       </td>
     </tr>
@@ -976,8 +1002,8 @@ save_as: learning-progress.html
       <th scope="row">21</th>
       <td>
      <ul>
-         <li>Watch <a href="https://www.youtube.com/watch?v=LRQGAnPtNdM">short introduction</a> on Neovim, by Nick Nisi.</li> 
-         <li>More options in <code>glances</code> terminal application.</li> 
+         <li>Watch <a href="https://www.youtube.com/watch?v=LRQGAnPtNdM">short introduction</a> on Neovim, by Nick Nisi.</li>
+         <li>More options in <code>glances</code> terminal application.</li>
      </ul>
       </td>
     </tr>
@@ -985,8 +1011,8 @@ save_as: learning-progress.html
       <th scope="row">20</th>
       <td>
      <ul>
-         <li>Spreadsheets graphs in LibreOffice.</li> 
-         <li>Sort dictionaries in Python.</li> 
+         <li>Spreadsheets graphs in LibreOffice.</li>
+         <li>Sort dictionaries in Python.</li>
      </ul>
       </td>
     </tr>
@@ -994,7 +1020,7 @@ save_as: learning-progress.html
       <th scope="row">19</th>
       <td>
      <ul>
-         <li>Integrate custom functions in Vim (with <a href="https://github.com/ggreer/the_silver_searcher">ag</a>, <a href="https://github.com/junegunn/fzf">fzf</a> and <a href="https://github.com/davidhalter/jedi">jedi</a>).</li> 
+         <li>Integrate custom functions in Vim (with <a href="https://github.com/ggreer/the_silver_searcher">ag</a>, <a href="https://github.com/junegunn/fzf">fzf</a> and <a href="https://github.com/davidhalter/jedi">jedi</a>).</li>
      </ul>
       </td>
     </tr>
@@ -1002,8 +1028,8 @@ save_as: learning-progress.html
       <th scope="row">18</th>
       <td>
      <ul>
-         <li>Vim and Neovim differences to better adjust configuration.</li> 
-         <li>Extract frames from videos in terminal with <code>ffmpeg</code>.</li> 
+         <li>Vim and Neovim differences to better adjust configuration.</li>
+         <li>Extract frames from videos in terminal with <code>ffmpeg</code>.</li>
      </ul>
       </td>
     </tr>
@@ -1011,8 +1037,8 @@ save_as: learning-progress.html
       <th scope="row">17</th>
       <td>
      <ul>
-         <li>Run Vim commands to affect all buffers with <code>:bufdo</code> and <code>:argdo</code>.</li> 
-         <li>Configure Git to authenticate with SSH.</li> 
+         <li>Run Vim commands to affect all buffers with <code>:bufdo</code> and <code>:argdo</code>.</li>
+         <li>Configure Git to authenticate with SSH.</li>
      </ul>
       </td>
     </tr>
@@ -1020,7 +1046,7 @@ save_as: learning-progress.html
       <th scope="row">16</th>
       <td>
      <ul>
-         <li>Finish reading <em><a href="https://pragprog.com/book/dnvim2/practical-vim-second-edition">Practical Vim, Second Edition</a></em>, by <a href="http://drewneil.com/">Drew Neil</a>. I love this book!</li> 
+         <li>Finish reading <em><a href="https://pragprog.com/book/dnvim2/practical-vim-second-edition">Practical Vim, Second Edition</a></em>, by <a href="http://drewneil.com/">Drew Neil</a>. I love this book!</li>
      </ul>
       </td>
     </tr>
@@ -1028,7 +1054,7 @@ save_as: learning-progress.html
       <th scope="row">15</th>
       <td>
      <ul>
-         <li>Use Chrome with <code>selenium</code> module in Python.</li> 
+         <li>Use Chrome with <code>selenium</code> module in Python.</li>
      </ul>
       </td>
     </tr>
@@ -1036,7 +1062,7 @@ save_as: learning-progress.html
       <th scope="row">14</th>
       <td>
      <ul>
-         <li>Use ADB and Fastboot to access Android phone from computer.</li> 
+         <li>Use ADB and Fastboot to access Android phone from computer.</li>
      </ul>
       </td>
     </tr>
@@ -1044,9 +1070,9 @@ save_as: learning-progress.html
       <th scope="row">13</th>
       <td>
      <ul>
-         <li>Make use of <code>fzf</code> in terminal and Neovim.</li> 
-         <li>Configure Neovim from scratch.</li> 
-         <li>Discover <a href="https://github.com/onivim/oni">Oni</a>, text editor powered by Neovim.</li> 
+         <li>Make use of <code>fzf</code> in terminal and Neovim.</li>
+         <li>Configure Neovim from scratch.</li>
+         <li>Discover <a href="https://github.com/onivim/oni">Oni</a>, text editor powered by Neovim.</li>
      </ul>
       </td>
     </tr>
@@ -1054,7 +1080,7 @@ save_as: learning-progress.html
       <th scope="row">12</th>
       <td>
      <ul>
-         <li><code>urllib</code> Python module by watching <a href="https://www.youtube.com/channel/UCW6TXMZ5Pq6yL6_k5NZ2e0Q">Socratica</a> on YouTube.</li> 
+         <li><code>urllib</code> Python module by watching <a href="https://www.youtube.com/channel/UCW6TXMZ5Pq6yL6_k5NZ2e0Q">Socratica</a> on YouTube.</li>
      </ul>
       </td>
     </tr>
@@ -1062,8 +1088,8 @@ save_as: learning-progress.html
       <th scope="row">11</th>
       <td>
      <ul>
-         <li>Review table joins in SQL.</li> 
-         <li>Set environment variables from terminal.</li> 
+         <li>Review table joins in SQL.</li>
+         <li>Set environment variables from terminal.</li>
      </ul>
       </td>
     </tr>
@@ -1071,7 +1097,7 @@ save_as: learning-progress.html
       <th scope="row">10</th>
       <td>
      <ul>
-         <li>Set and release clips in Inkscape to cut from objects.</li> 
+         <li>Set and release clips in Inkscape to cut from objects.</li>
      </ul>
       </td>
     </tr>
@@ -1079,8 +1105,8 @@ save_as: learning-progress.html
       <th scope="row">9</th>
       <td>
      <ul>
-         <li>List all file types recursively in Bash.</li> 
-         <li>Sign SSL certificates on <a href="https://www.pythonanywhere.com/">Pythonanywhere</a>.</li> 
+         <li>List all file types recursively in Bash.</li>
+         <li>Sign SSL certificates on <a href="https://www.pythonanywhere.com/">Pythonanywhere</a>.</li>
      </ul>
       </td>
     </tr>
@@ -1088,7 +1114,7 @@ save_as: learning-progress.html
       <th scope="row">8</th>
       <td>
      <ul>
-         <li>Internet domains (top-level, generic, country code).</li> 
+         <li>Internet domains (top-level, generic, country code).</li>
      </ul>
       </td>
     </tr>
@@ -1096,7 +1122,7 @@ save_as: learning-progress.html
       <th scope="row">7</th>
       <td>
      <ul>
-         <li>Set up <a href="https://github.com/pallets/flask">Flask</a> application on Pythonanywhere with custom URL.</li> 
+         <li>Set up <a href="https://github.com/pallets/flask">Flask</a> application on Pythonanywhere with custom URL.</li>
      </ul>
       </td>
     </tr>
@@ -1104,7 +1130,7 @@ save_as: learning-progress.html
       <th scope="row">6</th>
       <td>
      <ul>
-         <li>Use <code>yaml</code> configuration files with Python.</li> 
+         <li>Use <code>yaml</code> configuration files with Python.</li>
      </ul>
       </td>
     </tr>
@@ -1112,7 +1138,7 @@ save_as: learning-progress.html
       <th scope="row">5</th>
       <td>
      <ul>
-         <li>Set up project with <a href="https://github.com/pallets/click">Click</a> (command line interface toolkit).</li> 
+         <li>Set up project with <a href="https://github.com/pallets/click">Click</a> (command line interface toolkit).</li>
      </ul>
       </td>
     </tr>
@@ -1120,7 +1146,7 @@ save_as: learning-progress.html
       <th scope="row">3</th>
       <td>
      <ul>
-         <li>Dictionaries being ordered in Python 3.7.</li> 
+         <li>Dictionaries being ordered in Python 3.7.</li>
      </ul>
       </td>
     </tr>
@@ -1128,8 +1154,8 @@ save_as: learning-progress.html
       <th scope="row">2</th>
       <td>
      <ul>
-         <li>Python <code>timeit</code> module and use of <code>__init__.py</code> files.</li> 
-         <li>Django tutorial serie with <a href="https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g">Corey Schafer</a> on YouTube.</li> 
+         <li>Python <code>timeit</code> module and use of <code>__init__.py</code> files.</li>
+         <li>Django tutorial serie with <a href="https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g">Corey Schafer</a> on YouTube.</li>
      </ul>
       </td>
     </tr>
@@ -1137,7 +1163,7 @@ save_as: learning-progress.html
       <th scope="row">1</th>
       <td>
      <ul>
-         <li>Python <code>selenium</code> module: deal with page load time and XPath.</li> 
+         <li>Python <code>selenium</code> module: deal with page load time and XPath.</li>
      </ul>
       </td>
     </tr>
@@ -1162,9 +1188,9 @@ save_as: learning-progress.html
       <td>
 <strong>Git & GitHub</strong>
      <ul>
-         <li>Contribute a pull request and get feedback.</li> 
-         <li>Make use of forks and public/private repositories.</li> 
-         <li>Use GitHub from terminal.</li> 
+         <li>Contribute a pull request and get feedback.</li>
+         <li>Make use of forks and public/private repositories.</li>
+         <li>Use GitHub from terminal.</li>
      </ul>
       </td>
     </tr>
@@ -1172,17 +1198,17 @@ save_as: learning-progress.html
       <td>
 <strong>Python</strong>
      <ul>
-         <li>Algorithms and Data Structures on <a href="https://www.hackerrank.com/">HackerRank.com</a>, <a href="http://www.codeabbey.com/">Code Abbey</a>, <a href="https://projecteuler.net/">Project Euler</a>, etc.</li> 
-         <li>Finish <em>Complete Python Masterclass</em> on Udemy, by Tim Buchalka.</li> 
-         <li>Jupyter Notebooks.</li> 
-         <li>Build a CLI with Click.</li> 
-         <li>Use <a href="https://www.anaconda.com">Anaconda distribution</a> with scientific libraries.</li> 
-         <li><code>subprocess</code> module in Python.</li> 
+         <li>Algorithms and Data Structures on <a href="https://www.hackerrank.com/">HackerRank.com</a>, <a href="http://www.codeabbey.com/">Code Abbey</a>, <a href="https://projecteuler.net/">Project Euler</a>, etc.</li>
+         <li>Finish <em>Complete Python Masterclass</em> on Udemy, by Tim Buchalka.</li>
+         <li>Jupyter Notebooks.</li>
+         <li>Build a CLI with Click.</li>
+         <li>Use <a href="https://www.anaconda.com">Anaconda distribution</a> with scientific libraries.</li>
+         <li><code>subprocess</code> module in Python.</li>
      </ul>
 
 <strong>SQL</strong>
      <ul>
-         <li>[Basic] Certificate of Completion of <em>Database for Developers</em>, by Oracle.</li> 
+         <li>[Basic] Certificate of Completion of <em>Database for Developers</em>, by Oracle.</li>
      </ul>
 
       </td>
@@ -1191,25 +1217,25 @@ save_as: learning-progress.html
       <td>
 <strong>Vim/Neovim & other text editors</strong>
      <ul>
-         <li>Clear variables and registers in Neovim to improve mappings efficiency.</li> 
-         <li>Completion with <code>Ctrl + x</code> in Neovim.</li> 
-         <li>Control over buffers and windows in Neovim.</li> 
-         <li>Make use of <code>ctags</code> in Vim.</li> 
-         <li>Plugin <code>vim-rhubarb</code> for Neovim.</li> 
-         <li>Search files recursively inside a project in Neovim.</li> 
-         <li>Set <code>pdb</code> mappings in Neovim.</li> 
-         <li>Start using more <code>comfortable-motion.vim</code> plugin with Neovim.</li> 
-         <li>Start using plugin <code>ALE</code> with Neovim.</li> 
-         <li>Start using plugin <code>deoplete.nvim</code> with Neovim.</li> 
-         <li>Use <code>ctrlp</code> plugin.</li> 
-         <li>Use <code>jedi-vim</code> plugin.</li> 
-         <li>Use <code>vim-airline</code> settings plugin.</li> 
-         <li>Use <code>vim-fugitive</code> to visualize differences between files in split windows.</li> 
-         <li>Use setting <code>wildignore</code> in Neovim.</li> 
-         <li>Vim script language.</li> 
+         <li>Clear variables and registers in Neovim to improve mappings efficiency.</li>
+         <li>Completion with <code>Ctrl + x</code> in Neovim.</li>
+         <li>Control over buffers and windows in Neovim.</li>
+         <li>Make use of <code>ctags</code> in Vim.</li>
+         <li>Plugin <code>vim-rhubarb</code> for Neovim.</li>
+         <li>Search files recursively inside a project in Neovim.</li>
+         <li>Set <code>pdb</code> mappings in Neovim.</li>
+         <li>Start using more <code>comfortable-motion.vim</code> plugin with Neovim.</li>
+         <li>Start using plugin <code>ALE</code> with Neovim.</li>
+         <li>Start using plugin <code>deoplete.nvim</code> with Neovim.</li>
+         <li>Use <code>ctrlp</code> plugin.</li>
+         <li>Use <code>jedi-vim</code> plugin.</li>
+         <li>Use <code>vim-airline</code> settings plugin.</li>
+         <li>Use <code>vim-fugitive</code> to visualize differences between files in split windows.</li>
+         <li>Use setting <code>wildignore</code> in Neovim.</li>
+         <li>Vim script language.</li>
      </ul>
      <ul>
-         <li>Use VS Code, Atom and nano (mainly).</li> 
+         <li>Use VS Code, Atom and nano (mainly).</li>
      </ul>
       </td>
     </tr>
@@ -1234,10 +1260,10 @@ save_as: learning-progress.html
       <td>
 <strong>Linux</strong>
      <ul>
-         <li>Bash scripting.</li> 
-         <li>Disk encryption with cryptsetup.</li> 
-         <li>Use Bash terminal.</li> 
-         <li>Use distributions, including Kubuntu, Debian, Fedora, Ubuntu, Mint, Mandrake, Mandriva and SuSE.</li> 
+         <li>Bash scripting.</li>
+         <li>Disk encryption with cryptsetup.</li>
+         <li>Use Bash terminal.</li>
+         <li>Use distributions, including Kubuntu, Debian, Fedora, Ubuntu, Mint, Mandrake, Mandriva and SuSE.</li>
      </ul>
       </td>
     </tr>
@@ -1245,8 +1271,8 @@ save_as: learning-progress.html
       <td>
 <strong>Basics of...</strong>
      <ul>
-         <li>Python: Get <a href="https://www.sololearn.com/Certificate/1073-6555674/pdf/">certificate</a> for Python 3 Tutorial on SoloLearn.</li> 
-         <li>HTML, CSS, JavaScript, SQL, Visual Basic, Pascal, Scribus, LibreOffice, GIMP, Audacity, Inkscape, Blender, XAMPP (Apache distribution), Wordpress, Freeplane (mind mapping software).</li> 
+         <li>Python: Get <a href="https://www.sololearn.com/Certificate/1073-6555674/pdf/">certificate</a> for Python 3 Tutorial on SoloLearn.</li>
+         <li>HTML, CSS, JavaScript, SQL, Visual Basic, Pascal, Scribus, LibreOffice, GIMP, Audacity, Inkscape, Blender, XAMPP (Apache distribution), Wordpress, Freeplane (mind mapping software).</li>
      </ul>
       </td>
     </tr>
@@ -1268,7 +1294,7 @@ for (i = 0; i < coll.length; i++) {
       content.style.maxHeight = null;
     } else {
       content.style.maxHeight = content.scrollHeight + "px";
-    } 
+    }
   });
 }
 </script>
