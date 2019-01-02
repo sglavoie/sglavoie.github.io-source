@@ -10,6 +10,36 @@ save_as: learning-progress.html
 > In the process, I hope you may find some inspiration too.
 
 
+<div class="learning-year">2019</div>
+
+---
+
+<div class="learning-month collapsible">January</div>
+
+<div class="w-auto month-content">
+<table class="table table-striped table-sm">
+
+  <thead class="thead-dark">
+    <tr>
+      <th scope="col">Day</th>
+      <th scope="col">Topics covered</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>
+     <ul>
+         <li>Finish CSS Fundamentals Course on <a href="https://www.sololearn.com/">SoloLearn</a>.</li>
+         <li>Finish SQL Fundamentals Course on <a href="https://www.sololearn.com/">SoloLearn</a>.</li>
+     </ul>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+---
+
 <div class="learning-year">2018</div>
 
 ---
@@ -38,7 +68,7 @@ save_as: learning-progress.html
       <th scope="row">30</th>
       <td>
      <ul>
-         <li><a href="https://www.youtube.com/watch?v=DSq9uGs_z0E">DiSSS technique</a>, from Tim Ferriss.</li>
+         <li><a href="https://www.youtube.com/watch?v=DSq9uGs_z0E">DiSSS technique</a>, from <a href="https://tim.blog/">Tim Ferriss</a>.</li>
          <li>Binary trees implementations in Python.</li>
          <li>Managing builds in Travis CI.</li>
      </ul>
