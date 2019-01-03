@@ -27,6 +27,17 @@ save_as: learning-progress.html
   </thead>
   <tbody>
     <tr>
+      <th scope="row">2</th>
+      <td>
+     <ul>
+         <li><em>Google IT</em></li>
+         <ul>
+             <li>Active Directory (Managing Users & Passwords, Group Policy), OpenLDAP.</li>
+         </ul>
+         <li>Began reading <a href="https://jamesclear.com/atomic-habits">Atomic Habits</a>, by <a href="https://jamesclear.com/">James Clear</a>.</li>
+     </ul>
+    </tr>
+    <tr>
       <th scope="row">1</th>
       <td>
      <ul>
