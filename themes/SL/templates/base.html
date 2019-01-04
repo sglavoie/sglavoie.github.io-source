@@ -55,6 +55,7 @@
         <!-- Custom CSS -->
         <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
         <link href='/theme/css/base.css' rel='stylesheet' type='text/css'>
+        <link href='/theme/css/pygment.css' rel='stylesheet' type='text/css'>
 
 
         {% endblock head %}
@@ -76,7 +77,7 @@
           <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
 
     {% for href, id, icon in MENUITEMS %}
-    <li class="nav-item {% if output_file in href %}active{% endif %}">
+    <li class="nav-item {% if output_file in href %}active-nav{% endif %}">
         <a class="nav-link" href="{{ href|e }}">{{ icon }} {{ id }}</a>
     </li>
 {% endfor %}
