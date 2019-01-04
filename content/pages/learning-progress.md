@@ -36,6 +36,7 @@ save_as: learning-progress.html
          </ul>
          <li>Began reading <a href="https://jamesclear.com/atomic-habits">Atomic Habits</a>, by <a href="https://jamesclear.com/">James Clear</a>.</li>
      </ul>
+    </td>
     </tr>
     <tr>
       <th scope="row">1</th>
@@ -44,6 +45,7 @@ save_as: learning-progress.html
          <li>Finish CSS Fundamentals Course on <a href="https://www.sololearn.com/">SoloLearn</a>.</li>
          <li>Finish SQL Fundamentals Course on <a href="https://www.sololearn.com/">SoloLearn</a>.</li>
      </ul>
+    </td>
     </tr>
   </tbody>
 </table>
@@ -97,7 +99,7 @@ save_as: learning-progress.html
       <th scope="row">28</th>
       <td>
      <ul>
-         <li><em>Google IT</em>
+         <li><em>Google IT</em></li>
          <ul>
              <li>Managing Resources on Cloud Services, Platform Services (servers & databases), Directory Services, Centralized Management.</li>
          </ul>
@@ -108,7 +110,7 @@ save_as: learning-progress.html
       <th scope="row">27</th>
       <td>
      <ul>
-         <li><em>Google IT</em>
+         <li><em>Google IT</em></li>
          <ul>
              <li>Print Services, NFS Servers, Chat Communication Services (XMPP, IRC, etc.)</li>
          </ul>
@@ -131,7 +133,7 @@ save_as: learning-progress.html
       <th scope="row">25</th>
       <td>
      <ul>
-         <li><em>Google IT</em>
+         <li><em>Google IT</em></li>
          <ul>
              <li>Physical Infrastructure Services.</li>
              <li>Configuring Network Services.</li>
@@ -144,7 +146,7 @@ save_as: learning-progress.html
       <th scope="row">23</th>
       <td>
      <ul>
-         <li><em>Google IT</em>
+         <li><em>Google IT</em></li>
          <ul>
              <li>IT Infrastructure Services.</li>
          </ul>
@@ -157,7 +159,7 @@ save_as: learning-progress.html
       <th scope="row">22</th>
       <td>
      <ul>
-         <li><em>Google IT</em>
+         <li><em>Google IT</em></li>
          <ul>
              <li>System Administration & Tasks.</li>
          </ul>
@@ -169,7 +171,7 @@ save_as: learning-progress.html
       <th scope="row">21</th>
       <td>
      <ul>
-         <li><em>Google IT</em>
+         <li><em>Google IT</em></li>
          <ul>
              <li>Operating Systems: Filesystems, Process management, Remote access, Virtualization, Logging.</li>
          </ul>
@@ -180,7 +182,7 @@ save_as: learning-progress.html
       <th scope="row">20</th>
       <td>
      <ul>
-         <li><em>Google IT</em>
+         <li><em>Google IT</em></li>
          <ul>
              <li>Operating Systems: File and Text Manipulation, Users and Permissions, Package and Software Management.</li>
          </ul>
@@ -191,7 +193,7 @@ save_as: learning-progress.html
       <th scope="row">19</th>
       <td>
      <ul>
-         <li><em>Google IT</em>
+         <li><em>Google IT</em></li>
          <ul>
              <li>Networking Services: VPNs, Proxies.</li>
              <li>Connecting to Internet: Dial-up, broadband, wireless, WANs.</li>
@@ -205,7 +207,7 @@ save_as: learning-progress.html
       <th scope="row">18</th>
       <td>
      <ul>
-         <li><em>Google IT</em>
+         <li><em>Google IT</em></li>
          <ul>
              <li>Networking Services: Name Resolution, DNS, DHCP, NAT.</li>
          </ul>
@@ -217,7 +219,7 @@ save_as: learning-progress.html
       <th scope="row">17</th>
       <td>
      <ul>
-         <li><em>Google IT</em>
+         <li><em>Google IT</em></li>
          <ul>
              <li>Routing (tables, protocols, addresses).</li>
              <li>Transport Layer, Application Layer.</li>
@@ -229,7 +231,7 @@ save_as: learning-progress.html
       <th scope="row">16</th>
       <td>
      <ul>
-         <li><em>Google IT</em>
+         <li><em>Google IT</em></li>
          <ul>
              <li>Introduction to Computer Networking: Subnetting.</li>
          </ul>
@@ -248,7 +250,7 @@ save_as: learning-progress.html
       <th scope="row">14</th>
       <td>
      <ul>
-         <li><em>Google IT</em>
+         <li><em>Google IT</em></li>
          <ul>
              <li>Introduction to Computer Networking: TCP/IP Five-Layer Model, Basics of Networking Devices.</li>
          </ul>
@@ -259,7 +261,7 @@ save_as: learning-progress.html
       <th scope="row">13</th>
       <td>
      <ul>
-         <li><em>Google IT</em>
+         <li><em>Google IT</em></li>
          <ul>
              <li>Operating System: Installing Windows/Linux/Mac, Virtual Machines, Chrome OS.</li>
              <li>Networking: TCP/IP, History, Limitations, Impact, Security, Privacy.</li>
