@@ -27,12 +27,24 @@ save_as: learning-progress.html
   </thead>
   <tbody>
     <tr>
+      <th scope="row">4</th>
+      <td>
+     <ul>
+         <li><em>Google IT</em></li>
+         <ul>
+             <li>Setting a backup server (BackupPC) on Linux. Disaster Recovery Plans.</li>
+         </ul>
+         <li>Bitwise operations (Python).</li>
+     </ul>
+    </td>
+    </tr>
+    <tr>
       <th scope="row">3</th>
       <td>
      <ul>
          <li><em>Google IT</em></li>
          <ul>
-             <li>Data Recovery Plans, Types of Backups</li>
+             <li>Data Recovery Plans, Types of Backups.</li>
          </ul>
          <li>Primality testing algorithm in Python.</li>
      </ul>
