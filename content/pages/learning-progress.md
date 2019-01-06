@@ -27,6 +27,18 @@ save_as: learning-progress.html
   </thead>
   <tbody>
     <tr>
+      <th scope="row">5</th>
+      <td>
+     <ul>
+         <li><em>Google IT</em></li>
+         <ul>
+             <li>Disaster Recovery Plans. Post-mortems.</li>
+         </ul>
+         <li>Statistics (Conditional probability).</li>
+     </ul>
+    </td>
+    </tr>
+    <tr>
       <th scope="row">4</th>
       <td>
      <ul>
