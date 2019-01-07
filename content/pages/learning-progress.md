@@ -27,6 +27,19 @@ save_as: learning-progress.html
   </thead>
   <tbody>
     <tr>
+      <th scope="row">6</th>
+      <td>
+     <ul>
+         <li><em>Google IT</em></li>
+         <ul>
+             <li>System Administration Consultation (process improvements).</li>
+         </ul>
+         <li>Finish reading <a href="https://jamesclear.com/atomic-habits">Atomic Habits</a>, by <a href="https://jamesclear.com/">James Clear</a>.</li>
+         <li>Managing duplicates in Python (<a href="https://github.com/sglavoie/python-utilities/tree/master/bash_history_cleaner">Bash History Cleaner</a>).</li>
+     </ul>
+    </td>
+    </tr>
+    <tr>
       <th scope="row">5</th>
       <td>
      <ul>
