@@ -1,4 +1,4 @@
-Title: tmux integration with Vim/Neovim — First steps
+Title: Tmux Integration with Vim/Neovim — First Steps
 Date: 2018-11-19 20:31
 Tags: neovim, tmux, vim
 Slug: tmux-integration-with-vim-neovim-first-steps

@@ -1,4 +1,4 @@
-Title: Using Vimwiki for note-taking
+Title: Using Vimwiki for Note-Taking
 Date: 2018-12-03 13:26
 Modified: 2018-12-26 14:45
 Tags: neovim, note-taking, productivity, vim, vimwiki
