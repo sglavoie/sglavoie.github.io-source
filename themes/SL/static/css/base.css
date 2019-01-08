@@ -542,6 +542,8 @@ a {
     color: #00015f;
     font-weight: bold;
     text-decoration: none;
+    -webkit-transition: 0.3s color ease;
+    transition: 0.3s color ease;
 }
 
 a:visited {
