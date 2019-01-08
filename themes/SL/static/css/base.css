@@ -304,6 +304,9 @@ footer a img:hover {
 
 .max-size-img-post {
     max-width: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #contentinfo a {
