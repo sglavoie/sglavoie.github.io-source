@@ -27,6 +27,19 @@ save_as: learning-progress.html
   </thead>
   <tbody>
     <tr>
+      <th scope="row">7</th>
+      <td>
+     <ul>
+         <li><em>Google IT</em></li>
+         <ul>
+             <li>IT Security: Malicious Software, Network Attacks, Other Types of Attacks.</li>
+         </ul>
+         <li>Statistics (Poisson Distribution, Geometric Distribution, Binomial Distribution).</li>
+         <li></li>
+     </ul>
+    </td>
+    </tr>
+    <tr>
       <th scope="row">6</th>
       <td>
      <ul>
