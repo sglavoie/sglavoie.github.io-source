@@ -35,7 +35,6 @@ save_as: learning-progress.html
              <li>IT Security: Malicious Software, Network Attacks, Other Types of Attacks.</li>
          </ul>
          <li>Statistics (Poisson Distribution, Geometric Distribution, Binomial Distribution).</li>
-         <li></li>
      </ul>
     </td>
     </tr>
