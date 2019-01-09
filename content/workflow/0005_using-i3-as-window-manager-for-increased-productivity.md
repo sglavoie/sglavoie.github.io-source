@@ -12,7 +12,7 @@ Summary: I was striving to improve my productivity as one of my New Year's resol
 
 ----
 
-### What are desktop environments?
+### What are desktop <span style="white-space: nowrap">environments?</span>
 
 If you are familiar with Linux <i class="fab fa-linux"></i>, you certainly know about desktop environments such as [GNOME](https://www.gnome.org/), [KDE](https://www.kde.org/), [Xfce](https://www.xfce.org/)... and actually many more are available (you can see [this article on Wikipedia](https://en.wikipedia.org/wiki/Desktop_environment) <i class="fab fa-wikipedia-w"></i> for an extended selection)! The classic Graphical User Interface (GUI) on Windows XP was known as [Luna](https://en.wikipedia.org/wiki/Luna_(theme)) <i class="fab fa-wikipedia-w"></i> and is now called Modern on Windows 10. [Aqua](https://en.wikipedia.org/wiki/Aqua_(user_interface)) <i class="fab fa-wikipedia-w"></i> is the name of the GUI on MacOS. Well, every desktop environment comes with a window manager, the main component that makes interactions with windows possible, like moving, resizing, minimizing or closing them.
 
@@ -86,7 +86,7 @@ Here is a screenshot\* of the workspace where this article is being written (cli
 
 ## Conclusion
 
-I am not trying to convince myself anymore: I really prefer this workflow! If you are looking for a change and would like to maximize both your productivity and your system resources, `i3` is a great window manager to consider. It doesn't seem very intuitive at first, but I swear it quickly becomes easy to use and you also end up learning more about how Linux works and set things up manually (just once!) to your likings. For example, I use Rofi instead of dmenu to have a window pop-up to select applications or switch to any window on any workspace... which was only one line to modify in the configuration file.
+I am not trying to convince myself anymore: I really prefer this workflow <i class="fas fa-grin-hearts"></i>! If you are looking for a change and would like to maximize both your productivity and your system resources, `i3` is a great window manager to consider. It doesn't seem very intuitive at first, but I swear it quickly becomes easy to use and you also end up learning more about how Linux works and set things up manually (just once!) to your likings. For example, I use Rofi instead of dmenu to have a window pop-up to select applications or switch to any window on any workspace... which was only one line to modify in the configuration file.
 
 I have found the following screencasts on YouTube to be quite useful in learning how to configure `i3` (apart from the official documentation which is very comprehensive):
 
