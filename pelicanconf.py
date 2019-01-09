@@ -87,7 +87,7 @@ DISPLAY_CATEGORIES_ON_MENU = True
 TYPOGRIFY = True
 ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
-DEFAULT_DATE_FORMAT = '%B %d, %Y'
+DEFAULT_DATE_FORMAT = '%B %d, %Y @ %H:%M'
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
