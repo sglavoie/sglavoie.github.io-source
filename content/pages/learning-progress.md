@@ -27,6 +27,18 @@ save_as: learning-progress.html
   </thead>
   <tbody>
     <tr>
+      <th scope="row">8</th>
+      <td>
+     <ul>
+         <li><em>Google IT</em></li>
+         <ul>
+             <li>IT Security: Symmetric Encryption, Asymmetric Encryption, Hashing, Cryptography Applications.</li>
+         </ul>
+         <li>Standard functions in SQL.</li>
+     </ul>
+    </td>
+    </tr>
+    <tr>
       <th scope="row">7</th>
       <td>
      <ul>
