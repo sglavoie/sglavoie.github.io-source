@@ -27,6 +27,17 @@ save_as: learning-progress.html
   </thead>
   <tbody>
     <tr>
+      <th scope="row">9</th>
+      <td>
+     <ul>
+         <li><em>Google IT</em> <i class="fas fa-university"></i></li>
+         <ul>
+             <li>IT Security: AAA (Authentication, Authorization, Accounting).</li>
+         </ul>
+     </ul>
+    </td>
+    </tr>
+    <tr>
       <th scope="row">8</th>
       <td>
      <ul>
