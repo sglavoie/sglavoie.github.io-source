@@ -14,7 +14,6 @@ sub, sup {
 }
 
 #post-list {
-    font-size: 1.2rem;
     list-style-type: none;
 }
 
@@ -64,11 +63,6 @@ figure {
     right: 3%;
 }
 
-.img-categories:hover {
-    filter: brightness(200%);
-    -webkit-filter: brightness(200%);
-}
-
 #index {
     background-color: #CEDBD9;
     color: #1D1D1E;
@@ -109,15 +103,12 @@ figure {
     padding: 0.2rem 0.5rem;
     text-transform: lowercase;
     border: 1px solid #E9ECEF;
+    transition: 0.5s ease;
 }
 
 .emphasis:hover {
     background-color: #D9E8ED;
     border: 1px solid #C9D8DD;
-}
-
-#post-list {
-    list-style-type: none;
 }
 
 .copy-left {
@@ -188,7 +179,6 @@ body::-webkit-scrollbar-thumb {
 }
 /* end SCROLLBAR */
 
-
 /* FOOTER */
 .footer-borders {
     background-image: url("/theme/images/footer/contributions.svg");
@@ -257,7 +247,6 @@ address {
     font-size: 0.7rem;
 }
 
-
 .footer-bottom-icon {
     height: 1rem;
     width: auto;
@@ -295,7 +284,6 @@ footer a img:hover {
     -moz-filter: drop-shadow(0px 0 1px #1b6182);
 }
 /* end FOOTER */
-
 
 /* ARTICLE PAGE */
 .category-article {
@@ -336,11 +324,19 @@ section#content:after {
     padding-left: 0.5rem;
 }
 
+.card-body>hr {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.card-body>ul {
+    padding-left: 1em;
+}
+
 .card-body>ul>li {
     padding: 10px;
 }
 /* end ARTICLE PAGE */
-
 
 /* INDEX PAGE */
 .paginator {
@@ -348,7 +344,6 @@ section#content:after {
     text-align: center;
 }
 /* end INDEX PAGE */
-
 
 /* DISQUS */
 .position-comments-count {
@@ -359,7 +354,6 @@ section#content:after {
     color:#ffffff
 }
 /* end DISQUS */
-
 
 /* CODE BLOCKS */
 table {
@@ -414,7 +408,6 @@ Style the button that is used to open and close the collapsible content */
 }
 /* end COLLAPSIBLE CONTENT */
 
-
 /* TAG CLOUD PELICAN PLUGIN */
 ul.tagcloud {
     list-style: none;
@@ -461,7 +454,6 @@ ul.tagcloud .list-group-item span.badge {
     color: white;
 }
 /* end TAG CLOUD PELICAN PLUGIN */
-
 
 /* BOOTSTRAP MODIFICATIONS BELOW */
 html, body {
@@ -514,29 +506,30 @@ a:visited.btn {
 }
 
 .display-4 {
-    font-size: x-large;
+    font-size: larger;
+    font-weight: bold;
 }
 
 .h2, h2 {
-    font-size: 2rem;
-    text-shadow: 0 0 40px #f7fbff;
+    font-size: 1.3rem;
+    font-weight: bold;
 }
 
 .h3, h3 {
-    font-size: 1.75rem;
-    text-shadow: 0 0 30px #f7fbff;
+    font-size: 1.2rem;
+    font-weight: bold;
 }
 
 .h4, h4 {
-    font-size: 1.5rem;
-    text-shadow: 0 0 20px #f7fbff;
+    font-size: 1.1rem;
+    font-weight: bold;
+    padding-top: 1.5rem;
 }
 
 .h5, h5 {
-    font-size: 1.25rem;
-    text-shadow: 0 0 10px #f7fbff;
+    font-size: 1.05rem;
+    font-weight: bold;
 }
-
 
 a {
     color: #00015f;
@@ -697,6 +690,20 @@ code {
 
 @media (max-width: 576px) {
 
+.modified {
+    display: table-row-group;
+}
+
+.emphasis {
+    margin-top: 0.2rem;
+    display: block;
+    width: fit-content;
+}
+
+#post-list {
+    padding-left: 0.5em;
+}
+
 .category-article {
     display: block;
 }
@@ -717,7 +724,8 @@ footer .social-footer li {
 }
 
 .navbar-toggler {
-    margin-top: 50px;
+    margin-top: 15px;
+    margin-bottom: 5px;
 }
 
 .jumbotron {

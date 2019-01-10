@@ -12,7 +12,7 @@ Summary: I was striving to improve my productivity as one of my New Year's resol
 
 ----
 
-### What are desktop <span style="white-space: nowrap">environments?</span>
+### What are desktop environments?
 
 If you are familiar with Linux <i class="fab fa-linux"></i>, you certainly know about desktop environments such as [GNOME](https://www.gnome.org/), [KDE](https://www.kde.org/), [Xfce](https://www.xfce.org/)... and actually many more are available (you can see [this article on Wikipedia](https://en.wikipedia.org/wiki/Desktop_environment) <i class="fab fa-wikipedia-w"></i> for an extended selection)! The classic Graphical User Interface (GUI) on Windows XP was known as [Luna](https://en.wikipedia.org/wiki/Luna_(theme)) <i class="fab fa-wikipedia-w"></i> and is now called Modern on Windows 10. [Aqua](https://en.wikipedia.org/wiki/Aqua_(user_interface)) <i class="fab fa-wikipedia-w"></i> is the name of the GUI on MacOS. Well, every desktop environment comes with a window manager, the main component that makes interactions with windows possible, like moving, resizing, minimizing or closing them.
 

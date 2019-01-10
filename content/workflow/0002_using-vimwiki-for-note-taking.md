@@ -15,7 +15,7 @@ As this relies upon Vim's power to write content in a simple format, this quickl
 
 ----
 
-## What were the other options <span style="white-space:nowrap">considered?</span>
+## What were the other options considered?
 
 I have used various approaches in the past for different purposes and reasons, including *Evernote*, *Simplenote*, *Microsoft OneNote*, *Google Docs*, *Boostnote*, *Freeplane*/*FreeMind* (mind-mapping), *Workflowy* and even plain `.txt` files. Each has its pros and cons, but I then decided to limit my options based on the following self-imposed requirements:
 

@@ -343,7 +343,7 @@ if __name__ == '__main__':
 
 ----
 
-## Anecdotal evidence of satisfying <span style="white-space: nowrap">performances</span>
+## Anecdotal evidence of satisfying performances
 
 Performance-wise, this scans ~8,300 lines per second on my modest Intel Core i5 laptop with files of over 200,000 lines long. Not that I type so much stuff in the terminal: I just duplicated many lines <i class="fas fa-smile"></i>.
 
