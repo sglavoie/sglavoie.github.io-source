@@ -697,7 +697,6 @@ code {
 .emphasis {
     margin-top: 0.2rem;
     display: block;
-    width: fit-content;
 }
 
 #post-list {
