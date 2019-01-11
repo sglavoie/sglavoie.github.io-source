@@ -27,6 +27,17 @@ save_as: learning-progress.html
   </thead>
   <tbody>
     <tr>
+      <th scope="row">10</th>
+      <td>
+     <ul>
+         <li><em>Google IT</em> <i class="fas fa-university"></i></li>
+         <ul>
+             <li>IT Security: Secure Network Architecture, Wireless Security, Network Monitoring, System Hardening, Application Hardening, Security Model of Chrome OS.</li>
+         </ul>
+     </ul>
+    </td>
+    </tr>
+    <tr>
       <th scope="row">9</th>
       <td>
      <ul>
