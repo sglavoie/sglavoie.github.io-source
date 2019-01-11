@@ -372,31 +372,83 @@ pre {
 /* end CODE BLOCKS */
 
 /* PAGE LEARNING-PROCESS */
+.no-padding {
+    padding: 0;
+}
+
 .learning-year {
-    text-align: center;
-    font-weight: bold;
     font-size:x-large;
+    font-weight: bold;
+    padding-bottom: 1em;
+    text-align: center;
 }
 
 .learning-month {
     text-align: center;
     font-weight: bold;
-    padding-bottom: 1rem;
+    padding: 1rem;
+    cursor: pointer;
+}
+
+.blue-content>ul {
+    padding: 1em;
+}
+
+.grey-content>ul {
+    padding: 1em;
+}
+
+.blue-content {
+    background-color: #DFE5EB;
+}
+
+.grey-content {
+    background-color: #BFBFBF;
+}
+
+.blue-day {
+    font-weight: bold;
+    text-align: center;
+    background-color: #DFE5EB;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #002e5f;
+    color: #ffffff;
+}
+
+.grey-day {
+    font-weight: bold;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+@media (max-width: 768px) {
+
+.blue-content>ul {
+    margin-left: 1em;
+}
+.grey-content>ul {
+    margin-left: 1em;
+}
+
 }
 /* end PAGE LEARNING-PROCESS */
 
 /* COLLAPSIBLE CONTENT */
+.panel {
+  border: 0;
+  margin-bottom: 0;
+}
+
 /* https://www.w3schools.com/howto/howto_js_collapsible.asp
 Style the button that is used to open and close the collapsible content */
 .collapsible {
   cursor: pointer;
-  padding: 18px;
-  width: 100%;
-}
-
-/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
-.collapsible:hover {
-  background-color: #fafcff;
 }
 
 /* Style the collapsible content. Note: hidden by default */
@@ -478,6 +530,10 @@ body {
     border-radius: 0;
 }
 
+.container {
+    max-width: none;
+}
+
 a:visited.btn {
      color: #ffffff; 
 }
@@ -554,6 +610,7 @@ p {
 
 li {
     list-style-type: square;
+    padding-right: 1em;
 }
 
 .navbar {
