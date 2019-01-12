@@ -21,6 +21,21 @@ save_as: learning-progress.html
     <div id="jan19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 grey-day">11</div>
+  <div class="col-12 col-md-10 grey-content">
+     <ul>
+         <li><em>Google IT</em> <i class="fas fa-university"></i></li>
+         <ul>
+             <li>IT Security: Review of Security Measures.</li>
+         </ul>
+
+         <li>Creating collapsible, responsive content in CSS <i class="fab fa-css3"></i> with Bootstrap 4.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 blue-day">10</div>
   <div class="col-12 col-md-10 blue-content">
      <ul>
