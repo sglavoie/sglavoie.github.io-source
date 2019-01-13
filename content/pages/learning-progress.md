@@ -21,6 +21,19 @@ save_as: learning-progress.html
     <div id="jan19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 blue-day">12</div>
+  <div class="col-12 col-md-10 blue-content">
+     <ul>
+         <li><i class="fas fa-graduation-cap"></i> <strong>Finished</strong> <em>Google IT</em>!</i></li>
+         <ul>
+             <li>IT Security: Review (Application Policies, Privacy Policies, Information Policies, Password Policies, Security Recommendations on Mobile and Laptop, Wireless Security, Authentication Systems, Network Separation, Firewalls, Intrusion Detection & Prevention Systems).</li>
+         </ul>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 grey-day">11</div>
   <div class="col-12 col-md-10 grey-content">
      <ul>
@@ -1487,7 +1500,7 @@ save_as: learning-progress.html
      </ul>
 <strong>Basics of...</strong>
      <ul>
-         <li>Python <i class="fab fa-python"></i>: Get <a href="https://www.sololearn.com/Certificate/1073-6555674/pdf/">certificate</a> for Python 3 Tutorial on SoloLearn.</li>
+         <li>Python <i class="fab fa-python"></i>: Get <i class="fas fa-graduation-cap"></i> <a href="https://www.sololearn.com/Certificate/1073-6555674/pdf/">certificate</a> for Python 3 Tutorial on SoloLearn.</li>
          <li>HTML <i class="fab fa-html5"></i>, CSS <i class="fab fa-css3"></i>, JavaScript <i class="fab fa-js"></i>, SQL, Visual Basic, Pascal, Scribus, LibreOffice, GIMP, Audacity, Inkscape, Blender, XAMPP (Apache distribution), Wordpress, Freeplane (mind mapping software).</li>
      </ul>
 
