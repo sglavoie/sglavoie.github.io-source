@@ -6,7 +6,7 @@ from pelican import __version__
 
 PELICAN_VERSION = __version__
 
-SITE_VERSION = 'v0.7.0'
+SITE_VERSION = 'v0.8.0'
 CURRENT_YEAR = datetime.today().year
 
 AUTHOR = 'Sébastien Lavoie'
@@ -16,7 +16,7 @@ SITESUBTITLE = 'The Learning Journey to the Summit of Commits'
 DISQUS_SITENAME = 'sglavoie'
 TWITTER_USERNAME = 'sgdlavoie'
 THEME = 'themes/SL'
-ABOUT_VERSION = '0.1.0'
+ABOUT_VERSION = '0.1.1'
 
 
 PATH = 'content'
