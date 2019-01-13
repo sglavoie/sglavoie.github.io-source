@@ -78,7 +78,7 @@
 
     {% for href, id, icon in MENUITEMS %}
     <li class="nav-item {% if output_file in href %}active-nav{% endif %}">
-        <a class="nav-link" href="{{ href|e }}">{{ icon }} {{ id }}</a>
+        <a class="nav-link {% if output_file in href %}active-link{% endif %}" href="{{ href|e }}">{{ icon }} {{ id }}</a>
     </li>
 {% endfor %}
           </ul>
