@@ -163,12 +163,6 @@ i {
 #bg-darker {
     background-color: #000000;
     text-shadow: 0 0 1px black;
-
-    background-image: url("/theme/images/header/abstract_path.svg");
-    background-repeat: no-repeat;
-    background-size: 90%;
-    background-position-y: -750px;
-    background-position-x: -100px;
 }
 
 
@@ -720,67 +714,6 @@ body::-webkit-scrollbar {
 }
 
 /* end @MEDIA (MAX-WIDTH: 992PX) */
-
-@media (min-width: 360px) {
-
-#bg-darker {
-    background-size: 90%;
-    background-position-y: -850px;
-    background-position-x: -100px;
-}
-}
-
-@media (min-width: 400px) {
-
-#bg-darker {
-    background-size: 80%;
-    background-position-y: -850px;
-    background-position-x: -100px;
-}
-}
-
-@media (min-width: 476px) {
-
-#bg-darker {
-    background-size: 65%;
-    background-position-y: -850px;
-    background-position-x: -100px;
-}
-}
-
-@media (min-width: 576px) {
-
-#bg-darker {
-    background-size: 55%;
-    background-position-y: -850px;
-    background-position-x: -100px;
-}
-
-.category-article {
-    display: inline-block;
-}
-
-.emphasis {
-    display: inline-block;
-}
-}
-
-@media (min-width: 640px) {
-
-#bg-darker {
-    background-size: 45%;
-    background-position-y: -850px;
-    background-position-x: 50px;
-}
-}
-@media (min-width: 796px) {
-
-#bg-darker {
-    background-size: 40%;
-    background-position-y: -950px;
-    background-position-x: 50px;
-}
-}
 
 @media (min-width: 992px) {
 
