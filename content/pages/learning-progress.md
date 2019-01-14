@@ -21,10 +21,21 @@ save_as: learning-progress.html
     <div id="jan19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 grey-day">13</div>
+  <div class="col-12 col-md-10 grey-content">
+     <ul>
+         <li>Creating abstract SVG paths in <a href="https://inkscape.org/">Inkscape</a>.</li>
+         <li>Creating functions in JavaScript <i class="fab fa-js"></i> with <code>Processing.js</code> and <code>p5.js</code>.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 blue-day">12</div>
   <div class="col-12 col-md-10 blue-content">
      <ul>
-         <li><i class="fas fa-graduation-cap"></i> <strong>Finished</strong> <em>Google IT</em>!</i></li>
+         <li><i class="fas fa-graduation-cap"></i> Finished <em>Google IT Support Professional</em> <a href="https://www.coursera.org/account/accomplishments/specialization/GYNYSFSVYNAS">Certificate</a>!</i></li>
          <ul>
              <li>IT Security: Review (Application Policies, Privacy Policies, Information Policies, Password Policies, Security Recommendations on Mobile and Laptop, Wireless Security, Authentication Systems, Network Separation, Firewalls, Intrusion Detection & Prevention Systems).</li>
          </ul>
@@ -429,7 +440,7 @@ save_as: learning-progress.html
 <div class="col-12 col-md-10 grey-content">
      <ul>
          <li>Add plugins to Pelican (static site generator): plugin <code>tag_cloud</code>.</li>
-         <li>Enrolled in <em><a href="https://www.coursera.org/specializations/google-it-support">Google IT Support Professional Certificate</a></em> on Coursera.</li>
+         <li><i class="fas fa-graduation-cap"></i> Enrolled in <em><a href="https://www.coursera.org/specializations/google-it-support">Google IT Support Professional Certificate</a></em> on Coursera.</li>
          <ul>
              <li>Introduction to IT Support, History of Computing, Digital Logic, Computer Architecture Layer.</li>
          </ul>
