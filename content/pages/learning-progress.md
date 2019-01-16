@@ -20,12 +20,33 @@ save_as: learning-progress.html
     </div>
     <div id="jan19" class="container collapse">
 
+
+<div class="row">
+  <div class="col-12 col-md-2 grey-day">15</div>
+  <div class="col-12 col-md-10 grey-content">
+     <ul>
+         <li>JavaScript <i class="fab fa-js"></i>: Conditional statements, loops and functions.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="col-12 col-md-2 blue-day">14</div>
+  <div class="col-12 col-md-10 blue-content">
+     <ul>
+         <li>JavaScript <i class="fab fa-js"></i>: built-in variables and events.</li>
+     </ul>
+  </div>
+</div>
+
+
 <div class="row">
   <div class="col-12 col-md-2 grey-day">13</div>
   <div class="col-12 col-md-10 grey-content">
      <ul>
          <li>Creating abstract SVG paths in <a href="https://inkscape.org/">Inkscape</a>.</li>
-         <li>Creating functions in JavaScript <i class="fab fa-js"></i> with <code>Processing.js</code> and <code>p5.js</code>.</li>
+         <li>Creating functions in JavaScript <i class="fab fa-js"></i> with <code>Processing.js</code> & <code>p4.js</code>.</li>
      </ul>
   </div>
 </div>
@@ -37,7 +58,7 @@ save_as: learning-progress.html
      <ul>
          <li><i class="fas fa-graduation-cap"></i> Finished <em>Google IT Support Professional</em> <a href="https://www.coursera.org/account/accomplishments/specialization/GYNYSFSVYNAS">Certificate</a>!</i></li>
          <ul>
-             <li>IT Security: Review (Application Policies, Privacy Policies, Information Policies, Password Policies, Security Recommendations on Mobile and Laptop, Wireless Security, Authentication Systems, Network Separation, Firewalls, Intrusion Detection & Prevention Systems).</li>
+             <li>IT Security: Review (Application Policies, Privacy Policies, Information Policies, Password Policies, Security Recommendations on Mobile & Laptop, Wireless Security, Authentication Systems, Network Separation, Firewalls, Intrusion Detection & Prevention Systems).</li>
          </ul>
      </ul>
   </div>
@@ -168,7 +189,7 @@ save_as: learning-progress.html
      <ul>
          <li><em>Google IT</em> <i class="fas fa-university"></i></li>
          <ul>
-             <li>Active Directory (Managing Users & Passwords, Group Policy), OpenLDAP.</li>
+             <li>Active Directory (Managing Users and Passwords, Group Policy), OpenLDAP.</li>
          </ul>
          <li>Began reading <a href="https://jamesclear.com/atomic-habits">Atomic Habits</a> <i class="fas fa-book"></i>, by <a href="https://jamesclear.com/">James Clear</a>.</li>
      </ul>
@@ -253,7 +274,7 @@ save_as: learning-progress.html
          </ul>
 
          <li>Configure locales on Linux <i class="fab fa-linux"></i>.</li>
-         <li>Using <a href="https://joplin.cozic.net">Joplin</a> and <a href="https://todoist.com/">Todoist</a>.</li>
+         <li>Using <a href="https://joplin.cozic.net">Joplin</a> & <a href="https://todoist.com/">Todoist</a>.</li>
          <li>Setting up <a href="https://github.com/tobi-wan-kenobi/bumblebee-status">bumblebee-status</a> with <a href="https://i3wm.org/">i3</a>.</li>
      </ul>
    </div>
@@ -277,7 +298,7 @@ save_as: learning-progress.html
              <li>Physical Infrastructure Services.</li>
              <li>Configuring Network Services.</li>
          </ul>
-         <li>i3wm setup and configuration.</li>
+         <li>i3wm setup & configuration.</li>
      </ul>
    </div>
 </div>
@@ -327,7 +348,7 @@ save_as: learning-progress.html
      <ul>
          <li><em>Google IT</em> <i class="fas fa-university"></i></li>
          <ul>
-             <li>Operating Systems: File and Text Manipulation, Users and Permissions, Package and Software Management.</li>
+             <li>Operating Systems: File and Text Manipulation, Users & Permissions, Package & Software Management.</li>
          </ul>
      </ul>
    </div>
@@ -428,7 +449,7 @@ save_as: learning-progress.html
      <ul>
          <li><em>Google IT</em> <i class="fas fa-university"></i></li>
          <ul>
-             <li>Hardware: CPU and other components, Overclocking, BIOS, Computer Assembly.</li>
+             <li>Hardware: CPU & other components, Overclocking, BIOS, Computer Assembly.</li>
              <li>Operating System: File Systems, Kernel, Logs, User Space, Boot Process.</li>
          </ul>
      </ul>
@@ -454,7 +475,7 @@ save_as: learning-progress.html
      <ul>
          <li>Bootstrap (web framework): Tables.</li>
          <li>Pelican (static site generator): Use <em>Pages</em> in theme; Integrate menu items; Add a custom 404 error page.</li>
-         <li>Read <em><a href="http://a.co/d/81yHmxn">The Complete Software Developer's Career Guide</a></em> <i class="fas fa-book"></i>, by <a href="https://simpleprogrammer.com/">John Sonmez</a>: Section 3 (What you need to know about software development) and Section 4 (Working as a developer). Section 4 contained the inspiration I needed to write about this <em>Learning Progress</em>.</li>
+         <li>Read <em><a href="http://a.co/d/81yHmxn">The Complete Software Developer's Career Guide</a></em> <i class="fas fa-book"></i>, by <a href="https://simpleprogrammer.com/">John Sonmez</a>: Section 3 (What you need to know about software development) & Section 4 (Working as a developer). Section 4 contained the inspiration I needed to write about this <em>Learning Progress</em>.</li>
      </ul>
    </div>
 </div>
@@ -505,7 +526,7 @@ save_as: learning-progress.html
 <div class="col-12 col-md-10 grey-content">
       <ul>
           <li>Use <code>markdown-preview</code> plugin for Neovim.</li>
-          <li>Storing Python <i class="fab fa-python"></i> dictionaries into files and retrieving them.</li>
+          <li>Storing Python <i class="fab fa-python"></i> dictionaries into files & retrieving them.</li>
           <li>Convert list of strings to integers.</li>
       </ul>
    </div>
@@ -516,7 +537,7 @@ save_as: learning-progress.html
 <div class="col-12 col-md-10 blue-content">
       <ul>
           <li>Apply text transformations in CSS <i class="fab fa-css3"></i> (example with Copyleft symbol instead of Copyright).</li>
-          <li><code>p5.js</code> library: Simple themes like shapes, colors and text.</li>
+          <li><code>p5.js</code> library: Simple themes like shapes, colors & text.</li>
       </ul>
    </div>
 </div>
@@ -548,7 +569,7 @@ save_as: learning-progress.html
 <div class="col-12 col-md-10 grey-content">
       <ul>
           <li>Vim's location list.</li>
-          <li><code>fzf</code> behavior with <code>.gitignore</code> and <code>.ignore</code> files.</li>
+          <li><code>fzf</code> behavior with <code>.gitignore</code> & <code>.ignore</code> files.</li>
           <li>Functions in JavaScript <i class="fab fa-js"></i>.</li>
           <li>Swap partitions in Linux <i class="fab fa-linux"></i>.</li>
           <li>Use Calcurse in terminal <i class="fas fa-terminal"></i>.</li>
@@ -632,7 +653,7 @@ save_as: learning-progress.html
    <div class="col-12 col-md-2 blue-day">22</div>
 <div class="col-12 col-md-10 blue-content">
       <ul>
-          <li>Make more responsive design in HTML5 <i class="fab fa-html5"></i> and CSS3 <i class="fab fa-css3"></i>.</li>
+          <li>Make more responsive design in HTML5 <i class="fab fa-html5"></i> & CSS3 <i class="fab fa-css3"></i>.</li>
           <li>Manage bookmarks on the command-line with Buku.</li>
       </ul>
    </div>
@@ -684,7 +705,7 @@ save_as: learning-progress.html
       <ul>
           <li>HTML <i class="fab fa-html5"></i> Fundamentals (<a href="https://www.sololearn.com/Certificate/1014-6555674/pdf/">certificate</a>).</li>
           <li>Use third-party fonts in HTML <i class="fab fa-html5"></i>.</li>
-          <li>Build a simple landing page in HTML5 <i class="fab fa-html5"></i> and CSS3 <i class="fab fa-css3"></i>.</li>
+          <li>Build a simple landing page in HTML5 <i class="fab fa-html5"></i> & CSS3 <i class="fab fa-css3"></i>.</li>
       </ul>
    </div>
 </div>
@@ -694,7 +715,7 @@ save_as: learning-progress.html
 <div class="col-12 col-md-10 blue-content">
       <ul>
           <li>Draggable JS <i class="fab fa-js"></i>.</li>
-          <li>Set up SSH tunnel in MySQL Workbench and DBeaver.</li>
+          <li>Set up SSH tunnel in MySQL Workbench & DBeaver.</li>
       </ul>
    </div>
 </div>
@@ -898,7 +919,7 @@ save_as: learning-progress.html
 <div class="col-12 col-md-10 grey-content">
      <ul>
          <li>Regex examples in Vim.</li>
-         <li>Use <code>pandas</code> and <code>numpy</code> modules to manage data from CSV files to generate plots with Matplotlib.</li>
+         <li>Use <code>pandas</code> & <code>numpy</code> modules to manage data from CSV files to generate plots with Matplotlib.</li>
      </ul>
    </div>
 </div>
@@ -918,7 +939,7 @@ save_as: learning-progress.html
 <div class="col-12 col-md-10 grey-content">
      <ul>
          <li>Arithmetic in SQL.</li>
-         <li><code>yaml</code> logging and configuration format.</li>
+         <li><code>yaml</code> logging & configuration format.</li>
          <li>Logging in Python <i class="fab fa-python"></i> with <code>logging</code> module.</li>
      </ul>
    </div>
@@ -1018,7 +1039,7 @@ save_as: learning-progress.html
 <div class="col-12 col-md-10 grey-content">
      <ul>
          <li>Review concept of recursion.</li>
-         <li>Review conversion of numbers from different bases (mainly binary and octal).</li>
+         <li>Review conversion of numbers from different bases (mainly binary & octal).</li>
      </ul>
    </div>
 </div>
@@ -1037,7 +1058,7 @@ save_as: learning-progress.html
    <div class="col-12 col-md-2 grey-day">10</div>
 <div class="col-12 col-md-10 grey-content">
      <ul>
-         <li>Review rounding in Python <i class="fab fa-python"></i> (built-in functions and <code>math</code> module).</li>
+         <li>Review rounding in Python <i class="fab fa-python"></i> (built-in functions & <code>math</code> module).</li>
      </ul>
    </div>
 </div>
@@ -1072,7 +1093,7 @@ save_as: learning-progress.html
          <li>Threading in Python <i class="fab fa-python"></i> (<code>threading</code> module).</li>
          <li>Install latest Python <i class="fab fa-python"></i> version from source (<a href="https://realpython.com/installing-python/">article on Real Python</a>).</li>
          <li>Enable fonts with ligatures in Neovim.</li>
-         <li><code>rsync</code> command and graphical interfaces (including Grsync).</li>
+         <li><code>rsync</code> command & graphical interfaces (including Grsync).</li>
      </ul>
    </div>
 </div>
@@ -1263,7 +1284,7 @@ save_as: learning-progress.html
    <div class="col-12 col-md-2 grey-day">19</div>
 <div class="col-12 col-md-10 grey-content">
      <ul>
-         <li>Integrate custom functions in Vim (with <a href="https://github.com/ggreer/the_silver_searcher">ag</a>, <a href="https://github.com/junegunn/fzf">fzf</a> and <a href="https://github.com/davidhalter/jedi">jedi</a>).</li>
+         <li>Integrate custom functions in Vim (with <a href="https://github.com/ggreer/the_silver_searcher">ag</a>, <a href="https://github.com/junegunn/fzf">fzf</a> & <a href="https://github.com/davidhalter/jedi">jedi</a>).</li>
      </ul>
    </div>
 </div>
@@ -1272,7 +1293,7 @@ save_as: learning-progress.html
    <div class="col-12 col-md-2 blue-day">18</div>
 <div class="col-12 col-md-10 blue-content">
      <ul>
-         <li>Vim and Neovim differences to better adjust configuration.</li>
+         <li>Vim & Neovim differences to better adjust configuration.</li>
          <li>Extract frames from videos in terminal <i class="fas fa-terminal"></i> with <code>ffmpeg</code>.</li>
      </ul>
    </div>
@@ -1282,7 +1303,7 @@ save_as: learning-progress.html
    <div class="col-12 col-md-2 grey-day">17</div>
 <div class="col-12 col-md-10 grey-content">
      <ul>
-         <li>Run Vim commands to affect all buffers with <code>:bufdo</code> and <code>:argdo</code>.</li>
+         <li>Run Vim commands to affect all buffers with <code>:bufdo</code> & <code>:argdo</code>.</li>
          <li>Configure Git <i class="fab fa-git"></i> to authenticate with SSH.</li>
      </ul>
    </div>
@@ -1310,7 +1331,7 @@ save_as: learning-progress.html
    <div class="col-12 col-md-2 blue-day">14</div>
 <div class="col-12 col-md-10 blue-content">
      <ul>
-         <li>Use ADB and Fastboot to access Android phone from computer.</li>
+         <li>Use ADB & Fastboot to access Android phone from computer.</li>
      </ul>
    </div>
 </div>
@@ -1319,7 +1340,7 @@ save_as: learning-progress.html
    <div class="col-12 col-md-2 grey-day">13</div>
 <div class="col-12 col-md-10 grey-content">
      <ul>
-         <li>Make use of <code>fzf</code> in terminal <i class="fas fa-terminal"></i> and Neovim.</li>
+         <li>Make use of <code>fzf</code> in terminal <i class="fas fa-terminal"></i> & Neovim.</li>
          <li>Configure Neovim from scratch.</li>
          <li>Discover <a href="https://github.com/onivim/oni">Oni</a>, text editor powered by Neovim.</li>
      </ul>
@@ -1413,7 +1434,7 @@ save_as: learning-progress.html
    <div class="col-12 col-md-2 grey-day">2</div>
 <div class="col-12 col-md-10 grey-content">
      <ul>
-         <li>Python <i class="fab fa-python"></i> <code>timeit</code> module and use of <code>__init__.py</code> files.</li>
+         <li>Python <i class="fab fa-python"></i> <code>timeit</code> module & use of <code>__init__.py</code> files.</li>
          <li>Django tutorial serie with <a href="https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g">Corey Schafer</a> on YouTube <i class="fab fa-youtube"></i>.</li>
      </ul>
    </div>
@@ -1423,7 +1444,7 @@ save_as: learning-progress.html
    <div class="col-12 col-md-2 blue-day">1</div>
 <div class="col-12 col-md-10 blue-content">
      <ul>
-         <li>Python <i class="fab fa-python"></i> <code>selenium</code> module: deal with page load time and XPath.</li>
+         <li>Python <i class="fab fa-python"></i> <code>selenium</code> module: deal with page load time & XPath.</li>
      </ul>
 </div>
 </div>
@@ -1450,7 +1471,7 @@ save_as: learning-progress.html
      </ul>
 <strong>Python</strong>
      <ul>
-         <li>Algorithms and Data Structures on <a href="https://www.hackerrank.com/">HackerRank.com</a>, <a href="http://www.codeabbey.com/">Code Abbey</a>, <a href="https://projecteuler.net/">Project Euler</a>, etc.</li>
+         <li>Algorithms & Data Structures on <a href="https://www.hackerrank.com/">HackerRank.com</a>, <a href="http://www.codeabbey.com/">Code Abbey</a>, <a href="https://projecteuler.net/">Project Euler</a>, etc.</li>
          <li>Finish <em>Complete Python Masterclass</em> on Udemy, by Tim Buchalka.</li>
          <li>Jupyter Notebooks.</li>
          <li>Build a CLI with Click.</li>
@@ -1483,7 +1504,7 @@ save_as: learning-progress.html
          <li>Vim script language.</li>
      </ul>
      <ul>
-         <li>Use VS Code, Atom and nano (mainly).</li>
+         <li>Use VS Code, Atom & nano (mainly).</li>
      </ul>
 
 
@@ -1498,7 +1519,7 @@ save_as: learning-progress.html
   <div class="panel">
 
     <div class="row justify-content-center" role="button" data-toggle="collapse" data-parent="#earlier2017" href="#early17" aria-expanded="false" aria-controls="early17">
-    <div class="learning-year collapsible">2017 and earlier</div>
+    <div class="learning-year collapsible">2017 & earlier</div>
     </div>
     <div id="early17" class="container collapse">
 
