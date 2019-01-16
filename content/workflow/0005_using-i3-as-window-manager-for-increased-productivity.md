@@ -81,6 +81,8 @@ Here is a screenshot\* of the workspace where this article is being written (cli
 
 \* <sub>In this particular scenario, the splits on the right side are intentionally very small as I do not need to read the output, but need quick access to a terminal to enter commands. Moving back and forth between windows is a breeze, so that's how I currently handle the situation.</sub> 
 
+**Note**: With <code>Neovim</code>, there is an embedded terminal, which makes things very easy to handle by avoiding splits altogether. In that case, it is also possible to divide a workflow with tabs inside <code>Neovim</code> instead of physically splitting windows.
+
 
 ----
 
