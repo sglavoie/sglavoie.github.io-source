@@ -76,7 +76,7 @@ figure {
 }
 
 .brand-logo {
-    max-width: 50px;
+    max-width: 40px;
 }
 
 .nav-link-smaller {
@@ -795,10 +795,6 @@ body::-webkit-scrollbar {
 
 .navbar {
      padding: 0 1rem 0.5rem 0.5rem;
-}
-
-.navbar-toggler {
-    margin-top: 50px;
 }
 
 .always-white {
