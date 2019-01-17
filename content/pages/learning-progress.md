@@ -20,6 +20,18 @@ save_as: learning-progress.html
     </div>
     <div id="jan19" class="container collapse">
 
+<div class="row">
+  <div class="col-12 col-md-2 blue-day">16</div>
+  <div class="col-12 col-md-10 blue-content">
+     <ul>
+         <li><i class="fas fa-graduation-cap"></i> Finished the <a href="https://www.sololearn.com/Certificate/1024-6555674/pdf/">JavaScript Tutorial course</a> on <a href="https://www.sololearn.com">SoloLearn</a>!</li>
+         <li>JavaScript <i class="fab fa-js"></i>: Objects, DOM & Events, ECMAScript 6.</li>
+         <li>Using embedded terminals in <code>Neovim</code>.</li>
+     </ul>
+  </div>
+</div>
+
+
 
 <div class="row">
   <div class="col-12 col-md-2 grey-day">15</div>
