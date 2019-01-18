@@ -21,6 +21,19 @@ save_as: learning-progress.html
     <div id="jan19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 grey-day">17</div>
+  <div class="col-12 col-md-10 grey-content">
+     <ul>
+         <li><em><a href="https://www.edx.org">HarvardX: CS50</a></em> <i class="fas fa-university"></i></li>
+         <ul>
+             <li>Making a simple game in <a href="https://scratch.mit.edu">Scratch</a>.</li>
+         </ul>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 blue-day">16</div>
   <div class="col-12 col-md-10 blue-content">
      <ul>
