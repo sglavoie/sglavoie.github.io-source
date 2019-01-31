@@ -206,6 +206,7 @@ body::-webkit-scrollbar-thumb {
     color: #E0E4E5;
     display: table;
     font-size: 0.8rem;
+    margin: 10px 0 10px 0;
     padding: 30px;
     position: relative;
     text-align: center;
