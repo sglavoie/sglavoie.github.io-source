@@ -15,6 +15,23 @@ save_as: learning-progress.html
 <div id="year2019" class="container no-padding">
   <div class="panel">
 
+    <div class="row justify-content-center" role="button" data-toggle="collapse" data-parent="#year2019" href="#feb19" aria-expanded="false" aria-controls="feb19">
+      <div class="learning-month">February</div>
+    </div>
+    <div id="feb19" class="container collapse">
+
+<div class="row">
+  <div class="col-12 col-md-2 blue-day">2</div>
+  <div class="col-12 col-md-10 blue-content">
+     <ul>
+         <li>Review <a href="https://git-scm.com/">Git</a> <i class="fab fa-git"></i> Basics</li>
+     </ul>
+  </div>
+</div>
+
+    </div>
+
+
     <div class="row justify-content-center" role="button" data-toggle="collapse" data-parent="#year2019" href="#jan19" aria-expanded="false" aria-controls="jan19">
       <div class="learning-month">January</div>
     </div>
@@ -246,7 +263,7 @@ save_as: learning-progress.html
 </div>
 
     </div>
-    
+
   </div>
 </div>
 
