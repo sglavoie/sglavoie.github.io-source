@@ -803,6 +803,10 @@ body::-webkit-scrollbar {
 
 @media (min-width: 992px) {
 
+.brand-logo {
+    max-width: 70px;
+}
+
 .img-categories {
     bottom: 30%;
     display: flex;
