@@ -21,6 +21,17 @@ save_as: learning-progress.html
     <div id="feb19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 blue-day">4</div>
+  <div class="col-12 col-md-10 blue-content">
+     <ul>
+         <li>Learning to use and enjoy <a href="https://qutebrowser.org/">Qutebrowser</a>.</li>
+         <li>Simplifying vector paths in Inkscape.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 grey-day">3</div>
   <div class="col-12 col-md-10 grey-content">
      <ul>
