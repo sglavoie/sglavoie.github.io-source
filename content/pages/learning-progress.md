@@ -24,7 +24,7 @@ save_as: learning-progress.html
   <div class="col-12 col-md-2 grey-day">3</div>
   <div class="col-12 col-md-10 grey-content">
      <ul>
-         <li>Design with the golden ratio.</li>
+         <li>Design a logo with the golden ratio.</li>
      </ul>
   </div>
 </div>
