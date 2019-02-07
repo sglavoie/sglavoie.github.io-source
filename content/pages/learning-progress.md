@@ -21,11 +21,33 @@ save_as: learning-progress.html
     <div id="feb19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 blue-day">6</div>
+  <div class="col-12 col-md-10 blue-content">
+     <ul>
+         <li>Review SQL commands.</li>
+         <li>Started <em>10 Days of JavaScript</em> <i class="fab fa-js"></i> on <a href="https://www.hackerrank.com/">HackerRank</a>.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="col-12 col-md-2 grey-day">5</div>
+  <div class="col-12 col-md-10 grey-content">
+     <ul>
+         <li>Git <i class="fab fa-git"></i>: branches, tags, commit revisions.</li>
+         <li>Review Vim and Qutebrowser shortcuts on <a href="https://www.shortcutfoo.com/">ShortcutFoo</a>.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 blue-day">4</div>
   <div class="col-12 col-md-10 blue-content">
      <ul>
          <li>Learning to use and enjoy <a href="https://qutebrowser.org/">Qutebrowser</a>.</li>
-         <li>Simplifying vector paths in Inkscape.</li>
+         <li>Simplifying vector paths in <a href="https://inkscape.org/">Inkscape</a>.</li>
      </ul>
   </div>
 </div>
@@ -45,7 +67,7 @@ save_as: learning-progress.html
   <div class="col-12 col-md-2 blue-day">2</div>
   <div class="col-12 col-md-10 blue-content">
      <ul>
-         <li>Review <a href="https://git-scm.com/">Git</a> <i class="fab fa-git"></i> Basics.</li>
+         <li>Review <a href="https://git-scm.com/">Git</a> <i class="fab fa-git"></i> basics.</li>
      </ul>
   </div>
 </div>
