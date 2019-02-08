@@ -21,6 +21,18 @@ save_as: learning-progress.html
     <div id="feb19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 grey-day">7</div>
+  <div class="col-12 col-md-10 grey-content">
+     <ul>
+         <li>Set up dotfiles on <a href="https://www.github.com/">GitHub</a> <i class="fab fa-github"></i>.</li>
+         <li>Configure and use <a href="http://zsh.sourceforge.net/">Z Shell</a> (Zsh) <i class="fas fa-terminal"></i>.</li>
+         <li><em>10 Days of JavaScript</em> <i class="fab fa-js"></i>: Arithmetic Operators, Functions, Let & Const, Conditional Statements (if-else, switch), Strings, Loops.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 blue-day">6</div>
   <div class="col-12 col-md-10 blue-content">
      <ul>
