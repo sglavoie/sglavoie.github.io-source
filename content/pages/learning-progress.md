@@ -21,6 +21,17 @@ save_as: learning-progress.html
     <div id="feb19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 blue-day">8</div>
+  <div class="col-12 col-md-10 blue-content">
+     <ul>
+         <li>Recreate structure of <code>content/</code> folder in <code>output/</code> with Pelican (<a href="https://stackoverflow.com/a/54600188/8787680">Stackoverflow <i class="fab fa-stack-overflow"></i></a>).</li>
+         <li>Managing submodules with Git <i class="fab fa-git"></i>.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 grey-day">7</div>
   <div class="col-12 col-md-10 grey-content">
      <ul>
