@@ -21,6 +21,15 @@ save_as: learning-progress.html
     <div id="feb19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 grey-day">9</div>
+  <div class="col-12 col-md-10 grey-content">
+     <ul>
+         <li><em>10 Days of JavaScript</em> <i class="fab fa-js"></i>: Regular expressions, Arrays, Error Handling, Creating Objects.</li>
+     </ul>
+  </div>
+</div>
+
+<div class="row">
   <div class="col-12 col-md-2 blue-day">8</div>
   <div class="col-12 col-md-10 blue-content">
      <ul>
