@@ -21,6 +21,17 @@ save_as: learning-progress.html
     <div id="feb19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 blue-day">10</div>
+  <div class="col-12 col-md-10 blue-content">
+     <ul>
+         <li>Configure VirtualBox with all major Operating Systems (Windows, Mac, Linux, BSD).</li>
+         <li><a href="https://inkscape.org/">Inkscape</a>: Convert text to vector paths.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 grey-day">9</div>
   <div class="col-12 col-md-10 grey-content">
      <ul>
