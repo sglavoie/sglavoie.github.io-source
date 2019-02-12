@@ -1,6 +1,6 @@
 Title: Using i3 as a Window Manager for Increased Productivity
 Date: 2019-01-08 11:12
-Modified: 2019-01-08 18:48
+Modified: 2019-02-12 11:51
 Tags: productivity, window-manager
 Slug: using-i3-as-a-window-manager-for-increased-productivity
 Authors: Sébastien Lavoie
@@ -81,8 +81,14 @@ Here is a screenshot\* of the workspace where this article is being written (cli
 
 \* <sub>In this particular scenario, the splits on the right side are intentionally very small as I do not need to read the output, but need quick access to a terminal to enter commands. Moving back and forth between windows is a breeze, so that's how I currently handle the situation.</sub> 
 
-**Note**: With <code>Neovim</code>, there is an embedded terminal, which makes things very easy to handle by avoiding splits altogether. In that case, it is also possible to divide a workflow with tabs inside <code>Neovim</code> instead of physically splitting windows.
+**Note**: With <code>Neovim</code>, [there is an embedded terminal](/posts/2019/01/16/using-embedded-terminals-inside-neovim/), which makes things very easy to handle by avoiding splits altogether. In that case, it is also possible to divide a workflow with tabs inside <code>Neovim</code> instead of physically splitting windows.
 
+**Alternatively**, instead of splitting windows, a more convenient solution on smaller screens might be to use **stacking** windows with the shortcut `$mod + s` in each workspace or, to provide that behavior by default, the following can be added to i3's configuration file (defaults in `~/.config/i3/config`):
+
+~~~~{.bash}
+# Set default container layout
+workspace_layout stacking
+~~~~
 
 ----
 
