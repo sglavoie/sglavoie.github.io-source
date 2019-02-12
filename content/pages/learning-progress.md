@@ -21,6 +21,16 @@ save_as: learning-progress.html
     <div id="feb19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 grey-day">11</div>
+  <div class="col-12 col-md-10 grey-content">
+     <ul>
+         <li><i class="fas fa-graduation-cap"></i> Finished <em>Introduction to Computer Programming</em> on Coursera, course offered by Goldsmiths, University of London.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 blue-day">10</div>
   <div class="col-12 col-md-10 blue-content">
      <ul>
@@ -198,7 +208,7 @@ save_as: learning-progress.html
   <div class="col-12 col-md-2 blue-day">12</div>
   <div class="col-12 col-md-10 blue-content">
      <ul>
-         <li><i class="fas fa-graduation-cap"></i> Finished <em>Google IT Support Professional</em> <a href="https://www.coursera.org/account/accomplishments/specialization/GYNYSFSVYNAS">Certificate</a>!</i></li>
+         <li><i class="fas fa-graduation-cap"></i> Finished <em>Google IT Support Professional</em> <a href="https://www.coursera.org/account/accomplishments/specialization/GYNYSFSVYNAS">Certificate</a>!</li>
          <ul>
              <li>IT Security: Review (Application Policies, Privacy Policies, Information Policies, Password Policies, Security Recommendations on Mobile & Laptop, Wireless Security, Authentication Systems, Network Separation, Firewalls, Intrusion Detection & Prevention Systems).</li>
          </ul>
