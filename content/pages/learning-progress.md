@@ -21,6 +21,17 @@ save_as: learning-progress.html
     <div id="feb19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 blue-day">12</div>
+  <div class="col-12 col-md-10 blue-content">
+     <ul>
+         <li>How Computers Work, Coursera <i class="fas fa-university"></i>: Abstractions, notional machines, application states, modularity.</li>
+         <li><em>10 Days of JavaScript</em> <i class="fab fa-js"></i> on <a href="https://www.hackerrank.com/">HackerRank.com</a>: Object initializers, dot notation, bracket notation.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 grey-day">11</div>
   <div class="col-12 col-md-10 grey-content">
      <ul>
@@ -45,7 +56,7 @@ save_as: learning-progress.html
   <div class="col-12 col-md-2 grey-day">9</div>
   <div class="col-12 col-md-10 grey-content">
      <ul>
-         <li><em>10 Days of JavaScript</em> <i class="fab fa-js"></i>: Regular expressions, Arrays, Error Handling, Creating Objects.</li>
+         <li><em>10 Days of JavaScript</em> <i class="fab fa-js"></i> on <a href="https://www.hackerrank.com/">HackerRank.com</a>: Regular expressions, arrays, error handling, creating objects.</li>
      </ul>
   </div>
 </div>
@@ -67,7 +78,7 @@ save_as: learning-progress.html
      <ul>
          <li>Set up dotfiles on <a href="https://www.github.com/">GitHub</a> <i class="fab fa-github"></i>.</li>
          <li>Configure and use <a href="http://zsh.sourceforge.net/">Z Shell</a> (Zsh) <i class="fas fa-terminal"></i>.</li>
-         <li><em>10 Days of JavaScript</em> <i class="fab fa-js"></i>: Arithmetic Operators, Functions, Let & Const, Conditional Statements (if-else, switch), Strings, Loops.</li>
+         <li><em>10 Days of JavaScript</em> <i class="fab fa-js"></i> on <a href="https://www.hackerrank.com/">HackerRank.com</a>: Arithmetic operators, functions, let & const, conditional statements (if-else, switch), strings, loops.</li>
      </ul>
   </div>
 </div>
@@ -78,7 +89,7 @@ save_as: learning-progress.html
   <div class="col-12 col-md-10 blue-content">
      <ul>
          <li>Review SQL commands.</li>
-         <li>Started <em>10 Days of JavaScript</em> <i class="fab fa-js"></i> on <a href="https://www.hackerrank.com/">HackerRank</a>.</li>
+         <li>Started <em>10 Days of JavaScript</em> <i class="fab fa-js"></i> on <a href="https://www.hackerrank.com/">HackerRank.com</a>.</li>
      </ul>
   </div>
 </div>
@@ -165,7 +176,7 @@ save_as: learning-progress.html
   <div class="col-12 col-md-10 blue-content">
      <ul>
          <li><i class="fas fa-graduation-cap"></i> Finished the <a href="https://www.sololearn.com/Certificate/1024-6555674/pdf/">JavaScript Tutorial course</a> on <a href="https://www.sololearn.com">SoloLearn</a>!</li>
-         <li>JavaScript <i class="fab fa-js"></i>: Objects, DOM & Events, ECMAScript 6.</li>
+         <li>JavaScript <i class="fab fa-js"></i>: Objects, DOM & events, ECMAScript 6.</li>
          <li>Using embedded terminals in <code>Neovim</code>.</li>
      </ul>
   </div>
@@ -198,7 +209,7 @@ save_as: learning-progress.html
   <div class="col-12 col-md-10 grey-content">
      <ul>
          <li>Creating abstract SVG paths in <a href="https://inkscape.org/">Inkscape</a>.</li>
-         <li>Creating functions in JavaScript <i class="fab fa-js"></i> with <code>Processing.js</code> & <code>p4.js</code>.</li>
+         <li>Creating functions in JavaScript <i class="fab fa-js"></i> with <code>Processing.js</code> & <code>p5.js</code>.</li>
      </ul>
   </div>
 </div>
@@ -210,7 +221,7 @@ save_as: learning-progress.html
      <ul>
          <li><i class="fas fa-graduation-cap"></i> Finished <em>Google IT Support Professional</em> <a href="https://www.coursera.org/account/accomplishments/specialization/GYNYSFSVYNAS">Certificate</a>!</li>
          <ul>
-             <li>IT Security: Review (Application Policies, Privacy Policies, Information Policies, Password Policies, Security Recommendations on Mobile & Laptop, Wireless Security, Authentication Systems, Network Separation, Firewalls, Intrusion Detection & Prevention Systems).</li>
+             <li>IT Security: Review (application policies, privacy policies, information policies, password policies, security recommendations on mobile & laptop, wireless security, authentication systems, network separation, firewalls, intrusion detection & prevention systems).</li>
          </ul>
      </ul>
   </div>
@@ -223,7 +234,7 @@ save_as: learning-progress.html
      <ul>
          <li><em>Google IT</em> <i class="fas fa-university"></i></li>
          <ul>
-             <li>IT Security: Review of Security Measures.</li>
+             <li>IT Security: Review of security measures.</li>
          </ul>
 
          <li>Creating collapsible, responsive content in CSS <i class="fab fa-css3"></i> with Bootstrap 4.</li>
@@ -238,7 +249,7 @@ save_as: learning-progress.html
      <ul>
          <li><em>Google IT</em> <i class="fas fa-university"></i></li>
          <ul>
-             <li>IT Security: Secure Network Architecture, Wireless Security, Network Monitoring, System Hardening, Application Hardening, Security Model of Chrome OS.</li>
+             <li>IT Security: Secure network architecture, wireless security, network monitoring, system hardening, application hardening, security model of Chrome OS.</li>
          </ul>
      </ul>
   </div>
@@ -262,7 +273,7 @@ save_as: learning-progress.html
      <ul>
          <li><em>Google IT</em> <i class="fas fa-university"></i></li>
          <ul>
-             <li>IT Security: Symmetric Encryption, Asymmetric Encryption, Hashing, Cryptography Applications.</li>
+             <li>IT Security: Symmetric encryption, asymmetric encryption, hashing, cryptography applications.</li>
          </ul>
          <li>Standard functions in SQL.</li>
      </ul>
@@ -275,9 +286,9 @@ save_as: learning-progress.html
      <ul>
          <li><em>Google IT</em> <i class="fas fa-university"></i></li>
          <ul>
-             <li>IT Security: Malicious Software, Network Attacks, Other Types of Attacks.</li>
+             <li>IT Security: Malicious software, network attacks, other types of attacks.</li>
          </ul>
-         <li>Statistics (Poisson Distribution, Geometric Distribution, Binomial Distribution).</li>
+         <li>Statistics (Poisson distribution, geometric distribution, binomial distribution).</li>
      </ul>
   </div>
 </div>
@@ -288,7 +299,7 @@ save_as: learning-progress.html
      <ul>
          <li><em>Google IT</em> <i class="fas fa-university"></i></li>
          <ul>
-             <li>System Administration Consultation (process improvements).</li>
+             <li>System administration consultation (process improvements).</li>
          </ul>
          <li>Finish reading <a href="https://jamesclear.com/atomic-habits">Atomic Habits</a> <i class="fas fa-book"></i>, by <a href="https://jamesclear.com/">James Clear</a>.</li>
          <li>Managing duplicates in Python <i class="fab fa-python"></i> (<a href="https://github.com/sglavoie/python-utilities/tree/master/bash_history_cleaner">Bash History Cleaner</a>).</li>
@@ -302,9 +313,9 @@ save_as: learning-progress.html
      <ul>
          <li><em>Google IT</em> <i class="fas fa-university"></i></li>
          <ul>
-             <li>Disaster Recovery Plans. Post-mortems.</li>
+             <li>Disaster recovery plans & post-mortems.</li>
          </ul>
-         <li>Statistics (Conditional probability).</li>
+         <li>Statistics (conditional probability).</li>
      </ul>
   </div>
 </div>
@@ -315,7 +326,7 @@ save_as: learning-progress.html
      <ul>
          <li><em>Google IT</em> <i class="fas fa-university"></i></li>
          <ul>
-             <li>Setting a backup server (BackupPC) on Linux <i class="fab fa-linux"></i>. Disaster Recovery Plans.</li>
+             <li>Setting a backup server (BackupPC) on Linux <i class="fab fa-linux"></i>. Disaster recovery plans.</li>
          </ul>
          <li>Bitwise operations (Python <i class="fab fa-python"></i>).</li>
      </ul>
@@ -328,7 +339,7 @@ save_as: learning-progress.html
      <ul>
          <li><em>Google IT</em> <i class="fas fa-university"></i></li>
          <ul>
-             <li>Data Recovery Plans, Types of Backups.</li>
+             <li>Data recovery plans, types of backups.</li>
          </ul>
          <li>Primality testing algorithm in Python <i class="fab fa-python"></i>.</li>
      </ul>
@@ -341,7 +352,7 @@ save_as: learning-progress.html
      <ul>
          <li><em>Google IT</em> <i class="fas fa-university"></i></li>
          <ul>
-             <li>Active Directory (Managing Users and Passwords, Group Policy), OpenLDAP.</li>
+             <li>Active Directory (managing users and passwords, group policy), OpenLDAP.</li>
          </ul>
          <li>Began reading <a href="https://jamesclear.com/atomic-habits">Atomic Habits</a> <i class="fas fa-book"></i>, by <a href="https://jamesclear.com/">James Clear</a>.</li>
      </ul>
@@ -410,7 +421,7 @@ save_as: learning-progress.html
      <ul>
          <li><em>Google IT</em> <i class="fas fa-university"></i></li>
          <ul>
-             <li>Managing Resources on Cloud Services, Platform Services (servers & databases), Directory Services, Centralized Management.</li>
+             <li>Managing resources on cloud services, platform services (servers & databases), directory services, centralized management.</li>
          </ul>
      </ul>
    </div>
@@ -422,7 +433,7 @@ save_as: learning-progress.html
      <ul>
          <li><em>Google IT</em> <i class="fas fa-university"></i></li>
          <ul>
-             <li>Print Services, NFS Servers, Chat Communication Services (XMPP, IRC, etc.)</li>
+             <li>Print services, NFS servers, chat communication services (XMPP, IRC, etc.)</li>
          </ul>
 
          <li>Configure locales on Linux <i class="fab fa-linux"></i>.</li>
@@ -436,7 +447,7 @@ save_as: learning-progress.html
    <div class="col-12 col-md-2 grey-day">26</div>
 <div class="col-12 col-md-10 grey-content">
      <ul>
-         <li>i3wm configuration: Status Bar, Workspaces, Themes, Modules.</li>
+         <li>i3wm configuration: status bar, workspaces, themes, modules.</li>
      </ul>
    </div>
 </div>
@@ -447,8 +458,8 @@ save_as: learning-progress.html
      <ul>
          <li><em>Google IT</em> <i class="fas fa-university"></i></li>
          <ul>
-             <li>Physical Infrastructure Services.</li>
-             <li>Configuring Network Services.</li>
+             <li>Physical infrastructure services.</li>
+             <li>Configuring network services.</li>
          </ul>
          <li>i3wm setup & configuration.</li>
      </ul>
@@ -461,7 +472,7 @@ save_as: learning-progress.html
      <ul>
          <li><em>Google IT</em> <i class="fas fa-university"></i></li>
          <ul>
-             <li>IT Infrastructure Services.</li>
+             <li>IT infrastructure services.</li>
          </ul>
          <li>Regular expressions in Python <i class="fab fa-python"></i>.</li>
          <li>Working with JSON files in Python <i class="fab fa-python"></i>.</li>
@@ -475,7 +486,7 @@ save_as: learning-progress.html
      <ul>
          <li><em>Google IT</em> <i class="fas fa-university"></i></li>
          <ul>
-             <li>System Administration & Tasks.</li>
+             <li>System administration & tasks.</li>
          </ul>
          <li>Regular expressions in Python <i class="fab fa-python"></i>.</li>
      </ul>
@@ -500,7 +511,7 @@ save_as: learning-progress.html
      <ul>
          <li><em>Google IT</em> <i class="fas fa-university"></i></li>
          <ul>
-             <li>Operating Systems: File and Text Manipulation, Users & Permissions, Package & Software Management.</li>
+             <li>Operating Systems: file and text manipulation, users & permissions, package & software management.</li>
          </ul>
      </ul>
    </div>
@@ -512,10 +523,10 @@ save_as: learning-progress.html
      <ul>
          <li><em>Google IT</em> <i class="fas fa-university"></i></li>
          <ul>
-             <li>Networking Services: VPNs, Proxies.</li>
+             <li>Networking services: VPNs, proxies.</li>
              <li>Connecting to Internet: Dial-up, broadband, wireless, WANs.</li>
-             <li>Troubleshooting: Verifying Connectivity, Digging into DNS, Cloud, IPv6.</li>
-             <li>Operating Systems: Basic commands (PowerShell & Bash).</li>
+             <li>Troubleshooting: verifying connectivity, digging into DNS, cloud, IPv6.</li>
+             <li>Operating systems: basic commands (PowerShell & Bash).</li>
          </ul>
      </ul>
    </div>
@@ -527,7 +538,7 @@ save_as: learning-progress.html
      <ul>
          <li><em>Google IT</em> <i class="fas fa-university"></i></li>
          <ul>
-             <li>Networking Services: Name Resolution, DNS, DHCP, NAT.</li>
+             <li>Networking services: name resolution, DNS, DHCP, NAT.</li>
          </ul>
          <li>Implementing linked lists in Python <i class="fab fa-python"></i>.</li>
      </ul>
@@ -541,7 +552,7 @@ save_as: learning-progress.html
          <li><em>Google IT</em> <i class="fas fa-university"></i></li>
          <ul>
              <li>Routing (tables, protocols, addresses).</li>
-             <li>Transport Layer, Application Layer.</li>
+             <li>Transport layer, application layer.</li>
          </ul>
      </ul>
    </div>
@@ -563,7 +574,7 @@ save_as: learning-progress.html
    <div class="col-12 col-md-2 grey-day">15</div>
 <div class="col-12 col-md-10 grey-content">
          <ul>
-             <li>Test Driven Development: Pytest, Unittest, Doctest, Test Doubles, Test Coverage.</li>
+             <li>Test Driven Development: Pytest, Unittest, Doctest, test doubles, test coverage.</li>
          </ul>
    </div>
 </div>
@@ -574,7 +585,7 @@ save_as: learning-progress.html
      <ul>
          <li><em>Google IT</em> <i class="fas fa-university"></i></li>
          <ul>
-             <li>Introduction to Computer Networking: TCP/IP Five-Layer Model, Basics of Networking Devices.</li>
+             <li>Introduction to Computer Networking: TCP/IP five-Layer model, basics of networking devices.</li>
          </ul>
      </ul>
    </div>
@@ -586,10 +597,10 @@ save_as: learning-progress.html
      <ul>
          <li><em>Google IT</em> <i class="fas fa-university"></i></li>
          <ul>
-             <li>Operating System: Installing Windows/Linux/Mac, Virtual Machines, Chrome OS.</li>
-             <li>Networking: TCP/IP, History, Limitations, Impact, Security, Privacy.</li>
-             <li>Software: Abstractions, Types of software, Interacting with software.</li>
-             <li>Troubleshooting: Best Practices, Customer Service, Documentation & Writing Effective Documentation, Technical Interview.</li>
+             <li>Operating System: Installing Windows/Linux/Mac, virtual machines, Chrome OS.</li>
+             <li>Networking: TCP/IP, history, limitations, impact, security, privacy.</li>
+             <li>Software: abstractions, types of software, interacting with software.</li>
+             <li>Troubleshooting: best practices, customer service, documentation & writing effective documentation, technical interview.</li>
          </ul>
      </ul>
    </div>
@@ -601,8 +612,8 @@ save_as: learning-progress.html
      <ul>
          <li><em>Google IT</em> <i class="fas fa-university"></i></li>
          <ul>
-             <li>Hardware: CPU & other components, Overclocking, BIOS, Computer Assembly.</li>
-             <li>Operating System: File Systems, Kernel, Logs, User Space, Boot Process.</li>
+             <li>Hardware: CPU & other components, overclocking, BIOS, computer assembly.</li>
+             <li>Operating System: file systems, kernel, logs, user space, boot process.</li>
          </ul>
      </ul>
    </div>
@@ -615,7 +626,7 @@ save_as: learning-progress.html
          <li>Add plugins to Pelican (static site generator): plugin <code>tag_cloud</code>.</li>
          <li><i class="fas fa-graduation-cap"></i> Enrolled in <em><a href="https://www.coursera.org/specializations/google-it-support">Google IT Support Professional Certificate</a></em> on Coursera.</li>
          <ul>
-             <li>Introduction to IT Support, History of Computing, Digital Logic, Computer Architecture Layer.</li>
+             <li>Introduction to IT support, history of computing, digital logic, computer architecture layer.</li>
          </ul>
      </ul>
    </div>
