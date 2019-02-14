@@ -21,6 +21,16 @@ save_as: learning-progress.html
     <div id="feb19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 grey-day">13</div>
+  <div class="col-12 col-md-10 grey-content">
+     <ul>
+         <li><i class="fas fa-graduation-cap"></i> Finished How Computers Work on Coursera, course offered by Goldsmiths, University of London: General concepts on networks, security and web.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 blue-day">12</div>
   <div class="col-12 col-md-10 blue-content">
      <ul>
