@@ -6,6 +6,7 @@ from pelican import __version__
 
 PELICAN_VERSION = __version__
 
+ABOUT_VERSION = '0.1.2'
 SITE_VERSION = 'v0.10.2'
 CURRENT_YEAR = datetime.today().year
 
@@ -16,8 +17,6 @@ SITESUBTITLE = 'The Learning Journey to the Summit of Commits'
 DISQUS_SITENAME = 'sglavoie'
 TWITTER_USERNAME = 'sgdlavoie'
 THEME = 'themes/SL'
-ABOUT_VERSION = '0.1.1'
-
 
 PATH = 'content'
 
@@ -42,7 +41,8 @@ TAG_CLOUD_STEPS = 5  # default 4
 TAG_CLOUD_MAX_ITEMS = 100
 TAG_CLOUD_BADGE = True
 
-# default is random (also alphabetically, alphabetically-rev, size, size-rev)
+# Default is 'random'.
+# Other options are: alphabetically, alphabetically-rev, size, size-rev
 TAG_CLOUD_SORTING = 'size'
 
 
