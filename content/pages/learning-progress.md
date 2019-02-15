@@ -21,10 +21,21 @@ save_as: learning-progress.html
     <div id="feb19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 blue-day">14</div>
+  <div class="col-12 col-md-10 blue-content">
+     <ul>
+         <li>Started <a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera, course offered by Goldsmiths, University of London: Number bases, converting between binary and decimals with fraction, rational and irrational numbers.</li>
+         <li><em>10 Days of JavaScript</em> <i class="fab fa-js"></i> on <a href="https://www.hackerrank.com/">HackerRank.com</a>: Classes, inheritance.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 grey-day">13</div>
   <div class="col-12 col-md-10 grey-content">
      <ul>
-         <li><i class="fas fa-graduation-cap"></i> Finished How Computers Work on Coursera, course offered by Goldsmiths, University of London: General concepts on networks, security and web.</li>
+         <li><i class="fas fa-graduation-cap"></i> Finished <a href="https://www.coursera.org/learn/how-computers-work/">How Computers Work</a> on Coursera, course offered by Goldsmiths, University of London: General concepts on networks, security and web.</li>
      </ul>
   </div>
 </div>
@@ -34,7 +45,7 @@ save_as: learning-progress.html
   <div class="col-12 col-md-2 blue-day">12</div>
   <div class="col-12 col-md-10 blue-content">
      <ul>
-         <li>How Computers Work, Coursera <i class="fas fa-university"></i>: Abstractions, notional machines, application states, modularity.</li>
+         <li><a href="https://www.coursera.org/learn/how-computers-work/">How Computers Work</a> <i class="fas fa-university"></i>, Coursera: Abstractions, notional machines, application states, modularity.</li>
          <li><em>10 Days of JavaScript</em> <i class="fab fa-js"></i> on <a href="https://www.hackerrank.com/">HackerRank.com</a>: Object initializers, dot notation, bracket notation.</li>
      </ul>
   </div>
@@ -45,7 +56,7 @@ save_as: learning-progress.html
   <div class="col-12 col-md-2 grey-day">11</div>
   <div class="col-12 col-md-10 grey-content">
      <ul>
-         <li><i class="fas fa-graduation-cap"></i> Finished <em>Introduction to Computer Programming</em> on Coursera, course offered by Goldsmiths, University of London.</li>
+         <li><i class="fas fa-graduation-cap"></i> Finished <em><a href="https://www.coursera.org/learn/introduction-to-computer-programming/">Introduction to Computer Programming</a></em> on Coursera, course offered by Goldsmiths, University of London.</li>
      </ul>
   </div>
 </div>
