@@ -21,6 +21,17 @@ save_as: learning-progress.html
     <div id="feb19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 grey-day">15</div>
+  <div class="col-12 col-md-10 grey-content">
+     <ul>
+         <li>Started <a href="https://www.coursera.org/learn/learning-how-to-learn/">Learning How to Learn</a> <i class="fas fa-university"></i> on Coursera: Focused/diffused thinking, procrastination, memory, sleep, creativity & problem solving, chunking.</li>
+         <li>Manage a website remotely with <code>rsync</code> and <code>SSH</code>.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 blue-day">14</div>
   <div class="col-12 col-md-10 blue-content">
      <ul>
