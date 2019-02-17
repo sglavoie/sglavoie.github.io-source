@@ -77,7 +77,7 @@ Only workspaces that contain windows will appear on the screen at any given time
 
 Here is a screenshot\* of the workspace where this article is being written (click to open):
 
-<a href="{static}/images/posts/0005_using-i3-as-window-manager-for-increased-productivity/i3-example.png"><img src="{static}/images/posts/0005_using-i3-as-window-manager-for-increased-productivity/i3-example.png" class="max-size-img-post"></a>
+<a href="{static}/images/posts/0005_using-i3-as-window-manager-for-increased-productivity/i3-example.png"><img src="{static}/images/posts/0005_using-i3-as-window-manager-for-increased-productivity/i3-example.png" alt="i3-example" class="max-size-img-post"></a>
 
 \* <sub>In this particular scenario, the splits on the right side are intentionally very small as I do not need to read the output, but need quick access to a terminal to enter commands. Moving back and forth between windows is a breeze, so that's how I currently handle the situation.</sub> 
 

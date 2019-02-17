@@ -40,7 +40,7 @@ Where **qutebrowser** shines in my opinion is with quickmarks. This is a simple 
 
 You may have tried extensions for other web browsers such as Vimium, Vimperator, or Vimium-FF that let you navigate with Vim shortcuts. They usually use the letter `f` for **f**ollowing links. Some text appear on the screen for each visible link and you type the letters that match the link you want to see. The best way to get how it works is just to try it out, really.
 
-<a href="{static}/images/posts/0007_surfing-with-qutebrowser/qutebrowser_hints.png"><img src="{static}/images/posts/0007_surfing-with-qutebrowser/qutebrowser_hints.png" class="max-size-img-post"></a>
+<a href="{static}/images/posts/0007_surfing-with-qutebrowser/qutebrowser_hints.png"><img src="{static}/images/posts/0007_surfing-with-qutebrowser/qutebrowser_hints.png" alt="qutebrowser-hints" class="max-size-img-post"></a>
 
 
 Well, **qutebrowser** takes those features and make them even greater! There is, for example, a _rapid hinting mode_ you can access by typing `f` followed by `Ctrl + r` and it will open links in the background for as long as you type any matching _hint_ provided as a letter or combination of two letters when there are many visible links on the page. This is especially useful when doing some research to avoid breaking the rhythm on the current reading while preparing more resources to be available.

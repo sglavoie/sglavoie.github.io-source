@@ -106,7 +106,7 @@ alias adev='tmux attach-session -t dev'
 ### tmux demo
 
 (click to open image)
-<a href="{static}/images/posts/0001_tmux-integration-with-vim/tmux-demo.gif"><img src="{static}/images/posts/0001_tmux-integration-with-vim/tmux-demo.gif" class="max-size-img-post"></a>
+<a href="{static}/images/posts/0001_tmux-integration-with-vim/tmux-demo.gif"><img src="{static}/images/posts/0001_tmux-integration-with-vim/tmux-demo.gif" alt="tmux-demo" class="max-size-img-post"></a>
 
 ---
 

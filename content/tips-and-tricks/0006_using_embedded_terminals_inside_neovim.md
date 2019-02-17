@@ -10,9 +10,9 @@ Summary: Because every pixel counts, this neat trick will allow to use terminals
 
 Terminal buffers are a built-in feature of `Neovim`. This means that terminals can be launched inside Neovim just like any other buffer, may it be a split window, a new tab or an independent buffer. Why is this so useful? Be prepared to be amazed.
 
-<a href="{static}/images/posts/0006_using-embedded-terminals-inside-neovim/work_on_article.png"><img src="{static}/images/posts/0006_using-embedded-terminals-inside-neovim/work_on_article.png" class="max-size-img-post"></a>
+<a href="{static}/images/posts/0006_using-embedded-terminals-inside-neovim/work_on_article.png"><img src="{static}/images/posts/0006_using-embedded-terminals-inside-neovim/work_on_article.png" alt="embedded-terminal" class="max-size-img-post"></a>
 
-<a href="{static}/images/posts/0006_using-embedded-terminals-inside-neovim/terminal_buffers.png"><img src="{static}/images/posts/0006_using-embedded-terminals-inside-neovim/terminal_buffers.png" class="max-size-img-post"></a>
+<a href="{static}/images/posts/0006_using-embedded-terminals-inside-neovim/terminal_buffers.png"><img src="{static}/images/posts/0006_using-embedded-terminals-inside-neovim/terminal_buffers.png" alt="terminal-buffers" class="max-size-img-post"></a>
 
 (click to open)
 
