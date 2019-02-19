@@ -21,6 +21,16 @@ save_as: learning-progress.html
     <div id="feb19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 blue-day">18</div>
+  <div class="col-12 col-md-10 blue-content">
+     <ul>
+         <li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Review & create algorithms for binary to decimal conversion and vice versa.</li>
+         <li><a href="https://www.coursera.org/learn/learning-how-to-learn/">Learning How to Learn</a> <i class="fas fa-university"></i> on Coursera: Quick review & tips on writing more readable ideas.</li>
+     </ul>
+  </div>
+</div>
+
+<div class="row">
   <div class="col-12 col-md-2 grey-day">17</div>
   <div class="col-12 col-md-10 grey-content">
      <ul>
