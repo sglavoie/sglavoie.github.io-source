@@ -1,6 +1,6 @@
 Title: Surfing with qutebrowser — a Keyboard-Driven Web Browser
 Date: 2019-02-11 14:46
-Tags: productivity, web
+Tags: productivity, software, web
 Slug: surfing-with-qutebrowser-a-keyboard-driven-web-browser
 Authors: Sébastien Lavoie
 Summary: I recently started using this software as my main web browser and, as a Vim (Neovim) user, I must say I am finding the adventure quite compelling!
