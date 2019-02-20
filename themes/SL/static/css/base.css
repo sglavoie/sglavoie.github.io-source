@@ -99,19 +99,20 @@ figure {
 }
 
 .emphasis {
-    background-color: #d4e5ea;
-    border: 1px solid #E9ECEF;
+    background-color: rgba(0, 123, 255, 0.1);
+    border: 1px solid rgba(0, 46, 95, 0.5);
     display: block;
     font-weight: bold;
-    margin-top: 0.2rem;
+    margin-left: 0.5em;
+    margin-top: 0.4rem;
     padding: 0.2rem 0.5rem;
     text-transform: lowercase;
     transition: 0.5s ease;
 }
 
 .emphasis:hover {
-    background-color: #D9E8ED;
-    border: 1px solid #C9D8DD;
+    background-color: rgba(0, 123, 255, 0.3);
+    border: 1px solid #7e7e7e;
 }
 
 .copy-left {
