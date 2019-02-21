@@ -21,6 +21,18 @@ save_as: learning-progress.html
     <div id="feb19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 blue-day">20</div>
+  <div class="col-12 col-md-10 blue-content">
+     <ul>
+         <li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Steganography (hiding text and images inside another image) in binary, hexadecimal and decimal.</li>
+         <li><a href="https://www.coursera.org/learn/learning-how-to-learn/">Mindshift</a> <i class="fas fa-university"></i> on Coursera: Learning environment, memory tips, meditation (focused attention and open monitoring).</li>
+         <li><em>10 Days of JavaScript</em> <i class="fab fa-js"></i> on <a href="https://www.hackerrank.com/">HackerRank.com</a>: Bitwise operators, signed binary numbers.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 grey-day">19</div>
   <div class="col-12 col-md-10 grey-content">
      <ul>
