@@ -88,7 +88,6 @@ figure {
 
 #menu {
     background-color: #002e5f;
-    border-top: #1b6182 1px solid;
     display: block;
     text-align: right;
     width: 100%;
@@ -200,13 +199,11 @@ body::-webkit-scrollbar-thumb {
 
 #contentinfo {
     background-color: #0A2431;
-    border-bottom: #000 1px solid;
-    border-top: #000 1px solid;
     color: #E0E4E5;
     display: table;
     font-size: 0.8rem;
     margin: 10px 0 10px 0;
-    padding: 30px;
+    padding: 50px 0 50px 0;
     position: relative;
     text-align: center;
     width: 100%;
@@ -329,7 +326,6 @@ div#author-footer {
 }
 
 #content {
-    border: 1px solid #C4D0CE;
     height: auto;
     margin: 0;
     min-height: 100%;
@@ -477,11 +473,9 @@ Style the button that is used to open and close the collapsible content */
 
 /* TAG CLOUD PELICAN PLUGIN */
 ul.tagcloud {
-    background-color: #eff4f9;
-    border-radius: .75rem;
-    border: 1px solid #d0e5fb;
-    box-shadow: 0 0 2px #cbdae8;
-    list-style: none;
+    background-color: #e9ecef;
+    border: 1px solid #002e5f;
+    box-shadow: 0 0 2px #007bff;
     margin: 2.5rem 0.4em;
     padding: 1em;
     text-align: center;
@@ -549,6 +543,7 @@ button:focus {
 .badge {
     padding: .5em .5em;
     border-radius: 0;
+    border: 1px solid #002e5f;
 }
 
 .container {
@@ -704,6 +699,7 @@ li>a.active-link>i {
 
 .jumbotron {
     border-radius: unset;
+    background-color: #ffffff;
 }
 
 code {
@@ -794,7 +790,7 @@ h1, h2, h3, h4, h5, h6, .display-4 {
 @media (min-width: 700px) {
 
 body::-webkit-scrollbar {
-    width: 0.5rem;
+    width: 0.75rem;
 }
 
 .card {
