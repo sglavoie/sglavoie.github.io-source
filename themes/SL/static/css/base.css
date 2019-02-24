@@ -132,6 +132,7 @@ figure {
 .tags {
     margin-bottom: 1rem;
     margin-top: 1rem;
+    line-height: 2.25em;
 }
 
 .inline-icon {
@@ -212,7 +213,7 @@ address {
     display: table-cell;
     font-style: normal;
     line-height: inherit;
-    padding-top: 15px;
+    padding: 15px;
     text-shadow: 0 0 3px black;
     vertical-align: middle;
 }
@@ -381,6 +382,10 @@ section#content:after {
 
 .position-comments-count a:link, .position-comments-count a:visited, .position-comments-count, a:hover {
     color:#ffffff
+}
+
+div#layout {
+    padding: 0.5em;
 }
 /* end DISQUS */
 
