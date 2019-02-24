@@ -21,7 +21,7 @@
 
 
             {% if article.tags %}
-            <div class="tags">
+            <div class="tags-index">
                 <i class="fas fa-hashtag"></i> Tags:
                 {% for tag in article.tags %}
                 <a class="category-article emphasis post-info-space extra-space" href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>

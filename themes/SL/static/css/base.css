@@ -135,6 +135,11 @@ figure {
     line-height: 2.25em;
 }
 
+.tags-index {
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+
 .inline-icon {
     display: inline-block;
     float: right;
