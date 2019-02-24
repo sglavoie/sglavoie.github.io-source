@@ -7,13 +7,13 @@ from pelican import __version__
 PELICAN_VERSION = __version__
 
 ABOUT_VERSION = '0.1.2'
-SITE_VERSION = 'v0.10.12'
+SITE_VERSION = 'v0.10.13'
 CURRENT_YEAR = datetime.today().year
 
 AUTHOR = 'Sébastien Lavoie'
 SITENAME = 'sglavoie.com'
 SITEURL = 'https://www.sglavoie.com'
-SITESUBTITLE = 'The Learning Journey to the Summit of Commits'
+SITESUBTITLE = f'The Learning Journey to the Summit of Commits | {AUTHOR}'
 SITE_DESCRIPTION = 'Provide useful information while documenting my journey as a learner in technology-related matters. Tech journal with the specific goal of explaining the challenges that I will inevitably face while trying to become a better student and most importantly, it will be a reference to the solutions that I found along the way so that it can benefit others too.'
 DISQUS_SITENAME = 'sglavoie'
 TWITTER_USERNAME = 'sgdlavoie'
