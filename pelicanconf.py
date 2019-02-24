@@ -7,7 +7,7 @@ from pelican import __version__
 PELICAN_VERSION = __version__
 
 ABOUT_VERSION = '0.1.2'
-SITE_VERSION = 'v0.10.13'
+SITE_VERSION = 'v0.10.14'
 CURRENT_YEAR = datetime.today().year
 
 AUTHOR = 'Sébastien Lavoie'

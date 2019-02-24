@@ -100,7 +100,6 @@ figure {
 .emphasis {
     background-color: rgba(0, 123, 255, 0.1);
     border: 1px solid rgba(0, 46, 95, 0.5);
-    display: block;
     font-weight: bold;
     margin-left: 0.5em;
     margin-top: 0.4rem;
@@ -585,6 +584,7 @@ a:visited.btn {
 .display-4 {
     font-size: larger;
     font-weight: bold;
+    line-height: 1.75em;
 }
 
 .h2, h2 {
@@ -775,9 +775,6 @@ h1, h2, h3, h4, h5, h6, .display-4 {
 }
 
 .category-article {
-    display: inline-block;
-}
-.emphasis {
     display: inline-block;
 }
 
