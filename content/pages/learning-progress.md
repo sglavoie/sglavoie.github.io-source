@@ -5,7 +5,7 @@ Authors: Sébastien Lavoie
 URL:
 save_as: learning-progress.html
 
-> Learning is an eternal path. I wanted to share my own adventure primarily for the following practical reasons: to help me remember what I have supposedly been working on and to help me practice a technique that is known as <a href="https://en.wikipedia.org/wiki/Spaced_repetition">spaced repetition</a>. This is really just a summary to motivate myself to keep on track and be reminded as often as possible to stay a bit more humble, as it becomes obvious that I don’t know much in the end.
+> Learning is an eternal path. I wanted to share my own adventure primarily for the following practical reasons: to help me remember what I have supposedly been working on and to help me practice a technique that is known as [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition). This is really just a summary to motivate myself to keep on track and be reminded as often as possible to stay a bit more humble, as it becomes obvious that I don’t know much in the end.
 
 > In the process, I hope you may find some inspiration too.
 
@@ -19,6 +19,26 @@ save_as: learning-progress.html
       <div class="learning-month">February</div>
     </div>
     <div id="feb19" class="container collapse">
+
+<div class="row">
+  <div class="col-12 col-md-2 grey-day">25</div>
+  <div class="col-12 col-md-10 grey-content">
+     <ul>
+         <li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Congruence & equivalence relations, modular exponentiation.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="col-12 col-md-2 blue-day">24</div>
+  <div class="col-12 col-md-10 blue-content">
+     <ul>
+         <li>Python <i class="fab fa-python"></i>: Scope in classes (<a href="https://stackoverflow.com/a/54853361/8787680">Stackoverflow <i class="fab fa-stack-overflow"></i></a>).</li>
+     </ul>
+  </div>
+</div>
+
 
 <div class="row">
   <div class="col-12 col-md-2 grey-day">23</div>
