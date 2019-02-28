@@ -7,20 +7,34 @@ Authors: Sébastien Lavoie
 Summary: If you ever wanted to automatically clean your Bash history file, here is a working solution written in Python that uses regular expressions to set any kind of pattern you might be looking for.
 
 
-This is a Python 3.6+ script that helps to clean the file containing the Bash history commands. It will remove any line matching a specified regular expression and can also remove any line starting with an alias.
+This is a Python 3.6+ script that helps to clean the file containing
+the Bash history commands. It will remove any line matching a specified
+regular expression and can also remove any line starting with an alias.
 
 The idea behind this small utility was simple:
 
-- The Bash history file (usually located in `~/.bash_history`) contains much of the work one ends up doing in the terminal.
-- The history can grow large over time and it becomes more cumbersome to find interesting information in all that clutter, such as a rarely used command with specific flags.
-- By removing all superfluous commands that are repeated often and which give no real benefit in certain contexts (such as `ls`, `cd`, `cat`, etc.), the history is much cleaner and easier to navigate and actually becomes much more useful in my opinion.
-- True, it will be harder to follow the bread crumbs for everything you did, but I haven't come across a situation where having access to yet another empty `ls` or `cd` has proven necessary and reading `.bash_history` doesn't make for a great narrative story either.
+- The Bash history file (usually located in `~/.bash_history`) contains
+much of the work one ends up doing in the terminal.
+- The history can grow large over time and it becomes more cumbersome to
+find interesting information in all that clutter, such as a rarely used
+command with specific flags.
+- By removing all superfluous commands that are repeated often and which
+give no real benefit in certain contexts (such as `ls`, `cd`, `cat`,
+etc.), the history is much cleaner and easier to navigate and actually
+becomes much more useful in my opinion.
+- True, it will be harder to follow the bread crumbs for everything
+you did, but I haven't come across a situation where having access
+to yet another empty `ls` or `cd` has proven necessary and reading
+`.bash_history` doesn't make for a great narrative story either.
 
 ----
 
 ## Make history in a big way
 
-I took advantage of the fact that the history can be cleaned with the script you are about to see and set up what is known as an _eternal history_ which, as it sounds like, can grow infinitely big! All you have to do is append the following lines to the file `~/.bashrc`:
+I took advantage of the fact that the history can be cleaned with the
+script you are about to see and set up what is known as an _eternal
+history_ which, as it sounds like, can grow infinitely big! All you have
+to do is append the following lines to the file `~/.bashrc`:
 
 ~~~~{.bash}
 # Eternal bash history.
@@ -30,7 +44,8 @@ I took advantage of the fact that the history can be cleaned with the script you
 export HISTFILESIZE=-1
 export HISTSIZE=-1
 export HISTTIMEFORMAT="[%F %T] "
-# Change the file location because certain bash sessions truncate .bash_history file upon close.
+# Change the file location because certain bash sessions truncate
+# .bash_history file upon close.
 # http://superuser.com/questions/575479/bash-history-truncated-to-500-lines-on-each-login
 export HISTFILE=~/.bash_eternal_history
 # Force prompt to write history after every command.
@@ -44,10 +59,15 @@ PROMPT_COMMAND="history -a; $PROMPT_COMMAND"
 
 And here is the script in question \*. It comes in two files that need to be in the same directory:
 
-- One is a Python file that needs to be launched from the terminal with Python 3.
-- The other file, `settings.json`, is a JSON file used to store the settings of the script, which will be detailed below.
+- One is a Python file that needs to be launched from the terminal with
+Python 3.
+- The other file, `settings.json`, is a JSON file used to store the
+settings of the script, which will be detailed below.
 
-\* <sub>Improvements to the original script can be found on <a href="https://github.com/sglavoie/python-utilities/tree/master/bash_history_cleaner">Github</a> <i class="fab fa-github-alt"></i>. To keep this article a bit more readable, the original version is shown.</sub> 
+\* <sub>Improvements to the original script can be found on <a
+href="https://github.com/sglavoie/python-utilities/tree/master/bash_hist
+ory_cleaner">Github</a> <i class="fab fa-github-alt"></i>. To keep this
+article a bit more readable, the original version is shown.</sub>
 
 ##### `bash_history_cleaner.py`
 
@@ -58,8 +78,8 @@ commands.
 
 Note: Requires Python 3.6+
 
-It will remove any line matching a specified regular expression and can also
-remove any line starting with an alias.
+It will remove any line matching a specified regular expression and can
+also remove any line starting with an alias.
 
 Description of available settings in `settings.json`:
 
@@ -345,10 +365,19 @@ if __name__ == '__main__':
 
 ## Anecdotal evidence of satisfying performances
 
-Performance-wise, this scans ~8,300 lines per second on my modest Intel Core i5 laptop with files of over 200,000 lines long. Not that I type so much stuff in the terminal: I just duplicated many lines <i class="fas fa-smile"></i>.
+Performance-wise, this scans ~8,300 lines per second on my modest Intel
+Core i5 laptop with files of over 200,000 lines long. Not that I type so
+much stuff in the terminal: I just duplicated many lines <i class="fas
+fa-smile"></i>.
 
 ----
 
 ## Conclusion
 
-This is a simple solution to an nonexistent problem, but it was in the end very instructive to me nonetheless. You may even find a use for it! Otherwise, you might use the same functions for other files such as logs! If you would like to take a closer look at the source in a more convenient way, you can find the code <a href="https://github.com/sglavoie/python-utilities/tree/master/bash_history_cleaner">available on Github</a> <i class="fab fa-github-alt"></i>.
+This is a simple solution to an nonexistent problem, but it was
+in the end very instructive to me nonetheless. You may even find
+a use for it! Otherwise, you might use the same functions for
+other files such as logs! If you would like to take a closer look
+at the source in a more convenient way, you can find the code <a
+href="https://github.com/sglavoie/python-utilities/tree/master/bash_hist
+ory_cleaner">available on Github</a> <i class="fab fa-github-alt"></i>.

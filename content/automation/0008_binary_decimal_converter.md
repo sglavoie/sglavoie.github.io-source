@@ -6,7 +6,9 @@ Authors: Sébastien Lavoie
 Summary: As part of a [course on the mathematics of Computer Science](https://www.coursera.org/learn/mathematics-for-computer-science/), I had to come up with algorithms to convert binary numbers to decimal numbers and vice versa. 
 
 
-There is nothing new here in terms of algorithms, but it was interesting to figure out how to apply those concepts with Python. This works for integer numbers, but can be easily adapted to convert fractions.
+There is nothing new here in terms of algorithms, but it was interesting
+to figure out how to apply those concepts with Python. This works for
+integer numbers, but can be easily adapted to convert fractions.
 
 ### Binary to Decimal
 
@@ -104,4 +106,11 @@ if __name__ == '__main__':
 
 ## Conclusion
 
-This was a very quick programming session that's been useful to make new concepts stick. The best learning strategies are to _test yourself_ constantly in any way possible and to _teach clearly what you know_, which is what I tried to do in the end. By the way, I found the course [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/) on Coursera to be quite satisfying and I would invite you to have a look if that's a topic you're interested in <i class="fas fa-smile"></i>!
+This was a very quick programming session that's been useful
+to make new concepts stick. The best learning strategies are
+to _test yourself_ constantly in any way possible and to
+_teach clearly what you know_, which is what I tried to do
+in the end. By the way, I found the course [Learning How to
+Learn](https://www.coursera.org/learn/learning-how-to-learn/) on
+Coursera to be quite satisfying and I would invite you to have a look if
+that's a topic you're interested in <i class="fas fa-smile"></i>!

@@ -7,7 +7,9 @@ Summary: This is a short introduction that shows a possible workflow with tmux a
 
 ## tmux integration
 
-[tmux](https://github.com/tmux/tmux) offers many advantages in the context of remote access to another machine, but it also shines on a local setup! Here is how I currently like to set it up.
+[tmux](https://github.com/tmux/tmux) offers many advantages in the
+context of remote access to another machine, but it also shines on a
+local setup! Here is how I currently like to set it up.
 
 ---
 
@@ -35,13 +37,16 @@ source-file "${HOME}/.tmux-themepack/blue.tmuxtheme"
 ~~~~
 
 
-This is all very self-explanatory. [Many themes can be found here](https://github.com/jimeh/tmux-themepack).
+This is all very self-explanatory. [Many themes can be found
+here](https://github.com/jimeh/tmux-themepack).
 
 ---
 
 ### Automating the launch of a default session:
 ##### `~/.tmux_default_session.sh`
-This is a small Bash script that I like to have for automatic set up of a development environment with tmux and Vim/Neovim. As my current workflow, I enjoy the following:
+This is a small Bash script that I like to have for automatic set up
+of a development environment with tmux and Vim/Neovim. As my current
+workflow, I enjoy the following:
 
 ~~~~{.bash}
 #!bash
@@ -55,8 +60,9 @@ tmux new-window -t "$sn:0" -n "nvim"
 tmux new-window -t "$sn:9" -n "python"
 tmux new-window -t "$sn:8" -n "terminal"
 
-# Split terminal window vertically, then split the right pane horizontally,
-# then switch to the left pane (identified by `FOCUS IS HERE`).
+# Split terminal window vertically, then split the right pane
+# horizontally, then switch to the left pane (identified by `FOCUS IS
+# HERE`).
 # _________________
 # |>_     |>_     |
 # |       |       |
@@ -84,20 +90,21 @@ tmux -2 attach-session -t "$sn"
 
 ### Aliases to make use of:
 ##### `.tmux_default_session.sh`
-I add the following aliases in `~/.bash_aliases` to automate a chunk of the workflow:
+I add the following aliases in `~/.bash_aliases` to automate a chunk of
+the workflow:
 
 ~~~~{.bash}
 # This will launch tmux with the desired configuration
 alias dev='bash ~/.tmux_default_session.sh'
 
-# This will kill the tmux server if the need arises. By detaching from the tmux
-# session, you simply run this command and can reattach easily to the default
-# session configuration on another project.
+# This will kill the tmux server if the need arises. By detaching from
+# the tmux session, you simply run this command and can reattach easily
+# to the default session configuration on another project.
 alias kdev='pkill tmux'
 
-# If the session has been detached but the tmux server is still running, I use
-# the following alias to quickly reattach to the default session named `dev`
-# in that example.
+# If the session has been detached but the tmux server is still running,
+# I use the following alias to quickly reattach to the default session
+# named `dev` in that example.
 alias adev='tmux attach-session -t dev'
 ~~~~
 
@@ -110,4 +117,6 @@ alias adev='tmux attach-session -t dev'
 
 ---
 
-The content of this post can be found on [GitHub](https://github.com/sglavoie/better-vim-experience#tmux-integration) <i class="fab fa-github-alt"></i> .
+The content of this post can be found on
+[GitHub](https://github.com/sglavoie/better-vim-experience#tmux-integrat
+ion) <i class="fab fa-github-alt"></i> .
