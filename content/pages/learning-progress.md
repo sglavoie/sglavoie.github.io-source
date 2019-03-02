@@ -22,10 +22,37 @@ obvious that I don’t know much in the end.
 <div id="year2019" class="container no-padding">
   <div class="panel">
 
+    <div class="row justify-content-center" role="button" data-toggle="collapse" data-parent="#year2019" href="#mar19" aria-expanded="false" aria-controls="mar19">
+      <div class="learning-month">March</div>
+    </div>
+    <div id="mar19" class="container collapse">
+
+<div class="row">
+  <div class="col-12 col-md-2 blue-day">1</div>
+  <div class="col-12 col-md-10 blue-content">
+     <ul>
+         <li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: More on geometric progressions with A size papers, series.</li>
+     </ul>
+  </div>
+</div>
+
+    </div>
+
+
     <div class="row justify-content-center" role="button" data-toggle="collapse" data-parent="#year2019" href="#feb19" aria-expanded="false" aria-controls="feb19">
       <div class="learning-month">February</div>
     </div>
     <div id="feb19" class="container collapse">
+
+<div class="row">
+  <div class="col-12 col-md-2 blue-day">28</div>
+  <div class="col-12 col-md-10 blue-content">
+     <ul>
+         <li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Introduction to sequences and series, modified Josephus problem with any number, geometric progressions on A paper sizes.</li>
+     </ul>
+  </div>
+</div>
+
 
 <div class="row">
   <div class="col-12 col-md-2 grey-day">27</div>
