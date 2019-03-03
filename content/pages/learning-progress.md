@@ -28,6 +28,16 @@ obvious that I don’t know much in the end.
     <div id="mar19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 grey-day">2</div>
+  <div class="col-12 col-md-10 grey-content">
+     <ul>
+         <li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Series & patterns, limits of sequences, convergence and divergence, graph sketching.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 blue-day">1</div>
   <div class="col-12 col-md-10 blue-content">
      <ul>
