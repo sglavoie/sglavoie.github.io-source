@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="72.760198"
-     inkscape:cy="6.794691"
+     inkscape:zoom="4"
+     inkscape:cx="39.554836"
+     inkscape:cy="35.333593"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -89,27 +89,21 @@
      id="layer2"
      inkscape:label="Layer 2"
      transform="translate(81.39681,-84.454277)">
-    <g
-       aria-label="&gt;_"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#7e7e7e;fill-opacity:1;stroke:none;stroke-width:0.1209173;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
-       id="text875"
-       transform="matrix(2.1994114,0,0,2.1769157,131.37492,-111.51749)">
-      <path
-         d="m -92.591638,96.465859 -4.148667,2.645833 v -1.629833 l 2.667,-1.608667 v -0.04233 l -2.667,-1.608667 v -1.629833 l 4.148667,2.645833 z"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';fill:#7e7e7e;fill-opacity:1;stroke:none;stroke-width:0.1209173;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
-         id="path877"
-         inkscape:connector-curvature="0" />
-      <path
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';fill:#7e7e7e;fill-opacity:1;stroke:none;stroke-width:0.1209173;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
-         d="m -85.670074,99.873692 v 1.333498 h -5.08 v -1.333498 z"
-         id="path879"
-         inkscape:connector-curvature="0" />
-      <path
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';fill:#7e7e7e;fill-opacity:1;stroke:none;stroke-width:0.1209173;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
-         d="m -92.591638,96.465859 -4.148667,2.645833 v -1.629833 l 2.667,-1.608667 v -0.04233 l -2.667,-1.608667 v -1.629833 l 4.148667,2.645833 z"
-         id="path882"
-         inkscape:connector-curvature="0" />
-    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path877"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:medium;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';letter-spacing:0px;word-spacing:0px;fill:#7e7e7e;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       d="m -72.272184,98.480553 -9.124626,5.759757 v -3.54801 l 5.865831,-3.501933 v -0.09215 l -5.865831,-3.501932 v -3.548009 l 9.124626,5.759755 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path879"
+       d="m -57.048817,105.89912 v 2.90291 h -11.17301 v -2.90291 z"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:medium;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';letter-spacing:0px;word-spacing:0px;fill:#c0c0c0;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path882"
+       d="m -72.272184,98.480553 -9.124626,5.759757 v -3.54801 l 5.865831,-3.501933 v -0.09215 l -5.865831,-3.501932 v -3.548009 l 9.124626,5.759755 z"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:medium;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';letter-spacing:0px;word-spacing:0px;fill:#c0c0c0;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
     <g
        style="stroke-width:0.45701027"
        id="g941"

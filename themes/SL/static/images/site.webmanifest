@@ -1,6 +1,6 @@
 {
-    "name": "sglavoie.com",
-    "short_name": "sg",
+    "name": "sglavoie",
+    "short_name": "sglavoie",
     "icons": [
         {
             "src": "/theme/images/android-chrome-192x192.png",
@@ -15,6 +15,5 @@
     ],
     "theme_color": "#000000",
     "background_color": "#000000",
-    "start_url": "https://sglavoie.com",
     "display": "standalone"
 }
