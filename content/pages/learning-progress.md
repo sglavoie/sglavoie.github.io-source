@@ -28,11 +28,26 @@ obvious that I don’t know much in the end.
     <div id="mar19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 grey-day">4</div>
+  <div class="col-13 col-md-10 grey-content">
+     <ul>
+         <li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Transformation of graphs, kinematics equations.</li>
+         <li><a href="https://www.youtube.com/watch?v=DamIIzp41Jg">Data analysis with Python</a> <i class="fab fa-python"></i> and <a href="https://pandas.pydata.org/">Pandas</a> (visualization, groupby, correlation) with sentdex <i class="fab fa-youtube"></i>.</li>
+         <li><a href="https://www.coursera.org/learn/learning-how-to-learn/">Mindshift</a> <i class="fas fa-university"></i> on Coursera: Deliberate practice, reframing experiences, facing adversity, <a href="https://www.futurice.com/blog/from-t-to-pi-design-skill-expectations-in-change/"><em>π</em> approach</a> to learning instead of <em>T</em>.</li>
+         <li><a href="https://www.youtube.com/watch?v=yqm6MBt-yfY">Monitor a website with Python</a> <i class="fab fa-python"></i> with Corey Schafer <i class="fab fa-youtube"></i>.</li>
+         <li>Retrieving data with <a href="https://github.com/PyGithub/PyGithub">PyGithub</a>.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 blue-day">3</div>
   <div class="col-12 col-md-10 blue-content">
      <ul>
          <li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Plotting, transformations of graphs.</li>
          <li>Screencasting/streaming with <a href="https://www.ffmpeg.org/">ffmpeg</a>.</li>
+         <li><a href="https://www.youtube.com/watch?v=vt33Hp-4RXg">Custom commands with fzf in Linux terminal</a> with Luke Smith <i class="fab fa-youtube"></i></a>.</li>
      </ul>
   </div>
 </div>
@@ -44,6 +59,7 @@ obvious that I don’t know much in the end.
      <ul>
          <li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Series & patterns, limits of sequences, convergence and divergence, graph sketching.</li>
          <li>Redirecting websites hosted on <a href="https://pages.github.com/">GitHub Pages</a> <i class="fab fa-github"></i>.</li>
+         <li>The Hadwiger–Nelson problem with <a href="https://www.youtube.com/watch?v=niaeV_NHh-o">Numberphile <i class="fab fa-youtube"></i></a>.</li>
      </ul>
   </div>
 </div>
@@ -81,7 +97,9 @@ obvious that I don’t know much in the end.
   <div class="col-12 col-md-10 grey-content">
      <ul>
          <li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Encryption using modular arithmetic, solving <a href="https://en.wikipedia.org/wiki/Josephus_problem">Josephus problem</a> with bitwise operators.</li>
-         <li>Python <i class="fab fa-python"></i>: Introduction to data visualization with <a href="https://bokeh.pydata.org/">Bokeh</a>.</li>
+         <li>Josephus problem explained by <a href="https://www.youtube.com/watch?v=uCsD3ZGzMgE">Numberphile <i class="fab fa-youtube"></i></a>.</li>
+         <li>Python <i class="fab fa-python"></i>: <a href="https://www.youtube.com/watch?v=2TR_6VaVSOs">Introduction to data visualization</a> with <a href="https://bokeh.pydata.org/">Bokeh</a> with Traversy Media <i class="fab fa-youtube"></i>.</li>
+         <li><a href="https://www.youtube.com/watch?v=tb8gHvYlCFs">Python requests tutorial</a> with Corey Schafer <i class="fab fa-youtube"></i>.</li>
      </ul>
   </div>
 </div>
@@ -101,6 +119,7 @@ obvious that I don’t know much in the end.
   <div class="col-12 col-md-10 grey-content">
      <ul>
          <li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Congruence & equivalence relations, modular exponentiation.</li>
+         <li><a href="https://www.youtube.com/watch?v=4QTAtFaIiyc">The future of Cloud Computing</a> with a16z <i class="fab fa-youtube"></i>.</li>
      </ul>
   </div>
 </div>
@@ -141,6 +160,7 @@ obvious that I don’t know much in the end.
   <div class="col-12 col-md-10 grey-content">
      <ul>
          <li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Arithmetic in any base, modular arithmetic (additive identity, additive inverses).</li>
+         <li><a href="https://www.youtube.com/watch?v=AsYfbmp0To0">The ELO rating system explained</a> by James Grime <i class="fab fa-youtube"></i>.</li>
      </ul>
   </div>
 </div>
@@ -152,6 +172,7 @@ obvious that I don’t know much in the end.
          <li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Steganography (hiding text and images inside another image) in binary, hexadecimal and decimal.</li>
          <li><a href="https://www.coursera.org/learn/learning-how-to-learn/">Mindshift</a> <i class="fas fa-university"></i> on Coursera: Learning environment, memory tips, meditation (focused attention and open monitoring).</li>
          <li><em>10 Days of JavaScript</em> <i class="fab fa-js"></i> on <a href="https://www.hackerrank.com/">HackerRank.com</a>: Bitwise operators, signed binary numbers.</li>
+         <li>Refresher on <a href="https://amzn.to/2ThgwA2">So Good They Can't Ignore You</a>, by Cal Newport with <a href="https://www.youtube.com/watch?v=qwOdU02SE0w">Talks at Google <i class="fab fa-youtube"></i></a>.</li>
      </ul>
   </div>
 </div>
