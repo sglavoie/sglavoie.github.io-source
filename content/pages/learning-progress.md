@@ -28,6 +28,19 @@ obvious that I don’t know much in the end.
     <div id="mar19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 blue-day">5</div>
+  <div class="col-13 col-md-10 blue-content">
+     <ul>
+         <li><i class="fas fa-graduation-cap"></i> Finished <a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> on Coursera.</li>
+         <li><i class="fas fa-graduation-cap"></i> Finished <a href="https://www.coursera.org/learn/learning-how-to-learn/">Mindshift</a> on Coursera.</li>
+         <li>Review Vim features on <a href="http://vimcasts.org/">vimcasts.org</a>: Long-range line duplication with <code>:t</code>, working with arglist & <code>:argdo</code>, <code>:global</code> with yank, <code>windo diffthis</code>, <code>gn</code>.</li>
+     </ul>
+  </div>
+</div>
+
+
+
+<div class="row">
   <div class="col-12 col-md-2 grey-day">4</div>
   <div class="col-13 col-md-10 grey-content">
      <ul>
