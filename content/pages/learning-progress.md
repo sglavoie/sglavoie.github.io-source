@@ -28,6 +28,17 @@ obvious that I don’t know much in the end.
     <div id="mar19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 blue-day">6</div>
+  <div class="col-13 col-md-10 blue-content">
+     <ul>
+         <li><a href="https://www.youtube.com/watch?v=DamIIzp41Jg">Data analysis with Python</a> <i class="fab fa-python"></i>, <a href="https://pandas.pydata.org/">Pandas</a> and introduction to <a href="https://scikit-learn.org/">scikit-learn</a> with sentdex <i class="fab fa-youtube"></i>.</li>
+         <li>Integrating <a href="http://gitstats.sourceforge.net/">Gitstats</a> in <a href="https://blog.getpelican.com/">Pelican</a> website.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 blue-day">5</div>
   <div class="col-13 col-md-10 blue-content">
      <ul>
