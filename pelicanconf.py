@@ -3,14 +3,23 @@
 from __future__ import unicode_literals
 from datetime import datetime
 from pelican import __version__
+import glob
+import subprocess
+
+# TODO: Until I figure out how to create a plugin...
+def num_articles():
+    return len(glob.glob('./content/**/[0-9][0-9][0-9][0-9]*.md'))
+
+
+NUM_ARTICLES = num_articles()
 
 PELICAN_VERSION = __version__
 
-ABOUT_VERSION = '0.1.4'
-SITE_VERSION = 'v0.10.20'
+ABOUT_VERSION = '0.1.5'
+SITE_VERSION = 'v0.10.21'
 CURRENT_YEAR = datetime.today().year
-LAST_UPDATE = datetime.now()
-TIME_ZONE = 'CST'
+DEFAULT_DATE_FORMAT = '%B %d, %Y @ %H:%M CST'
+LAST_UPDATE = datetime.now().strftime(DEFAULT_DATE_FORMAT)
 
 AUTHOR = 'Sébastien Lavoie'
 SITENAME = 'sglavoie.com'
@@ -96,7 +105,6 @@ DISPLAY_CATEGORIES_ON_MENU = True
 TYPOGRIFY = True
 ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
-DEFAULT_DATE_FORMAT = '%B %d, %Y @ %H:%M'
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
