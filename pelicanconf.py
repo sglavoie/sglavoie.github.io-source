@@ -7,36 +7,51 @@ import glob
 import os
 import subprocess
 
-# TODO: Until I figure out how to create a plugin...
+# TODO: Until I figure out how to create a plugin, functions appear here
+def current_path():
+    '''Return a string containing the absolute path to the directory
+    where this file is being executed.'''
+    return os.path.dirname(os.path.realpath(__file__))
+
 def num_articles():
+    '''Return the number of articles that match the following regex as
+    an integer.'''
     return len(glob.glob('./content/**/[0-9][0-9][0-9][0-9]*.md'))
 
 
 def read_tree():
+    '''Execute `tree` command and store the output in
+    `output/tree.txt`.'''
     tree = subprocess.getoutput(f'tree ./output/')
     with open('./output/tree.txt', 'w') as f:
         f.write(tree)
 
 
-# Make it so that it checks a date inside the file instead
-# def daily_stats():
-#     with open('stats_counter.txt') as f:
-#         content = f.readline().strip()
-#     if content == '0':
-#         subprocess.run('gitstats -c project_name="sglavoie.com" . ./output/stats')
-#         with open('stats_counter.txt', 'w') as f:
-#             f.write('1')
-# etc.
-# daily_stats()
+def daily_stats():
+    '''Execute `Gitstats` once a day based on the date found in
+    `stats_counter.txt`. Very simple with a caveat: it won't check if
+    there are new commits on the same day if stats have already been
+    generated on that day.'''
+    today = datetime.today().strftime('%Y%m%d')
+    with open('stats_counter.txt') as f:
+        content = f.readline().strip()
+    if content != today:
+        current_loc = current_path()
+        cmd = ["gitstats", "-c", "project_name='sglavoie.com'",
+               f"{current_loc}", f"{current_loc}/output/stats/"]
+        subprocess.run(cmd)
+        with open('stats_counter.txt', 'w') as f:
+            f.write(today)
 
 
+daily_stats()
 read_tree()
 
 NUM_ARTICLES = num_articles()
 
 PELICAN_VERSION = __version__
 
-ABOUT_VERSION = '0.1.7'
+ABOUT_VERSION = '0.2.0'
 SITE_VERSION = 'v0.11.0'
 CURRENT_YEAR = datetime.today().year
 DEFAULT_DATE_FORMAT = '%B %d, %Y @ %H:%M CST'
@@ -47,12 +62,12 @@ SITENAME = 'sglavoie.com'
 SITEURL = 'https://www.sglavoie.com'
 SITESUBTITLE = f'The Learning Journey to the Summit of Commits | {AUTHOR}'
 SITE_DESCRIPTION = (
-        'Provide useful information while documenting my journey as a learner '
-        'in technology-related matters. Tech journal with the specific goal '
-        'of explaining the challenges that I will inevitably face while trying'
-        ' to become a better student and most importantly, it will be a '
-        'reference to the solutions that I found along the way so that it can '
-        'benefit others too.')
+        'Provide useful information while documenting my journey as'
+        ' a learner in technology-related matters. Tech journal with'
+        ' the specific goal of explaining the challenges that I will'
+        ' inevitably face while trying to become a better student and most'
+        ' importantly, it will be a reference to the solutions that I'
+        ' found along the way so that it can benefit others too.')
 DISQUS_SITENAME = 'sglavoie'
 TWITTER_USERNAME = 'sgdlavoie'
 THEME = 'themes/SL'
