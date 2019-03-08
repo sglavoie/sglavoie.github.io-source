@@ -1,6 +1,7 @@
-__pycache__/
-*.py[cod]
 *$py.class
-output/
+*.py[cod]
 TODO
+__pycache__/
+output/
+stats_counter.txt
 tags
