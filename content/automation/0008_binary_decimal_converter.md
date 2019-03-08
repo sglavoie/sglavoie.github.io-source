@@ -50,7 +50,6 @@ if __name__ == '__main__':
     print(RESULT)
 ~~~~
 
-----
 
 ### Decimal to Binary
 
@@ -102,7 +101,6 @@ if __name__ == '__main__':
     print(RESULT)
 ~~~~
 
-----
 
 ## Conclusion
 
