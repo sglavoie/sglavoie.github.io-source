@@ -4,6 +4,7 @@ from __future__ import unicode_literals
 from datetime import datetime
 from pelican import __version__
 import glob
+import os
 import subprocess
 
 # TODO: Until I figure out how to create a plugin...
@@ -11,12 +12,32 @@ def num_articles():
     return len(glob.glob('./content/**/[0-9][0-9][0-9][0-9]*.md'))
 
 
+def read_tree():
+    tree = subprocess.getoutput(f'tree ./output/')
+    with open('./output/tree.txt', 'w') as f:
+        f.write(tree)
+
+
+# Make it so that it checks a date inside the file instead
+# def daily_stats():
+#     with open('stats_counter.txt') as f:
+#         content = f.readline().strip()
+#     if content == '0':
+#         subprocess.run('gitstats -c project_name="sglavoie.com" . ./output/stats')
+#         with open('stats_counter.txt', 'w') as f:
+#             f.write('1')
+# etc.
+# daily_stats()
+
+
+read_tree()
+
 NUM_ARTICLES = num_articles()
 
 PELICAN_VERSION = __version__
 
-ABOUT_VERSION = '0.1.6'
-SITE_VERSION = 'v0.10.21'
+ABOUT_VERSION = '0.1.7'
+SITE_VERSION = 'v0.11.0'
 CURRENT_YEAR = datetime.today().year
 DEFAULT_DATE_FORMAT = '%B %d, %Y @ %H:%M CST'
 LAST_UPDATE = datetime.now().strftime(DEFAULT_DATE_FORMAT)
