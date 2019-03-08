@@ -15,7 +15,7 @@ NUM_ARTICLES = num_articles()
 
 PELICAN_VERSION = __version__
 
-ABOUT_VERSION = '0.1.5'
+ABOUT_VERSION = '0.1.6'
 SITE_VERSION = 'v0.10.21'
 CURRENT_YEAR = datetime.today().year
 DEFAULT_DATE_FORMAT = '%B %d, %Y @ %H:%M CST'
