@@ -20,11 +20,24 @@ def num_articles():
 
 
 def read_tree():
-    '''Execute `tree` command and store the output in
-    `output/tree.txt`.'''
-    tree = subprocess.getoutput(f'tree ./output/')
-    with open('./output/tree.txt', 'w') as f:
-        f.write(tree)
+    '''Execute `tree` command to output HTML with colors. Filter out the
+    noise and keep the essential part as a template to be included in
+    `tree.html`.'''
+    subprocess.run(f'tree -C -H . ./output/ > ./tree.txt', shell=True)
+    body = False
+    extracted_tree = []
+    with open('tree.txt') as f:
+        for line in f:
+            if not body:
+                if '<body>' in line:
+                    body = True
+            else:
+                if '</body>' in line:
+                    break
+                extracted_tree.append(line)
+    with open('./themes/SL/templates/tree_content.html', 'w') as f:
+        for line in extracted_tree:
+            f.write(line)
 
 
 def daily_stats():
@@ -51,7 +64,7 @@ NUM_ARTICLES = num_articles()
 
 PELICAN_VERSION = __version__
 
-ABOUT_VERSION = '0.2.1'
+ABOUT_VERSION = '0.3.0'
 SITE_VERSION = 'v0.11.0'
 CURRENT_YEAR = datetime.today().year
 DEFAULT_DATE_FORMAT = '%B %d, %Y @ %H:%M CST'

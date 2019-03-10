@@ -865,3 +865,15 @@ body::-webkit-scrollbar {
 }
 }
 /* end @MEDIA */
+
+/* Styles for `tree` command output */
+
+.VERSION { font-size: small; font-family : arial, sans-serif; }
+.NORM  { color: black;  background-color: transparent;}
+.FIFO  { color: purple; background-color: transparent;}
+.CHAR  { color: yellow; background-color: transparent;}
+.DIR   { color: blue;   background-color: transparent;}
+.BLOCK { color: yellow; background-color: transparent;}
+.LINK  { color: aqua;   background-color: transparent;}
+.SOCK  { color: fuchsia;background-color: transparent;}
+.EXEC  { color: green;  background-color: transparent;}
