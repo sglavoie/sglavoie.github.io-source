@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% set active_page = "tree" %}
+
+{% block title %}Tree | {{ SITENAME }}{% endblock %}
+
+{% block content %}
+
+    <section id="content" class="jumbotron body">
+        <header>
+            <h2 class="display-4 uppercase-title"><i class="fas fa-info"></i> About {{ ABOUT_VERSION }}: website structure</h2>
+        </header>
+  <hr class="my-4">
+  <div class="card">
+      <div class="card-body entry-content">
+
+<p>
+
+<object data="/tree.txt" width="100%" height="500px" type="text/plain">
+<a href="/tree.txt">No Support?</a>
+</object>
+</p>
+      </div>
+  </div>
+        <!-- /.entry-content -->
+    </section>
+
+{% endblock %}
+
+

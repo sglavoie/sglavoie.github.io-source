@@ -51,7 +51,7 @@ NUM_ARTICLES = num_articles()
 
 PELICAN_VERSION = __version__
 
-ABOUT_VERSION = '0.2.0'
+ABOUT_VERSION = '0.2.1'
 SITE_VERSION = 'v0.11.0'
 CURRENT_YEAR = datetime.today().year
 DEFAULT_DATE_FORMAT = '%B %d, %Y @ %H:%M CST'
@@ -130,7 +130,7 @@ CATEGORY_FEED_RSS = None
 
 DIRECT_TEMPLATES = [
     'index', 'categories', 'authors', 'archives',  # (default)
-    'tags', 'about',  # other HTML templates to render
+    'tags', 'about', 'tree'  # other HTML templates to render
 ]
 
 DISPLAY_PAGES_ON_MENU = False
