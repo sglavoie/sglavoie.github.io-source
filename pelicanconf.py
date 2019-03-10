@@ -8,10 +8,13 @@ import os
 import subprocess
 
 # TODO: Until I figure out how to create a plugin, functions appear here
+
+
 def current_path():
     '''Return a string containing the absolute path to the directory
     where this file is being executed.'''
     return os.path.dirname(os.path.realpath(__file__))
+
 
 def num_articles():
     '''Return the number of articles that match the following regex as
