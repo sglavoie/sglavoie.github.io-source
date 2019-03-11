@@ -28,10 +28,19 @@ obvious that I don’t know much in the end.
     <div id="mar19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 grey-day">10</div>
+  <div class="col-13 col-md-10 grey-content">
+     <ul>
+         <li>Tor network, Tor Browser, onion routes, deep/dark web.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 blue-day">9</div>
   <div class="col-13 col-md-10 blue-content">
      <ul>
-
          <li><i class="fas fa-book"></i> Read <a href="https://amzn.to/2NTZ0Mg">Learning Python</a>, by Mark Lutz: Core data types, Python statements, assignments, expressions, if tests, syntax rules, ternary expressions, loops.</li>
      </ul>
   </div>
@@ -42,7 +51,6 @@ obvious that I don’t know much in the end.
   <div class="col-12 col-md-2 grey-day">8</div>
   <div class="col-13 col-md-10 grey-content">
      <ul>
-
          <li>Review data structures in Python.</li>
      </ul>
   </div>
