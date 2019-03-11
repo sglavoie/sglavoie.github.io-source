@@ -8,7 +8,7 @@ Summary: I recently started using this software as my main web browser and, as a
 ## What is qutebrowser?
 
 [qutebrowser](https://qutebrowser.org/) is a web browser that makes
-great use of `Vim` commands to navigate. From its website:
+great use of **Vim** commands to navigate. From its website:
 
 > qutebrowser is a keyboard-focused browser with a minimal GUI. It’s
 based on Python and PyQt5 and free software, licensed under the GPL.

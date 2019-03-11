@@ -5,7 +5,7 @@ Slug: executing-shell-commands-in-a-python-script
 Authors: Sébastien Lavoie
 Summary: Even for simple tasks, it is often worth basing one's work on existing solutions when it is an appropriate option... And such can be the case when writing Python scripts!
 
-Python is awesome for producing high quality code quickly
+Python is awesome for producing high-quality code quickly
 and efficiently, but it is not necessary to reinvent the
 wheel in each project: this is why the third-party library on
 [PyPI](https://pypi.org/) is so extensive. There are also occasions when

@@ -26,7 +26,7 @@ def read_tree():
     '''Execute `tree` command to output HTML with colors. Filter out the
     noise and keep the essential part as a template to be included in
     `tree.html`.'''
-    subprocess.run(f'tree -C -H . ./output/ > ./tree.txt', shell=True)
+    subprocess.run(f'tree -C -H . ./output/ > tree.txt', shell=True)
     body = False
     extracted_tree = []
     with open('tree.txt') as f:
