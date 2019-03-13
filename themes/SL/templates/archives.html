@@ -3,7 +3,14 @@
 {% block title %}Archives | {{ SITENAME }}{% endblock %}
 
 {% block content %}
-<h1>Archives for {{ SITENAME }}</h1>
+
+    <section id="content" class="jumbotron body">
+        <header>
+            <h2 class="display-4 uppercase-title"><i class="fas fa-info"></i> Archives for {{ SITENAME }}</h2>
+        </header>
+  <hr class="my-4">
+  <div class="card">
+      <div class="card-body entry-content">
 
 <dl>
 {% for article in dates %}
@@ -11,4 +18,10 @@
     <dd><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></dd>
 {% endfor %}
 </dl>
+
+      </div>
+  </div>
+        <!-- /.entry-content -->
+    </section>
+
 {% endblock %}
