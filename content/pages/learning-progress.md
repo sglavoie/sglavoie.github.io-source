@@ -28,13 +28,28 @@ obvious that I don’t know much in the end.
     <div id="mar19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 grey-day">12</div>
+  <div class="col-13 col-md-10 grey-content">
+     <ul>
+         <li>Python <i class="fab fa-python"></i> scripting: Communicating with <a href="https://haveibeenpwned.com/API/v2">HaveIBeenPwned.com's API</a> to ensure a password hasn't been breached. <a href="https://github.com/sglavoie/python-utilities">Code available on Github</a> <i class="fab fa-github"></i>.</li>
+         <li><a href="https://projecteuler.net/problem=24">Lexicographic permutations</a>, Project Euler <i class="fas fa-calculator"></i>.</li>
+         <li><a href="https://projecteuler.net/problem=28">Number spiral diagonals</a>, Project Euler <i class="fas fa-calculator"></i>.</li>
+         <li><a href="https://projecteuler.net/problem=34">Digit factorials</a>, Project Euler <i class="fas fa-calculator"></i>.</li>
+         <li><a href="https://www.youtube.com/watch?v=Lbfe3-v7yE0">Sockets Tutorial with Python 3</a> <i class="fab fa-python"></i> (receiving and sending data) with sentdex <i class="fab fa-youtube"></i>.</li>
+         <li><a href="https://www.youtube.com/watch?v=a6fIbtFB46g">Web Scraping with Requests-HTML</a> with Corey Schafer <i class="fab fa-youtube"></i>.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 blue-day">11</div>
   <div class="col-13 col-md-10 blue-content">
      <ul>
          <li><a href="https://realpython.com/python-refactoring/">Refactoring Python Applications for Simplicity</a>, by <a href="https://tonybaloney.github.io/">Anthony Shaw</a> on <a href="https://realpython.com/">Real Python</a>: Code complexity.</li>
          <li>Python <i class="fab fa-python"></i>: Find unique words in text file (<a href="https://stackoverflow.com/a/55113291/8787680">Stackoverflow answer <i class="fab fa-stack-overflow"></i></a>).</li>
          <li><a href="https://stackoverflow.com/a/41125461/8787680">Limiting RAM usage</a> <i class="fab fa-stack-overflow"></i> inside Python <i class="fab fa-python"></i> script.</li>
-         <li><a href="https://projecteuler.net/problem=12">Finding the number of factors in a large number</a>, Project Euler.</li>
+         <li><a href="https://projecteuler.net/problem=12">Finding the number of factors in a large number</a>, Project Euler <i class="fas fa-calculator"></i>.</li>
      </ul>
   </div>
 </div>
@@ -1948,7 +1963,7 @@ obvious that I don’t know much in the end.
      </ul>
 <strong>Python</strong>
      <ul>
-         <li>Algorithms & Data Structures on <a href="https://www.hackerrank.com/">HackerRank.com</a>, <a href="http://www.codeabbey.com/">Code Abbey</a>, <a href="https://projecteuler.net/">Project Euler</a>, etc.</li>
+         <li>Algorithms & Data Structures on <a href="https://www.hackerrank.com/">HackerRank.com</a>, <a href="http://www.codeabbey.com/">Code Abbey</a>, <a href="https://projecteuler.net/">Project Euler <i class="fas fa-calculator"></i></a>, etc.</li>
          <li>Finish <em>Complete Python Masterclass</em> on Udemy, by Tim Buchalka.</li>
          <li>Jupyter Notebooks.</li>
          <li>Build a CLI with Click.</li>
