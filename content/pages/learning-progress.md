@@ -28,6 +28,20 @@ obvious that I don’t know much in the end.
     <div id="mar19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 blue-day">13</div>
+  <div class="col-13 col-md-10 blue-content">
+     <ul>
+         <li>Setting up a basic web application with <a href="https://trypyramid.com/">Pyramid</a>.</li>
+         <li>Review <a href="https://github.com/tpope/vim-fugitive">vim-fugitive</a> features and mappings.</li>
+         <li>Review properties of CSS <i class="fab fa-css3"></i> selectors and hierarchies.</li>
+         <li>Manage caching of CSS <i class="fab fa-css3"></i> files with MD5 hashes.</li>
+         <li>Setting up <a href="https://hluk.github.io/CopyQ/">CopyQ</a>, a <em>"Clipboard Manager with Advanced Features"</em>.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 grey-day">12</div>
   <div class="col-13 col-md-10 grey-content">
      <ul>
@@ -92,7 +106,7 @@ obvious that I don’t know much in the end.
 
          <li><a href="https://www.linkedin.com/learning/python-programming-efficiently">Python: Programming Efficiently</a>, on LinkedIn Learning (<code>jupyter-lab</code>, list / dict / set comprehension, modules <code>collections</code>, <code>geopy</code> & <code>basemap</code>).</li>
          <li><a href="https://www.linkedin.com/learning/ethical-hacking-overview">Introduction to ethical hacking</a> on LinkedIn Learning.</li>
-         <li>Changing CSS style for <a href="http://gitstats.sourceforge.net/">Gitstats</a>.</li>
+         <li>Changing CSS <i class="fab fa-css3"></i> style for <a href="http://gitstats.sourceforge.net/">Gitstats</a>.</li>
      </ul>
   </div>
 </div>
