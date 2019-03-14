@@ -4,16 +4,14 @@ from __future__ import unicode_literals
 from datetime import datetime
 from pelican import __version__
 import glob
+import hashlib
 import os
 import subprocess
 
 # TODO: Until I figure out how to create a plugin, functions appear here
 
-
-def current_path():
-    '''Return a string containing the absolute path to the directory
-    where this file is being executed.'''
-    return os.path.dirname(os.path.realpath(__file__))
+# Absolute path to the directory where this file is being executed
+CURRENT_PATH = os.path.dirname(os.path.realpath(__file__))
 
 
 def num_articles():
@@ -52,23 +50,27 @@ def daily_stats():
     with open('stats_counter.txt') as f:
         content = f.readline().strip()
     if content != today:
-        current_loc = current_path()
         cmd = ["gitstats", "-c", "project_name='sglavoie.com'",
-               f"{current_loc}", f"{current_loc}/output/stats/"]
+               f"{CURRENT_PATH}", f"{CURRENT_PATH}/output/stats/"]
         subprocess.run(cmd)
         with open('stats_counter.txt', 'w') as f:
             f.write(today)
 
 
-daily_stats()
-read_tree()
+def get_cache_id(filename):
+    md5 = hashlib.md5()
 
-NUM_ARTICLES = num_articles()
+    with open(filename, 'rb') as f:
+        data = f.read()
+        md5.update(data)
+
+    return md5.hexdigest()
+
 
 PELICAN_VERSION = __version__
 
 ABOUT_VERSION = '0.3.0'
-SITE_VERSION = 'v0.12.0'
+SITE_VERSION = 'v0.13.0'
 CURRENT_YEAR = datetime.today().year
 DEFAULT_DATE_FORMAT = '%B %d, %Y @ %H:%M CST'
 LAST_UPDATE = datetime.now().strftime(DEFAULT_DATE_FORMAT)
@@ -161,3 +163,13 @@ ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
+
+
+# Custom behavior below
+
+daily_stats()
+read_tree()
+
+NUM_ARTICLES = num_articles()
+BASE_CSS = get_cache_id(f'{THEME}/static/css/base.css')
+PYGMENT_CSS = get_cache_id(f'{THEME}/static/css/pygment.css')
