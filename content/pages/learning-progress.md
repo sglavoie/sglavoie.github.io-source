@@ -28,6 +28,18 @@ obvious that I don’t know much in the end.
     <div id="mar19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 grey-day">14</div>
+  <div class="col-13 col-md-10 grey-content">
+     <ul>
+         <li>Sockets Tutorial with Python 3 <i class="fab fa-python"></i> (<a href="https://www.youtube.com/watch?v=8A4dqoGL62E">buffering and streaming data</a> & <a href="https://www.youtube.com/watch?v=WM1z8soch0Q">sending and receiving Python objects with pickle</a>) with sentdex <i class="fab fa-youtube"></i>.</li>
+         <li><a href="https://www.youtube.com/watch?v=fZQI7nBu32M">PostgreSQL</a>, SELECT (<a href="https://www.youtube.com/watch?v=YufocuHbYZo">part 1</a> & <a href="https://www.youtube.com/watch?v=PkJKzR_sClM">part 2</a>), <a href="https://www.youtube.com/watch?v=VkabxQgtGsA">INSERT INTO</a> & <a href="https://www.youtube.com/watch?v=cd-hSl7_pGQ">UPDATE</a> with Socratica <i class="fab fa-youtube"></i>.</li>
+         <li><a href="https://projecteuler.net/problem=15">Lattice paths</a>, Project Euler <i class="fas fa-calculator"></i>.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 blue-day">13</div>
   <div class="col-13 col-md-10 blue-content">
      <ul>
@@ -644,7 +656,7 @@ obvious that I don’t know much in the end.
          <ul>
              <li>System administration consultation (process improvements).</li>
          </ul>
-         <li>Finish reading <a href="https://jamesclear.com/atomic-habits">Atomic Habits</a> <i class="fas fa-book"></i>, by <a href="https://jamesclear.com/">James Clear</a>.</li>
+         <li>Finish reading <a href="https://amzn.to/2Y0QGis">Atomic Habits</a> <i class="fas fa-book"></i>, by <a href="https://jamesclear.com/">James Clear</a>.</li>
          <li>Managing duplicates in Python <i class="fab fa-python"></i> (<a href="https://github.com/sglavoie/python-utilities/tree/master/bash_history_cleaner">Bash History Cleaner</a>).</li>
      </ul>
   </div>
@@ -981,7 +993,7 @@ obvious that I don’t know much in the end.
      <ul>
          <li>Bootstrap (web framework): Tables.</li>
          <li>Pelican (static site generator): Use <em>Pages</em> in theme; Integrate menu items; Add a custom 404 error page.</li>
-         <li>Read <em><a href="http://a.co/d/81yHmxn">The Complete Software Developer's Career Guide</a></em> <i class="fas fa-book"></i>, by <a href="https://simpleprogrammer.com/">John Sonmez</a>: Section 3 (What you need to know about software development) & Section 4 (Working as a developer). Section 4 contained the inspiration I needed to write about this <em>Learning Progress</em>.</li>
+         <li>Read <em><a href="https://amzn.to/2O8JAnS">The Complete Software Developer's Career Guide</a></em> <i class="fas fa-book"></i>, by <a href="https://simpleprogrammer.com/">John Sonmez</a>: Section 3 (What you need to know about software development) & Section 4 (Working as a developer). Section 4 contained the inspiration I needed to write about this <em>Learning Progress</em>.</li>
      </ul>
    </div>
 </div>
@@ -1819,7 +1831,7 @@ obvious that I don’t know much in the end.
    <div class="col-12 col-md-2 blue-day">16</div>
 <div class="col-12 col-md-10 blue-content">
      <ul>
-         <li>Finish reading <em><a href="https://pragprog.com/book/dnvim2/practical-vim-second-edition">Practical Vim, Second Edition</a></em> <i class="fas fa-book"></i>, by <a href="http://drewneil.com/">Drew Neil</a>. I love this book!</li>
+         <li>Finish reading <em><a href="https://amzn.to/2XXOh8p">Practical Vim, Second Edition</a></em> <i class="fas fa-book"></i>, by <a href="http://drewneil.com/">Drew Neil</a>. I love this book!</li>
      </ul>
    </div>
 </div>
