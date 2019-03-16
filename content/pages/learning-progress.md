@@ -28,6 +28,18 @@ obvious that I don’t know much in the end.
     <div id="mar19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 blue-day">15</div>
+  <div class="col-13 col-md-10 blue-content">
+     <ul>
+         <li>Insertion sort algorithm.</li>
+         <li>URL encoding with <code>cURL</code> and <code>requests</code>.</li>
+         <li>Scraping a website with <code>requests_html</code> (<a href="https://stackoverflow.com/a/55193557/8787680">Stackoverflow answer <i class="fab fa-stack-overflow"></i></a>)</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 grey-day">14</div>
   <div class="col-13 col-md-10 grey-content">
      <ul>
