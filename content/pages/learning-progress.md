@@ -33,7 +33,8 @@ obvious that I don’t know much in the end.
      <ul>
          <li>Insertion sort algorithm.</li>
          <li>URL encoding with <code>cURL</code> and <code>requests</code>.</li>
-         <li>Scraping a website with <code>requests_html</code> (<a href="https://stackoverflow.com/a/55193557/8787680">Stackoverflow answer <i class="fab fa-stack-overflow"></i></a>)</li>
+         <li>Scraping a website with <code>requests_html</code> (<a href="https://stackoverflow.com/a/55193557/8787680">Stackoverflow answer <i class="fab fa-stack-overflow"></i></a>).</li>
+         <li>Quickly open files in Vim (<a href="https://stackoverflow.com/a/55176008/8787680">Stackoverflow answer <i class="fab fa-stack-overflow"></i></a>).</li>
      </ul>
   </div>
 </div>
