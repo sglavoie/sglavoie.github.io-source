@@ -28,6 +28,16 @@ obvious that I don’t know much in the end.
     <div id="mar19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 grey-day">16</div>
+  <div class="col-13 col-md-10 grey-content">
+     <ul>
+         <li><i class="fas fa-university"></i> Officially enrolled in <a href="https://london.ac.uk/courses/computer-science-machine-learning-and-ai">BSc in Computer Science (Machine Learning and Artificial Intelligence)</a> at <a href="https://www.gold.ac.uk/">Goldsmiths, University of London</a>.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 blue-day">15</div>
   <div class="col-13 col-md-10 blue-content">
      <ul>
