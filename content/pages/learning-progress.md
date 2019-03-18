@@ -28,6 +28,19 @@ obvious that I don’t know much in the end.
     <div id="mar19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 blue-day">17</div>
+  <div class="col-13 col-md-10 blue-content">
+     <ul>
+         <li><a href="https://projecteuler.net/problem=35">Circular primes</a>, Project Euler <i class="fas fa-calculator"></i>.</li>
+         <li><a href="https://projecteuler.net/problem=36">Double-base palindromes</a>, Project Euler <i class="fas fa-calculator"></i>.</li>
+         <li><a href="https://projecteuler.net/problem=39">Integer right triangles</a>, Project Euler <i class="fas fa-calculator"></i>.</li>
+         <li>Replacing the first word in a string in Python 3 <i class="fab fa-python"></i> (<a href="https://stackoverflow.com/a/55213732/8787680">Stackoverflow answer <i class="fab fa-stack-overflow"></i></a>).</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 grey-day">16</div>
   <div class="col-13 col-md-10 grey-content">
      <ul>
@@ -2008,14 +2021,14 @@ obvious that I don’t know much in the end.
      <ul>
          <li>Contribute a pull request and get feedback.</li>
          <li>Make use of forks and public/private repositories.</li>
-         <li>Use GitHub <i class="fab fa-github"></i> from terminal <i class="fas fa-terminal"></i>.</li>
+         <li>Use <a href="https://github.com/">GitHub</a> <i class="fab fa-github"></i> from terminal <i class="fas fa-terminal"></i>.</li>
      </ul>
 <strong>Python</strong>
      <ul>
          <li>Algorithms & Data Structures on <a href="https://www.hackerrank.com/">HackerRank.com</a>, <a href="http://www.codeabbey.com/">Code Abbey</a>, <a href="https://projecteuler.net/">Project Euler <i class="fas fa-calculator"></i></a>, etc.</li>
          <li>Finish <em>Complete Python Masterclass</em> on Udemy, by Tim Buchalka.</li>
          <li>Jupyter Notebooks.</li>
-         <li>Build a CLI with Click.</li>
+         <li>Build a CLI with <a href="https://github.com/pallets/click">Click</a>.</li>
          <li>Use <a href="https://www.anaconda.com">Anaconda distribution</a> with scientific libraries.</li>
          <li><code>subprocess</code> module in Python <i class="fab fa-python"></i>.</li>
      </ul>
@@ -2069,11 +2082,11 @@ obvious that I don’t know much in the end.
          <li>Bash scripting.</li>
          <li>Disk encryption with cryptsetup.</li>
          <li>Use Bash terminal <i class="fas fa-terminal"></i>.</li>
-         <li>Use distributions, including Kubuntu, Debian, Fedora, Ubuntu, Mint, Mandrake, Mandriva and SuSE.</li>
+         <li>Use distributions, including <a href="https://kubuntu.org/">Kubuntu</a>, <a href="https://www.debian.org/">Debian</a>, <a href="https://getfedora.org/">Fedora</a>, <a href="https://www.ubuntu.com/">Ubuntu</a>, <a href="https://linuxmint.com/">Linux Mint</a>, <a href="https://www.openmandriva.org/">Mandrake, Mandriva</a> and <a href="https://www.suse.com/">SuSE</a>.</li>
      </ul>
 <strong>Basics of...</strong>
      <ul>
-         <li>Python <i class="fab fa-python"></i>: Get <i class="fas fa-graduation-cap"></i> <a href="https://www.sololearn.com/Certificate/1073-6555674/pdf/">certificate</a> for Python 3 Tutorial on SoloLearn.</li>
+         <li>Python <i class="fab fa-python"></i>: Get <i class="fas fa-graduation-cap"></i> <a href="https://www.sololearn.com/Certificate/1073-6555674/pdf/">certificate</a> for Python 3 Tutorial on <a href="https://www.sololearn.com/">SoloLearn</a>.</li>
          <li>HTML <i class="fab fa-html5"></i>, CSS <i class="fab fa-css3"></i>, JavaScript <i class="fab fa-js"></i>, SQL, Visual Basic, Pascal, Scribus, LibreOffice, GIMP, Audacity, Inkscape, Blender, XAMPP (Apache distribution), Wordpress, Freeplane (mind mapping software).</li>
      </ul>
 
