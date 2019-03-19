@@ -28,6 +28,17 @@ obvious that I don’t know much in the end.
     <div id="mar19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 grey-day">18</div>
+  <div class="col-13 col-md-10 grey-content">
+     <ul>
+         <li>Setting a <a href="https://discordapp.com/">Discord</a> server.</li>
+         <li>Setting up <a href="https://slack.com/">Slack</a> channels and apps.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 blue-day">17</div>
   <div class="col-13 col-md-10 blue-content">
      <ul>
