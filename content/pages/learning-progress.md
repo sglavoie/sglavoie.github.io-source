@@ -28,6 +28,19 @@ obvious that I don’t know much in the end.
     <div id="mar19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 blue-day">19</div>
+  <div class="col-13 col-md-10 blue-content">
+     <ul>
+         <li><a href="https://www.youtube.com/watch?v=JRCJ6RtE3xU">Sending emails with Python</a> (Gmail and local debugging server) with Corey Schafer <i class="fab fa-youtube"></i>.</li>
+         <li>Batch convert <strong>.NEF</strong> photos to <strong>.tif</strong> with <code>mogrify</code> from <a href="https://www.imagemagick.org/">ImageMagick</a>.</li>
+         <li>Keeping files securely encrypted with <a href="https://www.gnupg.org/">GPG</a>.</li>
+         <li>Creating templates & styles with <a href="https://www.scribus.net/">Scribus</a>.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 grey-day">18</div>
   <div class="col-13 col-md-10 grey-content">
      <ul>
