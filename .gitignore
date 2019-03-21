@@ -2,6 +2,7 @@
 *.py[cod]
 TODO
 __pycache__/
+files/
 output/
 stats_counter.txt
 tags
