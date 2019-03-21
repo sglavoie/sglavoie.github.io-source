@@ -28,6 +28,17 @@ obvious that I don’t know much in the end.
     <div id="mar19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 grey-day">20</div>
+  <div class="col-13 col-md-10 grey-content">
+     <ul>
+         <li>Following along <a href="http://docs.scrapy.org/en/latest/intro/tutorial.html">Scrapy tutorial</a>.</li>
+         <li>Modular arithmetic with negative divisors.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 blue-day">19</div>
   <div class="col-13 col-md-10 blue-content">
      <ul>
