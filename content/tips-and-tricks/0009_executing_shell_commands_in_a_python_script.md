@@ -1,4 +1,4 @@
-Title: Executing shell commands in a Python script
+Title: Executing Shell Commands in a Python Script
 Date: 2019-03-08 14:34
 Tags: python, script
 Slug: executing-shell-commands-in-a-python-script

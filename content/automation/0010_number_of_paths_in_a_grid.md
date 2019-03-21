@@ -1,4 +1,4 @@
-Title: Number of paths in a grid... or in life
+Title: Number of Paths in a Grid… or in Life
 Date: 2019-03-14 20:38
 Tags: computer science, mathematics, python, script
 Slug: number-of-paths-in-a-grid-or-in-life
