@@ -152,6 +152,8 @@ DIRECT_TEMPLATES = [
     'tags', 'about', 'tree'
 ]
 
+STATIC_PATHS = ['files']
+
 DISPLAY_PAGES_ON_MENU = False
 DEFAULT_PAGINATION = 5
 USE_FOLDER_AS_CATEGORY = True
