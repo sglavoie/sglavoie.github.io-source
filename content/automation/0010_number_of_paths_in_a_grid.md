@@ -1,19 +1,31 @@
 Title: Number of Paths in a Grid… or in Life
 Date: 2019-03-14 20:38
+Modified: 2019-03-22 10:05
 Tags: computer science, mathematics, python, script
 Slug: number-of-paths-in-a-grid-or-in-life
 Authors: Sébastien Lavoie
 Summary: Finding one's way in life is not easy because there are so many paths we can take at any moment. Here is a way to look at it mathematically!
 
-How would you go about determining the number of possible paths in a grid of size _n_ if your initial position is at the top left corner and your destination is the bottom right corner, knowing you can only go right or down at each move? Let's look at a grid of size `3 × 3`:
+How would you go about determining the number of possible paths in a
+grid of size _n_ if your initial position is at the top left corner and
+your destination is the bottom right corner, knowing you can only go
+right or down at each move? Let's look at a grid of size `3 × 3`:
 
 <a href="{static}/images/posts/0010_number-of-paths-in-a-grid/3x3_grid_paths_demo.png"><img src="{static}/images/posts/0010_number-of-paths-in-a-grid/3x3_grid_paths_demo.png" alt="3x3_grid_paths_demo" class="max-size-img-post"></a>
 
-Even at such a small size, one needs some concentration. Sure, it can be done on paper, but there must be a better way...
+Even at such a small size, one needs some concentration. Sure, it can be
+done on paper, but there must be a better way...
 
 ### Python to the rescue
 
-Once again, programming comes in handy! Life is complicated, but there are aspects of it that can be solved more easily than previously thought when we use the right tools <i class="fas fa-smile"></i>. Knowing that this particular situation corresponds to values from [Pascal's Triangle](https://en.wikipedia.org/wiki/Pascal%27s_triangle) might help, but it sure is more fun to come up with a different solution. Here is how it occurred to me in Python:
+Once again, programming comes in handy! Life is complicated, but there
+are aspects of it that can be solved more easily than previously
+thought when we use the right tools <i class="fas fa-smile"></i>.
+Knowing that this particular situation corresponds to values from
+[Pascal's Triangle](https://en.wikipedia.org/wiki/Pascal%27s_triangle)
+<i class="fab fa-wikipedia-w"></i> might help, but it sure is more fun
+to come up with a different solution. Here is how it occurred to me in
+Python:
 
 ~~~~{.python}
 '''
@@ -104,13 +116,26 @@ if __name__ == '__main__':
     print(num_paths(GRID_SIZE))
 ~~~~
 
-In the end, the idea was to find the number of possible paths that correspond to each possible move, starting from the destination and reverse engineering the number of possibilities until we get to the starting point.
+In the end, the idea was to find the number of possible paths that
+correspond to each possible move, starting from the destination and
+reverse engineering the number of possibilities until we get to the
+starting point.
 
 ## Conclusion
 
-As it turns out, this strategy of reverse engineering things works pretty well when applied to real-life examples. When setting a goal, for instance loosing 10 kilograms in one year, it can sound a lot less daunting to find out what this represents by month (0.83 kg) or even by week (0.19 kg) instead of fixating on the big gap from your current situation. For short-term goals, this can be reduced to daily or even hourly outcomes.
+As it turns out, this strategy of reverse engineering things works
+pretty well when applied to real-life examples. When setting a goal,
+for instance loosing 10 kilograms in one year, it can sound a lot less
+daunting to find out what this represents by month (0.83 kg) or even
+by week (0.19 kg) instead of fixating on the big gap from your current
+situation. For short-term goals, this can be reduced to daily or even
+hourly outcomes.
 
-This goes hand in hand with the advice found in [Atomic Habits](https://amzn.to/2Y0QGis), an excellent book written by James Clear:
+This goes hand in hand with the advice found in [Atomic
+Habits](https://amzn.to/2Y0QGis), an excellent book written by James
+Clear:
 > A 1% daily improvement leads to a version of yourself that's *37* times better in one year.
 
-If that's not motivating enough to start taking little steps with consistency towards your dreams, I don't know what is <i class="fas fa-laugh-beam"></i>.
+If that's not motivating enough to start taking little steps with
+consistency towards your dreams, I don't know what is <i class="fas
+fa-laugh-beam"></i>.
