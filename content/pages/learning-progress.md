@@ -9,10 +9,11 @@ save_as: learning-progress.html
 adventure primarily for the following practical reasons: to
 help me remember what I have supposedly been working on and
 to help me practice a technique that is known as [spaced
-repetition](https://en.wikipedia.org/wiki/Spaced_repetition). This
-is really just a summary to motivate myself to keep on track and be
-reminded as often as possible to stay a bit more humble, as it becomes
-obvious that I don’t know much in the end.
+repetition](https://en.wikipedia.org/wiki/Spaced_repetition) <i
+class="fab fa-wikipedia-w"></i>. This is really just a summary to
+motivate myself to keep on track and be reminded as often as possible to
+stay a bit more humble, as it becomes obvious that I don’t know much
+in the end.
 
 > In the process, I hope you may find some inspiration too.
 
@@ -299,7 +300,7 @@ obvious that I don’t know much in the end.
   <div class="col-12 col-md-2 grey-day">27</div>
   <div class="col-12 col-md-10 grey-content">
      <ul>
-         <li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Encryption using modular arithmetic, solving <a href="https://en.wikipedia.org/wiki/Josephus_problem">Josephus problem</a> with bitwise operators.</li>
+         <li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Encryption using modular arithmetic, solving <a href="https://en.wikipedia.org/wiki/Josephus_problem">Josephus problem</a> <i class="fab fa-wikipedia-w"></i> with bitwise operators.</li>
          <li>Josephus problem explained by <a href="https://www.youtube.com/watch?v=uCsD3ZGzMgE">Numberphile <i class="fab fa-youtube"></i></a>.</li>
          <li>Python <i class="fab fa-python"></i>: <a href="https://www.youtube.com/watch?v=2TR_6VaVSOs">Introduction to data visualization</a> with <a href="https://bokeh.pydata.org/">Bokeh</a> with Traversy Media <i class="fab fa-youtube"></i>.</li>
          <li><a href="https://www.youtube.com/watch?v=tb8gHvYlCFs">Python requests tutorial</a> with Corey Schafer <i class="fab fa-youtube"></i>.</li>
