@@ -28,6 +28,17 @@ obvious that I don’t know much in the end.
     <div id="mar19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 blue-day">21</div>
+  <div class="col-13 col-md-10 blue-content">
+     <ul>
+         <li><i class="fas fa-graduation-cap"></i> Certifications on <a href="https://www.testdome.com/">TestDome</a> (<a href="https://www.testdome.com/cert/999c53f380934d99aa4bda2a9c2a33ec">Python</a>, <a href="https://www.testdome.com/cert/09e820d68d6f4a0ab28cbdba646d0932">Linux</a>, <a href="https://www.testdome.com/cert/b824f9b10c0c476c88c8dfbaf0495afc">Numerical Reasoning</a>).</li>
+         <li><i class="fas fa-history"></i> Python review with <a href="https://www.packtpub.com/application-development/python-everyday-life-video">Python for Everyday Life</a>: Logging, regular expressions, function decorators, context managers, generator expressions & generators, magic methods, metaprogramming, functional programming, pythonic code, manipulation files & folders, handle common file formats.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 grey-day">20</div>
   <div class="col-13 col-md-10 grey-content">
      <ul>
@@ -115,8 +126,8 @@ obvious that I don’t know much in the end.
   <div class="col-13 col-md-10 blue-content">
      <ul>
          <li>Setting up a basic web application with <a href="https://trypyramid.com/">Pyramid</a>.</li>
-         <li>Review <a href="https://github.com/tpope/vim-fugitive">vim-fugitive</a> features and mappings.</li>
-         <li>Review properties of CSS <i class="fab fa-css3"></i> selectors and hierarchies.</li>
+         <li><i class="fas fa-history"></i> Review <a href="https://github.com/tpope/vim-fugitive">vim-fugitive</a> features and mappings.</li>
+         <li><i class="fas fa-history"></i> Review properties of CSS <i class="fab fa-css3"></i> selectors and hierarchies.</li>
          <li>Manage caching of CSS <i class="fab fa-css3"></i> files with MD5 hashes.</li>
          <li>Setting up <a href="https://hluk.github.io/CopyQ/">CopyQ</a>, a <em>"Clipboard Manager with Advanced Features"</em>.</li>
      </ul>
@@ -176,7 +187,7 @@ obvious that I don’t know much in the end.
   <div class="col-12 col-md-2 grey-day">8</div>
   <div class="col-13 col-md-10 grey-content">
      <ul>
-         <li>Review data structures in Python.</li>
+         <li><i class="fas fa-history"></i> Review data structures in Python.</li>
      </ul>
   </div>
 </div>
@@ -212,7 +223,7 @@ obvious that I don’t know much in the end.
      <ul>
          <li><i class="fas fa-graduation-cap"></i> Finished <a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> on Coursera.</li>
          <li><i class="fas fa-graduation-cap"></i> Finished <a href="https://www.coursera.org/learn/learning-how-to-learn/">Mindshift</a> on Coursera.</li>
-         <li>Review Vim features on <a href="http://vimcasts.org/">vimcasts.org</a>: Long-range line duplication with <code>:t</code>, working with arglist & <code>:argdo</code>, <code>:global</code> with yank, <code>windo diffthis</code>, <code>gn</code>.</li>
+         <li><i class="fas fa-history"></i> Review Vim features on <a href="http://vimcasts.org/">vimcasts.org</a>: Long-range line duplication with <code>:t</code>, working with arglist & <code>:argdo</code>, <code>:global</code> with yank, <code>windo diffthis</code>, <code>gn</code>.</li>
      </ul>
   </div>
 </div>
@@ -331,7 +342,7 @@ obvious that I don’t know much in the end.
   <div class="col-12 col-md-2 grey-day">23</div>
   <div class="col-12 col-md-10 grey-content">
      <ul>
-         <li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Review modular arithmetic concepts.</li>
+         <li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: <i class="fas fa-history"></i> Review modular arithmetic concepts.</li>
      </ul>
   </div>
 </div>
@@ -386,8 +397,8 @@ obvious that I don’t know much in the end.
   <div class="col-12 col-md-2 blue-day">18</div>
   <div class="col-12 col-md-10 blue-content">
      <ul>
-         <li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Review & create algorithms for binary to decimal conversion and vice versa.</li>
-         <li><a href="https://www.coursera.org/learn/learning-how-to-learn/">Learning How to Learn</a> <i class="fas fa-university"></i> on Coursera: Quick review & tips on writing more readable ideas.</li>
+         <li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: <i class="fas fa-history"></i> Review & create algorithms for binary to decimal conversion and vice versa.</li>
+         <li><a href="https://www.coursera.org/learn/learning-how-to-learn/">Learning How to Learn</a> <i class="fas fa-university"></i> on Coursera: <i class="fas fa-history"></i> Quick review & tips on writing more readable ideas.</li>
      </ul>
   </div>
 </div>
@@ -514,7 +525,7 @@ obvious that I don’t know much in the end.
   <div class="col-12 col-md-2 blue-day">6</div>
   <div class="col-12 col-md-10 blue-content">
      <ul>
-         <li>Review SQL commands.</li>
+         <li><i class="fas fa-history"></i> Review SQL commands.</li>
          <li>Started <em>10 Days of JavaScript</em> <i class="fab fa-js"></i> on <a href="https://www.hackerrank.com/">HackerRank.com</a>.</li>
      </ul>
   </div>
@@ -526,7 +537,7 @@ obvious that I don’t know much in the end.
   <div class="col-12 col-md-10 grey-content">
      <ul>
          <li>Git <i class="fab fa-git"></i>: branches, tags, commit revisions.</li>
-         <li>Review Vim and Qutebrowser shortcuts on <a href="https://www.shortcutfoo.com/">ShortcutFoo</a>.</li>
+         <li><i class="fas fa-history"></i> Review Vim and Qutebrowser shortcuts on <a href="https://www.shortcutfoo.com/">ShortcutFoo</a>.</li>
      </ul>
   </div>
 </div>
@@ -557,7 +568,7 @@ obvious that I don’t know much in the end.
   <div class="col-12 col-md-2 blue-day">2</div>
   <div class="col-12 col-md-10 blue-content">
      <ul>
-         <li>Review <a href="https://git-scm.com/">Git</a> <i class="fab fa-git"></i> basics.</li>
+         <li><i class="fas fa-history"></i> Review <a href="https://git-scm.com/">Git</a> <i class="fab fa-git"></i> basics.</li>
      </ul>
   </div>
 </div>
@@ -647,7 +658,7 @@ obvious that I don’t know much in the end.
      <ul>
          <li><i class="fas fa-graduation-cap"></i> Finished <em>Google IT Support Professional</em> <a href="https://www.coursera.org/account/accomplishments/specialization/GYNYSFSVYNAS">Certificate</a>!</li>
          <ul>
-             <li>IT Security: Review (application policies, privacy policies, information policies, password policies, security recommendations on mobile & laptop, wireless security, authentication systems, network separation, firewalls, intrusion detection & prevention systems).</li>
+             <li>IT Security: <i class="fas fa-history"></i> Review (application policies, privacy policies, information policies, password policies, security recommendations on mobile & laptop, wireless security, authentication systems, network separation, firewalls, intrusion detection & prevention systems).</li>
          </ul>
      </ul>
   </div>
@@ -660,7 +671,7 @@ obvious that I don’t know much in the end.
      <ul>
          <li><em>Google IT</em> <i class="fas fa-university"></i></li>
          <ul>
-             <li>IT Security: Review of security measures.</li>
+             <li>IT Security: <i class="fas fa-history"></i> Review of security measures.</li>
          </ul>
 
          <li>Creating collapsible, responsive content in CSS <i class="fab fa-css3"></i> with Bootstrap 4.</li>
@@ -1350,7 +1361,7 @@ obvious that I don’t know much in the end.
    <div class="col-12 col-md-2 grey-day">10</div>
 <div class="col-12 col-md-10 grey-content">
       <ul>
-          <li>Review how to mount exFat filesystem on Linux <i class="fab fa-linux"></i>.</li>
+          <li><i class="fas fa-history"></i> Review how to mount exFat filesystem on Linux <i class="fab fa-linux"></i>.</li>
           <li>Installing fonts on a per-user basis on Linux <i class="fab fa-linux"></i> (Ubuntu derivatives).</li>
           <li>Set <a href="https://github.com/magicmonty/bash-git-prompt">Bash git prompt</a>.</li>
       </ul>
@@ -1432,7 +1443,7 @@ obvious that I don’t know much in the end.
           <li>Modify appearance of <em>folds</em> in Neovim.</li>
           <li>Integrate tmux with Neovim.</li>
           <li>Convert videos to GIF images.</li>
-          <li>Review concept of mutability in Python <i class="fab fa-python"></i>.</li>
+          <li><i class="fas fa-history"></i> Review concept of mutability in Python <i class="fab fa-python"></i>.</li>
       </ul>
    </div>
 </div>
@@ -1467,7 +1478,7 @@ obvious that I don’t know much in the end.
 <div class="col-12 col-md-10 grey-content">
      <ul>
          <li>Use of algorithms for <a href="http://fotoforensics.com/">forensic analysis of pictures</a>.</li>
-         <li>Review basics of Python 3 <i class="fab fa-python"></i> (built-in functions, indexes and slices in lists).</li>
+         <li><i class="fas fa-history"></i> Review basics of Python 3 <i class="fab fa-python"></i> (built-in functions, indexes and slices in lists).</li>
      </ul>
    </div>
 </div>
@@ -1476,7 +1487,7 @@ obvious that I don’t know much in the end.
    <div class="col-12 col-md-2 blue-day">28</div>
 <div class="col-12 col-md-10 blue-content">
      <ul>
-         <li>Review tuples, strings and loops in Python <i class="fab fa-python"></i>.</li>
+         <li><i class="fas fa-history"></i> Review tuples, strings and loops in Python <i class="fab fa-python"></i>.</li>
          <li><code>breakpoint()</code> function in Python 3.7 <i class="fab fa-python"></i>.</li>
          <li>Integrate plugins in WordPress.</li>
      </ul>
@@ -1487,7 +1498,7 @@ obvious that I don’t know much in the end.
    <div class="col-12 col-md-2 grey-day">27</div>
 <div class="col-12 col-md-10 grey-content">
      <ul>
-         <li>Review Vim macros.</li>
+         <li><i class="fas fa-history"></i> Review Vim macros.</li>
      </ul>
    </div>
 </div>
@@ -1627,8 +1638,8 @@ obvious that I don’t know much in the end.
    <div class="col-12 col-md-2 grey-day">12</div>
 <div class="col-12 col-md-10 grey-content">
      <ul>
-         <li>Review concept of recursion.</li>
-         <li>Review conversion of numbers from different bases (mainly binary & octal).</li>
+         <li><i class="fas fa-history"></i> Review concept of recursion.</li>
+         <li><i class="fas fa-history"></i> Review conversion of numbers from different bases (mainly binary & octal).</li>
      </ul>
    </div>
 </div>
@@ -1647,7 +1658,7 @@ obvious that I don’t know much in the end.
    <div class="col-12 col-md-2 grey-day">10</div>
 <div class="col-12 col-md-10 grey-content">
      <ul>
-         <li>Review rounding in Python <i class="fab fa-python"></i> (built-in functions & <code>math</code> module).</li>
+         <li><i class="fas fa-history"></i> Review rounding in Python <i class="fab fa-python"></i> (built-in functions & <code>math</code> module).</li>
      </ul>
    </div>
 </div>
@@ -1691,7 +1702,7 @@ obvious that I don’t know much in the end.
    <div class="col-12 col-md-2 grey-day">6</div>
 <div class="col-12 col-md-10 grey-content">
      <ul>
-         <li>Review Vim basics (editing, modes, word commands, search features, find and replace commands).</li>
+         <li><i class="fas fa-history"></i> Review Vim basics (editing, modes, word commands, search features, find and replace commands).</li>
          <li>Basic features in <a href="https://krita.org/">Krita</a> (digital painting).</li>
          <li>Use applications packaged with flatpak.</li>
      </ul>
@@ -1949,7 +1960,7 @@ obvious that I don’t know much in the end.
    <div class="col-12 col-md-2 grey-day">11</div>
 <div class="col-12 col-md-10 grey-content">
      <ul>
-         <li>Review table joins in SQL.</li>
+         <li><i class="fas fa-history"></i> Review table joins in SQL.</li>
          <li>Set environment variables from terminal <i class="fas fa-terminal"></i>.</li>
      </ul>
    </div>
