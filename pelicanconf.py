@@ -69,7 +69,7 @@ def get_cache_id(filename):
 
 PELICAN_VERSION = __version__
 
-ABOUT_VERSION = '0.3.0'
+ABOUT_VERSION = '0.4.0'
 SITE_VERSION = 'v0.13.0'
 CURRENT_YEAR = datetime.today().year
 DEFAULT_DATE_FORMAT = '%B %d, %Y @ %H:%M CST'

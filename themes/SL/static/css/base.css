@@ -171,6 +171,10 @@ i {
 }
 
 
+.only-big-screen {
+    display: none;
+}
+
 /* end BASE TEMPLATE */
 
 /* SCROLLBAR */
@@ -802,6 +806,10 @@ body::-webkit-scrollbar {
 
 .card {
     margin: 0;
+}
+
+.only-big-screen {
+    display: flex;
 }
 
 }
