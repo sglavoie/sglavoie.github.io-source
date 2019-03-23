@@ -29,6 +29,18 @@ in the end.
     <div id="mar19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 grey-day">22</div>
+  <div class="col-13 col-md-10 grey-content">
+     <ul>
+         <li><a href="https://projecteuler.net/problem=40">Champernowne's constant</a>, Project Euler <i class="fas fa-calculator"></i>.</li>
+         <li><a href="https://projecteuler.net/problem=42">Coded triangle numbers</a>, Project Euler <i class="fas fa-calculator"></i>.</li>
+         <li><i class="fab fa-python"></i> Python: Working with PDF files, processing images with Pillow.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 blue-day">21</div>
   <div class="col-13 col-md-10 blue-content">
      <ul>
@@ -202,6 +214,7 @@ in the end.
          <li><a href="https://www.linkedin.com/learning/python-programming-efficiently">Python: Programming Efficiently</a>, on LinkedIn Learning (<code>jupyter-lab</code>, list / dict / set comprehension, modules <code>collections</code>, <code>geopy</code> & <code>basemap</code>).</li>
          <li><a href="https://www.linkedin.com/learning/ethical-hacking-overview">Introduction to ethical hacking</a> on LinkedIn Learning.</li>
          <li>Changing CSS <i class="fab fa-css3"></i> style for <a href="http://gitstats.sourceforge.net/">Gitstats</a>.</li>
+         <li><a href="https://projecteuler.net/problem=11">Special Pythagorean triplet</a>, Project Euler <i class="fas fa-calculator"></i>.</li>
      </ul>
   </div>
 </div>
@@ -1129,6 +1142,7 @@ in the end.
           <li>Use <code>markdown-preview</code> plugin for Neovim.</li>
           <li>Storing Python <i class="fab fa-python"></i> dictionaries into files & retrieving them.</li>
           <li>Convert list of strings to integers.</li>
+         <li><a href="https://projecteuler.net/problem=9">Special Pythagorean triplet</a>, Project Euler <i class="fas fa-calculator"></i>.</li>
       </ul>
    </div>
 </div>
