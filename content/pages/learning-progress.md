@@ -29,6 +29,19 @@ in the end.
     <div id="mar19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 blue-day">23</div>
+  <div class="col-13 col-md-10 blue-content">
+     <ul>
+         <li><a href="https://www.packtpub.com/application-development/python-everyday-life-video">Python for Everyday Life</a>: Working with images, parsing QR codes, face recognition, working with APIs.</li>
+         <li>Figuring out delayed requests with API response (<a href="https://stackoverflow.com/a/55317279/8787680">Stackoverflow answer <i class="fab fa-stack-overflow"></i></a>).</li>
+         <li><a href="https://projecteuler.net/problem=48">Self powers</a>, Project Euler <i class="fas fa-calculator"></i>.</li>
+         <li><a href="https://projecteuler.net/problem=56">Powerful digit sum</a>, Project Euler <i class="fas fa-calculator"></i>.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 grey-day">22</div>
   <div class="col-13 col-md-10 grey-content">
      <ul>
