@@ -29,10 +29,25 @@ in the end.
     <div id="mar19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 blue-day">25</div>
+  <div class="col-13 col-md-10 blue-content">
+     <ul>
+         <li><a href="https://www.youtube.com/watch?v=C-gEQdGVXbk">10 Python Tips and Tricks For Writing Better Code</a> with Corey Schafer <i class="fab fa-youtube"></i>: Ternary operators, underscores placeholders, string formatting in f-strings placeholders, using context managers, <code>enumerate</code> function in loops, <code>zip</code> function in loops, value unpacking, getting and setting attributes on objects (<code>getattr</code>, <code>setattr</code>), inputting sensitive information (<code>getpass</code> function), <code>help</code> and <code>dir</code> function.</li>
+         <li><a href="https://www.youtube.com/watch?v=9yeOJ0ZMUYw">SQL Joins Explained</a> with Socratica <i class="fab fa-youtube"></i>.</li>
+         <li><a href="https://www.youtube.com/watch?v=QEdHAwHfGPc">Linux Cron Jobs</a> with Engineer Man <i class="fab fa-youtube"></i>.</li>
+         <li><a href="https://www.packtpub.com/application-development/python-everyday-life-video">Python for Everyday Life</a>: Interact with httpbin Test Service, fetching data from API, automating Internet tasks (Gmail, Twitter, Reddit).</li>
+         <li>Creating a Discord bot with custom commands.</li>
+         <li><i class="fas fa-code"></i> <a href="https://www.codeabbey.com/index/task_view/matching-brackets">Matching Brackets</a> on Code Abbey.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 grey-day">24</div>
   <div class="col-13 col-md-10 grey-content">
      <ul>
-         <li><a href="https://projecteuler.net/problem=92">Square digit chains</a>, Project Euler <i class="fas fa-calculator"></i>.</li>
+         <li><i class="fas fa-calculator"></i> <a href="https://projecteuler.net/problem=92">Square digit chains</a>, Project Euler.</li>
          <li>Setting up a webcam on Linux and using it with <a href="https://webcamoid.github.io/">Webcamoid</a>.</li>
      </ul>
   </div>
@@ -45,8 +60,8 @@ in the end.
      <ul>
          <li><a href="https://www.packtpub.com/application-development/python-everyday-life-video">Python for Everyday Life</a>: Working with images, parsing QR codes, face recognition, working with APIs.</li>
          <li>Figuring out delayed requests with API response (<a href="https://stackoverflow.com/a/55317279/8787680">Stackoverflow answer <i class="fab fa-stack-overflow"></i></a>).</li>
-         <li><a href="https://projecteuler.net/problem=48">Self powers</a>, Project Euler <i class="fas fa-calculator"></i>.</li>
-         <li><a href="https://projecteuler.net/problem=56">Powerful digit sum</a>, Project Euler <i class="fas fa-calculator"></i>.</li>
+         <li><i class="fas fa-calculator"></i> <a href="https://projecteuler.net/problem=48">Self powers</a>, Project Euler.</li>
+         <li><i class="fas fa-calculator"></i> <a href="https://projecteuler.net/problem=56">Powerful digit sum</a>, Project Euler.</li>
      </ul>
   </div>
 </div>
@@ -56,8 +71,8 @@ in the end.
   <div class="col-12 col-md-2 grey-day">22</div>
   <div class="col-13 col-md-10 grey-content">
      <ul>
-         <li><a href="https://projecteuler.net/problem=40">Champernowne's constant</a>, Project Euler <i class="fas fa-calculator"></i>.</li>
-         <li><a href="https://projecteuler.net/problem=42">Coded triangle numbers</a>, Project Euler <i class="fas fa-calculator"></i>.</li>
+         <li><i class="fas fa-calculator"></i> <a href="https://projecteuler.net/problem=40">Champernowne's constant</a>, Project Euler.</li>
+         <li><i class="fas fa-calculator"></i> <a href="https://projecteuler.net/problem=42">Coded triangle numbers</a>, Project Euler.</li>
          <li><i class="fab fa-python"></i> Python: Working with PDF files, processing images with Pillow.</li>
      </ul>
   </div>
@@ -114,9 +129,9 @@ in the end.
   <div class="col-12 col-md-2 blue-day">17</div>
   <div class="col-13 col-md-10 blue-content">
      <ul>
-         <li><a href="https://projecteuler.net/problem=35">Circular primes</a>, Project Euler <i class="fas fa-calculator"></i>.</li>
-         <li><a href="https://projecteuler.net/problem=36">Double-base palindromes</a>, Project Euler <i class="fas fa-calculator"></i>.</li>
-         <li><a href="https://projecteuler.net/problem=39">Integer right triangles</a>, Project Euler <i class="fas fa-calculator"></i>.</li>
+         <li><i class="fas fa-calculator"></i> <a href="https://projecteuler.net/problem=35">Circular primes</a>, Project Euler.</li>
+         <li><i class="fas fa-calculator"></i> <a href="https://projecteuler.net/problem=36">Double-base palindromes</a>, Project Euler.</li>
+         <li><i class="fas fa-calculator"></i> <a href="https://projecteuler.net/problem=39">Integer right triangles</a>, Project Euler.</li>
          <li>Replacing the first word in a string in Python 3 <i class="fab fa-python"></i> (<a href="https://stackoverflow.com/a/55213732/8787680">Stackoverflow answer <i class="fab fa-stack-overflow"></i></a>).</li>
      </ul>
   </div>
@@ -152,7 +167,7 @@ in the end.
      <ul>
          <li>Sockets Tutorial with Python 3 <i class="fab fa-python"></i> (<a href="https://www.youtube.com/watch?v=8A4dqoGL62E">buffering and streaming data</a> & <a href="https://www.youtube.com/watch?v=WM1z8soch0Q">sending and receiving Python objects with pickle</a>) with sentdex <i class="fab fa-youtube"></i>.</li>
          <li><a href="https://www.youtube.com/watch?v=fZQI7nBu32M">PostgreSQL</a>, SELECT (<a href="https://www.youtube.com/watch?v=YufocuHbYZo">part 1</a> & <a href="https://www.youtube.com/watch?v=PkJKzR_sClM">part 2</a>), <a href="https://www.youtube.com/watch?v=VkabxQgtGsA">INSERT INTO</a> & <a href="https://www.youtube.com/watch?v=cd-hSl7_pGQ">UPDATE</a> with Socratica <i class="fab fa-youtube"></i>.</li>
-         <li><a href="https://projecteuler.net/problem=15">Lattice paths</a>, Project Euler <i class="fas fa-calculator"></i>.</li>
+         <li><i class="fas fa-calculator"></i> <a href="https://projecteuler.net/problem=15">Lattice paths</a>, Project Euler.</li>
      </ul>
   </div>
 </div>
@@ -177,9 +192,9 @@ in the end.
   <div class="col-13 col-md-10 grey-content">
      <ul>
          <li>Python <i class="fab fa-python"></i> scripting: Communicating with <a href="https://haveibeenpwned.com/API/v2">HaveIBeenPwned.com's API</a> to ensure a password hasn't been breached. <a href="https://github.com/sglavoie/python-utilities">Code available on Github</a> <i class="fab fa-github"></i>.</li>
-         <li><a href="https://projecteuler.net/problem=24">Lexicographic permutations</a>, Project Euler <i class="fas fa-calculator"></i>.</li>
-         <li><a href="https://projecteuler.net/problem=28">Number spiral diagonals</a>, Project Euler <i class="fas fa-calculator"></i>.</li>
-         <li><a href="https://projecteuler.net/problem=34">Digit factorials</a>, Project Euler <i class="fas fa-calculator"></i>.</li>
+         <li><i class="fas fa-calculator"></i> <a href="https://projecteuler.net/problem=24">Lexicographic permutations</a>, Project Euler.</li>
+         <li><i class="fas fa-calculator"></i> <a href="https://projecteuler.net/problem=28">Number spiral diagonals</a>, Project Euler.</li>
+         <li><i class="fas fa-calculator"></i> <a href="https://projecteuler.net/problem=34">Digit factorials</a>, Project Euler.</li>
          <li><a href="https://www.youtube.com/watch?v=Lbfe3-v7yE0">Sockets Tutorial with Python 3</a> <i class="fab fa-python"></i> (receiving and sending data) with sentdex <i class="fab fa-youtube"></i>.</li>
          <li><a href="https://www.youtube.com/watch?v=a6fIbtFB46g">Web Scraping with Requests-HTML</a> with Corey Schafer <i class="fab fa-youtube"></i>.</li>
      </ul>
@@ -194,7 +209,7 @@ in the end.
          <li><a href="https://realpython.com/python-refactoring/">Refactoring Python Applications for Simplicity</a>, by <a href="https://tonybaloney.github.io/">Anthony Shaw</a> on <a href="https://realpython.com/">Real Python</a>: Code complexity.</li>
          <li>Python <i class="fab fa-python"></i>: Find unique words in text file (<a href="https://stackoverflow.com/a/55113291/8787680">Stackoverflow answer <i class="fab fa-stack-overflow"></i></a>).</li>
          <li><a href="https://stackoverflow.com/a/41125461/8787680">Limiting RAM usage</a> <i class="fab fa-stack-overflow"></i> inside Python <i class="fab fa-python"></i> script.</li>
-         <li><a href="https://projecteuler.net/problem=12">Finding the number of factors in a large number</a>, Project Euler <i class="fas fa-calculator"></i>.</li>
+         <li><i class="fas fa-calculator"></i> <a href="https://projecteuler.net/problem=12">Finding the number of factors in a large number</a>, Project Euler.</li>
      </ul>
   </div>
 </div>
@@ -238,7 +253,7 @@ in the end.
          <li><a href="https://www.linkedin.com/learning/python-programming-efficiently">Python: Programming Efficiently</a>, on LinkedIn Learning (<code>jupyter-lab</code>, list / dict / set comprehension, modules <code>collections</code>, <code>geopy</code> & <code>basemap</code>).</li>
          <li><a href="https://www.linkedin.com/learning/ethical-hacking-overview">Introduction to ethical hacking</a> on LinkedIn Learning.</li>
          <li>Changing CSS <i class="fab fa-css3"></i> style for <a href="http://gitstats.sourceforge.net/">Gitstats</a>.</li>
-         <li><a href="https://projecteuler.net/problem=11">Special Pythagorean triplet</a>, Project Euler <i class="fas fa-calculator"></i>.</li>
+         <li><i class="fas fa-calculator"></i> <a href="https://projecteuler.net/problem=11">Special Pythagorean triplet</a>, Project Euler.</li>
      </ul>
   </div>
 </div>
@@ -1166,7 +1181,7 @@ in the end.
           <li>Use <code>markdown-preview</code> plugin for Neovim.</li>
           <li>Storing Python <i class="fab fa-python"></i> dictionaries into files & retrieving them.</li>
           <li>Convert list of strings to integers.</li>
-         <li><a href="https://projecteuler.net/problem=9">Special Pythagorean triplet</a>, Project Euler <i class="fas fa-calculator"></i>.</li>
+         <li><i class="fas fa-calculator"></i> <a href="https://projecteuler.net/problem=9">Special Pythagorean triplet</a>, Project Euler.</li>
       </ul>
    </div>
 </div>
