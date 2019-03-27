@@ -29,6 +29,17 @@ in the end.
     <div id="mar19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 grey-day">26</div>
+  <div class="col-13 col-md-10 grey-content">
+     <ul>
+         <li><i class="fas fa-university"></i> <a href="https://www.coursera.org/learn/ai-for-everyone/">AI For Everyone</a> on Coursera: What is AI (machine learning, data, terminology, deep learning), building & choosing AI projects, technical tools.</li>
+         <li></li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 blue-day">25</div>
   <div class="col-13 col-md-10 blue-content">
      <ul>
