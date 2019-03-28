@@ -29,11 +29,20 @@ in the end.
     <div id="mar19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 blue-day">27</div>
+  <div class="col-13 col-md-10 blue-content">
+     <ul>
+         <li><i class="fas fa-graduation-cap"></i> Finished <a href="https://www.coursera.org/learn/ai-for-everyone/">AI For Everyone</a> on Coursera: AI strategy, pitfalls to avoid, major application areas (computer vision, NLP, speech, robotics, machine learning), major AI techniques (unsupervised learning, transfer learning, reinforcement learning, Generative Adversarial Networks, knowledge graph), AI and society.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 grey-day">26</div>
   <div class="col-13 col-md-10 grey-content">
      <ul>
          <li><i class="fas fa-university"></i> <a href="https://www.coursera.org/learn/ai-for-everyone/">AI For Everyone</a> on Coursera: What is AI (machine learning, data, terminology, deep learning), building & choosing AI projects, technical tools.</li>
-         <li></li>
      </ul>
   </div>
 </div>
