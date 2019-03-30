@@ -29,6 +29,18 @@ in the end.
     <div id="mar19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 blue-day">29</div>
+  <div class="col-13 col-md-10 blue-content">
+     <ul>
+         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=9vKqVkMQHKk&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr">Essence of Calculus</a> with 3Blue1Brown: Fundamentals of Calculus, derivatives.</li>
+         <li>Merging history in Git <i class="fab fa-git"></i>.</li>
+         <li>Importing existing GPG keys and setting Git <i class="fab fa-git"></i> to use them.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 grey-day">28</div>
   <div class="col-13 col-md-10 grey-content">
      <ul>
@@ -63,9 +75,9 @@ in the end.
   <div class="col-12 col-md-2 blue-day">25</div>
   <div class="col-13 col-md-10 blue-content">
      <ul>
-         <li><a href="https://www.youtube.com/watch?v=C-gEQdGVXbk">10 Python Tips and Tricks For Writing Better Code</a> with Corey Schafer <i class="fab fa-youtube"></i>: Ternary operators, underscores placeholders, string formatting in f-strings placeholders, using context managers, <code>enumerate</code> function in loops, <code>zip</code> function in loops, value unpacking, getting and setting attributes on objects (<code>getattr</code>, <code>setattr</code>), inputting sensitive information (<code>getpass</code> function), <code>help</code> and <code>dir</code> function.</li>
-         <li><a href="https://www.youtube.com/watch?v=9yeOJ0ZMUYw">SQL Joins Explained</a> with Socratica <i class="fab fa-youtube"></i>.</li>
-         <li><a href="https://www.youtube.com/watch?v=QEdHAwHfGPc">Linux Cron Jobs</a> with Engineer Man <i class="fab fa-youtube"></i>.</li>
+         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=C-gEQdGVXbk">10 Python Tips and Tricks For Writing Better Code</a> with Corey Schafer: Ternary operators, underscores placeholders, string formatting in f-strings placeholders, using context managers, <code>enumerate</code> function in loops, <code>zip</code> function in loops, value unpacking, getting and setting attributes on objects (<code>getattr</code>, <code>setattr</code>), inputting sensitive information (<code>getpass</code> function), <code>help</code> and <code>dir</code> function.</li>
+         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=9yeOJ0ZMUYw">SQL Joins Explained</a> with Socratica.</li>
+         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=QEdHAwHfGPc">Linux Cron Jobs</a> with Engineer Man.</li>
          <li><a href="https://www.packtpub.com/application-development/python-everyday-life-video">Python for Everyday Life</a>: Interact with httpbin Test Service, fetching data from API, automating Internet tasks (Gmail, Twitter, Reddit).</li>
          <li>Creating a Discord bot with custom commands.</li>
          <li><i class="fas fa-code"></i> <a href="https://www.codeabbey.com/index/task_view/matching-brackets">Matching Brackets</a> on Code Abbey.</li>
@@ -136,7 +148,7 @@ in the end.
   <div class="col-12 col-md-2 blue-day">19</div>
   <div class="col-13 col-md-10 blue-content">
      <ul>
-         <li><a href="https://www.youtube.com/watch?v=JRCJ6RtE3xU">Sending emails with Python</a> (Gmail and local debugging server) with Corey Schafer <i class="fab fa-youtube"></i>.</li>
+         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=JRCJ6RtE3xU">Sending emails with Python</a> (Gmail and local debugging server) with Corey Schafer.</li>
          <li>Batch convert <strong>.NEF</strong> photos to <strong>.tif</strong> with <code>mogrify</code> from <a href="https://www.imagemagick.org/">ImageMagick</a>.</li>
          <li>Keeping files securely encrypted with <a href="https://www.gnupg.org/">GPG</a>.</li>
          <li>Creating templates & styles with <a href="https://www.scribus.net/">Scribus</a>.</li>
@@ -196,8 +208,8 @@ in the end.
   <div class="col-12 col-md-2 grey-day">14</div>
   <div class="col-13 col-md-10 grey-content">
      <ul>
-         <li>Sockets Tutorial with Python 3 <i class="fab fa-python"></i> (<a href="https://www.youtube.com/watch?v=8A4dqoGL62E">buffering and streaming data</a> & <a href="https://www.youtube.com/watch?v=WM1z8soch0Q">sending and receiving Python objects with pickle</a>) with sentdex <i class="fab fa-youtube"></i>.</li>
-         <li><a href="https://www.youtube.com/watch?v=fZQI7nBu32M">PostgreSQL</a>, SELECT (<a href="https://www.youtube.com/watch?v=YufocuHbYZo">part 1</a> & <a href="https://www.youtube.com/watch?v=PkJKzR_sClM">part 2</a>), <a href="https://www.youtube.com/watch?v=VkabxQgtGsA">INSERT INTO</a> & <a href="https://www.youtube.com/watch?v=cd-hSl7_pGQ">UPDATE</a> with Socratica <i class="fab fa-youtube"></i>.</li>
+         <li><i class="fab fa-youtube"></i> Sockets Tutorial with Python 3 <i class="fab fa-python"></i> (<a href="https://www.youtube.com/watch?v=8A4dqoGL62E">buffering and streaming data</a> & <a href="https://www.youtube.com/watch?v=WM1z8soch0Q">sending and receiving Python objects with pickle</a>) with sentdex.</li>
+         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=fZQI7nBu32M">PostgreSQL</a>, SELECT (<a href="https://www.youtube.com/watch?v=YufocuHbYZo">part 1</a> & <a href="https://www.youtube.com/watch?v=PkJKzR_sClM">part 2</a>), <a href="https://www.youtube.com/watch?v=VkabxQgtGsA">INSERT INTO</a> & <a href="https://www.youtube.com/watch?v=cd-hSl7_pGQ">UPDATE</a> with Socratica.</li>
          <li><i class="fas fa-calculator"></i> <a href="https://projecteuler.net/problem=15">Lattice paths</a>, Project Euler.</li>
      </ul>
   </div>
@@ -226,8 +238,8 @@ in the end.
          <li><i class="fas fa-calculator"></i> <a href="https://projecteuler.net/problem=24">Lexicographic permutations</a>, Project Euler.</li>
          <li><i class="fas fa-calculator"></i> <a href="https://projecteuler.net/problem=28">Number spiral diagonals</a>, Project Euler.</li>
          <li><i class="fas fa-calculator"></i> <a href="https://projecteuler.net/problem=34">Digit factorials</a>, Project Euler.</li>
-         <li><a href="https://www.youtube.com/watch?v=Lbfe3-v7yE0">Sockets Tutorial with Python 3</a> <i class="fab fa-python"></i> (receiving and sending data) with sentdex <i class="fab fa-youtube"></i>.</li>
-         <li><a href="https://www.youtube.com/watch?v=a6fIbtFB46g">Web Scraping with Requests-HTML</a> with Corey Schafer <i class="fab fa-youtube"></i>.</li>
+         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=Lbfe3-v7yE0">Sockets Tutorial with Python 3</a> <i class="fab fa-python"></i> (receiving and sending data) with sentdex.</li>
+         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=a6fIbtFB46g">Web Scraping with Requests-HTML</a> with Corey Schafer.</li>
      </ul>
   </div>
 </div>
@@ -294,7 +306,7 @@ in the end.
   <div class="col-12 col-md-2 grey-day">6</div>
   <div class="col-13 col-md-10 grey-content">
      <ul>
-         <li><a href="https://www.youtube.com/watch?v=DamIIzp41Jg">Data analysis with Python</a> <i class="fab fa-python"></i>, <a href="https://pandas.pydata.org/">Pandas</a> and introduction to <a href="https://scikit-learn.org/">scikit-learn</a> with sentdex <i class="fab fa-youtube"></i>.</li>
+         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=DamIIzp41Jg">Data analysis with Python</a> <i class="fab fa-python"></i>, <a href="https://pandas.pydata.org/">Pandas</a> and introduction to <a href="https://scikit-learn.org/">scikit-learn</a> with sentdex.</li>
          <li>Integrating <a href="http://gitstats.sourceforge.net/">Gitstats</a> in <a href="https://blog.getpelican.com/">Pelican</a> website.</li>
      </ul>
   </div>
@@ -319,9 +331,9 @@ in the end.
   <div class="col-13 col-md-10 grey-content">
      <ul>
          <li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Transformation of graphs, kinematics equations.</li>
-         <li><a href="https://www.youtube.com/watch?v=DamIIzp41Jg">Data analysis with Python</a> <i class="fab fa-python"></i> and <a href="https://pandas.pydata.org/">Pandas</a> (visualization, groupby, correlation) with sentdex <i class="fab fa-youtube"></i>.</li>
+         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=DamIIzp41Jg">Data analysis with Python</a> <i class="fab fa-python"></i> and <a href="https://pandas.pydata.org/">Pandas</a> (visualization, groupby, correlation) with sentdex.</li>
          <li><a href="https://www.coursera.org/learn/learning-how-to-learn/">Mindshift</a> <i class="fas fa-university"></i> on Coursera: Deliberate practice, reframing experiences, facing adversity, <a href="https://www.futurice.com/blog/from-t-to-pi-design-skill-expectations-in-change/"><em>π</em> approach</a> to learning instead of <em>T</em>.</li>
-         <li><a href="https://www.youtube.com/watch?v=yqm6MBt-yfY">Monitor a website with Python</a> <i class="fab fa-python"></i> with Corey Schafer <i class="fab fa-youtube"></i>.</li>
+         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=yqm6MBt-yfY">Monitor a website with Python</a> <i class="fab fa-python"></i> with Corey Schafer.</li>
          <li>Retrieving data with <a href="https://github.com/PyGithub/PyGithub">PyGithub</a>.</li>
      </ul>
   </div>
@@ -334,7 +346,7 @@ in the end.
      <ul>
          <li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Plotting, transformations of graphs.</li>
          <li>Screencasting/streaming with <a href="https://www.ffmpeg.org/">ffmpeg</a>.</li>
-         <li><a href="https://www.youtube.com/watch?v=vt33Hp-4RXg">Custom commands with fzf in Linux terminal</a> with Luke Smith <i class="fab fa-youtube"></i></a>.</li>
+         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=vt33Hp-4RXg">Custom commands with fzf in Linux terminal</a> with Luke Smith</a>.</li>
      </ul>
   </div>
 </div>
@@ -346,7 +358,7 @@ in the end.
      <ul>
          <li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Series & patterns, limits of sequences, convergence and divergence, graph sketching.</li>
          <li>Redirecting websites hosted on <a href="https://pages.github.com/">GitHub Pages</a> <i class="fab fa-github"></i>.</li>
-         <li>The Hadwiger–Nelson problem with <a href="https://www.youtube.com/watch?v=niaeV_NHh-o">Numberphile <i class="fab fa-youtube"></i></a>.</li>
+         <li><i class="fab fa-youtube"></i> The Hadwiger–Nelson problem with <a href="https://www.youtube.com/watch?v=niaeV_NHh-o">Numberphile</a>.</li>
      </ul>
   </div>
 </div>
@@ -384,9 +396,9 @@ in the end.
   <div class="col-12 col-md-10 grey-content">
      <ul>
          <li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Encryption using modular arithmetic, solving <a href="https://en.wikipedia.org/wiki/Josephus_problem">Josephus problem</a> <i class="fab fa-wikipedia-w"></i> with bitwise operators.</li>
-         <li>Josephus problem explained by <a href="https://www.youtube.com/watch?v=uCsD3ZGzMgE">Numberphile <i class="fab fa-youtube"></i></a>.</li>
-         <li>Python <i class="fab fa-python"></i>: <a href="https://www.youtube.com/watch?v=2TR_6VaVSOs">Introduction to data visualization</a> with <a href="https://bokeh.pydata.org/">Bokeh</a> with Traversy Media <i class="fab fa-youtube"></i>.</li>
-         <li><a href="https://www.youtube.com/watch?v=tb8gHvYlCFs">Python requests tutorial</a> with Corey Schafer <i class="fab fa-youtube"></i>.</li>
+         <li><i class="fab fa-youtube"></i> Josephus problem explained by <a href="https://www.youtube.com/watch?v=uCsD3ZGzMgE">Numberphile</a>.</li>
+         <li><i class="fab fa-youtube"></i> Python <i class="fab fa-python"></i>: <a href="https://www.youtube.com/watch?v=2TR_6VaVSOs">Introduction to data visualization</a> with <a href="https://bokeh.pydata.org/">Bokeh</a> with Traversy Media.</li>
+         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=tb8gHvYlCFs">Python requests tutorial</a> with Corey Schafer.</li>
      </ul>
   </div>
 </div>
@@ -406,7 +418,7 @@ in the end.
   <div class="col-12 col-md-10 grey-content">
      <ul>
          <li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Congruence & equivalence relations, modular exponentiation.</li>
-         <li><a href="https://www.youtube.com/watch?v=4QTAtFaIiyc">The future of Cloud Computing</a> with a16z <i class="fab fa-youtube"></i>.</li>
+         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=4QTAtFaIiyc">The future of Cloud Computing</a> with a16z.</li>
      </ul>
   </div>
 </div>
@@ -447,7 +459,7 @@ in the end.
   <div class="col-12 col-md-10 grey-content">
      <ul>
          <li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Arithmetic in any base, modular arithmetic (additive identity, additive inverses).</li>
-         <li><a href="https://www.youtube.com/watch?v=AsYfbmp0To0">The ELO rating system explained</a> by James Grime <i class="fab fa-youtube"></i>.</li>
+         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=AsYfbmp0To0">The ELO rating system explained</a> by James Grime.</li>
      </ul>
   </div>
 </div>
@@ -459,7 +471,7 @@ in the end.
          <li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Steganography (hiding text and images inside another image) in binary, hexadecimal and decimal.</li>
          <li><a href="https://www.coursera.org/learn/learning-how-to-learn/">Mindshift</a> <i class="fas fa-university"></i> on Coursera: Learning environment, memory tips, meditation (focused attention and open monitoring).</li>
          <li><em>10 Days of JavaScript</em> <i class="fab fa-js"></i> on <a href="https://www.hackerrank.com/">HackerRank.com</a>: Bitwise operators, signed binary numbers.</li>
-         <li>Refresher on <a href="https://amzn.to/2ThgwA2">So Good They Can't Ignore You</a>, by Cal Newport with <a href="https://www.youtube.com/watch?v=qwOdU02SE0w">Talks at Google <i class="fab fa-youtube"></i></a>.</li>
+         <li><i class="fab fa-youtube"></i> Refresher on <a href="https://amzn.to/2ThgwA2">So Good They Can't Ignore You</a>, by Cal Newport with <a href="https://www.youtube.com/watch?v=qwOdU02SE0w">Talks at Google</a>.</li>
      </ul>
   </div>
 </div>
@@ -920,7 +932,7 @@ in the end.
    <div class="col-12 col-md-2 grey-day">30</div>
 <div class="col-12 col-md-10 grey-content">
      <ul>
-         <li><a href="https://www.youtube.com/watch?v=DSq9uGs_z0E">DiSSS technique</a> <i class="fab fa-youtube"></i>, from <a href="https://tim.blog/">Tim Ferriss</a>.</li>
+         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=DSq9uGs_z0E">DiSSS technique</a>, from <a href="https://tim.blog/">Tim Ferriss</a>.</li>
          <li>Binary trees implementations in Python <i class="fab fa-python"></i>.</li>
          <li>Managing builds in Travis CI.</li>
      </ul>
@@ -1200,7 +1212,7 @@ in the end.
       <ul>
           <li>Customize scrollbar in CSS <i class="fab fa-css3"></i>.</li>
           <li>Modify code blocks in CSS <i class="fab fa-css3"></i> with Pygments.</li>
-          <li>Module <code>asyncio</code> in Python <i class="fab fa-python"></i> (including <a href="https://www.youtube.com/user/sentdex">sentdex</a> tutorials on YouTube <i class="fab fa-youtube"></i>).</li>
+          <li><i class="fab fa-youtube"></i> Module <code>asyncio</code> in Python <i class="fab fa-python"></i> (including <a href="https://www.youtube.com/user/sentdex">sentdex</a> tutorials on YouTube).</li>
       </ul>
    </div>
 </div>
@@ -1461,7 +1473,7 @@ in the end.
           <li>Add Flask Babel to Flask projects.</li>
           <li>Set up <code>pylint</code> with Python <i class="fab fa-python"></i> project.</li>
           <li>Validators in WTForms with Flask.</li>
-          <li>Finishing <em>Python <i class="fab fa-python"></i> Flask Tutorial</em> with <a href="https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g">Corey Schafer</a> on YouTube <i class="fab fa-youtube"></i> (including blueprints, sending emails, forms and user input, user authentication and  managing database).</li>
+          <li><i class="fab fa-youtube"></i> Finishing <em>Python <i class="fab fa-python"></i> Flask Tutorial</em> with <a href="https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g">Corey Schafer</a> on YouTube (including blueprints, sending emails, forms and user input, user authentication and  managing database).</li>
       </ul>
    </div>
 </div>
@@ -1470,7 +1482,7 @@ in the end.
    <div class="col-12 col-md-2 grey-day">8</div>
 <div class="col-12 col-md-10 grey-content">
       <ul>
-          <li>TicTacToe tutorial serie with <a href="https://www.youtube.com/user/sentdex">sentdex</a> on YouTube <i class="fab fa-youtube"></i>.</li>
+          <li><i class="fab fa-youtube"></i> TicTacToe tutorial serie with <a href="https://www.youtube.com/user/sentdex">sentdex</a> on YouTube.</li>
           <li>Building a Flask application with SQLAlchemy to manage database.</li>
       </ul>
    </div>
@@ -1949,7 +1961,7 @@ in the end.
    <div class="col-12 col-md-2 grey-day">21</div>
 <div class="col-12 col-md-10 grey-content">
      <ul>
-         <li>Watch <a href="https://www.youtube.com/watch?v=LRQGAnPtNdM">short introduction</a> on Neovim <i class="fab fa-youtube"></i>, by Nick Nisi.</li>
+         <li><i class="fab fa-youtube"></i> Watch <a href="https://www.youtube.com/watch?v=LRQGAnPtNdM">short introduction</a> on Neovim, by Nick Nisi.</li>
          <li>More options in <code>glances</code> terminal <i class="fas fa-terminal"></i> application.</li>
      </ul>
    </div>
@@ -2036,7 +2048,7 @@ in the end.
    <div class="col-12 col-md-2 blue-day">12</div>
 <div class="col-12 col-md-10 blue-content">
      <ul>
-         <li><code>urllib</code> Python <i class="fab fa-python"></i> module by watching <a href="https://www.youtube.com/channel/UCW6TXMZ5Pq6yL6_k5NZ2e0Q">Socratica</a> on YouTube <i class="fab fa-youtube"></i>.</li>
+         <li><i class="fab fa-youtube"></i> <code>urllib</code> Python <i class="fab fa-python"></i> module by watching <a href="https://www.youtube.com/channel/UCW6TXMZ5Pq6yL6_k5NZ2e0Q">Socratica</a> on YouTube.</li>
      </ul>
    </div>
 </div>
@@ -2120,7 +2132,7 @@ in the end.
 <div class="col-12 col-md-10 grey-content">
      <ul>
          <li>Python <i class="fab fa-python"></i> <code>timeit</code> module & use of <code>__init__.py</code> files.</li>
-         <li>Django tutorial serie with <a href="https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g">Corey Schafer</a> on YouTube <i class="fab fa-youtube"></i>.</li>
+         <li><i class="fab fa-youtube"></i> Django tutorial serie with <a href="https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g">Corey Schafer</a> on YouTube.</li>
      </ul>
    </div>
 </div>
