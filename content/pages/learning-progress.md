@@ -29,6 +29,19 @@ in the end.
     <div id="mar19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 grey-day">30</div>
+  <div class="col-13 col-md-10 grey-content">
+     <ul>
+         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=9vKqVkMQHKk&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr">Essence of Calculus</a> with 3Blue1Brown: Chain rule, product rule.</li>
+         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=8jU8SrAPn9c">SQL VIEWS + Complex Queries, Cross Joins, Unions</a> with Socratica.</li>
+         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=6J4i2wRIbEs">Everyday Python Programming — Cryptocurrency stock exchange API</a> with Engineer Man.</li>
+         <li>Regular expressions in Python <i class="fab fa-python"></i> with <a href="https://developers.google.com/edu/python/regular-expressions">Google for Education</a>.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 blue-day">29</div>
   <div class="col-13 col-md-10 blue-content">
      <ul>
