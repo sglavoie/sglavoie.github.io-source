@@ -29,6 +29,18 @@ in the end.
     <div id="mar19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 blue-day">31</div>
+  <div class="col-13 col-md-10 blue-content">
+     <ul>
+         <li>Tuples in regular expressions (<a href="https://stackoverflow.com/a/55438354/8787680">Stackoverflow answer <i class="fab fa-stack-overflow"></i></a>).</li>
+         <li>Managing <a href="https://github.com/">GitHub</a> <i class="fab fa-github"></i> organizations.</li>
+         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=9vKqVkMQHKk&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr">Essence of Calculus</a> with 3Blue1Brown: Euler's number, implicit differentiation.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 grey-day">30</div>
   <div class="col-13 col-md-10 grey-content">
      <ul>
