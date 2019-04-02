@@ -23,10 +23,30 @@ in the end.
 <div id="year2019" class="container no-padding">
   <div class="panel">
 
+
+    <div class="row justify-content-center" role="button" data-toggle="collapse" data-parent="#year2019" href="#apr19" aria-expanded="false" aria-controls="apr19">
+      <div class="learning-month">April</div>
+    </div>
+    <div id="apr19" class="container collapse">
+
+<div class="row">
+  <div class="col-12 col-md-2 blue-day">1</div>
+  <div class="col-13 col-md-10 blue-content">
+     <ul>
+         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=9vKqVkMQHKk&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr">Essence of Calculus</a> with 3Blue1Brown: Limits, L'Hôpital's rule, fundamental theorem of calculus, areas and slopes.</li>
+     </ul>
+  </div>
+</div>
+
+    </div>
+
+
     <div class="row justify-content-center" role="button" data-toggle="collapse" data-parent="#year2019" href="#mar19" aria-expanded="false" aria-controls="mar19">
       <div class="learning-month">March</div>
     </div>
     <div id="mar19" class="container collapse">
+
+
 
 <div class="row">
   <div class="col-12 col-md-2 blue-day">31</div>
