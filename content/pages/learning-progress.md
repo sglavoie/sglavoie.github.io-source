@@ -30,6 +30,20 @@ in the end.
     <div id="apr19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 grey-day">2</div>
+  <div class="col-13 col-md-10 grey-content">
+     <ul>
+         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=9vKqVkMQHKk&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr">Essence of Calculus</a> with 3Blue1Brown: Higher order derivatives, Taylor series.</li>
+         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab">Essence of linear algebra</a> with 3Blue1Brown: Vectors, linear combinations, span, basis vectors, linear transformations, matrices, matrix multiplication as composition, three-dimensional transformations.</li>
+         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=II2M3rqgCQA">Linux Nice and Priority values</a> with Engineer Man.</li>
+         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=Kg1Yvry_Ydk">How to use virtual environments with the built-in venv module</a> with Corey Schafer.</li>
+         <li>Setting up <code>LaTeX</code> with Vim.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 blue-day">1</div>
   <div class="col-13 col-md-10 blue-content">
      <ul>
