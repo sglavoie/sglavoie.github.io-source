@@ -30,6 +30,16 @@ in the end.
     <div id="apr19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 blue-day">3</div>
+  <div class="col-13 col-md-10 blue-content">
+     <ul>
+         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab">Essence of linear algebra</a> with 3Blue1Brown: Determinant, inverse matrices, column space and null space.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 grey-day">2</div>
   <div class="col-13 col-md-10 grey-content">
      <ul>
