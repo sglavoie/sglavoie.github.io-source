@@ -30,6 +30,16 @@ in the end.
     <div id="apr19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 blue-day">5</div>
+  <div class="col-13 col-md-10 blue-content">
+     <ul>
+         <li>Python <i class="fab fa-python"></i>: Checking dead links asynchronously.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 grey-day">4</div>
   <div class="col-13 col-md-10 grey-content">
      <ul>
