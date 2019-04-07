@@ -30,6 +30,19 @@ in the end.
     <div id="apr19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 grey-day">6</div>
+  <div class="col-13 col-md-10 grey-content">
+     <ul>
+         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=CV7_stUWvBQ">Creating chat application with sockets in Python</a> <i class="fab fa-python"></i> with sentdex.</li>
+         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab">Essence of linear algebra</a> with 3Blue1Brown: Transformation ranks, nonsquare matrices.</li>
+         <li><i class="fab fa-stack-overflow"></i> Import error with Discord bot (<a href="https://stackoverflow.com/a/55555026/8787680">Stackoverflow answer</a>).</li>
+         <li><i class="fab fa-stack-overflow"></i> Flask Web App Not Rendering on PythonAnywhere (<a href="https://stackoverflow.com/a/55555437/8787680">Stackoverflow answer</a>).</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 blue-day">5</div>
   <div class="col-13 col-md-10 blue-content">
      <ul>
@@ -96,7 +109,7 @@ in the end.
   <div class="col-12 col-md-2 blue-day">31</div>
   <div class="col-13 col-md-10 blue-content">
      <ul>
-         <li>Tuples in regular expressions (<a href="https://stackoverflow.com/a/55438354/8787680">Stackoverflow answer <i class="fab fa-stack-overflow"></i></a>).</li>
+         <li><i class="fab fa-stack-overflow"></i> Tuples in regular expressions (<a href="https://stackoverflow.com/a/55438354/8787680">Stackoverflow answer</a>).</li>
          <li>Managing <a href="https://github.com/">GitHub</a> <i class="fab fa-github"></i> organizations.</li>
          <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=9vKqVkMQHKk&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr">Essence of Calculus</a> with 3Blue1Brown: Euler's number, implicit differentiation.</li>
      </ul>
@@ -191,7 +204,7 @@ in the end.
   <div class="col-13 col-md-10 blue-content">
      <ul>
          <li><a href="https://www.packtpub.com/application-development/python-everyday-life-video">Python for Everyday Life</a>: Working with images, parsing QR codes, face recognition, working with APIs.</li>
-         <li>Figuring out delayed requests with API response (<a href="https://stackoverflow.com/a/55317279/8787680">Stackoverflow answer <i class="fab fa-stack-overflow"></i></a>).</li>
+         <li><i class="fab fa-stack-overflow"></i> Figuring out delayed requests with API response (<a href="https://stackoverflow.com/a/55317279/8787680">Stackoverflow answer</a>).</li>
          <li><i class="fas fa-calculator"></i> <a href="https://projecteuler.net/problem=48">Self powers</a>, Project Euler.</li>
          <li><i class="fas fa-calculator"></i> <a href="https://projecteuler.net/problem=56">Powerful digit sum</a>, Project Euler.</li>
      </ul>
@@ -264,7 +277,7 @@ in the end.
          <li><i class="fas fa-calculator"></i> <a href="https://projecteuler.net/problem=35">Circular primes</a>, Project Euler.</li>
          <li><i class="fas fa-calculator"></i> <a href="https://projecteuler.net/problem=36">Double-base palindromes</a>, Project Euler.</li>
          <li><i class="fas fa-calculator"></i> <a href="https://projecteuler.net/problem=39">Integer right triangles</a>, Project Euler.</li>
-         <li>Replacing the first word in a string in Python 3 <i class="fab fa-python"></i> (<a href="https://stackoverflow.com/a/55213732/8787680">Stackoverflow answer <i class="fab fa-stack-overflow"></i></a>).</li>
+         <li><i class="fab fa-stack-overflow"></i> Replacing the first word in a string in Python 3 <i class="fab fa-python"></i> (<a href="https://stackoverflow.com/a/55213732/8787680">Stackoverflow answer</a>).</li>
      </ul>
   </div>
 </div>
@@ -286,8 +299,8 @@ in the end.
      <ul>
          <li>Insertion sort algorithm.</li>
          <li>URL encoding with <code>cURL</code> and <code>requests</code>.</li>
-         <li>Scraping a website with <code>requests_html</code> (<a href="https://stackoverflow.com/a/55193557/8787680">Stackoverflow answer <i class="fab fa-stack-overflow"></i></a>).</li>
-         <li>Quickly open files in Vim (<a href="https://stackoverflow.com/a/55176008/8787680">Stackoverflow answer <i class="fab fa-stack-overflow"></i></a>).</li>
+         <li><i class="fab fa-stack-overflow"></i> Scraping a website with <code>requests_html</code> (<a href="https://stackoverflow.com/a/55193557/8787680">Stackoverflow answer</a>).</li>
+         <li><i class="fab fa-stack-overflow"></i> Quickly open files in Vim (<a href="https://stackoverflow.com/a/55176008/8787680">Stackoverflow answer</a>).</li>
      </ul>
   </div>
 </div>
@@ -339,8 +352,8 @@ in the end.
   <div class="col-13 col-md-10 blue-content">
      <ul>
          <li><a href="https://realpython.com/python-refactoring/">Refactoring Python Applications for Simplicity</a>, by <a href="https://tonybaloney.github.io/">Anthony Shaw</a> on <a href="https://realpython.com/">Real Python</a>: Code complexity.</li>
-         <li>Python <i class="fab fa-python"></i>: Find unique words in text file (<a href="https://stackoverflow.com/a/55113291/8787680">Stackoverflow answer <i class="fab fa-stack-overflow"></i></a>).</li>
-         <li><a href="https://stackoverflow.com/a/41125461/8787680">Limiting RAM usage</a> <i class="fab fa-stack-overflow"></i> inside Python <i class="fab fa-python"></i> script.</li>
+         <li><i class="fab fa-stack-overflow"></i> Python <i class="fab fa-python"></i>: Find unique words in text file (<a href="https://stackoverflow.com/a/55113291/8787680">Stackoverflow answer</a>).</li>
+         <li><i class="fab fa-stack-overflow"></i> <a href="https://stackoverflow.com/a/41125461/8787680">Limiting RAM usage</a> inside Python <i class="fab fa-python"></i> script.</li>
          <li><i class="fas fa-calculator"></i> <a href="https://projecteuler.net/problem=12">Finding the number of factors in a large number</a>, Project Euler.</li>
      </ul>
   </div>
@@ -517,7 +530,7 @@ in the end.
   <div class="col-12 col-md-2 blue-day">24</div>
   <div class="col-12 col-md-10 blue-content">
      <ul>
-         <li>Python <i class="fab fa-python"></i>: Scope in classes (<a href="https://stackoverflow.com/a/54853361/8787680">Stackoverflow answer <i class="fab fa-stack-overflow"></i></a>).</li>
+         <li><i class="fab fa-stack-overflow"></i> Python <i class="fab fa-python"></i>: Scope in classes (<a href="https://stackoverflow.com/a/54853361/8787680">Stackoverflow answer</a>).</li>
      </ul>
   </div>
 </div>
@@ -687,7 +700,7 @@ in the end.
   <div class="col-12 col-md-2 blue-day">8</div>
   <div class="col-12 col-md-10 blue-content">
      <ul>
-         <li>Recreate structure of <code>content/</code> folder in <code>output/</code> with Pelican (<a href="https://stackoverflow.com/a/54600188/8787680">Stackoverflow answer <i class="fab fa-stack-overflow"></i></a>).</li>
+         <li><i class="fab fa-stack-overflow"></i> Recreate structure of <code>content/</code> folder in <code>output/</code> with Pelican (<a href="https://stackoverflow.com/a/54600188/8787680">Stackoverflow answer</a>).</li>
          <li>Managing submodules with Git <i class="fab fa-git"></i>.</li>
      </ul>
   </div>
@@ -1399,8 +1412,8 @@ in the end.
 <div class="col-12 col-md-10 blue-content">
       <ul>
           <li>Use of HTML <i class="fab fa-html5"></i> tag <code>&lt;li&gt;</code> in footer for images.</li>
-          <li>Get the Pelican version number from a template (<a href="https://stackoverflow.com/a/53474870/8787680">answered on stackoverflow <i class="fab fa-stack-overflow"></i></a>).</li>
-          <li>Create direct templates in theme (<a href="https://stackoverflow.com/a/53474144/8787680">answered on stackoverflow <i class="fab fa-stack-overflow"></i></a>).</li>
+          <li><i class="fab fa-stack-overflow"></i> Get the Pelican version number from a template (<a href="https://stackoverflow.com/a/53474870/8787680">answered on stackoverflow</a>).</li>
+          <li><i class="fab fa-stack-overflow"></i> Create direct templates in theme (<a href="https://stackoverflow.com/a/53474144/8787680">answered on stackoverflow</a>).</li>
       </ul>
    </div>
 </div>
