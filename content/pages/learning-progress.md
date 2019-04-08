@@ -30,6 +30,16 @@ in the end.
     <div id="apr19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 blue-day">7</div>
+  <div class="col-13 col-md-10 blue-content">
+     <ul>
+        <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Web development: Introduction to the Web.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 grey-day">6</div>
   <div class="col-13 col-md-10 grey-content">
      <ul>
