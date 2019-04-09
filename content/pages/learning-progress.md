@@ -30,10 +30,27 @@ in the end.
     <div id="apr19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 grey-day">8</div>
+  <div class="col-13 col-md-10 grey-content">
+     <ul>
+        <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+        <ul>
+        <li>Introduction to programming: development environment, drawing in 2D.</li>
+        <li>Numerical Mathematics: Introduction to number bases and modular arithmetic, number bases, octal and hexadecimal with fractional parts.</li>
+        </ul>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 blue-day">7</div>
   <div class="col-13 col-md-10 blue-content">
      <ul>
-        <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Web development: Introduction to the Web.</li>
+        <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+        <ul>
+        <li>Web development: Introduction to the Web.</li>
+        </ul>
      </ul>
   </div>
 </div>
