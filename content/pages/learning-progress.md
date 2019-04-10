@@ -30,6 +30,21 @@ in the end.
     <div id="apr19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 blue-day">9</div>
+  <div class="col-13 col-md-10 blue-content">
+     <ul>
+        <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+        <ul>
+        <li>Introduction to programming: built-in variables, JavaScript objects.</li>
+        <li>Numerical Mathematics: Algorithms for converting binary from/to decimal with fractional part.</li>
+        </ul>
+         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=1lxrb_ezP-g">How to Write Python Scripts to Analyze JSON APIs and Sort Results</a> with Corey Schafer.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 grey-day">8</div>
   <div class="col-13 col-md-10 grey-content">
      <ul>
