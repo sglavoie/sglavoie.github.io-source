@@ -4,6 +4,7 @@ TODO
 __pycache__/
 files/
 output/
+scripts/
 stats_counter.txt
 tags
 tree.txt
