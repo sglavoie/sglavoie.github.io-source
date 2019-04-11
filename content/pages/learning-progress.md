@@ -30,6 +30,20 @@ in the end.
     <div id="apr19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 grey-day">10</div>
+  <div class="col-13 col-md-10 grey-content">
+     <ul>
+        <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+        <ul>
+        <li>Introduction to programming: built-in variables, JavaScript objects.</li>
+        <li>Web development: Delivering Web content.</li>
+        </ul>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 blue-day">9</div>
   <div class="col-13 col-md-10 blue-content">
      <ul>
@@ -329,7 +343,7 @@ in the end.
   <div class="col-12 col-md-2 grey-day">16</div>
   <div class="col-13 col-md-10 grey-content">
      <ul>
-         <li><i class="fas fa-university"></i> Officially enrolled in <a href="https://london.ac.uk/courses/computer-science-machine-learning-and-ai">BSc in Computer Science (Machine Learning and Artificial Intelligence)</a> at <a href="https://www.gold.ac.uk/">Goldsmiths, University of London</a>.</li>
+         <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Officially enrolled in <a href="https://london.ac.uk/courses/computer-science-machine-learning-and-ai">BSc in Computer Science (Machine Learning and Artificial Intelligence)</a> at <a href="https://www.gold.ac.uk/">Goldsmiths, University of London</a>.</li>
      </ul>
   </div>
 </div>
