@@ -175,6 +175,13 @@ i {
     display: none;
 }
 
+dd {
+    margin-bottom: 2em;
+}
+
+dl {
+    line-height: 1.25;
+}
 /* end BASE TEMPLATE */
 
 /* SCROLLBAR */

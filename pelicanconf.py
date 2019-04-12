@@ -70,9 +70,9 @@ def get_cache_id(filename):
 PELICAN_VERSION = __version__
 
 ABOUT_VERSION = '0.4.0'
-SITE_VERSION = 'v0.13.0'
+SITE_VERSION = 'v0.14.0'
 CURRENT_YEAR = datetime.today().year
-DEFAULT_DATE_FORMAT = '%B %d, %Y @ %H:%M CST'
+DEFAULT_DATE_FORMAT = '%B %d, %Y'
 LAST_UPDATE = datetime.now().strftime(DEFAULT_DATE_FORMAT)
 
 AUTHOR = 'Sébastien Lavoie'
