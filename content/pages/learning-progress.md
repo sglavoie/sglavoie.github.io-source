@@ -30,12 +30,25 @@ in the end.
     <div id="apr19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 grey-day">12</div>
+  <div class="col-13 col-md-10 grey-content">
+     <ul>
+        <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+        <ul>
+        <li>Numerical Mathematics: Arithmetic in binary.</li>
+        </ul>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 blue-day">11</div>
   <div class="col-13 col-md-10 blue-content">
      <ul>
         <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
         <ul>
-        <li>Introduction to programming: built-in variables, JavaScript objects.</li>
+        <li>Introduction to programming: JavaScript objects, conditionals and variable types.</li>
         <li>Web development: How a web browser works; the importance of design; content, structure & storytelling.</li>
         </ul>
      </ul>
