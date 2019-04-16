@@ -30,6 +30,21 @@ in the end.
     <div id="apr19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 blue-day">15</div>
+  <div class="col-13 col-md-10 blue-content">
+     <ul>
+        <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+        <ul>
+        <li>Numerical Mathematics: Arithmetic in any base, modular arithmetic, theory of divisibility, theory of congruences.</li>
+        </ul>
+         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=kIdiWut8eD8">How I Setup a New Development Machine - Using Scripts to Automate Installs and Save Time</a> with Corey Schafer.</li>
+         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=JBjjnqG0BP8">Bjarne Stroustrup: Why I Created C++</a> with Big Think.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 grey-day">14</div>
   <div class="col-13 col-md-10 grey-content">
      <ul>
