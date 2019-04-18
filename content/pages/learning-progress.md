@@ -30,6 +30,20 @@ in the end.
     <div id="apr19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 blue-day">17</div>
+  <div class="col-13 col-md-10 blue-content">
+     <ul>
+        <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+        <ul>
+        <li>Introduction to programming: <code>p5.js</code> with functions, loops & objects.</li>
+        </ul>
+         <li>Batch convert and rename images and videos in terminal with <code>ImageMagick</code>, <code>ffmpeg</code> and <code>rename</code>.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 grey-day">16</div>
   <div class="col-13 col-md-10 grey-content">
      <ul>
