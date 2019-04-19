@@ -30,6 +30,20 @@ in the end.
     <div id="apr19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 grey-day">18</div>
+  <div class="col-13 col-md-10 grey-content">
+     <ul>
+        <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+        <ul>
+        <li>Numerical Mathematics: Modular arithmetic, number theory, Euclidean algorithm.</li>
+        </ul>
+         <li>Configuring <a href="https://st.suckless.org/">st (simple terminal)</a> and <a href="https://tools.suckless.org/dmenu/">dmenu</a>.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 blue-day">17</div>
   <div class="col-13 col-md-10 blue-content">
      <ul>
