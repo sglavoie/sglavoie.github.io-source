@@ -2,11 +2,13 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 from datetime import datetime
-from pelican import __version__
 import glob
 import hashlib
 import os
 import subprocess
+
+# Third-party imports
+from pelican import __version__
 
 # TODO: Until I figure out how to create a plugin, functions appear here
 
