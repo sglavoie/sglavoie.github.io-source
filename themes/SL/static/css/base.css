@@ -9,8 +9,9 @@ blockquote {
 
 sub, sup {
     background-color: #f8f8ff;
-    border: 1px dashed #AAB2B5;
+    border: 1px dashed #E0E0E0;
     font-size: 0.9rem;
+    padding: 0.1em;
     position: inherit;
 }
 
