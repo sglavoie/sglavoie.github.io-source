@@ -30,12 +30,26 @@ in the end.
     <div id="apr19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 grey-day">20</div>
+  <div class="col-13 col-md-10 grey-content">
+     <ul>
+        <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+        <ul>
+        <li>Numerical Mathematics: <i class="fas fa-history"></i> Euclidean algorithm, extended Euclidean algorithm, modular inverses.</li>
+        </ul>
+         <li><i class="fab fa-stack-overflow"></i> Using string formatting to evaluate hexadecimal, binary, decimal and octal versions of a value (<a href="https://stackoverflow.com/a/55779060/8787680">Stackoverflow answer</a>).</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 blue-day">19</div>
   <div class="col-13 col-md-10 blue-content">
      <ul>
         <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
         <ul>
-        <li>Numerical Mathematics: Euclidean algorithm.</li>
+        <li>Numerical Mathematics: <i class="fas fa-history"></i> Euclidean algorithm.</li>
         </ul>
      </ul>
   </div>
@@ -48,7 +62,7 @@ in the end.
      <ul>
         <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
         <ul>
-        <li>Numerical Mathematics: Modular arithmetic, number theory, Euclidean algorithm.</li>
+        <li>Numerical Mathematics: <i class="fas fa-history"></i> Modular arithmetic, number theory, Euclidean algorithm.</li>
         </ul>
          <li>Configuring <a href="https://st.suckless.org/">st (simple terminal)</a> and <a href="https://tools.suckless.org/dmenu/">dmenu</a>.</li>
      </ul>
@@ -76,7 +90,7 @@ in the end.
      <ul>
         <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
         <ul>
-        <li>Numerical Mathematics: Modular arithmetic.</li>
+        <li>Numerical Mathematics: <i class="fas fa-history"></i> Modular arithmetic.</li>
         </ul>
      </ul>
   </div>
@@ -119,6 +133,7 @@ in the end.
         <ul>
         <li>Numerical Mathematics: Octal and hexadecimal.</li>
         </ul>
+         <li><i class="fab fa-stack-overflow"></i> Linking variables from different functions to print them (<a href="https://stackoverflow.com/a/55661226/8787680">Stackoverflow answer</a>).</li>
      </ul>
   </div>
 </div>
@@ -157,7 +172,7 @@ in the end.
      <ul>
         <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
         <ul>
-        <li>Introduction to programming: built-in variables, JavaScript objects.</li>
+        <li><i class="fas fa-history"></i> Introduction to programming: built-in variables, JavaScript objects.</li>
         <li>Web development: Delivering Web content.</li>
         </ul>
      </ul>
@@ -202,6 +217,7 @@ in the end.
         <ul>
         <li>Web development: Introduction to the Web.</li>
         </ul>
+         <li><i class="fab fa-stack-overflow"></i> How to fix SyntaxError in a module that gives an error upon import? (<a href="https://stackoverflow.com/a/55555026/8787680">Stackoverflow answer</a>).</li>
      </ul>
   </div>
 </div>
