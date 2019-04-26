@@ -658,6 +658,7 @@ li {
 
 ul {
     margin-top: 0.5em;
+    padding-bottom: 0.5em;
 }
 
 .navbar-dark .navbar-nav .nav-link {
