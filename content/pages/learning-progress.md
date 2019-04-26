@@ -30,6 +30,31 @@ in the end.
     <div id="apr19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 blue-day">25</div>
+  <div class="col-13 col-md-10 blue-content">
+     <ul>
+        <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+        <ul>
+        <li>Numerical Mathematics: RSA algorithm.</li>
+        </ul>
+        <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=sJmkhV02lnM">Changing Screen/view/page - Kivy Mobile and Desktop App Dev w/ Python</a> with sentdex.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="col-12 col-md-2 grey-day">24</div>
+  <div class="col-13 col-md-10 grey-content">
+     <ul>
+        <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=8I2fMqrruwc">Buttons & Events - Kivy Mobile and Desktop App Dev w/ Python</a> with sentdex.</li>
+        <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=_JGmemuINww">Clarifying the Issues with Mutable Default Arguments</a> with Corey Schafer.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 blue-day">23</div>
   <div class="col-13 col-md-10 blue-content">
      <ul>
