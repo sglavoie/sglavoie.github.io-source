@@ -7,7 +7,8 @@ blockquote {
     padding: 1rem;
 }
 
-sub, sup {
+sub,
+sup {
     background-color: #f8f8ff;
     border: 1px dashed #E0E0E0;
     font-size: 0.9rem;
@@ -33,7 +34,7 @@ figure {
 }
 
 .hover-img:hover {
-    color:#fff;
+    color: #fff;
     opacity: .5;
 }
 
@@ -60,9 +61,9 @@ figure {
 }
 
 .img-categories {
-    bottom:30%;
+    bottom: 30%;
     display: none;
-    position:absolute;
+    position: absolute;
     right: 3%;
 }
 
@@ -146,14 +147,15 @@ figure {
     float: right;
 }
 
-::-moz-selection { /* Code for Firefox */
-  background: #007bff;
-  color: #ffffff;
+::-moz-selection {
+    /* Code for Firefox */
+    background: #007bff;
+    color: #ffffff;
 }
 
 ::selection {
-  background: #007bff;
-  color: #ffffff;
+    background: #007bff;
+    color: #ffffff;
 }
 
 nav i {
@@ -183,6 +185,7 @@ dd {
 dl {
     line-height: 1.25;
 }
+
 /* end BASE TEMPLATE */
 
 /* SCROLLBAR */
@@ -205,6 +208,7 @@ body::-webkit-scrollbar-thumb {
     background-color: #007bff;
     outline: 1px solid #ffffff;
 }
+
 /* end SCROLLBAR */
 
 /* FOOTER */
@@ -249,8 +253,9 @@ address {
     opacity: 1;
     transition: .3s ease-in-out;
 }
+
 .hover-footer-bg:hover {
-    color:#fff;
+    color: #fff;
 }
 
 .get-in-touch-icons {
@@ -324,6 +329,7 @@ footer a img:hover {
 div#author-footer {
     margin-top: 1.5rem;
 }
+
 /* end FOOTER */
 
 /* ARTICLE PAGE */
@@ -382,6 +388,7 @@ section#content:after {
     margin-left: 1em;
     padding: 10px;
 }
+
 /* end ARTICLE PAGE */
 
 /* INDEX PAGE */
@@ -389,6 +396,7 @@ section#content:after {
     margin: 20px;
     text-align: center;
 }
+
 /* end INDEX PAGE */
 
 /* DISQUS */
@@ -397,13 +405,17 @@ section#content:after {
     padding: 1em;
 }
 
-.position-comments-count a:link, .position-comments-count a:visited, .position-comments-count, a:hover {
-    color:#ffffff
+.position-comments-count a:link,
+.position-comments-count a:visited,
+.position-comments-count,
+a:hover {
+    color: #ffffff
 }
 
 div#layout {
     padding: 0.5em;
 }
+
 /* end DISQUS */
 
 /* CODE BLOCKS */
@@ -420,6 +432,7 @@ pre {
 .linenodiv {
     background-color: #d4e5ea;
 }
+
 /* end CODE BLOCKS */
 
 /* PAGE LEARNING-PROCESS */
@@ -428,7 +441,7 @@ pre {
 }
 
 .learning-year {
-    font-size:x-large;
+    font-size: x-large;
     font-weight: bold;
     padding-bottom: 1em;
     text-align: center;
@@ -473,23 +486,24 @@ pre {
 
 /* COLLAPSIBLE CONTENT */
 .panel {
-  border: 0;
-  margin-bottom: 0;
+    border: 0;
+    margin-bottom: 0;
 }
 
 /* https://www.w3schools.com/howto/howto_js_collapsible.asp
 Style the button that is used to open and close the collapsible content */
 .collapsible {
-  cursor: pointer;
+    cursor: pointer;
 }
 
 /* Style the collapsible content. Note: hidden by default */
 .month-content {
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.3s ease-out;
-  transition: max-height 0.3s ease-in;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out;
+    transition: max-height 0.3s ease-in;
 }
+
 /* end COLLAPSIBLE CONTENT */
 
 /* TAG CLOUD PELICAN PLUGIN */
@@ -535,10 +549,12 @@ ul.tagcloud .list-group-item span.badge {
     background-color: grey;
     color: white;
 }
+
 /* end TAG CLOUD PELICAN PLUGIN */
 
 /* BOOTSTRAP MODIFICATIONS BELOW */
-html, body {
+html,
+body {
     background-color: #CEDBD9;
     color: #283B42;
     font-family: 'Lato', sans-serif;
@@ -609,23 +625,27 @@ a:visited.btn {
     line-height: 1.75em;
 }
 
-.h2, h2 {
+.h2,
+h2 {
     font-size: 1.3rem;
     font-weight: bold;
 }
 
-.h3, h3 {
+.h3,
+h3 {
     font-size: 1.2rem;
     font-weight: bold;
 }
 
-.h4, h4 {
+.h4,
+h4 {
     font-size: 1.1rem;
     font-weight: bold;
     padding-top: 1.5rem;
 }
 
-.h5, h5 {
+.h5,
+h5 {
     font-size: 1.05rem;
     font-weight: bold;
 }
@@ -669,7 +689,8 @@ ul {
     color: #e9ecef;
 }
 
-.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
+.navbar-dark .navbar-nav .nav-link:focus,
+.navbar-dark .navbar-nav .nav-link:hover {
     color: #ffffff;
 }
 
@@ -780,7 +801,13 @@ footer .social-footer li {
     padding: 1em;
 }
 
-h1, h2, h3, h4, h5, h6, .display-4 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.display-4 {
     padding: 2rem 1rem 1rem 1rem;
 }
 
@@ -789,108 +816,145 @@ h1, h2, h3, h4, h5, h6, .display-4 {
 
 @media (min-width: 576px) {
 
-#content {
-    margin: 1em;
-}
+    #content {
+        margin: 1em;
+    }
 
-.card-body {
-    padding: 1em;
-}
+    .card-body {
+        padding: 1em;
+    }
 
-.category-article {
-    display: inline-block;
-}
+    .category-article {
+        display: inline-block;
+    }
 
-.jumbotron {
-    padding: 1rem;
-}
+    .jumbotron {
+        padding: 1rem;
+    }
 
 }
 
 @media (min-width: 700px) {
 
-body::-webkit-scrollbar {
-    width: 0.75rem;
-}
+    body::-webkit-scrollbar {
+        width: 0.75rem;
+    }
 
-.card {
-    margin: 0;
-}
+    .card {
+        margin: 0;
+    }
 
-.only-big-screen {
-    display: flex;
-}
+    .only-big-screen {
+        display: flex;
+    }
 
 }
 
 @media (max-width: 992px) {
 
-body::-webkit-scrollbar {
-    width: 0;
-}
+    body::-webkit-scrollbar {
+        width: 0;
+    }
 
-.navbar {
-    padding: 0 1rem 0.5rem 0.5rem;
-}
+    .navbar {
+        padding: 0 1rem 0.5rem 0.5rem;
+    }
 
-.always-white {
-    color: #DFE5EB;
-}
+    .always-white {
+        color: #DFE5EB;
+    }
 
-#menu-categories-legend-id{
-    display: none;
-}
+    #menu-categories-legend-id {
+        display: none;
+    }
 }
 
 @media (min-width: 992px) {
 
-.brand-logo {
-    max-width: 70px;
+    .brand-logo {
+        max-width: 70px;
+    }
+
+    .img-categories {
+        bottom: 30%;
+        display: flex;
+        position: absolute;
+        right: 3%;
+    }
+
+    #bg-darker {
+        background-image: url("/theme/images/header/abstract_path_horizontal.svg");
+        background-position-x: 100%;
+        background-position-y: 50%;
+        background-repeat: no-repeat;
+        background-size: 50%;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+
+    .to-the-right {
+        padding-left: 20px;
+    }
+
+    .always-white {
+        color: #DFE5EB;
+        padding-right: 2.5rem;
+        white-space: nowrap;
+    }
+
+    #submenu-categories-legend {
+        display: none;
+    }
 }
 
-.img-categories {
-    bottom: 30%;
-    display: flex;
-    position: absolute;
-    right: 3%;
-}
-
-#bg-darker {
-    background-image: url("/theme/images/header/abstract_path_horizontal.svg");
-    background-position-x: 100%;
-    background-position-y: 50%;
-    background-repeat: no-repeat;
-    background-size: 50%;
-}
-
-.navbar-expand-lg .navbar-nav .nav-link {
-    padding-left: 2rem;
-    padding-right: 2rem;
-}
-
-.to-the-right {
-    padding-left: 20px;
-}
-
-.always-white {
-    color: #DFE5EB;
-    padding-right: 2.5rem;
-    white-space: nowrap;
-}
-#submenu-categories-legend{
-    display: none;
-}
-}
 /* end @MEDIA */
 
 /* Styles for `tree` command output */
 
-.VERSION { font-size: small; font-family : arial, sans-serif; }
-.NORM  { color: black;  background-color: transparent;}
-.FIFO  { color: purple; background-color: transparent;}
-.CHAR  { color: yellow; background-color: transparent;}
-.DIR   { color: blue;   background-color: transparent;}
-.BLOCK { color: yellow; background-color: transparent;}
-.LINK  { color: aqua;   background-color: transparent;}
-.SOCK  { color: fuchsia;background-color: transparent;}
-.EXEC  { color: green;  background-color: transparent;}
+.VERSION {
+    font-size: small;
+    font-family: arial, sans-serif;
+}
+
+.NORM {
+    color: black;
+    background-color: transparent;
+}
+
+.FIFO {
+    color: purple;
+    background-color: transparent;
+}
+
+.CHAR {
+    color: yellow;
+    background-color: transparent;
+}
+
+.DIR {
+    color: blue;
+    background-color: transparent;
+}
+
+.BLOCK {
+    color: yellow;
+    background-color: transparent;
+}
+
+.LINK {
+    color: aqua;
+    background-color: transparent;
+}
+
+.SOCK {
+    color: fuchsia;
+    background-color: transparent;
+}
+
+.EXEC {
+    color: green;
+    background-color: transparent;
+}
