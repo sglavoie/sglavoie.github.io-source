@@ -30,6 +30,24 @@ in the end.
     <div id="apr19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 grey-day">26</div>
+  <div class="col-13 col-md-10 grey-content">
+     <ul>
+        <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+        <ul>
+        <li>Numerical Mathematics: <i class="fas fa-history"></i> RSA algorithm.</li>
+        </ul>
+        <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=8E8sUNHdzG8">Working with pipes in shell scripts</a> with Luke Smith.</li>
+        <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=hsnch676Lco">Scheduling tasks/functions/methods - Kivy Mobile and Desktop App Dev w/ Python</a> with sentdex.</li>
+        <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=LdF2RcelRg0">15 VS Code Extensions For Front-End Developers in 2019</a> with Traversy Media.</li>
+        <li>Configure <a href="https://code.visualstudio.com/">VS Code</a> to the core.</li>
+        <li>Setting up <code>Snap</code> and <code>Flatpak</code> packages.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 blue-day">25</div>
   <div class="col-13 col-md-10 blue-content">
      <ul>
@@ -710,7 +728,7 @@ in the end.
      <ul>
          <li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Plotting, transformations of graphs.</li>
          <li>Screencasting/streaming with <a href="https://www.ffmpeg.org/">ffmpeg</a>.</li>
-         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=vt33Hp-4RXg">Custom commands with fzf in Linux terminal</a> with Luke Smith</a>.</li>
+         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=vt33Hp-4RXg">Custom commands with fzf in Linux terminal</a> with Luke Smith.</li>
      </ul>
   </div>
 </div>
