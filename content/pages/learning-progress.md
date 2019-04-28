@@ -30,6 +30,20 @@ in the end.
     <div id="apr19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 blue-day">27</div>
+  <div class="col-13 col-md-10 blue-content">
+     <ul>
+        <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+        <ul>
+        <li>Numerical Mathematics: Python algorithm to calculate congruence for very large numbers, <i class="fas fa-history"></i> RSA algorithm, number bases, modular arithmetic, sequences & series.</li>
+        </ul>
+        <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=w_37upFE-qw">Working with pipes in shell scripts - Part 2</a> with Luke Smith.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 grey-day">26</div>
   <div class="col-13 col-md-10 grey-content">
      <ul>
