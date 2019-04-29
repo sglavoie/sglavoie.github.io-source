@@ -30,6 +30,20 @@ in the end.
     <div id="apr19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 grey-day">28</div>
+  <div class="col-13 col-md-10 grey-content">
+     <ul>
+        <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+        <ul>
+        <li>Numerical Mathematics: <i class="fas fa-history"></i> simplified RSA algorithm, finding encryption and decryption keys for any <em>mod</em>.</li>
+        </ul>
+         <li><i class="fas fa-university"></i> <a href="https://www.coursera.org/learn/python-data-analysis/home">Introduction to Data Science in Python</a> on Coursera: <i class="fas fa-history"></i> Introduction to <code>NumPy</code>.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 blue-day">27</div>
   <div class="col-13 col-md-10 blue-content">
      <ul>
@@ -37,6 +51,7 @@ in the end.
         <ul>
         <li>Numerical Mathematics: Python algorithm to calculate congruence for very large numbers, <i class="fas fa-history"></i> RSA algorithm, number bases, modular arithmetic, sequences & series.</li>
         </ul>
+         <li><i class="fas fa-university"></i> <a href="https://www.coursera.org/learn/python-data-analysis/home">Introduction to Data Science in Python</a> on Coursera: Python fundamentals, introduction to <code>NumPy</code>.</li>
         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=w_37upFE-qw">Working with pipes in shell scripts - Part 2</a> with Luke Smith.</li>
      </ul>
   </div>
