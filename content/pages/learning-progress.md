@@ -30,6 +30,19 @@ in the end.
     <div id="apr19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 blue-day">29</div>
+  <div class="col-13 col-md-10 blue-content">
+     <ul>
+         <li><i class="fas fa-university"></i> <a href="https://www.coursera.org/learn/python-data-analysis/home">Introduction to Data Science in Python</a> on Coursera: Introduction to <code>Pandas</code>.</li>
+         <li><i class="fab fa-stack-overflow"></i> How to make vim spell error search the current line only? (<a href="https://stackoverflow.com/a/55913687/8787680">Stackoverflow answer</a>).</li>
+        <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=ucl1y2uCyhs">DIY Raspberry Pi Wireless Driveway Gate Opener</a> with Engineer Man.</li>
+        <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=62LSK62Gudc">Chat Application Page - Kivy Mobile and Desktop App Dev w/ Python</a> with sentdex.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 grey-day">28</div>
   <div class="col-13 col-md-10 grey-content">
      <ul>
