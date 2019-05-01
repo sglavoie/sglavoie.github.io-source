@@ -30,6 +30,17 @@ in the end.
     <div id="apr19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 grey-day">30</div>
+  <div class="col-13 col-md-10 grey-content">
+     <ul>
+         <li><i class="fas fa-university"></i> <a href="https://www.coursera.org/learn/python-data-analysis/home">Introduction to Data Science in Python</a> on Coursera: Working with dataframes in <code>Pandas</code>.</li>
+        <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=lmWE2bydekk">Finishing Chat Application - Kivy Mobile and Desktop App Dev w/ Python</a> with sentdex.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 blue-day">29</div>
   <div class="col-13 col-md-10 blue-content">
      <ul>
