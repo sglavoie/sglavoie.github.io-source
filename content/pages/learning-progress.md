@@ -23,6 +23,22 @@ in the end.
 <div id="year2019" class="container no-padding">
   <div class="panel">
 
+    <div class="row justify-content-center" role="button" data-toggle="collapse" data-parent="#year2019" href="#may19" aria-expanded="false" aria-controls="may19">
+      <div class="learning-month">May</div>
+    </div>
+    <div id="may19" class="container collapse">
+
+<div class="row">
+  <div class="col-12 col-md-2 blue-day">1</div>
+  <div class="col-13 col-md-10 blue-content">
+        <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=CIW0H70wo0M">Android deployment - Kivy Mobile and Desktop App Dev w/ Python</a> with sentdex.</li>
+        <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=w68BBPDAWr8">How Password Managers Work</a> with Computerphile.</li>
+     </ul>
+  </div>
+</div>
+
+    </div>
+
 
     <div class="row justify-content-center" role="button" data-toggle="collapse" data-parent="#year2019" href="#apr19" aria-expanded="false" aria-controls="apr19">
       <div class="learning-month">April</div>
