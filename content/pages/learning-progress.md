@@ -29,8 +29,20 @@ in the end.
     <div id="may19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 grey-day">2</div>
+  <div class="col-13 col-md-10 grey-content">
+     <ul>
+        <li>Changing <em>compose key</em> settings in <code>.xinitrc</code>.</li>
+        <li>BIOS settings: TPM (Trusted Platform Module), VT (Virtualization Technology), DEP (Data Execution prevention).</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 blue-day">1</div>
   <div class="col-13 col-md-10 blue-content">
+     <ul>
         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=CIW0H70wo0M">Android deployment - Kivy Mobile and Desktop App Dev w/ Python</a> with sentdex.</li>
         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=w68BBPDAWr8">How Password Managers Work</a> with Computerphile.</li>
      </ul>
