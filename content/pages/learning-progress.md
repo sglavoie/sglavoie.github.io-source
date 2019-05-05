@@ -29,6 +29,16 @@ in the end.
     <div id="may19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 blue-day">4</div>
+  <div class="col-13 col-md-10 blue-content">
+     <ul>
+        <li>Configure <a href="https://manjaro.org/download/i3/">Manjaro i3</a> from scratch.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 grey-day">2</div>
   <div class="col-13 col-md-10 grey-content">
      <ul>
