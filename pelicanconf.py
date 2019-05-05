@@ -97,7 +97,7 @@ PATH = 'content'
 TIMEZONE = 'America/Mexico_City'
 
 DEFAULT_LANG = 'en'
-LOCALE = 'en_US'
+LOCALE = 'en_US.utf8'
 
 MENUITEMS = [
     # path, id, icon
