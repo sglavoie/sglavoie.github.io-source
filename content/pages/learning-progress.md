@@ -29,6 +29,45 @@ in the end.
     <div id="may19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 blue-day">6</div>
+  <div class="col-13 col-md-10 blue-content">
+     <ul>
+        <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+        <ul>
+        <li>Numerical Mathematics: Recursive series, <i class="fas fa-history"></i> finite & infinite series.</li>
+        </ul>
+        <li>Configure <a href="https://dunst-project.org/">Dunst</a>.</li>
+        <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=Siyg1Wn5VDs">Building Search Word Database - Data Analysis of Google Tracking Takeout p.1</a> with sentdex.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="col-12 col-md-2 grey-day">5</div>
+  <div class="col-13 col-md-10 grey-content">
+     <ul>
+        <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+        <ul>
+        <li>Numerical Mathematics: <i class="fas fa-history"></i> Infinite series, limits.</li>
+        </ul>
+        <li>Setting up <code>Neomake</code> & <code>Black</code> with <a href="https://neovim.io/">Neovim</a>.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="col-12 col-md-2 blue-day">4</div>
+  <div class="col-13 col-md-10 blue-content">
+     <ul>
+        <li>Configure <a href="https://manjaro.org/download/i3/">Manjaro i3</a> from scratch.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 grey-day">2</div>
   <div class="col-13 col-md-10 grey-content">
      <ul>
