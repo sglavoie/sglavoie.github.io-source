@@ -17,52 +17,57 @@ CURRENT_PATH = os.path.dirname(os.path.realpath(__file__))
 
 
 def num_articles():
-    '''Return the number of articles that match the following regex as
-    an integer.'''
-    return len(glob.glob('./content/**/[0-9][0-9][0-9][0-9]*.md'))
+    """Return the number of articles that match the following regex as
+    an integer."""
+    return len(glob.glob("./content/**/[0-9][0-9][0-9][0-9]*.md"))
 
 
 def read_tree():
-    '''Execute `tree` command to output HTML with colors. Filter out the
+    """Execute `tree` command to output HTML with colors. Filter out the
     noise and keep the essential part as a template to be included in
-    `tree.html`.'''
-    subprocess.run(f'tree -C -H . ./output/ > tree.txt', shell=True)
+    `tree.html`."""
+    subprocess.run(f"tree -C -H . ./output/ > tree.txt", shell=True)
     body = False
     extracted_tree = []
-    with open('tree.txt') as f:
+    with open("tree.txt") as f:
         for line in f:
             if not body:
-                if '<body>' in line:
+                if "<body>" in line:
                     body = True
             else:
-                if '</body>' in line:
+                if "</body>" in line:
                     break
                 extracted_tree.append(line)
-    with open('./themes/SL/templates/tree_content.html', 'w') as f:
+    with open("./themes/SL/templates/tree_content.html", "w") as f:
         for line in extracted_tree:
             f.write(line)
 
 
 def daily_stats():
-    '''Execute `Gitstats` once a day based on the date found in
+    """Execute `Gitstats` once a day based on the date found in
     `stats_counter.txt`. Very simple with a caveat: it won't check if
     there are new commits on the same day if stats have already been
-    generated on that day.'''
-    today = datetime.today().strftime('%Y%m%d')
-    with open('stats_counter.txt') as f:
+    generated on that day."""
+    today = datetime.today().strftime("%Y%m%d")
+    with open("stats_counter.txt") as f:
         content = f.readline().strip()
     if content != today:
-        cmd = ["gitstats", "-c", "project_name='sglavoie.com'",
-               f"{CURRENT_PATH}", f"{CURRENT_PATH}/output/stats/"]
+        cmd = [
+            "gitstats",
+            "-c",
+            "project_name='sglavoie.com'",
+            f"{CURRENT_PATH}",
+            f"{CURRENT_PATH}/output/stats/",
+        ]
         subprocess.run(cmd)
-        with open('stats_counter.txt', 'w') as f:
+        with open("stats_counter.txt", "w") as f:
             f.write(today)
 
 
 def get_cache_id(filename):
     md5 = hashlib.md5()
 
-    with open(filename, 'rb') as f:
+    with open(filename, "rb") as f:
         data = f.read()
         md5.update(data)
 
@@ -71,41 +76,45 @@ def get_cache_id(filename):
 
 PELICAN_VERSION = __version__
 
-ABOUT_VERSION = '0.4.0'
-SITE_VERSION = 'v0.14.3'
+ABOUT_VERSION = "0.4.0"
+SITE_VERSION = "v0.14.3"
 CURRENT_YEAR = datetime.today().year
-DEFAULT_DATE_FORMAT = '%B %d, %Y'
+DEFAULT_DATE_FORMAT = "%B %d, %Y"
 LAST_UPDATE = datetime.now().strftime(DEFAULT_DATE_FORMAT)
 
-AUTHOR = 'Sébastien Lavoie'
-SITENAME = 'sglavoie.com'
-SITEURL = 'https://www.sglavoie.com'
-SITESUBTITLE = f'The Learning Journey to the Summit of Commits | {AUTHOR}'
+AUTHOR = "Sébastien Lavoie"
+SITENAME = "sglavoie.com"
+SITEURL = "https://www.sglavoie.com"
+SITESUBTITLE = f"The Learning Journey to the Summit of Commits | {AUTHOR}"
 SITE_DESCRIPTION = (
-        'Provide useful information while documenting my journey as'
-        ' a learner in technology-related matters. Tech journal with'
-        ' the specific goal of explaining the challenges that I will'
-        ' inevitably face while trying to become a better student and most'
-        ' importantly, it will be a reference to the solutions that I'
-        ' found along the way so that it can benefit others too.')
-DISQUS_SITENAME = 'sglavoie'
-TWITTER_USERNAME = 'sgdlavoie'
-THEME = 'themes/SL'
+    "Provide useful information while documenting my journey as"
+    " a learner in technology-related matters. Tech journal with"
+    " the specific goal of explaining the challenges that I will"
+    " inevitably face while trying to become a better student and most"
+    " importantly, it will be a reference to the solutions that I"
+    " found along the way so that it can benefit others too."
+)
+DISQUS_SITENAME = "sglavoie"
+TWITTER_USERNAME = "sgdlavoie"
+THEME = "themes/SL"
 
-PATH = 'content'
+PATH = "content"
 
-TIMEZONE = 'America/Mexico_City'
+TIMEZONE = "America/Mexico_City"
 
-DEFAULT_LANG = 'en'
-LOCALE = 'en_US'
+DEFAULT_LANG = "en"
+LOCALE = "en_US.utf8"
 
 MENUITEMS = [
     # path, id, icon
-    ('/index.html', 'home', '<i class="fas fa-home"></i>'),
-    ('/tags.html', 'tags', '<i class="fas fa-hashtag"></i>'),
-    ('/learning-progress.html', 'learning',
-     '<i class="fas fa-graduation-cap"></i>'),
-    ('/about.html', 'about', '<i class="fas fa-info"></i>')
+    ("/index.html", "home", '<i class="fas fa-home"></i>'),
+    ("/tags.html", "tags", '<i class="fas fa-hashtag"></i>'),
+    (
+        "/learning-progress.html",
+        "learning",
+        '<i class="fas fa-graduation-cap"></i>',
+    ),
+    ("/about.html", "about", '<i class="fas fa-info"></i>'),
 ]
 
 # Plugins
@@ -117,7 +126,7 @@ TAG_CLOUD_BADGE = True
 
 # Default is 'random'.
 # Other options are: alphabetically, alphabetically-rev, size, size-rev
-TAG_CLOUD_SORTING = 'size'
+TAG_CLOUD_SORTING = "size"
 
 
 # `fenced_code` enables the following syntax for code blocks and make it
@@ -126,13 +135,13 @@ TAG_CLOUD_SORTING = 'size'
 # code goes here
 # ~~~~
 MARKDOWN = {
-    'extension_configs': {
-        'markdown.extensions.codehilite': {'css_class': 'highlight'},
-        'markdown.extensions.fenced_code': {},
-        'markdown.extensions.extra': {},
-        'markdown.extensions.meta': {},
+    "extension_configs": {
+        "markdown.extensions.codehilite": {"css_class": "highlight"},
+        "markdown.extensions.fenced_code": {},
+        "markdown.extensions.extra": {},
+        "markdown.extensions.meta": {},
     },
-    'output_format': 'html5',
+    "output_format": "html5",
 }
 
 # Feed generation is usually not desired when developing
@@ -145,25 +154,30 @@ AUTHOR_FEED_RSS = None
 FEED_ATOM = None
 FEED_ATOM_URL = None
 FEED_RSS = None
-FEED_ALL_RSS = 'feeds/sglavoie.rss.xml'
+FEED_ALL_RSS = "feeds/sglavoie.rss.xml"
 CATEGORY_FEED_RSS = None
 
 DIRECT_TEMPLATES = [
-    'index', 'categories', 'authors', 'archives',  # (default)
+    "index",
+    "categories",
+    "authors",
+    "archives",  # (default)
     # other HTML templates to render
-    'tags', 'about', 'tree'
+    "tags",
+    "about",
+    "tree",
 ]
 
-STATIC_PATHS = ['files']
+STATIC_PATHS = ["files"]
 
 DISPLAY_PAGES_ON_MENU = False
 DEFAULT_PAGINATION = 5
 USE_FOLDER_AS_CATEGORY = True
-DEFAULT_CATEGORY = 'misc'
+DEFAULT_CATEGORY = "misc"
 DISPLAY_CATEGORIES_ON_MENU = True
 TYPOGRIFY = True
-ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
-ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
+ARTICLE_URL = "posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/"
+ARTICLE_SAVE_AS = "posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html"
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
@@ -175,5 +189,5 @@ daily_stats()
 read_tree()
 
 NUM_ARTICLES = num_articles()
-BASE_CSS = get_cache_id(f'{THEME}/static/css/base.css')
-PYGMENT_CSS = get_cache_id(f'{THEME}/static/css/pygment.css')
+BASE_CSS = get_cache_id(f"{THEME}/static/css/base.css")
+PYGMENT_CSS = get_cache_id(f"{THEME}/static/css/pygment.css")
