@@ -29,12 +29,82 @@ in the end.
     <div id="may19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 grey-day">11</div>
+  <div class="col-13 col-md-10 grey-content">
+     <ul>
+        <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+        <ul>
+        <li>Numerical Mathematics: Series, convergence, divergence.</li>
+        <li>Web development: Basics of HTML wireframes, CSS, PWA (Progressive Web App) & service workers.</li>
+        </ul>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="col-12 col-md-2 blue-day">10</div>
+  <div class="col-13 col-md-10 blue-content">
+     <ul>
+        <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+        <ul>
+        <li>Numerical Mathematics: Series, convergence, divergence.</li>
+        </ul>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="col-12 col-md-2 grey-day">9</div>
+  <div class="col-13 col-md-10 grey-content">
+     <ul>
+        <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+        <ul>
+        <li>Numerical Mathematics: Generating random numbers, <i class="fas fa-history"></i> arithmetic &amp; geometric progressions.</li>
+        </ul>
+         <li><i class="fas fa-university"></i> <a href="https://www.coursera.org/learn/python-data-analysis/home">Introduction to Data Science in Python</a> on Coursera: <i class="fas fa-history"></i> Python fundamentals, Pandas.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="col-12 col-md-2 blue-day">8</div>
+  <div class="col-13 col-md-10 blue-content">
+     <ul>
+        <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+        <ul>
+        <li>Numerical Mathematics: Arithmetic &amp; geometric progressions, series.</li>
+        </ul>
+         <li><i class="fas fa-university"></i> <a href="https://www.coursera.org/learn/python-data-analysis/home">Introduction to Data Science in Python</a> on Coursera: <i class="fas fa-history"></i> Python fundamentals.</li>
+        <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=iGFdh6_FePU">Learn Pandas in about 10 minutes! A great python module for Data Science!</a> with Python Programmer.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="col-12 col-md-2 grey-day">7</div>
+  <div class="col-13 col-md-10 grey-content">
+     <ul>
+        <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+        <ul>
+        <li>Numerical Mathematics: Arithmetic sequences &amp; partial sums.</li>
+        </ul>
+        <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=msNAEaCTleQ">Creating Search Over Time Video Graphs - Data Analysis of Google Takeout p.2</a> with sentdex.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 blue-day">6</div>
   <div class="col-13 col-md-10 blue-content">
      <ul>
         <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
         <ul>
-        <li>Numerical Mathematics: Recursive series, <i class="fas fa-history"></i> finite & infinite series.</li>
+        <li>Numerical Mathematics: Recursive series, <i class="fas fa-history"></i> finite &amp; infinite series.</li>
         </ul>
         <li>Configure <a href="https://dunst-project.org/">Dunst</a>.</li>
         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=Siyg1Wn5VDs">Building Search Word Database - Data Analysis of Google Tracking Takeout p.1</a> with sentdex.</li>
@@ -51,7 +121,7 @@ in the end.
         <ul>
         <li>Numerical Mathematics: <i class="fas fa-history"></i> Infinite series, limits.</li>
         </ul>
-        <li>Setting up <code>Neomake</code> & <code>Black</code> with <a href="https://neovim.io/">Neovim</a>.</li>
+        <li>Setting up <code>Neomake</code> &amp; <code>Black</code> with <a href="https://neovim.io/">Neovim</a>.</li>
      </ul>
   </div>
 </div>
@@ -140,7 +210,7 @@ in the end.
      <ul>
         <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
         <ul>
-        <li>Numerical Mathematics: Python algorithm to calculate congruence for very large numbers, <i class="fas fa-history"></i> RSA algorithm, number bases, modular arithmetic, sequences & series.</li>
+        <li>Numerical Mathematics: Python algorithm to calculate congruence for very large numbers, <i class="fas fa-history"></i> RSA algorithm, number bases, modular arithmetic, sequences &amp; series.</li>
         </ul>
          <li><i class="fas fa-university"></i> <a href="https://www.coursera.org/learn/python-data-analysis/home">Introduction to Data Science in Python</a> on Coursera: Python fundamentals, introduction to <code>NumPy</code>.</li>
         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=w_37upFE-qw">Working with pipes in shell scripts - Part 2</a> with Luke Smith.</li>
@@ -185,7 +255,7 @@ in the end.
   <div class="col-12 col-md-2 grey-day">24</div>
   <div class="col-13 col-md-10 grey-content">
      <ul>
-        <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=8I2fMqrruwc">Buttons & Events - Kivy Mobile and Desktop App Dev w/ Python</a> with sentdex.</li>
+        <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=8I2fMqrruwc">Buttons &amp; Events - Kivy Mobile and Desktop App Dev w/ Python</a> with sentdex.</li>
         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=_JGmemuINww">Clarifying the Issues with Mutable Default Arguments</a> with Corey Schafer.</li>
      </ul>
   </div>
@@ -214,7 +284,7 @@ in the end.
         <ul>
         <li>Numerical Mathematics: Linear congruence, modular exponentiation, RSA encryption.</li>
         </ul>
-        <li>Skim through <a href="https://automatetheboringstuff.com/">Automate the Boring Stuff with Python</a>, by Al Sweigart: Reading & writing files.</li>
+        <li>Skim through <a href="https://automatetheboringstuff.com/">Automate the Boring Stuff with Python</a>, by Al Sweigart: Reading &amp; writing files.</li>
         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=zdJEYhA2AZQ">5 Common Python Mistakes and How to Fix Them</a> with Corey Schafer.</li>
      </ul>
   </div>
@@ -282,7 +352,7 @@ in the end.
      <ul>
         <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
         <ul>
-        <li>Introduction to programming: <code>p5.js</code> with functions, loops & objects.</li>
+        <li>Introduction to programming: <code>p5.js</code> with functions, loops &amp; objects.</li>
         </ul>
          <li>Batch convert and rename images and videos in terminal with <code>ImageMagick</code>, <code>ffmpeg</code> and <code>rename</code>.</li>
      </ul>
@@ -365,7 +435,7 @@ in the end.
         <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
         <ul>
         <li>Introduction to programming: JavaScript objects, conditionals and variable types.</li>
-        <li>Web development: How a web browser works; the importance of design; content, structure & storytelling.</li>
+        <li>Web development: How a web browser works; the importance of design; content, structure &amp; storytelling.</li>
         </ul>
      </ul>
   </div>
@@ -546,7 +616,7 @@ in the end.
   <div class="col-12 col-md-2 grey-day">28</div>
   <div class="col-13 col-md-10 grey-content">
      <ul>
-         <li><a href="https://www.packtpub.com/application-development/python-everyday-life-video">Python for Everyday Life</a>: Anatomy of a Web application, MVC frameworks, building and testing a simple website with Flask, working with SQLite in Python, ORMs (Django & SQLAlchemy), designing a bot deployed to Heroku.</li>
+         <li><a href="https://www.packtpub.com/application-development/python-everyday-life-video">Python for Everyday Life</a>: Anatomy of a Web application, MVC frameworks, building and testing a simple website with Flask, working with SQLite in Python, ORMs (Django &amp; SQLAlchemy), designing a bot deployed to Heroku.</li>
          <li>Reworking history in Git <i class="fab fa-git"></i> (squash, pick).</li>
      </ul>
   </div>
@@ -567,7 +637,7 @@ in the end.
   <div class="col-12 col-md-2 grey-day">26</div>
   <div class="col-13 col-md-10 grey-content">
      <ul>
-         <li><i class="fas fa-university"></i> <a href="https://www.coursera.org/learn/ai-for-everyone/">AI For Everyone</a> on Coursera: What is AI (machine learning, data, terminology, deep learning), building & choosing AI projects, technical tools.</li>
+         <li><i class="fas fa-university"></i> <a href="https://www.coursera.org/learn/ai-for-everyone/">AI For Everyone</a> on Coursera: What is AI (machine learning, data, terminology, deep learning), building &amp; choosing AI projects, technical tools.</li>
      </ul>
   </div>
 </div>
@@ -629,7 +699,7 @@ in the end.
   <div class="col-13 col-md-10 blue-content">
      <ul>
          <li><i class="fas fa-graduation-cap"></i> Certifications on <a href="https://www.testdome.com/">TestDome</a> (<a href="https://www.testdome.com/cert/999c53f380934d99aa4bda2a9c2a33ec">Python</a>, <a href="https://www.testdome.com/cert/09e820d68d6f4a0ab28cbdba646d0932">Linux</a>, <a href="https://www.testdome.com/cert/b824f9b10c0c476c88c8dfbaf0495afc">Numerical Reasoning</a>).</li>
-         <li><i class="fas fa-history"></i> Python review with <a href="https://www.packtpub.com/application-development/python-everyday-life-video">Python for Everyday Life</a>: Logging, regular expressions, function decorators, context managers, generator expressions & generators, magic methods, metaprogramming, functional programming, pythonic code, manipulation files & folders, handle common file formats.</li>
+         <li><i class="fas fa-history"></i> Python review with <a href="https://www.packtpub.com/application-development/python-everyday-life-video">Python for Everyday Life</a>: Logging, regular expressions, function decorators, context managers, generator expressions &amp; generators, magic methods, metaprogramming, functional programming, pythonic code, manipulation files &amp; folders, handle common file formats.</li>
      </ul>
   </div>
 </div>
@@ -653,7 +723,7 @@ in the end.
          <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=JRCJ6RtE3xU">Sending emails with Python</a> (Gmail and local debugging server) with Corey Schafer.</li>
          <li>Batch convert <strong>.NEF</strong> photos to <strong>.tif</strong> with <code>mogrify</code> from <a href="https://www.imagemagick.org/">ImageMagick</a>.</li>
          <li>Keeping files securely encrypted with <a href="https://www.gnupg.org/">GPG</a>.</li>
-         <li>Creating templates & styles with <a href="https://www.scribus.net/">Scribus</a>.</li>
+         <li>Creating templates &amp; styles with <a href="https://www.scribus.net/">Scribus</a>.</li>
      </ul>
   </div>
 </div>
@@ -710,8 +780,8 @@ in the end.
   <div class="col-12 col-md-2 grey-day">14</div>
   <div class="col-13 col-md-10 grey-content">
      <ul>
-         <li><i class="fab fa-youtube"></i> Sockets Tutorial with Python 3 <i class="fab fa-python"></i> (<a href="https://www.youtube.com/watch?v=8A4dqoGL62E">buffering and streaming data</a> & <a href="https://www.youtube.com/watch?v=WM1z8soch0Q">sending and receiving Python objects with pickle</a>) with sentdex.</li>
-         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=fZQI7nBu32M">PostgreSQL</a>, SELECT (<a href="https://www.youtube.com/watch?v=YufocuHbYZo">part 1</a> & <a href="https://www.youtube.com/watch?v=PkJKzR_sClM">part 2</a>), <a href="https://www.youtube.com/watch?v=VkabxQgtGsA">INSERT INTO</a> & <a href="https://www.youtube.com/watch?v=cd-hSl7_pGQ">UPDATE</a> with Socratica.</li>
+         <li><i class="fab fa-youtube"></i> Sockets Tutorial with Python 3 <i class="fab fa-python"></i> (<a href="https://www.youtube.com/watch?v=8A4dqoGL62E">buffering and streaming data</a> &amp; <a href="https://www.youtube.com/watch?v=WM1z8soch0Q">sending and receiving Python objects with pickle</a>) with sentdex.</li>
+         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=fZQI7nBu32M">PostgreSQL</a>, SELECT (<a href="https://www.youtube.com/watch?v=YufocuHbYZo">part 1</a> &amp; <a href="https://www.youtube.com/watch?v=PkJKzR_sClM">part 2</a>), <a href="https://www.youtube.com/watch?v=VkabxQgtGsA">INSERT INTO</a> &amp; <a href="https://www.youtube.com/watch?v=cd-hSl7_pGQ">UPDATE</a> with Socratica.</li>
          <li><i class="fas fa-calculator"></i> <a href="https://projecteuler.net/problem=15">Lattice paths</a>, Project Euler.</li>
      </ul>
   </div>
@@ -795,7 +865,7 @@ in the end.
   <div class="col-13 col-md-10 blue-content">
      <ul>
 
-         <li><a href="https://www.linkedin.com/learning/python-programming-efficiently">Python: Programming Efficiently</a>, on LinkedIn Learning (<code>jupyter-lab</code>, list / dict / set comprehension, modules <code>collections</code>, <code>geopy</code> & <code>basemap</code>).</li>
+         <li><a href="https://www.linkedin.com/learning/python-programming-efficiently">Python: Programming Efficiently</a>, on LinkedIn Learning (<code>jupyter-lab</code>, list / dict / set comprehension, modules <code>collections</code>, <code>geopy</code> &amp; <code>basemap</code>).</li>
          <li><a href="https://www.linkedin.com/learning/ethical-hacking-overview">Introduction to ethical hacking</a> on LinkedIn Learning.</li>
          <li>Changing CSS <i class="fab fa-css3"></i> style for <a href="http://gitstats.sourceforge.net/">Gitstats</a>.</li>
          <li><i class="fas fa-calculator"></i> <a href="https://projecteuler.net/problem=11">Special Pythagorean triplet</a>, Project Euler.</li>
@@ -821,7 +891,7 @@ in the end.
      <ul>
          <li><i class="fas fa-graduation-cap"></i> Finished <a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> on Coursera.</li>
          <li><i class="fas fa-graduation-cap"></i> Finished <a href="https://www.coursera.org/learn/learning-how-to-learn/">Mindshift</a> on Coursera.</li>
-         <li><i class="fas fa-history"></i> Review Vim features on <a href="http://vimcasts.org/">vimcasts.org</a>: Long-range line duplication with <code>:t</code>, working with arglist & <code>:argdo</code>, <code>:global</code> with yank, <code>windo diffthis</code>, <code>gn</code>.</li>
+         <li><i class="fas fa-history"></i> Review Vim features on <a href="http://vimcasts.org/">vimcasts.org</a>: Long-range line duplication with <code>:t</code>, working with arglist &amp; <code>:argdo</code>, <code>:global</code> with yank, <code>windo diffthis</code>, <code>gn</code>.</li>
      </ul>
   </div>
 </div>
@@ -858,7 +928,7 @@ in the end.
   <div class="col-12 col-md-2 grey-day">2</div>
   <div class="col-12 col-md-10 grey-content">
      <ul>
-         <li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Series & patterns, limits of sequences, convergence and divergence, graph sketching.</li>
+         <li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Series &amp; patterns, limits of sequences, convergence and divergence, graph sketching.</li>
          <li>Redirecting websites hosted on <a href="https://pages.github.com/">GitHub Pages</a> <i class="fab fa-github"></i>.</li>
          <li><i class="fab fa-youtube"></i> The Hadwiger–Nelson problem with <a href="https://www.youtube.com/watch?v=niaeV_NHh-o">Numberphile</a>.</li>
      </ul>
@@ -919,7 +989,7 @@ in the end.
   <div class="col-12 col-md-2 grey-day">25</div>
   <div class="col-12 col-md-10 grey-content">
      <ul>
-         <li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Congruence & equivalence relations, modular exponentiation.</li>
+         <li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Congruence &amp; equivalence relations, modular exponentiation.</li>
          <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=4QTAtFaIiyc">The future of Cloud Computing</a> with a16z.</li>
      </ul>
   </div>
@@ -950,7 +1020,7 @@ in the end.
   <div class="col-12 col-md-2 blue-day">22</div>
   <div class="col-12 col-md-10 blue-content">
      <ul>
-         <li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Modular arithmetic (multiplicative identity & inverses, exponentiation, Fermat's Little Theorem).</li>
+         <li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Modular arithmetic (multiplicative identity &amp; inverses, exponentiation, Fermat's Little Theorem).</li>
      </ul>
   </div>
 </div>
@@ -995,8 +1065,8 @@ in the end.
   <div class="col-12 col-md-2 blue-day">18</div>
   <div class="col-12 col-md-10 blue-content">
      <ul>
-         <li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: <i class="fas fa-history"></i> Review & create algorithms for binary to decimal conversion and vice versa.</li>
-         <li><a href="https://www.coursera.org/learn/learning-how-to-learn/">Learning How to Learn</a> <i class="fas fa-university"></i> on Coursera: <i class="fas fa-history"></i> Quick review & tips on writing more readable ideas.</li>
+         <li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: <i class="fas fa-history"></i> Review &amp; create algorithms for binary to decimal conversion and vice versa.</li>
+         <li><a href="https://www.coursera.org/learn/learning-how-to-learn/">Learning How to Learn</a> <i class="fas fa-university"></i> on Coursera: <i class="fas fa-history"></i> Quick review &amp; tips on writing more readable ideas.</li>
      </ul>
   </div>
 </div>
@@ -1027,7 +1097,7 @@ in the end.
   <div class="col-12 col-md-2 grey-day">15</div>
   <div class="col-12 col-md-10 grey-content">
      <ul>
-         <li>Started <a href="https://www.coursera.org/learn/learning-how-to-learn/">Learning How to Learn</a> <i class="fas fa-university"></i> on Coursera: Focused/diffused thinking, procrastination, memory, sleep, creativity & problem solving, chunking.</li>
+         <li>Started <a href="https://www.coursera.org/learn/learning-how-to-learn/">Learning How to Learn</a> <i class="fas fa-university"></i> on Coursera: Focused/diffused thinking, procrastination, memory, sleep, creativity &amp; problem solving, chunking.</li>
          <li>Manage a website remotely with <code>rsync</code> and <code>SSH</code>.</li>
      </ul>
   </div>
@@ -1113,7 +1183,7 @@ in the end.
      <ul>
          <li>Set up dotfiles on <a href="https://www.github.com/">GitHub</a> <i class="fab fa-github"></i>.</li>
          <li>Configure and use <a href="http://zsh.sourceforge.net/">Z Shell</a> (Zsh) <i class="fas fa-terminal"></i>.</li>
-         <li><em>10 Days of JavaScript</em> <i class="fab fa-js"></i> on <a href="https://www.hackerrank.com/">HackerRank.com</a>: Arithmetic operators, functions, let & const, conditional statements (if-else, switch), strings, loops.</li>
+         <li><em>10 Days of JavaScript</em> <i class="fab fa-js"></i> on <a href="https://www.hackerrank.com/">HackerRank.com</a>: Arithmetic operators, functions, let &amp; const, conditional statements (if-else, switch), strings, loops.</li>
      </ul>
   </div>
 </div>
@@ -1211,7 +1281,7 @@ in the end.
   <div class="col-12 col-md-10 blue-content">
      <ul>
          <li><i class="fas fa-graduation-cap"></i> Finished the <a href="https://www.sololearn.com/Certificate/1024-6555674/pdf/">JavaScript Tutorial course</a> on <a href="https://www.sololearn.com">SoloLearn</a>!</li>
-         <li>JavaScript <i class="fab fa-js"></i>: Objects, DOM & events, ECMAScript 6.</li>
+         <li>JavaScript <i class="fab fa-js"></i>: Objects, DOM &amp; events, ECMAScript 6.</li>
          <li>Using embedded terminals in <code>Neovim</code>.</li>
      </ul>
   </div>
@@ -1244,7 +1314,7 @@ in the end.
   <div class="col-12 col-md-10 grey-content">
      <ul>
          <li>Creating abstract SVG paths in <a href="https://inkscape.org/">Inkscape</a>.</li>
-         <li>Creating functions in JavaScript <i class="fab fa-js"></i> with <code>Processing.js</code> & <code>p5.js</code>.</li>
+         <li>Creating functions in JavaScript <i class="fab fa-js"></i> with <code>Processing.js</code> &amp; <code>p5.js</code>.</li>
      </ul>
   </div>
 </div>
@@ -1256,7 +1326,7 @@ in the end.
      <ul>
          <li><i class="fas fa-graduation-cap"></i> Finished <em>Google IT Support Professional</em> <a href="https://www.coursera.org/account/accomplishments/specialization/GYNYSFSVYNAS">Certificate</a>!</li>
          <ul>
-             <li>IT Security: <i class="fas fa-history"></i> Review (application policies, privacy policies, information policies, password policies, security recommendations on mobile & laptop, wireless security, authentication systems, network separation, firewalls, intrusion detection & prevention systems).</li>
+             <li>IT Security: <i class="fas fa-history"></i> Review (application policies, privacy policies, information policies, password policies, security recommendations on mobile &amp; laptop, wireless security, authentication systems, network separation, firewalls, intrusion detection &amp; prevention systems).</li>
          </ul>
      </ul>
   </div>
@@ -1348,7 +1418,7 @@ in the end.
      <ul>
          <li><em>Google IT</em> <i class="fas fa-university"></i></li>
          <ul>
-             <li>Disaster recovery plans & post-mortems.</li>
+             <li>Disaster recovery plans &amp; post-mortems.</li>
          </ul>
          <li>Statistics (conditional probability).</li>
      </ul>
@@ -1456,7 +1526,7 @@ in the end.
      <ul>
          <li><em>Google IT</em> <i class="fas fa-university"></i></li>
          <ul>
-             <li>Managing resources on cloud services, platform services (servers & databases), directory services, centralized management.</li>
+             <li>Managing resources on cloud services, platform services (servers &amp; databases), directory services, centralized management.</li>
          </ul>
      </ul>
    </div>
@@ -1472,7 +1542,7 @@ in the end.
          </ul>
 
          <li>Configure locales on Linux <i class="fab fa-linux"></i>.</li>
-         <li>Using <a href="https://joplin.cozic.net">Joplin</a> & <a href="https://todoist.com/">Todoist</a>.</li>
+         <li>Using <a href="https://joplin.cozic.net">Joplin</a> &amp; <a href="https://todoist.com/">Todoist</a>.</li>
          <li>Setting up <a href="https://github.com/tobi-wan-kenobi/bumblebee-status">bumblebee-status</a> with <a href="https://i3wm.org/">i3</a>.</li>
      </ul>
    </div>
@@ -1496,7 +1566,7 @@ in the end.
              <li>Physical infrastructure services.</li>
              <li>Configuring network services.</li>
          </ul>
-         <li>i3wm setup & configuration.</li>
+         <li>i3wm setup &amp; configuration.</li>
      </ul>
    </div>
 </div>
@@ -1521,7 +1591,7 @@ in the end.
      <ul>
          <li><em>Google IT</em> <i class="fas fa-university"></i></li>
          <ul>
-             <li>System administration & tasks.</li>
+             <li>System administration &amp; tasks.</li>
          </ul>
          <li>Regular expressions in Python <i class="fab fa-python"></i>.</li>
      </ul>
@@ -1546,7 +1616,7 @@ in the end.
      <ul>
          <li><em>Google IT</em> <i class="fas fa-university"></i></li>
          <ul>
-             <li>Operating Systems: file and text manipulation, users & permissions, package & software management.</li>
+             <li>Operating Systems: file and text manipulation, users &amp; permissions, package &amp; software management.</li>
          </ul>
      </ul>
    </div>
@@ -1561,7 +1631,7 @@ in the end.
              <li>Networking services: VPNs, proxies.</li>
              <li>Connecting to Internet: Dial-up, broadband, wireless, WANs.</li>
              <li>Troubleshooting: verifying connectivity, digging into DNS, cloud, IPv6.</li>
-             <li>Operating systems: basic commands (PowerShell & Bash).</li>
+             <li>Operating systems: basic commands (PowerShell &amp; Bash).</li>
          </ul>
      </ul>
    </div>
@@ -1635,7 +1705,7 @@ in the end.
              <li>Operating System: Installing Windows/Linux/Mac, virtual machines, Chrome OS.</li>
              <li>Networking: TCP/IP, history, limitations, impact, security, privacy.</li>
              <li>Software: abstractions, types of software, interacting with software.</li>
-             <li>Troubleshooting: best practices, customer service, documentation & writing effective documentation, technical interview.</li>
+             <li>Troubleshooting: best practices, customer service, documentation &amp; writing effective documentation, technical interview.</li>
          </ul>
      </ul>
    </div>
@@ -1647,7 +1717,7 @@ in the end.
      <ul>
          <li><em>Google IT</em> <i class="fas fa-university"></i></li>
          <ul>
-             <li>Hardware: CPU & other components, overclocking, BIOS, computer assembly.</li>
+             <li>Hardware: CPU &amp; other components, overclocking, BIOS, computer assembly.</li>
              <li>Operating System: file systems, kernel, logs, user space, boot process.</li>
          </ul>
      </ul>
@@ -1673,7 +1743,7 @@ in the end.
      <ul>
          <li>Bootstrap (web framework): Tables.</li>
          <li>Pelican (static site generator): Use <em>Pages</em> in theme; Integrate menu items; Add a custom 404 error page.</li>
-         <li>Read <em><a href="https://amzn.to/2O8JAnS">The Complete Software Developer's Career Guide</a></em> <i class="fas fa-book"></i>, by <a href="https://simpleprogrammer.com/">John Sonmez</a>: Section 3 (What you need to know about software development) & Section 4 (Working as a developer). Section 4 contained the inspiration I needed to write about this <em>Learning Progress</em>.</li>
+         <li>Read <em><a href="https://amzn.to/2O8JAnS">The Complete Software Developer's Career Guide</a></em> <i class="fas fa-book"></i>, by <a href="https://simpleprogrammer.com/">John Sonmez</a>: Section 3 (What you need to know about software development) &amp; Section 4 (Working as a developer). Section 4 contained the inspiration I needed to write about this <em>Learning Progress</em>.</li>
      </ul>
    </div>
 </div>
@@ -1724,7 +1794,7 @@ in the end.
 <div class="col-12 col-md-10 grey-content">
       <ul>
           <li>Use <code>markdown-preview</code> plugin for Neovim.</li>
-          <li>Storing Python <i class="fab fa-python"></i> dictionaries into files & retrieving them.</li>
+          <li>Storing Python <i class="fab fa-python"></i> dictionaries into files &amp; retrieving them.</li>
           <li>Convert list of strings to integers.</li>
          <li><i class="fas fa-calculator"></i> <a href="https://projecteuler.net/problem=9">Special Pythagorean triplet</a>, Project Euler.</li>
       </ul>
@@ -1736,7 +1806,7 @@ in the end.
 <div class="col-12 col-md-10 blue-content">
       <ul>
           <li>Apply text transformations in CSS <i class="fab fa-css3"></i> (example with Copyleft symbol instead of Copyright).</li>
-          <li><code>p5.js</code> library: Simple themes like shapes, colors & text.</li>
+          <li><code>p5.js</code> library: Simple themes like shapes, colors &amp; text.</li>
       </ul>
    </div>
 </div>
@@ -1768,7 +1838,7 @@ in the end.
 <div class="col-12 col-md-10 grey-content">
       <ul>
           <li>Vim's location list.</li>
-          <li><code>fzf</code> behavior with <code>.gitignore</code> & <code>.ignore</code> files.</li>
+          <li><code>fzf</code> behavior with <code>.gitignore</code> &amp; <code>.ignore</code> files.</li>
           <li>Functions in JavaScript <i class="fab fa-js"></i>.</li>
           <li>Swap partitions in Linux <i class="fab fa-linux"></i>.</li>
           <li>Use Calcurse in terminal <i class="fas fa-terminal"></i>.</li>
@@ -1852,7 +1922,7 @@ in the end.
    <div class="col-12 col-md-2 blue-day">22</div>
 <div class="col-12 col-md-10 blue-content">
       <ul>
-          <li>Make more responsive design in HTML5 <i class="fab fa-html5"></i> & CSS3 <i class="fab fa-css3"></i>.</li>
+          <li>Make more responsive design in HTML5 <i class="fab fa-html5"></i> &amp; CSS3 <i class="fab fa-css3"></i>.</li>
           <li>Manage bookmarks on the command-line with Buku.</li>
       </ul>
    </div>
@@ -1904,7 +1974,7 @@ in the end.
       <ul>
           <li>HTML <i class="fab fa-html5"></i> Fundamentals (<a href="https://www.sololearn.com/Certificate/1014-6555674/pdf/">certificate</a>).</li>
           <li>Use third-party fonts in HTML <i class="fab fa-html5"></i>.</li>
-          <li>Build a simple landing page in HTML5 <i class="fab fa-html5"></i> & CSS3 <i class="fab fa-css3"></i>.</li>
+          <li>Build a simple landing page in HTML5 <i class="fab fa-html5"></i> &amp; CSS3 <i class="fab fa-css3"></i>.</li>
       </ul>
    </div>
 </div>
@@ -1914,7 +1984,7 @@ in the end.
 <div class="col-12 col-md-10 blue-content">
       <ul>
           <li>Draggable JS <i class="fab fa-js"></i>.</li>
-          <li>Set up SSH tunnel in MySQL Workbench & DBeaver.</li>
+          <li>Set up SSH tunnel in MySQL Workbench &amp; DBeaver.</li>
       </ul>
    </div>
 </div>
@@ -2118,7 +2188,7 @@ in the end.
 <div class="col-12 col-md-10 grey-content">
      <ul>
          <li>Regex examples in Vim.</li>
-         <li>Use <code>pandas</code> & <code>numpy</code> modules to manage data from CSV files to generate plots with Matplotlib.</li>
+         <li>Use <code>pandas</code> &amp; <code>numpy</code> modules to manage data from CSV files to generate plots with Matplotlib.</li>
      </ul>
    </div>
 </div>
@@ -2138,7 +2208,7 @@ in the end.
 <div class="col-12 col-md-10 grey-content">
      <ul>
          <li>Arithmetic in SQL.</li>
-         <li><code>yaml</code> logging & configuration format.</li>
+         <li><code>yaml</code> logging &amp; configuration format.</li>
          <li>Logging in Python <i class="fab fa-python"></i> with <code>logging</code> module.</li>
      </ul>
    </div>
@@ -2238,7 +2308,7 @@ in the end.
 <div class="col-12 col-md-10 grey-content">
      <ul>
          <li><i class="fas fa-history"></i> Review concept of recursion.</li>
-         <li><i class="fas fa-history"></i> Review conversion of numbers from different bases (mainly binary & octal).</li>
+         <li><i class="fas fa-history"></i> Review conversion of numbers from different bases (mainly binary &amp; octal).</li>
      </ul>
    </div>
 </div>
@@ -2257,7 +2327,7 @@ in the end.
    <div class="col-12 col-md-2 grey-day">10</div>
 <div class="col-12 col-md-10 grey-content">
      <ul>
-         <li><i class="fas fa-history"></i> Review rounding in Python <i class="fab fa-python"></i> (built-in functions & <code>math</code> module).</li>
+         <li><i class="fas fa-history"></i> Review rounding in Python <i class="fab fa-python"></i> (built-in functions &amp; <code>math</code> module).</li>
      </ul>
    </div>
 </div>
@@ -2292,7 +2362,7 @@ in the end.
          <li>Threading in Python <i class="fab fa-python"></i> (<code>threading</code> module).</li>
          <li>Install latest Python <i class="fab fa-python"></i> version from source (<a href="https://realpython.com/installing-python/">article on Real Python</a>).</li>
          <li>Enable fonts with ligatures in Neovim.</li>
-         <li><code>rsync</code> command & graphical interfaces (including Grsync).</li>
+         <li><code>rsync</code> command &amp; graphical interfaces (including Grsync).</li>
      </ul>
    </div>
 </div>
@@ -2483,7 +2553,7 @@ in the end.
    <div class="col-12 col-md-2 grey-day">19</div>
 <div class="col-12 col-md-10 grey-content">
      <ul>
-         <li>Integrate custom functions in Vim (with <a href="https://github.com/ggreer/the_silver_searcher">ag</a>, <a href="https://github.com/junegunn/fzf">fzf</a> & <a href="https://github.com/davidhalter/jedi">jedi</a>).</li>
+         <li>Integrate custom functions in Vim (with <a href="https://github.com/ggreer/the_silver_searcher">ag</a>, <a href="https://github.com/junegunn/fzf">fzf</a> &amp; <a href="https://github.com/davidhalter/jedi">jedi</a>).</li>
      </ul>
    </div>
 </div>
@@ -2492,7 +2562,7 @@ in the end.
    <div class="col-12 col-md-2 blue-day">18</div>
 <div class="col-12 col-md-10 blue-content">
      <ul>
-         <li>Vim & Neovim differences to better adjust configuration.</li>
+         <li>Vim &amp; Neovim differences to better adjust configuration.</li>
          <li>Extract frames from videos in terminal <i class="fas fa-terminal"></i> with <code>ffmpeg</code>.</li>
      </ul>
    </div>
@@ -2502,7 +2572,7 @@ in the end.
    <div class="col-12 col-md-2 grey-day">17</div>
 <div class="col-12 col-md-10 grey-content">
      <ul>
-         <li>Run Vim commands to affect all buffers with <code>:bufdo</code> & <code>:argdo</code>.</li>
+         <li>Run Vim commands to affect all buffers with <code>:bufdo</code> &amp; <code>:argdo</code>.</li>
          <li>Configure Git <i class="fab fa-git"></i> to authenticate with SSH.</li>
      </ul>
    </div>
@@ -2530,7 +2600,7 @@ in the end.
    <div class="col-12 col-md-2 blue-day">14</div>
 <div class="col-12 col-md-10 blue-content">
      <ul>
-         <li>Use ADB & Fastboot to access Android phone from computer.</li>
+         <li>Use ADB &amp; Fastboot to access Android phone from computer.</li>
      </ul>
    </div>
 </div>
@@ -2539,7 +2609,7 @@ in the end.
    <div class="col-12 col-md-2 grey-day">13</div>
 <div class="col-12 col-md-10 grey-content">
      <ul>
-         <li>Make use of <code>fzf</code> in terminal <i class="fas fa-terminal"></i> & Neovim.</li>
+         <li>Make use of <code>fzf</code> in terminal <i class="fas fa-terminal"></i> &amp; Neovim.</li>
          <li>Configure Neovim from scratch.</li>
          <li>Discover <a href="https://github.com/onivim/oni">Oni</a>, text editor powered by Neovim.</li>
      </ul>
@@ -2633,7 +2703,7 @@ in the end.
    <div class="col-12 col-md-2 grey-day">2</div>
 <div class="col-12 col-md-10 grey-content">
      <ul>
-         <li>Python <i class="fab fa-python"></i> <code>timeit</code> module & use of <code>__init__.py</code> files.</li>
+         <li>Python <i class="fab fa-python"></i> <code>timeit</code> module &amp; use of <code>__init__.py</code> files.</li>
          <li><i class="fab fa-youtube"></i> Django tutorial serie with <a href="https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g">Corey Schafer</a> on YouTube.</li>
      </ul>
    </div>
@@ -2643,7 +2713,7 @@ in the end.
    <div class="col-12 col-md-2 blue-day">1</div>
 <div class="col-12 col-md-10 blue-content">
      <ul>
-         <li>Python <i class="fab fa-python"></i> <code>selenium</code> module: deal with page load time & XPath.</li>
+         <li>Python <i class="fab fa-python"></i> <code>selenium</code> module: deal with page load time &amp; XPath.</li>
      </ul>
 </div>
 </div>
@@ -2662,7 +2732,7 @@ in the end.
     </div>
     <div id="early18" class="container collapse">
 
-<strong>Git <i class="fab fa-git"></i> & GitHub <i class="fab fa-github"></i></strong>
+<strong>Git <i class="fab fa-git"></i> &amp; GitHub <i class="fab fa-github"></i></strong>
      <ul>
          <li>Contribute a pull request and get feedback.</li>
          <li>Make use of forks and public/private repositories.</li>
@@ -2670,7 +2740,7 @@ in the end.
      </ul>
 <strong>Python</strong>
      <ul>
-         <li>Algorithms & Data Structures on <a href="https://www.hackerrank.com/">HackerRank.com</a>, <a href="http://www.codeabbey.com/">Code Abbey</a>, <a href="https://projecteuler.net/">Project Euler <i class="fas fa-calculator"></i></a>, etc.</li>
+         <li>Algorithms &amp; Data Structures on <a href="https://www.hackerrank.com/">HackerRank.com</a>, <a href="http://www.codeabbey.com/">Code Abbey</a>, <a href="https://projecteuler.net/">Project Euler <i class="fas fa-calculator"></i></a>, etc.</li>
          <li>Finish <em>Complete Python Masterclass</em> on Udemy, by Tim Buchalka.</li>
          <li>Jupyter Notebooks.</li>
          <li>Build a CLI with <a href="https://github.com/pallets/click">Click</a>.</li>
@@ -2683,7 +2753,7 @@ in the end.
          <li>[Basic] Certificate of Completion of <em>Database for Developers</em>, by Oracle.</li>
      </ul>
 
-<strong>Vim/Neovim & other text editors</strong>
+<strong>Vim/Neovim &amp; other text editors</strong>
      <ul>
          <li>Clear variables and registers in Neovim to improve mappings efficiency.</li>
          <li>Completion with <code>Ctrl + x</code> in Neovim.</li>
@@ -2703,7 +2773,7 @@ in the end.
          <li>Vim script language.</li>
      </ul>
      <ul>
-         <li>Use VS Code, Atom & nano (mainly).</li>
+         <li>Use VS Code, Atom &amp; nano (mainly).</li>
      </ul>
 
 
@@ -2718,7 +2788,7 @@ in the end.
   <div class="panel">
 
     <div class="row justify-content-center" role="button" data-toggle="collapse" data-parent="#earlier2017" href="#early17" aria-expanded="false" aria-controls="early17">
-    <div class="learning-year collapsible">2017 & earlier</div>
+    <div class="learning-year collapsible">2017 &amp; earlier</div>
     </div>
     <div id="early17" class="container collapse">
 
