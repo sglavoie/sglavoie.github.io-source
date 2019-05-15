@@ -76,8 +76,8 @@ def get_cache_id(filename):
 
 PELICAN_VERSION = __version__
 
-ABOUT_VERSION = "0.4.0"
-SITE_VERSION = "v0.14.3"
+ABOUT_VERSION = "0.5.0"
+SITE_VERSION = "v0.14.3"  # major.minor.bug_fix
 CURRENT_YEAR = datetime.today().year
 DEFAULT_DATE_FORMAT = "%B %d, %Y"
 LAST_UPDATE = datetime.now().strftime(DEFAULT_DATE_FORMAT)
@@ -86,14 +86,11 @@ AUTHOR = "Sébastien Lavoie"
 SITENAME = "sglavoie.com"
 SITEURL = "https://www.sglavoie.com"
 SITESUBTITLE = f"The Learning Journey to the Summit of Commits | {AUTHOR}"
-SITE_DESCRIPTION = (
-    "Provide useful information while documenting my journey as"
-    " a learner in technology-related matters. Tech journal with"
-    " the specific goal of explaining the challenges that I will"
-    " inevitably face while trying to become a better student and most"
-    " importantly, it will be a reference to the solutions that I"
-    " found along the way so that it can benefit others too."
-)
+SITE_DESCRIPTION = """\
+I document my journey as a learner in technology-related matters, \
+explaining the challenges that I face while trying to become a better \
+student. I teach the solutions that I find along the way so that it can \
+benefit others too."""
 DISQUS_SITENAME = "sglavoie"
 TWITTER_USERNAME = "sgdlavoie"
 THEME = "themes/SL"
@@ -109,11 +106,7 @@ MENUITEMS = [
     # path, id, icon
     ("/index.html", "home", '<i class="fas fa-home"></i>'),
     ("/tags.html", "tags", '<i class="fas fa-hashtag"></i>'),
-    (
-        "/learning-progress.html",
-        "learning",
-        '<i class="fas fa-graduation-cap"></i>',
-    ),
+    ("/learning-progress.html", "learning", '<i class="fas fa-graduation-cap"></i>'),
     ("/about.html", "about", '<i class="fas fa-info"></i>'),
 ]
 
