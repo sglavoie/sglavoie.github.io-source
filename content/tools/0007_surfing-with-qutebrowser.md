@@ -4,6 +4,7 @@ Tags: productivity, software, web
 Slug: surfing-with-qutebrowser-a-keyboard-driven-web-browser
 Authors: Sébastien Lavoie
 Summary: I recently started using this software as my main web browser and, as a Vim (Neovim) user, I must say I am finding the adventure quite compelling!
+Description: I recently started using this software as my main web browser and, as a Vim (Neovim) user, I must say I am finding the adventure quite compelling!
 
 ## What is qutebrowser?
 

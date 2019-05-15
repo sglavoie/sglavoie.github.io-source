@@ -4,6 +4,7 @@ Tags: neovim, terminal, tmux, vim
 Slug: tmux-integration-with-vim-neovim-first-steps
 Authors: Sébastien Lavoie
 Summary: This is a short introduction that shows a possible workflow with tmux and Vim/Neovim.
+Description: This is a short introduction that shows a possible workflow with tmux and Vim/Neovim.
 
 ## tmux integration
 

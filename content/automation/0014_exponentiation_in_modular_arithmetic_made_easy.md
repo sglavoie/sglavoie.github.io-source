@@ -4,6 +4,7 @@ Tags: mathematics, python, script
 Slug: exponentiation-in-modular-arithmetic-made-easy
 Authors: Sébastien Lavoie
 Summary: While playing around in the Python interpreter to validate answers to mathematical questions, I quickly found out that very large exponents are dealt with very inefficiently by default as they are simply evaluated as is. That's where Python came to its own rescue.
+Description: While playing around in the Python interpreter to validate answers to mathematical questions, I quickly found out that very large exponents are dealt with very inefficiently by default as they are simply evaluated as is. That's where Python came to its own rescue.
 
 The following Python script will by no means provide any useful idea to
 compete against the

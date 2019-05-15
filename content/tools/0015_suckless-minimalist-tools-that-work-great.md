@@ -4,6 +4,7 @@ Tags: productivity, software, web
 Slug: suckless-minimalist-tools-that-work-great
 Authors: Sébastien Lavoie
 Summary: I have been using a few different tools from [suckless.org](https://suckless.org/) for a while and I must say that once everything is configured properly, they are a joy to use. Some tools, like **dmenu** and **slock**, seem simple on the surface, but they allow to simplify your workflow by quite a bit. Another one, **st**, is a truly fantastic and lightweight terminal!
+Description: I have been using a few different tools from suckless.org for a while and I must say that once everything is configured properly, they are a joy to use. Some tools, like dmenu and slock, seem simple on the surface, but they allow to simplify your workflow by quite a bit. Another one, st, is a truly fantastic and lightweight terminal!
 
 ## What are Suckless tools?
 

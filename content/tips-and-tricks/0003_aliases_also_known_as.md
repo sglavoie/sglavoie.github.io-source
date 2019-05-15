@@ -4,6 +4,7 @@ Tags: aliases, bash, productivity, terminal
 Slug: aliases-also-known-as-terminal-users-best-friends
 Authors: Sébastien Lavoie
 Summary: Here are presented a few terminal aliases that I find myself using regularly.
+Description: Here are presented a few terminal aliases that I find myself using regularly.
 
 
 ## Some aliases that I find useful

@@ -4,6 +4,7 @@ Tags: productivity, vim
 Slug: tag-navigation-in-vim
 Authors: Sébastien Lavoie
 Summary: A quick introduction to tag navigation in Vim/Neovim.
+Description: A quick introduction to tag navigation in Vim/Neovim.
 
 Let's jump right in.
 

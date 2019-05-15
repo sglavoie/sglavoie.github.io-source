@@ -4,6 +4,7 @@ Tags: api, click, python, script
 Slug: have-you-been-pwned
 Authors: Sébastien Lavoie
 Summary: Has your password been leaked in a major breach? You can find out thanks to [Have I Been Pwned?](https://haveibeenpwned.com/)... Or you can use their API and stop worrying about your password being sent through your Web browser!
+Description: Has your password been leaked in a major breach? You can find out thanks to Have I Been Pwned?... Or you can use their API and stop worrying about your password being sent through your Web browser!
 
 [Have I Been Pwned?](https://haveibeenpwned.com/) has a very simple and
 accessible API that's perfect to work with as a beginner. There are

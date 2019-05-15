@@ -5,6 +5,7 @@ Tags: neovim, note-taking, productivity, vim, vimwiki
 Slug: using-vimwiki-for-note-taking
 Authors: Sébastien Lavoie
 Summary: This short article explains why Vimwiki felt like the right solution to organize my notes.
+Description: This short article explains why Vimwiki felt like the right solution to organize my notes.
 
 ## What is Vimwiki?
 

@@ -5,6 +5,7 @@ Tags: computer science, mathematics, python, script
 Slug: number-of-paths-in-a-grid-or-in-life
 Authors: Sébastien Lavoie
 Summary: Finding one's way in life is not easy because there are so many paths we can take at any moment. Here is a way to look at it mathematically!
+Description: Finding one's way in life is not easy because there are so many paths we can take at any moment. Here is a way to look at it mathematically!
 
 How would you go about determining the number of possible paths in a
 grid of size _n_ if your initial position is at the top left corner and

@@ -5,6 +5,7 @@ Tags: productivity, window-manager
 Slug: using-i3-as-a-window-manager-for-increased-productivity
 Authors: Sébastien Lavoie
 Summary: I was striving to improve my productivity as one of my New Year's resolutions and finally found the courage to take the time to try out i3, a fantastic window manager.
+Description: I was striving to improve my productivity as one of my New Year's resolutions and finally found the courage to take the time to try out i3, a fantastic window manager.
 
 ## What is i3?
 

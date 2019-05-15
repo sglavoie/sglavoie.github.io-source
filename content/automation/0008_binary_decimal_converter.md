@@ -4,6 +4,7 @@ Tags: computer science, mathematics, python, script
 Slug: binary-to-decimal-decimal-to-binary-converter
 Authors: Sébastien Lavoie
 Summary: As part of a [course on the mathematics of Computer Science](https://www.coursera.org/learn/mathematics-for-computer-science/), I had to come up with algorithms to convert binary numbers to decimal numbers and vice versa. 
+Description: As part of a course on the mathematics of Computer Science, I had to come up with algorithms to convert binary numbers to decimal numbers and vice versa. 
 
 
 There is nothing new here in terms of algorithms, but it was interesting
