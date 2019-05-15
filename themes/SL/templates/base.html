@@ -6,7 +6,7 @@
         {% block head %}
         <title>{% block title %}{{ SITENAME }} | {{ SITESUBTITLE }}{% endblock title %}</title>
 
-        {%- if FEED_ALL_ATOM -%}
+        {% if FEED_ALL_ATOM -%}
         <link href="{{ FEED_DOMAIN }}/{% if FEED_ALL_ATOM_URL %}{{ FEED_ALL_ATOM_URL }}{% else %}{{ FEED_ALL_ATOM }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Full Atom Feed" />
         {% endif %}
 
