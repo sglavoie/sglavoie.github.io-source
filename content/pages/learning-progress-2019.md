@@ -37,6 +37,7 @@ in the end.
         <li>Web development: HTML body.</li>
         </ul>
         <li>Setting up VirtualBox on Manjaro.</li>
+        <li>Creating wireframes in Adobe XD.</li>
      </ul>
   </div>
 </div>
