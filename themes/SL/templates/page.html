@@ -16,7 +16,7 @@
     <section id="content" class="jumbotron body">
         <header>
             <h2 class=".h2">
-                {% for href, id, icon in MENUITEMS %}
+                {% for href, id, icon in PAGEITEMS %}
                 {% if output_file in href %} {{ icon }} {% endif %}
                 {% endfor %}
            {{ page.title }}

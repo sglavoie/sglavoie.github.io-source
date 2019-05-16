@@ -77,7 +77,7 @@ def get_cache_id(filename):
 PELICAN_VERSION = __version__
 
 ABOUT_VERSION = "0.5.0"
-SITE_VERSION = "v0.15.0"  # major.minor.bug_fix
+SITE_VERSION = "v0.16.0"  # major.minor.bug_fix
 CURRENT_YEAR = datetime.today().year
 DEFAULT_DATE_FORMAT = "%B %d, %Y"
 LAST_UPDATE = datetime.now().strftime(DEFAULT_DATE_FORMAT)
@@ -106,8 +106,25 @@ MENUITEMS = [
     # path, id, icon
     ("/index.html", "home", '<i class="fas fa-home"></i>'),
     ("/tags.html", "tags", '<i class="fas fa-hashtag"></i>'),
-    ("/learning-progress.html", "learning", '<i class="fas fa-graduation-cap"></i>'),
+    (
+        "/learning-progress-2019.html",
+        "learning",
+        '<i class="fas fa-graduation-cap"></i>',
+    ),
     ("/about.html", "about", '<i class="fas fa-info"></i>'),
+]
+
+PAGEITEMS = [
+    (
+        "/learning-progress-2019.html",
+        "learning",
+        '<i class="fas fa-graduation-cap"></i>',
+    ),
+    (
+        "/learning-progress-2018-earlier.html",
+        "learning",
+        '<i class="fas fa-graduation-cap"></i>',
+    ),
 ]
 
 # Plugins
