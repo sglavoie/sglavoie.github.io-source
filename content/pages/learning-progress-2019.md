@@ -29,12 +29,25 @@ in the end.
     <div id="may19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 grey-day">17</div>
+  <div class="col-13 col-md-10 grey-content">
+     <ul>
+        <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+        <ul>
+        <li>Numerical mathematics: <i class="fas fa-history"></i> More on functions, graphs of functions, piecewise functions, composite functions.</li></ul>
+        <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=dxv3k4EIGfc">Functions and more Canvas - JavaScript Programming Basics p.2</a> with sentdex.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 blue-day">16</div>
   <div class="col-13 col-md-10 blue-content">
      <ul>
         <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
         <ul>
-        <li>Numerical Mathematics: Functions, graphs of functions, piecewise functions, composite functions.</li>
+        <li>Numerical mathematics: Functions, graphs of functions, piecewise functions, composite functions.</li>
         </ul>
         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=GRtSc2Mp0WI">Introduction - JavaScript Programming Basics p.1</a> with sentdex.</li>
      </ul>
@@ -104,7 +117,7 @@ in the end.
      <ul>
         <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
         <ul>
-        <li>Numerical Mathematics: Series, convergence, divergence.</li>
+        <li>Numerical mathematics: Series, convergence, divergence.</li>
         <li>Web development: Basics of HTML wireframes, CSS, PWA (Progressive Web App) & service workers.</li>
         </ul>
      </ul>
@@ -118,7 +131,7 @@ in the end.
      <ul>
         <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
         <ul>
-        <li>Numerical Mathematics: Series, convergence, divergence.</li>
+        <li>Numerical mathematics: Series, convergence, divergence.</li>
         </ul>
      </ul>
   </div>
@@ -131,7 +144,7 @@ in the end.
      <ul>
         <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
         <ul>
-        <li>Numerical Mathematics: Generating random numbers, <i class="fas fa-history"></i> arithmetic &amp; geometric progressions.</li>
+        <li>Numerical mathematics: Generating random numbers, <i class="fas fa-history"></i> arithmetic &amp; geometric progressions.</li>
         </ul>
          <li><i class="fas fa-university"></i> <a href="https://www.coursera.org/learn/python-data-analysis/home">Introduction to Data Science in Python</a> on Coursera: <i class="fas fa-history"></i> Python fundamentals, Pandas.</li>
      </ul>
@@ -145,7 +158,7 @@ in the end.
      <ul>
         <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
         <ul>
-        <li>Numerical Mathematics: Arithmetic &amp; geometric progressions, series.</li>
+        <li>Numerical mathematics: Arithmetic &amp; geometric progressions, series.</li>
         </ul>
          <li><i class="fas fa-university"></i> <a href="https://www.coursera.org/learn/python-data-analysis/home">Introduction to Data Science in Python</a> on Coursera: <i class="fas fa-history"></i> Python fundamentals.</li>
         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=iGFdh6_FePU">Learn Pandas in about 10 minutes! A great python module for Data Science!</a> with Python Programmer.</li>
@@ -160,7 +173,7 @@ in the end.
      <ul>
         <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
         <ul>
-        <li>Numerical Mathematics: Arithmetic sequences &amp; partial sums.</li>
+        <li>Numerical mathematics: Arithmetic sequences &amp; partial sums.</li>
         </ul>
         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=msNAEaCTleQ">Creating Search Over Time Video Graphs - Data Analysis of Google Takeout p.2</a> with sentdex.</li>
      </ul>
@@ -174,7 +187,7 @@ in the end.
      <ul>
         <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
         <ul>
-        <li>Numerical Mathematics: Recursive series, <i class="fas fa-history"></i> finite &amp; infinite series.</li>
+        <li>Numerical mathematics: Recursive series, <i class="fas fa-history"></i> finite &amp; infinite series.</li>
         </ul>
         <li>Configure <a href="https://dunst-project.org/">Dunst</a>.</li>
         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=Siyg1Wn5VDs">Building Search Word Database - Data Analysis of Google Tracking Takeout p.1</a> with sentdex.</li>
@@ -189,7 +202,7 @@ in the end.
      <ul>
         <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
         <ul>
-        <li>Numerical Mathematics: <i class="fas fa-history"></i> Infinite series, limits.</li>
+        <li>Numerical mathematics: <i class="fas fa-history"></i> Infinite series, limits.</li>
         </ul>
         <li>Setting up <code>Neomake</code> &amp; <code>Black</code> with <a href="https://neovim.io/">Neovim</a>.</li>
      </ul>
@@ -266,7 +279,7 @@ in the end.
      <ul>
         <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
         <ul>
-        <li>Numerical Mathematics: <i class="fas fa-history"></i> simplified RSA algorithm, finding encryption and decryption keys for any <em>mod</em>.</li>
+        <li>Numerical mathematics: <i class="fas fa-history"></i> simplified RSA algorithm, finding encryption and decryption keys for any <em>mod</em>.</li>
         </ul>
          <li><i class="fas fa-university"></i> <a href="https://www.coursera.org/learn/python-data-analysis/home">Introduction to Data Science in Python</a> on Coursera: <i class="fas fa-history"></i> Introduction to <code>NumPy</code>.</li>
      </ul>
@@ -280,7 +293,7 @@ in the end.
      <ul>
         <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
         <ul>
-        <li>Numerical Mathematics: Python algorithm to calculate congruence for very large numbers, <i class="fas fa-history"></i> RSA algorithm, number bases, modular arithmetic, sequences &amp; series.</li>
+        <li>Numerical mathematics: Python algorithm to calculate congruence for very large numbers, <i class="fas fa-history"></i> RSA algorithm, number bases, modular arithmetic, sequences &amp; series.</li>
         </ul>
          <li><i class="fas fa-university"></i> <a href="https://www.coursera.org/learn/python-data-analysis/home">Introduction to Data Science in Python</a> on Coursera: Python fundamentals, introduction to <code>NumPy</code>.</li>
         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=w_37upFE-qw">Working with pipes in shell scripts - Part 2</a> with Luke Smith.</li>
@@ -295,7 +308,7 @@ in the end.
      <ul>
         <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
         <ul>
-        <li>Numerical Mathematics: <i class="fas fa-history"></i> RSA algorithm.</li>
+        <li>Numerical mathematics: <i class="fas fa-history"></i> RSA algorithm.</li>
         </ul>
         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=8E8sUNHdzG8">Working with pipes in shell scripts</a> with Luke Smith.</li>
         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=hsnch676Lco">Scheduling tasks/functions/methods - Kivy Mobile and Desktop App Dev w/ Python</a> with sentdex.</li>
@@ -313,7 +326,7 @@ in the end.
      <ul>
         <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
         <ul>
-        <li>Numerical Mathematics: RSA algorithm.</li>
+        <li>Numerical mathematics: RSA algorithm.</li>
         </ul>
         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=sJmkhV02lnM">Changing Screen/view/page - Kivy Mobile and Desktop App Dev w/ Python</a> with sentdex.</li>
      </ul>
@@ -338,7 +351,7 @@ in the end.
      <ul>
         <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
         <ul>
-        <li>Numerical Mathematics: Sequences and series, <i class="fas fa-history"></i> linear congruence, modular exponentiation, modular inverses.</li>
+        <li>Numerical mathematics: Sequences and series, <i class="fas fa-history"></i> linear congruence, modular exponentiation, modular inverses.</li>
         </ul>
         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=FjwD0SOGQ1k">Kivy Intro - Mobile and Desktop App Dev w/ Python</a> with sentdex.</li>
      </ul>
@@ -352,7 +365,7 @@ in the end.
      <ul>
         <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
         <ul>
-        <li>Numerical Mathematics: Linear congruence, modular exponentiation, RSA encryption.</li>
+        <li>Numerical mathematics: Linear congruence, modular exponentiation, RSA encryption.</li>
         </ul>
         <li>Skim through <a href="https://automatetheboringstuff.com/">Automate the Boring Stuff with Python</a>, by Al Sweigart: Reading &amp; writing files.</li>
         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=zdJEYhA2AZQ">5 Common Python Mistakes and How to Fix Them</a> with Corey Schafer.</li>
@@ -367,7 +380,7 @@ in the end.
      <ul>
         <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
         <ul>
-        <li>Numerical Mathematics: <i class="fas fa-history"></i> Euclidean algorithm, extended Euclidean algorithm, modular inverses.</li>
+        <li>Numerical mathematics: <i class="fas fa-history"></i> Euclidean algorithm, extended Euclidean algorithm, modular inverses.</li>
         </ul>
         <li>Skim through <a href="https://automatetheboringstuff.com/">Automate the Boring Stuff with Python</a>, by Al Sweigart: Python programming basics, regular expressions.</li>
      </ul>
@@ -381,7 +394,7 @@ in the end.
      <ul>
         <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
         <ul>
-        <li>Numerical Mathematics: <i class="fas fa-history"></i> Euclidean algorithm, extended Euclidean algorithm, modular inverses.</li>
+        <li>Numerical mathematics: <i class="fas fa-history"></i> Euclidean algorithm, extended Euclidean algorithm, modular inverses.</li>
         </ul>
          <li><i class="fab fa-stack-overflow"></i> Using string formatting to evaluate hexadecimal, binary, decimal and octal versions of a value (<a href="https://stackoverflow.com/a/55779060/8787680">Stackoverflow answer</a>).</li>
      </ul>
@@ -395,7 +408,7 @@ in the end.
      <ul>
         <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
         <ul>
-        <li>Numerical Mathematics: <i class="fas fa-history"></i> Euclidean algorithm.</li>
+        <li>Numerical mathematics: <i class="fas fa-history"></i> Euclidean algorithm.</li>
         </ul>
      </ul>
   </div>
@@ -408,7 +421,7 @@ in the end.
      <ul>
         <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
         <ul>
-        <li>Numerical Mathematics: <i class="fas fa-history"></i> Modular arithmetic, number theory, Euclidean algorithm.</li>
+        <li>Numerical mathematics: <i class="fas fa-history"></i> Modular arithmetic, number theory, Euclidean algorithm.</li>
         </ul>
          <li>Configuring <a href="https://st.suckless.org/">st (simple terminal)</a> and <a href="https://tools.suckless.org/dmenu/">dmenu</a>.</li>
      </ul>
@@ -436,7 +449,7 @@ in the end.
      <ul>
         <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
         <ul>
-        <li>Numerical Mathematics: <i class="fas fa-history"></i> Modular arithmetic.</li>
+        <li>Numerical mathematics: <i class="fas fa-history"></i> Modular arithmetic.</li>
         </ul>
      </ul>
   </div>
@@ -449,7 +462,7 @@ in the end.
      <ul>
         <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
         <ul>
-        <li>Numerical Mathematics: Arithmetic in any base, modular arithmetic, theory of divisibility, theory of congruences.</li>
+        <li>Numerical mathematics: Arithmetic in any base, modular arithmetic, theory of divisibility, theory of congruences.</li>
         </ul>
          <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=kIdiWut8eD8">How I Setup a New Development Machine - Using Scripts to Automate Installs and Save Time</a> with Corey Schafer.</li>
          <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=JBjjnqG0BP8">Bjarne Stroustrup: Why I Created C++</a> with Big Think.</li>
@@ -464,7 +477,7 @@ in the end.
      <ul>
         <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
         <ul>
-        <li>Numerical Mathematics: Steganography, arithmetic in hexadecimal and octal.</li>
+        <li>Numerical mathematics: Steganography, arithmetic in hexadecimal and octal.</li>
         </ul>
      </ul>
   </div>
@@ -477,7 +490,7 @@ in the end.
      <ul>
         <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
         <ul>
-        <li>Numerical Mathematics: Octal and hexadecimal.</li>
+        <li>Numerical mathematics: Octal and hexadecimal.</li>
         </ul>
          <li><i class="fab fa-stack-overflow"></i> Linking variables from different functions to print them (<a href="https://stackoverflow.com/a/55661226/8787680">Stackoverflow answer</a>).</li>
      </ul>
@@ -491,7 +504,7 @@ in the end.
      <ul>
         <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
         <ul>
-        <li>Numerical Mathematics: Arithmetic in binary.</li>
+        <li>Numerical mathematics: Arithmetic in binary.</li>
         </ul>
      </ul>
   </div>
@@ -533,7 +546,7 @@ in the end.
         <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
         <ul>
         <li>Introduction to programming: built-in variables, JavaScript objects.</li>
-        <li>Numerical Mathematics: Algorithms for converting binary from/to decimal with fractional part.</li>
+        <li>Numerical mathematics: Algorithms for converting binary from/to decimal with fractional part.</li>
         </ul>
          <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=1lxrb_ezP-g">How to Write Python Scripts to Analyze JSON APIs and Sort Results</a> with Corey Schafer.</li>
      </ul>
@@ -548,7 +561,7 @@ in the end.
         <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
         <ul>
         <li>Introduction to programming: development environment, drawing in 2D.</li>
-        <li>Numerical Mathematics: Introduction to number bases and modular arithmetic, number bases, octal and hexadecimal with fractional parts.</li>
+        <li>Numerical mathematics: Introduction to number bases and modular arithmetic, number bases, octal and hexadecimal with fractional parts.</li>
         </ul>
      </ul>
   </div>
