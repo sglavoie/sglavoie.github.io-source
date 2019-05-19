@@ -29,6 +29,19 @@ in the end.
     <div id="may19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 blue-day">18</div>
+  <div class="col-13 col-md-10 blue-content">
+     <ul>
+        <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+        <ul>
+        <li>Introduction to programming: Type casting in JavaScript.</li>
+        <li>Numerical mathematics: Cartesian coordinates, 2D & 3D shapes in planes.</li></ul>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 grey-day">17</div>
   <div class="col-13 col-md-10 grey-content">
      <ul>
