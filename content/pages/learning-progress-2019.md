@@ -29,6 +29,21 @@ in the end.
     <div id="may19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 grey-day">21</div>
+  <div class="col-13 col-md-10 grey-content">
+     <ul>
+        <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+        <ul>
+        <li><strong>Numerical mathematics</strong>: Polynomial and rational functions, motions (distance and speed, displacement and velocity, acceleration).</li></ul>
+        <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=ojyOVRAPT3Y">For Loops - JavaScript Programming Basics p.6</a> with sentdex.</li>
+        <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=hKBZjH7Ot2g">10 Ways to Learn Faster</a> with Siraj Raval.</li>
+        <li><i class="fab fa-youtube"></i> GitHub Workflow, working locally, Git status, saved changes, Git pull &amp; push, Git reset, merge strategies, organizations &amp; teams, integrations and changing history with <a href="https://www.youtube.com/channel/UCP7RrmoueENv9TZts3HXXtw">GitHub Training &amp; Guides</a>.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 blue-day">20</div>
   <div class="col-13 col-md-10 blue-content">
      <ul>
@@ -66,7 +81,7 @@ in the end.
         <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
         <ul>
         <li><strong>Introduction to programming</strong>: Type casting in JavaScript.</li>
-        <li><strong>Numerical mathematics</strong>: Cartesian coordinates, 2D & 3D shapes in planes.</li></ul>
+        <li><strong>Numerical mathematics</strong>: Cartesian coordinates, 2D &amp; 3D shapes in planes.</li></ul>
      </ul>
   </div>
 </div>
@@ -162,7 +177,7 @@ in the end.
         <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
         <ul>
         <li><strong>Numerical mathematics</strong>: Series, convergence, divergence.</li>
-        <li><strong>Web development</strong>: Basics of HTML wireframes, CSS, PWA (Progressive Web App) & service workers.</li>
+        <li><strong>Web development</strong>: Basics of HTML wireframes, CSS, PWA (Progressive Web App) &amp; service workers.</li>
         </ul>
      </ul>
   </div>
