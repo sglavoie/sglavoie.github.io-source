@@ -29,6 +29,28 @@ in the end.
     <div id="may19" class="container collapse">
 
 <div class="row">
+  <div class="col-12 col-md-2 blue-day">24</div>
+  <div class="col-13 col-md-10 blue-content">
+     <ul>
+        <li><i class="fas fa-history"></i> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=vt33Hp-4RXg">Custom commands with fzf in Linux terminal</a> with Luke Smith.</li>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="col-12 col-md-2 grey-day">23</div>
+  <div class="col-13 col-md-10 grey-content">
+     <ul>
+        <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+        <ul>
+        <li><strong>Numerical mathematics</strong>: Plotting, transformation of graphs, Fibonacci spiral.</li></ul>
+     </ul>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-12 col-md-2 blue-day">22</div>
   <div class="col-13 col-md-10 blue-content">
      <ul>
