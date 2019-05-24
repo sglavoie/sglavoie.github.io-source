@@ -76,7 +76,7 @@ def get_cache_id(filename):
 
 PELICAN_VERSION = __version__
 
-ABOUT_VERSION = "0.5.0"
+ABOUT_VERSION = "0.6.0"
 SITE_VERSION = "v0.16.0"  # major.minor.bug_fix
 CURRENT_YEAR = datetime.today().year
 DEFAULT_DATE_FORMAT = "%B %d, %Y"
@@ -178,7 +178,7 @@ DIRECT_TEMPLATES = [
     "tree",
 ]
 
-STATIC_PATHS = ["files"]
+STATIC_PATHS = ["files", "images"]
 
 DISPLAY_PAGES_ON_MENU = False
 DEFAULT_PAGINATION = 5
