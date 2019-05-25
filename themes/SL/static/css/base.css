@@ -908,7 +908,6 @@ h6,
     #bg-darker {
         background-image: url("/theme/images/header/abstract_path_horizontal.svg");
         background-position-x: 100%;
-        background-position-y: 50%;
         background-repeat: no-repeat;
         background-size: 50%;
     }
