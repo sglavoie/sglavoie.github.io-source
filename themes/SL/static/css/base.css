@@ -42,8 +42,21 @@ figure {
     color: #DFE5EB;
 }
 
+.always-white-no-margin:visited {
+    color: #DFE5EB;
+}
+
 .always-white:hover {
     color: #8096AF;
+}
+
+.always-white-no-margin:hover {
+    color: #8096AF;
+}
+
+.categories-align {
+    position: absolute;
+    right: 1em;
 }
 
 .menu-categories-legend {
@@ -167,6 +180,11 @@ i {
     color: #002e5f;
     margin-left: 0.2em;
     margin-right: 0.3em;
+}
+
+.i-categories-align {
+    margin-right: 0.2em;
+    color: #006BFF;
 }
 
 #bg-darker {
@@ -865,6 +883,10 @@ h6,
         color: #DFE5EB;
     }
 
+    .always-white-no-margin {
+        color: #DFE5EB;
+    }
+
     #menu-categories-legend-id {
         display: none;
     }
@@ -903,6 +925,12 @@ h6,
     .always-white {
         color: #DFE5EB;
         padding-right: 2.5rem;
+        white-space: nowrap;
+    }
+
+    .always-white-no-margin {
+        color: #DFE5EB;
+        padding-right: 0;
         white-space: nowrap;
     }
 
