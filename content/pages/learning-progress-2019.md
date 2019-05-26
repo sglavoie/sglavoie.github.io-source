@@ -29,6 +29,18 @@ in the end.
 <div id="may19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 grey-day">25</div>
+<div class="col-13 col-md-10 grey-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+<ul>
+<li><strong>Introduction to programming</strong>: Conditional logic, template literals, <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=uAfw-ko3kB8">checking objects intersection/collisions</a>, <a href="https://www.youtube.com/watch?v=5Q9cA0REztY">object communication part 2</a>, <a href="https://www.youtube.com/watch?v=cnRD9o6odjk">while and for loops</a>.</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 blue-day">24</div>
 <div class="col-13 col-md-10 blue-content">
 <ul>
