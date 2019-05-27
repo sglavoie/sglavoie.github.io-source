@@ -29,12 +29,27 @@ in the end.
 <div id="may19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 blue-day">26</div>
+<div class="col-13 col-md-10 blue-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+<ul>
+<li><strong>Introduction to programming</strong>: Conditionals with types, debugging techniques.</li>
+<ul><li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw">The Coding Train</a>: nested loops, functions, function parameters &amp; arguments, functions &amp; returns, classes in JavaScript with ES6, constructor arguments with classes in JavaScript, web editor: adding JavaScript files, what is an array, arrays &amp; loops, arrays of objects, for of loops, mouse interactions with objects, removing objects from arrays, <i class="fas fa-history"></i> while &amp; for loops.</li></ul>
+<li><strong>Web development</strong>: HTML body, introduction to CSS.</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 grey-day">25</div>
 <div class="col-13 col-md-10 grey-content">
 <ul>
 <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
 <ul>
-<li><strong>Introduction to programming</strong>: Conditional logic, template literals, <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=uAfw-ko3kB8">checking objects intersection/collisions</a>, <a href="https://www.youtube.com/watch?v=5Q9cA0REztY">object communication part 2</a>, <a href="https://www.youtube.com/watch?v=cnRD9o6odjk">while and for loops</a>.</li>
+<li><strong>Introduction to programming</strong>: Conditional logic, template literals.</li>
+<ul><li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw">The Coding Train</a>: <i class="fab fa-youtube"></i> checking objects intersection/collisions, object communication part 2, while &amp; for loops.</li></ul>
 </ul>
 </div>
 </div>
