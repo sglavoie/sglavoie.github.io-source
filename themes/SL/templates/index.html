@@ -10,7 +10,7 @@
 <div class="card">
 <ol id="post-list">
 {% for article in articles_page.object_list %}
-<div class="card-body">
+<main class="card-body">
     <li class="no-li-marker"><article class="hentry">
             <header> <h3 class="card-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h3> </header>
             <footer class="post-info card-subtitle mb-2 text-muted">
@@ -39,7 +39,7 @@
             <div class="entry-content card-text"> {{ article.summary }} </div>
             <div class="position-comments-count"><a class="badge badge-dark" href="{{ SITEURL }}/{{ article.url }}#disqus_thread"><i class="fas fa-comments" style="padding-right:5px"></i> (article comments)</a></div><!-- /.entry-content -->
         </article></li>
-</div>
+</main>
   <hr class="my-4">
 {% endfor %}
 {% if articles_page.object_list == [] %}
