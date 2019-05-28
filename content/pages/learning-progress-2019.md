@@ -29,6 +29,19 @@ in the end.
 <div id="may19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 grey-day">27</div>
+<div class="col-13 col-md-10 grey-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+<ul>
+<li><strong>Introduction to programming</strong>: Interaction with game character (movement, gravity).</li>
+<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=3yAYjz4Q9Ak">Simple steps to help shut down scammers</a> with Engineer Man.</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 blue-day">26</div>
 <div class="col-13 col-md-10 blue-content">
 <ul>
