@@ -238,12 +238,14 @@ body::-webkit-scrollbar-thumb {
 }
 
 #contentinfo {
-    background-color: #0A2431;
-    color: #E0E4E5;
+    background-color: #000000;
+    border-bottom: 1px solid #cedbd9;
+    border-top: 1px solid #cedbd9;
+    color: #CEDBD9;
     display: table;
     font-size: 0.8rem;
     margin: 10px 0 10px 0;
-    padding: 50px 0 50px 0;
+    padding: 25px 0 25px 0;
     position: relative;
     text-align: center;
     width: 100%;
@@ -295,17 +297,17 @@ address {
 }
 
 .version-footer {
-    position: absolute;
-    bottom: 0;
-    font-size: 0.7rem;
-    right: 0;
-    color: #ffffff;
-    padding: 0.25rem;
-    background-color: #002e5f;
-    border-top: 1px black solid;
-    border-left: 1px black solid;
-    letter-spacing: 0.10rem;
+    background-color: #fff;
+    border: 1px #cedbd9 solid;
+    bottom: 0.25em;
+    color: #000;
     font-family: monospace;
+    font-size: 0.7rem;
+    letter-spacing: 0.10rem;
+    padding-left: 0.3em;
+    padding-right: 0.3em;
+    position: absolute;
+    right: 0.25em;
 }
 
 .mini-icon {
