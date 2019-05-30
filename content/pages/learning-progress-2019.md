@@ -29,12 +29,37 @@ in the end.
 <div id="may19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 blue-day">30</div>
+<div class="col-13 col-md-10 blue-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+<ul>
+<li><strong>Web development</strong>: HTML prototype.</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
+<div class="col-12 col-md-2 grey-day">29</div>
+<div class="col-13 col-md-10 grey-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+<ul>
+<li><strong>Numerical mathematics</strong>: <a href="https://www.khanacademy.org/math/trigonometry">Trigonometry on Khan Academy</a>, angles and triangles.</li></ul>
+<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=yMk_XtIEzH8">Q Learning Intro/Table - Reinforcement Learning p.1</a> with sentdex.</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 blue-day">28</div>
 <div class="col-13 col-md-10 blue-content">
 <ul>
 <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
 <ul>
-<li><strong>Introduction to programming</strong>: Game project (working extra canvas in <code>p5.js</code>).</li>
+<li><strong>Introduction to programming</strong>: Game project (working with extra canvas in <code>p5.js</code>).</li>
 <li><strong>Numerical mathematics</strong>: Trigonometry.</li></ul>
 </ul>
 </div>
