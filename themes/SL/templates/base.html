@@ -6,6 +6,11 @@
         {% block head %}
         <title>{% block title %}{{ SITENAME }} | {{ SITESUBTITLE }}{% endblock title %}</title>
 
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="description" content="{{ SITE_DESCRIPTION }}">
+
         {% if FEED_ALL_ATOM -%}
         <link href="{{ FEED_DOMAIN }}/{% if FEED_ALL_ATOM_URL %}{{ FEED_ALL_ATOM_URL }}{% else %}{{ FEED_ALL_ATOM }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Full Atom Feed" />
         {% endif %}
@@ -52,11 +57,6 @@
         <meta name="msapplication-config" content="/theme/images/browserconfig.xml">
         <meta name="theme-color" content="#000000">
 
-        <!-- Required meta tags -->
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="{{ SITE_DESCRIPTION }}">
-
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 
@@ -78,20 +78,10 @@
 
                 <!-- SVG Logo with 5px padding -->
                 <div class="brand-logo hover-img">
-                    <svg width="24.348mm" height="24.348mm" version="1.1" viewBox="0 0 24.348095 24.347754" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-                        <metadata>
-                        <rdf:RDF>
-                        <cc:Work rdf:about="">
-                        <dc:format>image/svg+xml</dc:format>
-                        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                        <dc:title/>
-                        </cc:Work>
-                        </rdf:RDF>
-                        </metadata>
+                    <svg width="24.348mm" height="24.348mm" version="1.1" viewBox="0 0 24.348095 24.347754" xmlns="http://www.w3.org/2000/svg">
                         <g transform="translate(81.397 -84.454)">
-                        <path d="m-57.049 105.9v2.9029h-11.173v-2.9029z" fill="#c0c0c0">
-                        <animate attributeName="fill" values="white;grey;white" dur="2s" repeatCount="indefinite" />
-                        </path>
+                        <path d="m-72.272 98.481-9.1246 5.7598v-3.548l5.8658-3.5019v-0.09215l-5.8658-3.5019v-3.548l9.1246 5.7598z" fill="#7e7e7e"/>
+                        <path d="m-57.049 105.9v2.9029h-11.173v-2.9029z" fill="#c0c0c0"/>
                         <path d="m-72.272 98.481-9.1246 5.7598v-3.548l5.8658-3.5019v-0.09215l-5.8658-3.5019v-3.548l9.1246 5.7598z" fill="#c0c0c0"/>
                         <path transform="scale(.26458)" d="m-273.15 319.2-27.588 14.77 8.498 5.3613 19.09-12.049zm15.309 25.67v44.412h8.8672v-35.635h33.361v-8.7773h-33.783zm25.336 24.66v8.7774h8.0254v10.975h8.8672v-19.752z" fill="#007bff"/>
                         </g>
@@ -169,6 +159,7 @@
                             <li><a href="https://www.linkedin.com/in/sglavoie"><img src="/theme/images/footer/linkedin.svg" alt="LinkedIn"></a></li>
                             <li><a href="https://www.hackerrank.com/sglavoie"><img src="/theme/images/footer/hackerrank.svg" alt="HackerRank"></a></li>
                             <li><a href="https://stackoverflow.com/users/story/8787680"><img src="/theme/images/footer/stackoverflow.svg" alt="Stackoverflow"></a></li>
+                        </ul>
 
                     </div>
 
@@ -180,7 +171,7 @@
 
                     <div id="author-footer">
                         <p>Copyleft <span class="copy-left">©</span> {{ CURRENT_YEAR }} — Sébastien Lavoie
-                        <script type="text/javascript" language="javascript">
+                        <script>
                             <!--
 // Email obfuscator script 2.1 by Tim Williams, University of Arizona
 // Random encryption key feature coded by Andrew Moulden
