@@ -23,6 +23,41 @@ in the end.
 <div id="year2019" class="container no-padding">
 <div class="panel">
 
+<div class="row justify-content-center" role="button" data-toggle="collapse" data-parent="#year2019" href="#june19" aria-expanded="false" aria-controls="june19">
+<div class="learning-month">June</div>
+</div>
+<div id="june19" class="container collapse">
+
+<div class="row">
+<div class="col-12 col-md-2 grey-day">2</div>
+<div class="col-13 col-md-10 grey-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+<ul>
+<li><strong>Web development</strong>: CSS selectors.</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
+<div class="col-12 col-md-2 blue-day">1</div>
+<div class="col-13 col-md-10 blue-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+<ul>
+<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Plotting, transformation of graphs.</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+
+
 <div class="row justify-content-center" role="button" data-toggle="collapse" data-parent="#year2019" href="#may19" aria-expanded="false" aria-controls="may19">
 <div class="learning-month">May</div>
 </div>
