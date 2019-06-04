@@ -29,6 +29,20 @@ in the end.
 <div id="june19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 blue-day">3</div>
+<div class="col-13 col-md-10 blue-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+<ul>
+<li><strong>Web development</strong>: CSS selectors, CSS typography.</li>
+</ul>
+</li>
+<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=fMJflV_GUpU">Tribonacci Numbers (and the Rauzy Fractal)</a> with Numberphile.</li>
+</ul>
+</div>
+</div>
+
+<div class="row">
 <div class="col-12 col-md-2 grey-day">2</div>
 <div class="col-13 col-md-10 grey-content">
 <ul>
