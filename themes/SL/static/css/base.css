@@ -428,19 +428,19 @@ section#content:after {
     padding: 10px;
 }
 
-.entry-content > p a {
+.entry-content > p a:empty {
     background-color: #e5f1ff;
     border: 1px solid #fff;
     padding: 3px;
 }
 
-.entry-content > p a:hover {
+.entry-content > p a:hover:empty {
     background-color: #e5f1ffbf;
     border: 1px solid #cedbd9;
     text-decoration: none;
 }
 
-.entry-content > p a:visited {
+.entry-content > p a:visited:empty {
     background-color: #f5e1ff;
 }
 
