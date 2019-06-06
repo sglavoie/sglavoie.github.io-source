@@ -76,7 +76,7 @@ def get_cache_id(filename):
 
 PELICAN_VERSION = __version__
 
-ABOUT_VERSION = "0.7.0"
+ABOUT_VERSION = "0.8.0"  # major.minor.bug_fix
 SITE_VERSION = "v0.18.7"  # major.minor.bug_fix
 CURRENT_YEAR = datetime.today().year
 DEFAULT_DATE_FORMAT = "%B %d, %Y"
