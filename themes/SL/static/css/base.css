@@ -112,6 +112,8 @@ figure {
     display: block;
     text-align: right;
     width: 100%;
+    border-top: 1px solid silver;
+    border-bottom: 1px solid silver;
 }
 
 .extra-space {
@@ -658,8 +660,12 @@ button:focus {
 .badge {
     padding: .5em .5em;
     border-radius: 0;
-    border: 1px solid #002e5f;
+    border: 1px solid #c0c0c0;
     font-size: 1rem;
+}
+
+.badge-dark {
+    background-color: #000;
 }
 
 .container {
@@ -918,6 +924,7 @@ h1, h2, h3, h4, h5, h6 {
 
     #content {
         margin: 1em;
+        border: 1px solid silver;
     }
 
     .card-body {
