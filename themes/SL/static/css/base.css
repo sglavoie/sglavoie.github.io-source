@@ -18,7 +18,6 @@ sup {
     background-color: #f8f8ff;
     border: 1px dashed #E0E0E0;
     font-size: 0.9rem;
-    padding: 0.1em;
     position: inherit;
 }
 
@@ -166,6 +165,7 @@ figure {
 .inline-icon {
     display: inline-block;
     float: right;
+    padding-top: 0.3rem;
 }
 
 ::-moz-selection {
@@ -204,7 +204,6 @@ i {
     background-size: 40%;
 }
 
-
 .only-big-screen {
     display: none;
 }
@@ -216,7 +215,6 @@ dd {
 dl {
     line-height: 1.25;
 }
-
 /* end BASE TEMPLATE */
 
 /* SCROLLBAR */
@@ -425,8 +423,8 @@ section#content:after {
 }
 
 .card-body>ul>li {
-    margin-left: 0;
-    padding: 0;
+    margin-left: 1.5rem;
+    padding: 0.5rem;
 }
 
 /* Clears up issue with borders around PNG images */
@@ -693,26 +691,37 @@ a:visited.btn {
 h2 {
     font-size: 1.3rem;
     font-weight: bold;
+    padding: 1.5rem 0.5rem 0.5rem 0.5rem;
 }
 
 .h3,
 h3 {
     font-size: 1.2rem;
     font-weight: bold;
+    padding: 1rem 0.5rem 0.5rem 0.5rem;
 }
 
 .h4,
 h4 {
     font-size: 1.1rem;
     font-weight: bold;
-    padding-top: 1.5rem;
+    padding: 1rem 0.5rem 0.5rem 0.5rem;
 }
 
 .h5,
 h5 {
     font-size: 1.05rem;
     font-weight: bold;
+    padding: 1rem 0.5rem 0.5rem 0.5rem;
 }
+
+.h6,
+h6 {
+    font-size: 0.98rem;
+    font-weight: bold;
+    padding: 1rem 0.5rem 0.5rem 0.5rem;
+}
+
 
 a {
     -webkit-transition: 0.3s color ease;
@@ -866,17 +875,19 @@ footer .social-footer li {
 }
 
 .post-info {
-    padding: 1em;
+    padding: 0.5em;
 }
 
-h1,
-h2,
+h3.uppercase-title {
+    padding: 1rem;
+}
+
 h3,
 h4,
 h5,
 h6,
-.display-4 {
-    padding: 2rem 1rem 1rem 1rem;
+{
+    padding: 0.25rem 0.5rem 0.25rem 0.5rem;
 }
 
 
@@ -884,9 +895,9 @@ h6,
 
 @media (min-width: 576px) {
 
-#bg-darker {
-    background-size: 30%;
-}
+    #bg-darker {
+        background-size: 30%;
+    }
 
     #content {
         margin: 1em;
@@ -908,14 +919,14 @@ h6,
 
 @media (min-width: 700px) {
 
-#bg-darker {
-    background-size: 25%;
-}
+    #bg-darker {
+        background-size: 25%;
+    }
 
-.max-size-img-profile {
-    max-width: 80%;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
+    .max-size-img-profile {
+        max-width: 80%;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
 
 
     body::-webkit-scrollbar {
@@ -929,7 +940,6 @@ h6,
     .only-big-screen {
         display: flex;
     }
-
 }
 
 @media (max-width: 992px) {
@@ -956,6 +966,10 @@ h6,
 }
 
 @media (min-width: 992px) {
+
+    #menu {
+        padding: 1.5em 2.5em 1.5em 2.5em;
+    }
 
     .brand-logo {
         max-width: 70px;
@@ -1018,10 +1032,11 @@ h6,
 }
 
 @media (min-width: 2500px) {
-
     #bg-darker {
         background-size: 25%;
     }
+
+}
 
 @media (min-width: 3200px) {
 
@@ -1029,7 +1044,6 @@ h6,
         background-size: 20%;
     }
 }
-
 /* end @MEDIA */
 
 /* Styles for `tree` command output */
