@@ -101,7 +101,8 @@ figure {
 }
 
 .nav-link-smaller {
-    font-size: 1.2rem;
+    font-size: 1rem;
+    line-height: 1.5rem;
 }
 
 .nav-link-smallest {
@@ -420,30 +421,30 @@ section#content:after {
 }
 
 .card-body>ul {
-    padding-left: 1em;
+    padding-left: 0;
 }
 
 .card-body>ul>li {
-    margin-left: 1em;
-    padding: 10px;
+    margin-left: 0;
+    padding: 0;
 }
 
-.entry-content p a {
+/* Clears up issue with borders around PNG images */
+.entry-content p a:not([href$=".png"]) {
     background-color: #e5f1ff;
     border: 1px solid #fff;
-    padding: 3px;
+    padding: 0 3px 0 3px;
 }
 
-.entry-content p a:hover {
+.entry-content p a:hover:not([href$=".png"]) {
     background-color: #e5f1ffbf;
     border: 1px solid #cedbd9;
     text-decoration: none;
 }
 
-.entry-content p a:visited {
+.entry-content p a:visited:not([href$=".png"]) {
     background-color: #f5e1ff;
 }
-
 /* end ARTICLE PAGE */
 
 /* INDEX PAGE */
@@ -455,6 +456,10 @@ section#content:after {
 /* end INDEX PAGE */
 
 /* DISQUS */
+#error {
+    padding: 1em;
+}
+
 .position-comments-count {
     text-align: right;
     padding: 1em;
@@ -467,10 +472,13 @@ a:hover {
     color: #ffffff
 }
 
-div#layout {
-    padding: 0.5em;
+#disqus_thread {
+    padding: 0.5rem;
 }
 
+div#layout {
+    padding: 0.5rem;
+}
 /* end DISQUS */
 
 /* CODE BLOCKS */
@@ -723,7 +731,7 @@ a:hover {
 }
 
 p {
-    margin: 1em;
+    margin: 0.5em;
     padding: 0;
 }
 
@@ -811,7 +819,7 @@ code {
     color: #FF007B;
     font-size: 87.5%;
     font-weight: bold;
-    padding: 5px;
+    padding: 2px 5px 2px 5px;
     word-break: break-word;
 }
 
@@ -828,7 +836,7 @@ header {
 }
 
 #post-list {
-    padding-left: 0.5em;
+    padding-left: 0;
 }
 
 footer .social-footer li {
