@@ -1,6 +1,5 @@
 /* BASE TEMPLATE */
 html, body {
-    letter-spacing: 0.01em;
     word-spacing: 0.2em;
 }
 
@@ -217,13 +216,16 @@ dd {
 dl {
     line-height: 1.25;
 }
+
+div.entry-content > p {
+    margin-top: 2rem;
+}
 /* end BASE TEMPLATE */
 
 /* ABOUT PAGE */
 p.larger-p-padding {
     padding: 1rem;
 }
-
 /* end ABOUT PAGE */
 
 /* SCROLLBAR */
@@ -633,7 +635,7 @@ html,
 body {
     background-color: #CEDBD9;
     color: #283B42;
-    font-family: 'Lato', Verdana, Arial, sans-serif;
+    font-family: 'Open Sans', Verdana, Arial, sans-serif;
     height: 100%;
     margin: 0;
     overflow-x: hidden;
@@ -641,7 +643,7 @@ body {
 }
 
 body {
-    font-family: 'Lato', Verdana, Arial, sans-serif;
+    font-family: 'Open Sans', Verdana, Arial, sans-serif;
     min-height: 100%;
 }
 
@@ -897,14 +899,14 @@ h3.uppercase-title {
     padding: 1rem;
 }
 
-h3,
-h4,
-h5,
-h6,
+h3, h4, h5, h6,
 {
     padding: 0.25rem 0.5rem 0.25rem 0.5rem;
 }
 
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto', sans-serif;
+}
 
 /* @MEDIA QUERIES */
 
@@ -1068,7 +1070,7 @@ h6,
 
 .VERSION {
     font-size: small;
-    font-family: 'Lato', Arial, sans-serif;
+    font-family: 'Open Sans', Arial, sans-serif;
 }
 
 .NORM {
