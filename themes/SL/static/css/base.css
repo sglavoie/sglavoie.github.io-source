@@ -276,6 +276,7 @@ body::-webkit-scrollbar-thumb {
 
 address {
     display: table-cell;
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     line-height: inherit;
     padding: 15px;
@@ -334,7 +335,7 @@ address {
 }
 
 .mini-icon {
-    height: 1rem;
+    height: 0.9rem;
     width: auto;
 }
 
@@ -372,6 +373,10 @@ footer a img:hover {
 
 div#author-footer {
     margin-top: 1.5rem;
+}
+
+.smaller-p-padding {
+    margin-top: -1rem;
 }
 
 /* end FOOTER */
