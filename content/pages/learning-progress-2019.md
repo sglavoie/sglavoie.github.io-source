@@ -29,6 +29,22 @@ in the end.
 <div id="june19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 grey-day">8</div>
+<div class="col-13 col-md-10 grey-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+<ul>
+<li><strong>Introduction to programming</strong>: JavaScript <code>for</code> loops, arrays.</li>
+<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Trigonometry.</li>
+<li><strong>Web development</strong>: CSS grids and columns, CSS animations, accessibility in CSS.</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 blue-day">7</div>
 <div class="col-13 col-md-10 blue-content">
 <ul>
@@ -140,9 +156,10 @@ in the end.
 <div class="col-12 col-md-2 grey-day">31</div>
 <div class="col-13 col-md-10 grey-content">
 <ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
 <ul>
 <li><strong>Numerical mathematics</strong>: Angles and triangles, trigonometry.</li></ul>
+</li>
 </ul>
 </div>
 </div>
@@ -152,10 +169,12 @@ in the end.
 <div class="col-12 col-md-2 blue-day">30</div>
 <div class="col-13 col-md-10 blue-content">
 <ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
 <ul>
-<li><strong>Numerical mathematics</strong>: Angles and triangles.</li></ul>
+<li><strong>Numerical mathematics</strong>: Angles and triangles.</li>
 <li><strong>Web development</strong>: HTML prototype.</li>
+</ul>
+</li>
 <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=yMk_XtIEzH8">Q Learning Intro/Table - Reinforcement Learning p.1</a> with sentdex.</li>
 </ul>
 </div>
@@ -166,9 +185,11 @@ in the end.
 <div class="col-12 col-md-2 grey-day">29</div>
 <div class="col-13 col-md-10 grey-content">
 <ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
 <ul>
-<li><strong>Numerical mathematics</strong>: <a href="https://www.khanacademy.org/math/trigonometry">Trigonometry on Khan Academy</a>, angles and triangles.</li></ul>
+<li><strong>Numerical mathematics</strong>: <a href="https://www.khanacademy.org/math/trigonometry">Trigonometry on Khan Academy</a>, angles and triangles.</li>
+</ul>
+</li>
 </ul>
 </div>
 </div>
@@ -178,10 +199,11 @@ in the end.
 <div class="col-12 col-md-2 blue-day">28</div>
 <div class="col-13 col-md-10 blue-content">
 <ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
 <ul>
 <li><strong>Introduction to programming</strong>: Game project (working with extra canvas in <code>p5.js</code>).</li>
 <li><strong>Numerical mathematics</strong>: Trigonometry.</li></ul>
+</li>
 </ul>
 </div>
 </div>
@@ -191,10 +213,11 @@ in the end.
 <div class="col-12 col-md-2 grey-day">27</div>
 <div class="col-13 col-md-10 grey-content">
 <ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
 <ul>
 <li><strong>Introduction to programming</strong>: Interaction with game character (movement, gravity).</li>
 <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=3yAYjz4Q9Ak">Simple steps to help shut down scammers</a> with Engineer Man.</li>
+</li>
 </ul>
 </div>
 </div>
@@ -204,11 +227,14 @@ in the end.
 <div class="col-12 col-md-2 blue-day">26</div>
 <div class="col-13 col-md-10 blue-content">
 <ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
 <ul>
-<li><strong>Introduction to programming</strong>: Conditionals with types, debugging techniques.</li>
+<li><strong>Introduction to programming</strong>: Conditionals with types, debugging techniques.
 <ul><li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw">The Coding Train</a>: nested loops, functions, function parameters &amp; arguments, functions &amp; returns, classes in JavaScript with ES6, constructor arguments with classes in JavaScript, web editor: adding JavaScript files, what is an array, arrays &amp; loops, arrays of objects, for of loops, mouse interactions with objects, removing objects from arrays, <i class="fas fa-history"></i> while &amp; for loops.</li></ul>
+</li>
 <li><strong>Web development</strong>: HTML body, introduction to CSS.</li>
+</ul>
+</li>
 </ul>
 </div>
 </div>
@@ -218,11 +244,13 @@ in the end.
 <div class="col-12 col-md-2 grey-day">25</div>
 <div class="col-13 col-md-10 grey-content">
 <ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
 <ul>
 <li><strong>Introduction to programming</strong>: Conditional logic, template literals.</li>
 <ul><li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw">The Coding Train</a>: <i class="fab fa-youtube"></i> checking objects intersection/collisions, object communication part 2, while &amp; for loops.</li></ul>
+</li>
 </ul>
+</li>
 </div>
 </div>
 
@@ -231,9 +259,10 @@ in the end.
 <div class="col-12 col-md-2 blue-day">24</div>
 <div class="col-13 col-md-10 blue-content">
 <ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
 <ul>
 <li><strong>Numerical mathematics</strong>: Kinematic equations, angles, triangles, trigonometry.</li></ul>
+</li>
 <li><i class="fas fa-history"></i> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=vt33Hp-4RXg">Custom commands with fzf in Linux terminal</a> with Luke Smith.</li>
 <li>Animating SVG images with CSS.</li>
 </ul>
@@ -245,9 +274,10 @@ in the end.
 <div class="col-12 col-md-2 grey-day">23</div>
 <div class="col-13 col-md-10 grey-content">
 <ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
 <ul>
 <li><strong>Numerical mathematics</strong>: Plotting, transformation of graphs, Fibonacci spiral.</li></ul>
+</li>
 </ul>
 </div>
 </div>
@@ -257,9 +287,10 @@ in the end.
 <div class="col-12 col-md-2 blue-day">22</div>
 <div class="col-13 col-md-10 blue-content">
 <ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
 <ul>
 <li><strong>Numerical mathematics</strong>: <code>suvat</code> equations.</li></ul>
+</li>
 <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=unqsQJaECv0">Suckless's dwm: So easy even a caveman could do it!</a> with Luke Smith.</li>
 </ul>
 </div>
@@ -270,9 +301,10 @@ in the end.
 <div class="col-12 col-md-2 grey-day">21</div>
 <div class="col-13 col-md-10 grey-content">
 <ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
 <ul>
 <li><strong>Numerical mathematics</strong>: Polynomial and rational functions, motions (distance and speed, displacement and velocity, acceleration).</li></ul>
+</li>
 <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=ojyOVRAPT3Y">For Loops - JavaScript Programming Basics p.6</a> with sentdex.</li>
 <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=hKBZjH7Ot2g">10 Ways to Learn Faster</a> with Siraj Raval.</li>
 <li><i class="fab fa-youtube"></i> GitHub Workflow, working locally, Git status, saved changes, Git pull &amp; push, Git reset, merge strategies, organizations &amp; teams, integrations and changing history with <a href="https://www.youtube.com/channel/UCP7RrmoueENv9TZts3HXXtw">GitHub Training &amp; Guides</a>.</li>
