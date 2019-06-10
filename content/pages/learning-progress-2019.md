@@ -29,6 +29,22 @@ in the end.
 <div id="june19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 blue-day">9</div>
+<div class="col-13 col-md-10 blue-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+<ul>
+<li><strong>Numerical mathematics</strong>: Analytic trigonometry, <i class="fas fa-history"></i> unit circle, law of sines, law of cosines.</li>
+</ul>
+</li>
+<li><i class="fas fa-history"></i> Flask: <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=Z1RJmh_OqeA">Learn Flask for Python</a> with FreeCodeCamp.org.</li>
+<li><i class="fas fa-university"></i> <a href="https://www.coursera.org/learn/python-data-analysis/home">Introduction to Data Science in Python</a> on Coursera: Advanced Python objects, <code>map()</code>.</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 grey-day">8</div>
 <div class="col-13 col-md-10 grey-content">
 <ul>
