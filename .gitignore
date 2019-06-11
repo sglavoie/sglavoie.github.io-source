@@ -1,12 +1,12 @@
 *$py.class
 *.py[cod]
-.vscode/settings.json
 TODO
 __pycache__/
 files/
 output/
 scripts/
 stats_counter.txt
+tags
 tree.txt
 tree_content.html
 utils/
