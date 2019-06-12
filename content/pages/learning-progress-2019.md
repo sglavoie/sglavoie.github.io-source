@@ -29,6 +29,22 @@ in the end.
 <div id="june19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 blue-day">11</div>
+<div class="col-13 col-md-10 blue-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+<ul>
+<li><strong>Introduction to programming</strong>: Create a <em>very</em> simple side-scrolling game with <code>p5.js</code>.</li>
+</ul>
+</li>
+<li><a href="https://classicproblems.com/">Classic Computer Science Problems in Python</a>, by David Kopec: Recursive functions, memoization, generators, compressing and decompressing data.</li>
+<li><i class="fas fa-history"></i> Matplotlib: <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=nKxLfUrkLE8">Matplotlib Tutorial (Part 2): Bar Charts and Analyzing Data from CSVs</a> with Corey Schafer.</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 grey-day">10</div>
 <div class="col-13 col-md-10 grey-content">
 <ul>
