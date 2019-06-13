@@ -257,7 +257,7 @@ body::-webkit-scrollbar-thumb {
 .footer-borders {
     background-image: url("/theme/images/footer/contributions.png");
     background-repeat: repeat;
-    background-size: 30%;
+    background-size: 100%;
     padding: 12px 0;
 }
 
@@ -924,6 +924,11 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (min-width: 576px) {
 
+    .footer-borders {
+        background-size: 60%;
+        padding: 14px 0;
+    }
+
     #bg-darker {
         background-size: 30%;
     }
@@ -948,6 +953,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 @media (min-width: 700px) {
+
+    .footer-borders {
+        padding: 16px 0;
+        background-size: 50%;
+    }
 
     p.larger-p-padding {
         padding: 2.5rem;
@@ -1000,6 +1010,11 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (min-width: 992px) {
 
+    .footer-borders {
+        background-size: 40%;
+        padding: 18px 0;
+    }
+
     #menu {
         padding: 1.5em 2.5em 1.5em 2.5em;
     }
@@ -1050,7 +1065,20 @@ h1, h2, h3, h4, h5, h6 {
     }
 }
 
+@media (min-width: 1200px) {
+
+    .footer-borders {
+        padding: 20px 0;
+        background-size: 35%;
+    }
+}
+
 @media (min-width: 1400px) {
+
+    .footer-borders {
+        padding: 25px 0;
+        background-size: 30%;
+    }
 
     #bg-darker {
         background-size: 40%;
@@ -1059,19 +1087,32 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (min-width: 1800px) {
 
+    .footer-borders {
+        padding: 30px 0;
+        background-size: 30%;
+    }
+
     #bg-darker {
-        background-size: 35%;
+        background-size: 30%;
     }
 }
 
 @media (min-width: 2500px) {
+    .footer-borders {
+        background-size: 25%;
+        padding: 35px 0;
+    }
+
     #bg-darker {
         background-size: 25%;
     }
-
 }
 
 @media (min-width: 3200px) {
+    .footer-borders {
+        background-size: 20%;
+        padding: 40px 0;
+    }
 
     #bg-darker {
         background-size: 20%;
