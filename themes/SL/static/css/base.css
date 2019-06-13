@@ -255,8 +255,9 @@ body::-webkit-scrollbar-thumb {
 
 /* FOOTER */
 .footer-borders {
-    background-image: url("/theme/images/footer/contributions.svg");
+    background-image: url("/theme/images/footer/contributions.png");
     background-repeat: repeat;
+    background-size: 30%;
     padding: 12px 0;
 }
 
