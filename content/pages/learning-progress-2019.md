@@ -29,6 +29,38 @@ in the end.
 <div id="june19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 blue-day">13</div>
+<div class="col-13 col-md-10 blue-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+<ul>
+<li><strong>Numerical mathematics</strong>: Polar coordinates, solving trigonometric equations, <i class="fas fa-history"></i> damped trigonometric graphs, trigonometric ratios and functions, number bases with rational and irrational numbers.</li>
+</ul>
+</li>
+<li><i class="fas fa-history"></i> Matplotlib: <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=xN-Supd4H38">Matplotlib Tutorial (Part 4): Stack Plots</a> with Corey Schafer.</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
+<div class="col-12 col-md-2 grey-day">12</div>
+<div class="col-13 col-md-10 grey-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+<ul>
+<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> trigonometric ratios and functions.</li>
+<li><strong>Web development</strong>: Creating a responsive website from scratch.</li>
+</ul>
+</li>
+<li><a href="https://classicproblems.com/">Classic Computer Science Problems in Python</a>, by David Kopec: Encryption with <code>XOR</code> bit operation.</li>
+<li><i class="fas fa-history"></i> Matplotlib: <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=MPiz50TsyF0">Matplotlib Tutorial (Part 3): Pie Charts</a> with Corey Schafer.</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 blue-day">11</div>
 <div class="col-13 col-md-10 blue-content">
 <ul>
