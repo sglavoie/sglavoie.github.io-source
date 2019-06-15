@@ -29,6 +29,22 @@ in the end.
 <div id="june19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 grey-day">14</div>
+<div class="col-13 col-md-10 grey-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+<ul>
+<li><strong>Numerical mathematics</strong>: Polar coordinates, solving trigonometric equations, <i class="fas fa-history"></i> damped trigonometric graphs, trigonometric ratios and functions, number bases with rational and irrational numbers.</li>
+<li><a href="https://www.khanacademy.org/">Cryptography on Khan Academy</a>: Fundamental theorem of arithmetic, public key cryptography, Diffie-hellman key exchange, RSA encryption, Euler's totient function, primality tests.</li>
+</ul>
+</li>
+<li><i class="fas fa-history"></i> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=x0Uguu7gqgk">Matplotlib Tutorial (Part 5): Filling Area on Line Plots</a> with Corey Schafer.</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 blue-day">13</div>
 <div class="col-13 col-md-10 blue-content">
 <ul>
@@ -37,7 +53,7 @@ in the end.
 <li><strong>Numerical mathematics</strong>: Polar coordinates, solving trigonometric equations, <i class="fas fa-history"></i> damped trigonometric graphs, trigonometric ratios and functions, number bases with rational and irrational numbers.</li>
 </ul>
 </li>
-<li><i class="fas fa-history"></i> Matplotlib: <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=xN-Supd4H38">Matplotlib Tutorial (Part 4): Stack Plots</a> with Corey Schafer.</li>
+<li><i class="fas fa-history"></i> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=xN-Supd4H38">Matplotlib Tutorial (Part 4): Stack Plots</a> with Corey Schafer.</li>
 </ul>
 </div>
 </div>
@@ -54,7 +70,7 @@ in the end.
 </ul>
 </li>
 <li><a href="https://classicproblems.com/">Classic Computer Science Problems in Python</a>, by David Kopec: Encryption with <code>XOR</code> bit operation.</li>
-<li><i class="fas fa-history"></i> Matplotlib: <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=MPiz50TsyF0">Matplotlib Tutorial (Part 3): Pie Charts</a> with Corey Schafer.</li>
+<li><i class="fas fa-history"></i> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=MPiz50TsyF0">Matplotlib Tutorial (Part 3): Pie Charts</a> with Corey Schafer.</li>
 </ul>
 </div>
 </div>
@@ -70,7 +86,7 @@ in the end.
 </ul>
 </li>
 <li><a href="https://classicproblems.com/">Classic Computer Science Problems in Python</a>, by David Kopec: Recursive functions, memoization, generators, compressing and decompressing data.</li>
-<li><i class="fas fa-history"></i> Matplotlib: <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=nKxLfUrkLE8">Matplotlib Tutorial (Part 2): Bar Charts and Analyzing Data from CSVs</a> with Corey Schafer.</li>
+<li><i class="fas fa-history"></i> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=nKxLfUrkLE8">Matplotlib Tutorial (Part 2): Bar Charts and Analyzing Data from CSVs</a> with Corey Schafer.</li>
 </ul>
 </div>
 </div>
@@ -87,7 +103,7 @@ in the end.
 </li>
 <li><a href="https://classicproblems.com/">Classic Computer Science Problems in Python</a>, by David Kopec: Recursive functions.</li>
 <li><i class="fas fa-university"></i> <a href="https://www.coursera.org/learn/python-data-analysis/home">Introduction to Data Science in Python</a> on Coursera: <i class="fas fa-history"></i> More on Python fundamentals (lambda, list comprehension), <code>Numpy</code> basics.</li>
-<li><i class="fas fa-history"></i> Matplotlib: <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=UO98lJQ3QGI">Matplotlib Tutorial (Part 1): Creating and Customizing Our First Plots</a> with Corey Schafer.</li>
+<li><i class="fas fa-history"></i> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=UO98lJQ3QGI">Matplotlib Tutorial (Part 1): Creating and Customizing Our First Plots</a> with Corey Schafer.</li>
 </ul>
 </div>
 </div>
