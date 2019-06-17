@@ -29,6 +29,23 @@ in the end.
 <div id="june19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 grey-day">16</div>
+<div class="col-13 col-md-10 grey-content">
+<ul>
+    <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+        <ul>
+            <li>Core study skills course.</li>
+        </ul>
+    </li>
+    <li><a href="https://classicproblems.com/">Classic Computer Science Problems in Python</a>, by David Kopec: Search algorithms.</li>
+    <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=8aZW9mYOxhc">What is a bare Git repo and why you need them</a> with Engineer Man.</li>
+    <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=zZZ_RCwp49g">Matplotlib Tutorial (Part 7): Scatter Plots</a> with Corey Schafer.</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 blue-day">15</div>
 <div class="col-13 col-md-10 blue-content">
 <ul>
@@ -37,7 +54,7 @@ in the end.
             <li>Core study skills course.</li>
             <li><strong>Numerical mathematics</strong>:
                 <ul>
-                    <li><a href="https://www.khanacademy.org/">Cryptography on Khan Academy</a>: Fundamental theorem of arithmetic, public key cryptography, Diffie-hellman key exchange, RSA encryption, Euler's totient function, primality tests.</li>
+                    <li><i class="fas fa-history"></i> Plotting, transformation of graphs.</li>
                 </ul>
             </li>
         </ul>
