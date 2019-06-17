@@ -474,7 +474,6 @@ section#content:after {
     margin: 20px;
     text-align: center;
 }
-
 /* end INDEX PAGE */
 
 /* DISQUS */
@@ -518,7 +517,6 @@ pre {
 .linenodiv {
     background-color: #d4e5ea;
 }
-
 /* end CODE BLOCKS */
 
 /* PAGE LEARNING-PROCESS */
@@ -567,7 +565,6 @@ pre {
     justify-content: center;
     text-align: center;
 }
-
 /* end PAGE LEARNING-PROCESS */
 
 /* COLLAPSIBLE CONTENT */
@@ -589,7 +586,6 @@ Style the button that is used to open and close the collapsible content */
     transition: max-height 0.3s ease-out;
     transition: max-height 0.3s ease-in;
 }
-
 /* end COLLAPSIBLE CONTENT */
 
 /* TAG CLOUD PELICAN PLUGIN */
@@ -635,7 +631,6 @@ ul.tagcloud .list-group-item span.badge {
     background-color: grey;
     color: white;
 }
-
 /* end TAG CLOUD PELICAN PLUGIN */
 
 /* BOOTSTRAP MODIFICATIONS BELOW */
@@ -921,7 +916,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* @MEDIA QUERIES */
-
 @media (min-width: 576px) {
 
     .footer-borders {
@@ -1120,8 +1114,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 /* end @MEDIA */
 
-/* Styles for `tree` command output */
-
+/* STYLES FOR `tree` COMMAND OUTPUT */
 .VERSION {
     font-size: small;
     font-family: 'Open Sans', Arial, sans-serif;
@@ -1166,3 +1159,5 @@ h1, h2, h3, h4, h5, h6 {
     color: green;
     background-color: transparent;
 }
+/* end STYLES FOR `tree` COMMAND OUTPUT */
+
