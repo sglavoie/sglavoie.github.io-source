@@ -29,6 +29,23 @@ in the end.
 <div id="june19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 grey-day">18</div>
+<div class="col-13 col-md-10 grey-content">
+<ul>
+    <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+        <ul>
+            <li><strong>Introduction to programming</strong>: <i class="fas fa-history"></i> Advanced work with arrays, nested iteration for drawing patterns.</li>
+            <li><strong>Numerical mathematics</strong>: Exponential and logarithmic functions.</li>
+        </ul>
+    </li>
+    <li><a href="https://classicproblems.com/">Classic Computer Science Problems in Python</a>, by David Kopec: More on search algorithms (<code>BFS</code>, <code>DFS</code>, <code>A*</code>).</li>
+    <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=Ercd-Ip5PfQ">Matplotlib Tutorial (Part 9): Plotting Live Data in Real-Time</a> with Corey Schafer.</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 blue-day">17</div>
 <div class="col-13 col-md-10 blue-content">
 <ul>
