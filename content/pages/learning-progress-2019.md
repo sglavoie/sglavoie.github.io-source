@@ -29,6 +29,23 @@ in the end.
 <div id="june19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 blue-day">19</div>
+<div class="col-13 col-md-10 blue-content">
+<ul>
+    <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+        <ul>
+            <li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Steganography, modular arithmetic.</li>
+            <li><strong>Web development</strong>: CSS frameworks, accessibility.</li>
+        </ul>
+    </li>
+    <li><a href="https://classicproblems.com/">Classic Computer Science Problems in Python</a>, by David Kopec: Missionaries and cannibals problem with <code>BFS</code>.</li>
+    <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=XFZRVnP-MTU">Matplotlib Tutorial (Part 10): Subplots</a> with Corey Schafer.</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 grey-day">18</div>
 <div class="col-13 col-md-10 grey-content">
 <ul>
