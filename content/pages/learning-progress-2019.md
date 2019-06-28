@@ -29,6 +29,20 @@ in the end.
 <div id="june19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 blue-day">27</div>
+<div class="col-13 col-md-10 blue-content">
+<ul>
+    <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+        <ul>
+            <li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Sequences &amp; series, transformation of graphs.</li>
+        </ul>
+    </li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 grey-day">26</div>
 <div class="col-13 col-md-10 grey-content">
 <ul>
@@ -105,7 +119,7 @@ in the end.
 <ul>
     <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
         <ul>
-            <li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Steganography, modular arithmetic, encryption & RSA algorithm, transformation of graphs.</li>
+            <li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Steganography, modular arithmetic, encryption &amp; RSA algorithm, transformation of graphs.</li>
         </ul>
     </li>
 </ul>
