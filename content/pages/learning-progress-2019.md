@@ -23,6 +23,29 @@ in the end.
 <div id="year2019" class="container no-padding">
 <div class="panel">
 
+<div class="row justify-content-center" role="button" data-toggle="collapse" data-parent="#year2019" href="#july19" aria-expanded="false" aria-controls="july19">
+<div class="learning-month">July</div>
+</div>
+<div id="july19" class="container collapse">
+
+<div class="row">
+<div class="col-12 col-md-2 blue-day">1</div>
+<div class="col-13 col-md-10 blue-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+    <ul>
+        <li><strong>Introduction to programming</strong>: Refactoring code, user-defined functions, function input &amp; output.</li>
+    </ul>
+</li>
+<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=AOeRbuwCd-Y">My Biggest Challenge With Programming (Q&A #11)</a> with sentdex.</li>
+<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=Nck9SX52qpU">How to use Gnaural to create binaural beats</a> with Gnaural.</li>
+</ul>
+</div>
+</div>
+
+</div>
+
+
 <div class="row justify-content-center" role="button" data-toggle="collapse" data-parent="#year2019" href="#june19" aria-expanded="false" aria-controls="june19">
 <div class="learning-month">June</div>
 </div>
