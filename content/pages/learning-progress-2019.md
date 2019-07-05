@@ -29,6 +29,20 @@ in the end.
 <div id="july19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 grey-day">4</div>
+<div class="col-13 col-md-10 grey-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+    <ul>
+        <li><strong>Numerical mathematics</strong>: Exponential &amp; logarithmic models, <i class="fas fa-history"></i> more on exponential and logarithmic functions.</li>
+    </ul>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 blue-day">3</div>
 <div class="col-13 col-md-10 blue-content">
 <ul>
@@ -37,8 +51,8 @@ in the end.
         <li><strong>Numerical mathematics</strong>: More on exponential and logarithmic functions.</li>
     </ul>
 </li>
-<li>Configuring <code>unclutter</code> to hide cursor automatically.</li>
-<li>Configuring <code>vim-gitgutter</code> with Neovim.</li>
+<li>Configure <code>unclutter</code> to hide cursor automatically.</li>
+<li>Configure <code>vim-gitgutter</code> with Neovim.</li>
 </ul>
 </div>
 </div>
