@@ -29,6 +29,21 @@ in the end.
 <div id="july19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 blue-day">7</div>
+<div class="col-13 col-md-10 blue-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+    <ul>
+        <li><strong>Web development</strong>: <i class="fas fa-history"></i> Describe the experience of building a website with a remote team from multiple continents.</li>
+    </ul>
+</li>
+<li>Learn the technical differences between Live CD/USB, persistent Live CD/USB, full installation on drive and inside virtual machines with fixed or dynamically allocated storage space.</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 grey-day">6</div>
 <div class="col-13 col-md-10 grey-content">
 <ul>
