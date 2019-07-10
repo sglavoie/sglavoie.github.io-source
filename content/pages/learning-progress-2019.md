@@ -29,6 +29,23 @@ in the end.
 <div id="july19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 blue-day">9</div>
+<div class="col-13 col-md-10 blue-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+    <ul>
+        <li><strong>Introduction to programming</strong>: <code>JavaScript</code>: Variables and scopes, two dimensional arrays.</li>
+        <li><strong>Numerical mathematics</strong>: Exponential functions, logarithmic functions.</li>
+    </ul>
+</li>
+<li><i class="fas fa-history"></i> <code>Vim</code> global substitution features, tags stack, <code>CTRL + F</code> in command mode to search previous commands.</li>
+<li><a href="https://classicproblems.com/">Classic Computer Science Problems in Python</a>, by David Kopec: constraint-satisfaction problem framework.</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 grey-day">8</div>
 <div class="col-13 col-md-10 grey-content">
 <ul>
