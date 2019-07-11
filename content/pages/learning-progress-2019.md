@@ -29,6 +29,22 @@ in the end.
 <div id="july19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 grey-day">10</div>
+<div class="col-13 col-md-10 grey-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+    <ul>
+        <li><strong>Introduction to programming</strong>: <code>JavaScript</code>: Nesting objects and arrays, search patterns, debugging techniques (common errors with data, iterative coding).</li>
+        <li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Exponential &amp; logarithmic functions.</li>
+    </ul>
+</li>
+<li>Read article on new features in Python 3 at <a href="https://python-catalin.blogspot.com/2019/07/python-373-about-python-version-373.html">python-catalin</a>.</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 blue-day">9</div>
 <div class="col-13 col-md-10 blue-content">
 <ul>
