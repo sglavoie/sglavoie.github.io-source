@@ -1,6 +1,6 @@
 Title: fzf - A Fuzzy Finder to Accomplish Anything
 Date: 2019-05-24 10:56
-Tags: productivity, shell, terminal
+Tags: plugin, productivity, shell, terminal
 Slug: fzf-a-fuzzy-finder-to-accomplish-anything
 Authors: Sébastien Lavoie
 Summary: Search and, most importantly, finally find what you are looking for on your machine. If you rely on the terminal a lot, **fzf** may well be capable of speeding up your productivity!
