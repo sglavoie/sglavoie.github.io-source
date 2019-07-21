@@ -29,6 +29,25 @@ in the end.
 <div id="july19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 grey-day">20</div>
+<div class="col-13 col-md-10 grey-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+    <ul>
+        <li><strong>Numerical mathematics</strong></li>
+        <ul>
+        <li>Calculus: <i class="fas fa-history"></i> introduction to limits.</li>
+        </ul>
+        <li><strong>Web development</strong>: On JavaScript: Event listeners.</li>
+    </ul>
+</li>
+<li><i class="fab fa-git"></i> How references work (<code>HEAD</code>, detached <code>HEAD</code>), <code>git reflog</code>, tags, annotated tags.</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 blue-day">19</div>
 <div class="col-13 col-md-10 blue-content">
 <ul>
