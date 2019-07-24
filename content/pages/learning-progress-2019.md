@@ -29,6 +29,23 @@ in the end.
 <div id="july19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 blue-day">23</div>
+<div class="col-13 col-md-10 blue-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+    <ul>
+        <li><strong>Numerical mathematics</strong></li>
+        <ul>
+        <li>Calculus: Limits of functions, chords and lines tangent to graphs.</li>
+        </ul>
+    </ul>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 grey-day">22</div>
 <div class="col-13 col-md-10 grey-content">
 <ul>
@@ -36,7 +53,7 @@ in the end.
     <ul>
         <li><strong>Numerical mathematics</strong></li>
         <ul>
-        <li>Calculus: Limits of sequences, limits of summations, <i class="fas fa-history"></i> Evaluating limits at infinity.</li>
+        <li>Calculus: Limits of sequences, limits of summations, <i class="fas fa-history"></i> evaluating limits at infinity.</li>
         </ul>
     </ul>
 </li>
