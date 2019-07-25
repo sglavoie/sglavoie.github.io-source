@@ -29,6 +29,24 @@ in the end.
 <div id="july19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 grey-day">24</div>
+<div class="col-13 col-md-10 grey-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+    <ul>
+        <li><strong>Numerical mathematics</strong></li>
+        <ul>
+        <li>Calculus: Differentiating polynomials and rational functions, <i class="fas fa-history"></i> limits of functions, chords and lines tangent to graphs.</li>
+        </ul>
+    </ul>
+</li>
+<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=2Fp1N6dof0Y">Python Tutorial: Calling External Commands Using the Subprocess Module</a></li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 blue-day">23</div>
 <div class="col-13 col-md-10 blue-content">
 <ul>
