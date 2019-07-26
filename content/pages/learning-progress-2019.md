@@ -29,6 +29,23 @@ in the end.
 <div id="july19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 blue-day">25</div>
+<div class="col-13 col-md-10 blue-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+    <ul>
+        <li><strong>Numerical mathematics</strong></li>
+        <ul>
+        <li>Calculus: Differentiating compositions of functions with the chain rule, <i class="fas fa-history"></i> differentiation of polynomial, rational and algebraic functions.</li>
+        </ul>
+    </ul>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 grey-day">24</div>
 <div class="col-13 col-md-10 grey-content">
 <ul>
