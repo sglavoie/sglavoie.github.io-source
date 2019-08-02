@@ -23,6 +23,30 @@ in the end.
 <div id="year2019" class="container no-padding">
 <div class="panel">
 
+<div class="row justify-content-center" role="button" data-toggle="collapse" data-parent="#year2019" href="#august19" aria-expanded="false" aria-controls="august19">
+<div class="learning-month">August</div>
+</div>
+<div id="august19" class="container collapse">
+
+<div class="row">
+<div class="col-12 col-md-2 blue-day">1</div>
+<div class="col-13 col-md-10 blue-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+    <ul>
+        <li><strong>Numerical mathematics</strong>: addition, subtraction, scalar product (dot product) with vectors and matrices.</li>
+        <ul>
+            <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab">Essence of linear algebra</a> with 3Blue1Brown: <i class="fas fa-history"></i> vectors — what even are they, linear combinations, span, and basis vectors, linear transformations and matrices.</li>
+        </ul>
+    </ul>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+
+
 <div class="row justify-content-center" role="button" data-toggle="collapse" data-parent="#year2019" href="#july19" aria-expanded="false" aria-controls="july19">
 <div class="learning-month">July</div>
 </div>
