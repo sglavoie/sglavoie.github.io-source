@@ -29,6 +29,23 @@ in the end.
 <div id="august19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 grey-day">2</div>
+<div class="col-13 col-md-10 grey-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+    <ul>
+        <li><strong>Numerical mathematics</strong></li>
+        <ul>
+            <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab">Essence of linear algebra</a> with 3Blue1Brown: <i class="fas fa-history"></i> Matrix multiplication as composition, three-dimensional linear transformations, the determinant, inverse matrices, column space and null space, nonsquare matrices as transformations between dimensions, dot products and duality, cross products.</li>
+        </ul>
+    </ul>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 blue-day">1</div>
 <div class="col-13 col-md-10 blue-content">
 <ul>
