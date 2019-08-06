@@ -29,6 +29,22 @@ in the end.
 <div id="august19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 blue-day">5</div>
+<div class="col-13 col-md-10 blue-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+    <ul>
+        <li><strong>Introduction to programming</strong>: <i class="fas fa-history"></i> Working with <code>this</code> keyword.</li>
+        <li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Vectors, dot product, matrices &amp; determinants, elementary row operations, Gaussian elemination with back-substitution, matrices with row-echelon form, analytic geometry in three dimensions.</li>
+    </ul>
+</li>
+<li><i class="fas fa-history"></i> Review JavaScript arrays on <a href="https://www.executeprogram.com">Execute Program</a>, <code>forEach</code> iterations.</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 grey-day">4</div>
 <div class="col-13 col-md-10 grey-content">
 <ul>
