@@ -29,6 +29,23 @@ in the end.
 <div id="august19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 grey-day">6</div>
+<div class="col-13 col-md-10 grey-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+    <ul>
+        <li><strong>Numerical mathematics</strong>: Vectors in space, cross-product of two vectors, <i class="fas fa-history"></i> Analytic geometry.</li>
+        <li><strong>Web development</strong>: <code>Handlebars.js</code> helpers.</li>
+    </ul>
+</li>
+    <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=mO_dS3rXDIs">Python Quick Tip: The Difference Between "==" and "is" (Equality vs Identity)</a> with Corey Schafer.</li>
+<li><i class="fas fa-history"></i> Review JavaScript arrays on <a href="https://www.executeprogram.com">Execute Program</a>.</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 blue-day">5</div>
 <div class="col-13 col-md-10 blue-content">
 <ul>
