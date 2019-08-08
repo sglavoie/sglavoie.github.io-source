@@ -29,6 +29,23 @@ in the end.
 <div id="august19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 blue-day">7</div>
+<div class="col-13 col-md-10 blue-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+    <ul>
+        <li><strong>Numerical mathematics</strong>: Triple scalar product, <i class="fas fa-history"></i> cross-product of two vectors.</li>
+        <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab">Essence of linear algebra</a> with 3Blue1Brown: <i class="fas fa-history"></i> determinant, cross products.</li>
+    </ul>
+</li>
+<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=MB0yDMQj1lU">Multi Programming</a> with Computerphile.</li>
+<li>Equality testing, <i class="fas fa-history"></i> review JavaScript arrays on <a href="https://www.executeprogram.com">Execute Program</a>.</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 grey-day">6</div>
 <div class="col-13 col-md-10 grey-content">
 <ul>
