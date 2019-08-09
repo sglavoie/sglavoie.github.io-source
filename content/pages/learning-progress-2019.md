@@ -29,6 +29,24 @@ in the end.
 <div id="august19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 grey-day">8</div>
+<div class="col-13 col-md-10 grey-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+    <ul>
+        <li><strong>Numerical mathematics</strong>: <strong>SUVAT</strong> equations in vector form, <i class="fas fa-history"></i> Operations with 2D vectors, dot product, angle between vectors, operations with 3D vectors.</li>
+        <li><strong>Web development</strong></li>
+        <ul>
+            <li>More on <code>Handlebars.js</code>: Custom expressions, partials.</li>
+        </ul>
+    </ul>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 blue-day">7</div>
 <div class="col-13 col-md-10 blue-content">
 <ul>
@@ -86,7 +104,7 @@ in the end.
     <ul>
         <li><strong>Introduction to programming</strong>: More on constructor functions, creating a particle system with an emitter (holds, adds and removes particles), making platforms in a <code>p5.js</code> game.</li>
         <li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> More on vectors, dot product.</li>
-        <li><strong>Web development</strong>: Web template systems (Mustache and <code>handlebars.js</code>).</li>
+        <li><strong>Web development</strong>: Web template systems (Mustache and <code>Handlebars.js</code>).</li>
     </ul>
 </li>
 <li>JavaScript arrays on <a href="https://www.executeprogram.com">Execute Program</a>.</li>
