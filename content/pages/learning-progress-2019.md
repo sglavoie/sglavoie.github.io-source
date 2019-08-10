@@ -29,6 +29,21 @@ in the end.
 <div id="august19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 blue-day">9</div>
+<div class="col-13 col-md-10 blue-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+    <ul>
+        <li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> matrices (linear combinations, multiplication), determinant.</li>
+    </ul>
+</li>
+<li>Using <code>git stash</code>, <code>git commit --amend</code>, <code>git diff</code>, <code>.gitignore</code> and <code>.git/info/exclude</code> files, <code>git blame</code>.</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 grey-day">8</div>
 <div class="col-13 col-md-10 grey-content">
 <ul>
