@@ -29,6 +29,22 @@ in the end.
 <div id="august19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 grey-day">12</div>
+<div class="col-13 col-md-10 grey-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+    <ul>
+        <li><strong>Numerical mathematics</strong>: Homogeneous coordinates, <i class="fas fa-history"></i> cross product of two vectors, triple scalar product, vector product, inverse of a matrix with cofactor method and Jordan-Gauss method.</li>
+    </ul>
+</li>
+<li>Using primary (<code>Shift + Insert</code>) and default (<code>Ctrl + Shift + v</code>) clipboard in terminal.</li>
+<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=f-Br8cud2eI">Git Fu Developing</a> with Coding Tech: <code>git</code> aliases (Git aliases and aliases with Shell commands <code>!</code>), logs, reflogs, stash, bisect.</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 blue-day">11</div>
 <div class="col-13 col-md-10 blue-content">
 <ul>
