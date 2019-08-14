@@ -29,6 +29,21 @@ in the end.
 <div id="august19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 blue-day">13</div>
+<div class="col-13 col-md-10 blue-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+    <ul>
+        <li><strong>Numerical mathematics</strong>: Cross product of vectors, inverse of a matrix, multiply matrices and column vectors.</li>
+    </ul>
+</li>
+<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=6tNS--WetLI">Python Tutorial: Unit Testing Your Code with the unittest Module</a> with Corey Schafer.</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 grey-day">12</div>
 <div class="col-13 col-md-10 grey-content">
 <ul>
