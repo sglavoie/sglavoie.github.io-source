@@ -29,6 +29,24 @@ in the end.
 <div id="august19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 grey-day">16</div>
+<div class="col-13 col-md-10 grey-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+    <ul>
+        <li><strong>Numerical mathematics</strong>: Affine transformations, kaleidoscopes and tilings, solving simultaneous equations using matrices, <i class="fas fa-history"></i> linear transformations of matrices, homogeneous coordinates.</li>
+        <li><strong>Web development</strong></li>
+        <ul>
+            <li>JavaScript basics: <i class="fas fa-history"></i> basic operators, operator precedence, conditional statements, boolean logic, ternary operators, switch statement, truthy &amp; falsy values, equality operators, functions, arrays, objects, properties and methods, loops and iterations, continue, break, ES5, ES2015+.</li>
+        </ul>
+    </ul>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 blue-day">15</div>
 <div class="col-13 col-md-10 blue-content">
 <ul>
@@ -38,6 +56,7 @@ in the end.
     </ul>
 </li>
 <li><strong>Neovim</strong>: <i class="fas fa-history"></i> Using the <code>dot</code> command (dot formula).</li>
+<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=0NO3MJkxm2g">Comments in Python: Best Practices</a> with Real Python.</li>
 <li><i class="fas fa-history"></i>Equality testing, review JavaScript arrays on <a href="https://www.executeprogram.com">Execute Program</a>.</li>
 </ul>
 </div>
