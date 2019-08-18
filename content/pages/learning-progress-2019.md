@@ -29,6 +29,24 @@ in the end.
 <div id="august19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 blue-day">17</div>
+<div class="col-13 col-md-10 blue-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+    <ul>
+        <li><strong>Numerical mathematics</strong>: Introduction to combinatorics and probability, counting principles, independent events (multiplication law), permutations, mutually exclusive events, complement of an event, combinations.</li>
+        <li><strong>Web development</strong></li>
+        <ul>
+            <li>JavaScript basics: Execution context, execution stack (creation and execution phases), hoisting, scoping and scoping chain, DOM manipulation and events, <i class="fas fa-history"></i> <code>this</code> keyword in practice.</li>
+        </ul>
+    </ul>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 grey-day">16</div>
 <div class="col-13 col-md-10 grey-content">
 <ul>
