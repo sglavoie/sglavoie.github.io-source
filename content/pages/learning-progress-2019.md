@@ -29,6 +29,21 @@ in the end.
 <div id="august19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 grey-day">19</div>
+<div class="col-13 col-md-10 grey-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+    <ul>
+        <li><strong>Introduction to programming</strong>: <i class="fas fa-history"></i> JavaScript arrays, debugging techniques, methods, vector objects in <code>p5.js</code>.</li>
+        <li><strong>Numerical mathematics</strong>: Probability &amp; statistics: independent events, complement of an event, averages (mean, median, mode), variance, standard deviation, conditional probability, sets.</li>
+    </ul>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 blue-day">17</div>
 <div class="col-13 col-md-10 blue-content">
 <ul>
@@ -37,7 +52,7 @@ in the end.
         <li><strong>Numerical mathematics</strong>: Introduction to combinatorics and probability, counting principles, independent events (multiplication law), permutations, mutually exclusive events, complement of an event, combinations.</li>
         <li><strong>Web development</strong></li>
         <ul>
-            <li>JavaScript basics: Execution context, execution stack (creation and execution phases), hoisting, scoping and scoping chain, DOM manipulation and events, <i class="fas fa-history"></i> <code>this</code> keyword in practice.</li>
+            <li>JavaScript basics: Execution context, execution stack (creation and execution phases), hoisting, scoping and scoping chain, DOM manipulation and events, <i class="fas fa-history"></i> <code>this</code> keyword in practice, events handlers &amp; events listeners.</li>
         </ul>
     </ul>
 </li>
