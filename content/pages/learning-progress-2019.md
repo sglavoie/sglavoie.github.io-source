@@ -29,6 +29,21 @@ in the end.
 <div id="september19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 blue-day">3</div>
+<div class="col-13 col-md-10 blue-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+    <ul>
+        <li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Calculus, linear algebra, sequences &amp; series, probability, number bases, modular arithmetic.</li>
+    </ul>
+</li>
+<li>Creating a watchdog in <i class="fab fa-python"></i> Python.</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 grey-day">2</div>
 <div class="col-13 col-md-10 grey-content">
 <ul>
