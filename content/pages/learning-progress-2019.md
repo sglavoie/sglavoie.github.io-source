@@ -29,6 +29,20 @@ in the end.
 <div id="september19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 blue-day">5</div>
+<div class="col-13 col-md-10 blue-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+    <ul>
+        <li><strong>Introduction to programming</strong>: Splitting application into modules, <i class="fas fa-history"></i> working with sound in <code>p5.js</code>.</li>
+    </ul>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 grey-day">4</div>
 <div class="col-13 col-md-10 grey-content">
 <ul>
