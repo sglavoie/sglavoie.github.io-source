@@ -29,6 +29,24 @@ in the end.
 <div id="september19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 blue-day">9</div>
+<div class="col-13 col-md-10 blue-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+    <ul>
+        <li><strong>Web development</strong></li>
+        <ul>
+            <li><i class="fas fa-history"></i> Review how Bootstrap framework works: setup, typography, alignment, positioning, CSS breakpoints, buttons, nav bars.</li>
+        </ul>
+    </ul>
+</li>
+<li>Recursion in <code>p5.js</code>: <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=jPsZwrV9ld0">Coding Challenge #77: Recursion</a>.</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 grey-day">8</div>
 <div class="col-13 col-md-10 grey-content">
 <ul>
@@ -51,7 +69,7 @@ in the end.
         <li><strong>Introduction to programming</strong>: Working with realistic physics animations, particle systems (fireworks), working with the DOM inside <code>p5.js</code>.</li>
     </ul>
 </li>
-<li>Closures in JavaScript.</li>
+<li>Closures in <i class="fab fa-js"></i> JavaScript.</li>
 </ul>
 </div>
 </div>
@@ -314,7 +332,7 @@ in the end.
 <ul>
 <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
     <ul>
-        <li><strong>Introduction to programming</strong>: <i class="fas fa-history"></i> JavaScript arrays, debugging techniques, methods, vector objects in <code>p5.js</code>.</li>
+        <li><strong>Introduction to programming</strong>: <i class="fas fa-history"></i> <i class="fab fa-js"></i> JavaScript arrays, debugging techniques, methods, vector objects in <code>p5.js</code>.</li>
         <li><strong>Numerical mathematics</strong>: Probability &amp; statistics: independent events, complement of an event, averages (mean, median, mode), variance, standard deviation, conditional probability, sets.</li>
     </ul>
 </li>
@@ -332,7 +350,7 @@ in the end.
         <li><strong>Numerical mathematics</strong>: Introduction to combinatorics and probability, counting principles, independent events (multiplication law), permutations, mutually exclusive events, complement of an event, combinations.</li>
         <li><strong>Web development</strong></li>
         <ul>
-            <li>JavaScript basics: Execution context, execution stack (creation and execution phases), hoisting, scoping and scoping chain, DOM manipulation and events, <i class="fas fa-history"></i> <code>this</code> keyword in practice, events handlers &amp; events listeners.</li>
+            <li><i class="fab fa-js"></i> JavaScript basics: Execution context, execution stack (creation and execution phases), hoisting, scoping and scoping chain, DOM manipulation and events, <i class="fas fa-history"></i> <code>this</code> keyword in practice, events handlers &amp; events listeners.</li>
         </ul>
     </ul>
 </li>
@@ -350,7 +368,7 @@ in the end.
         <li><strong>Numerical mathematics</strong>: Affine transformations, kaleidoscopes and tilings, solving simultaneous equations using matrices, <i class="fas fa-history"></i> linear transformations of matrices, homogeneous coordinates.</li>
         <li><strong>Web development</strong></li>
         <ul>
-            <li>JavaScript basics: <i class="fas fa-history"></i> basic operators, operator precedence, conditional statements, boolean logic, ternary operators, switch statement, truthy &amp; falsy values, equality operators, functions, arrays, objects, properties and methods, loops and iterations, continue, break, ES5, ES2015+.</li>
+            <li><i class="fab fa-js"></i> JavaScript basics: <i class="fas fa-history"></i> basic operators, operator precedence, conditional statements, boolean logic, ternary operators, switch statement, truthy &amp; falsy values, equality operators, functions, arrays, objects, properties and methods, loops and iterations, continue, break, ES5, ES2015+.</li>
         </ul>
     </ul>
 </li>
@@ -370,7 +388,7 @@ in the end.
 </li>
 <li><strong>Neovim</strong>: <i class="fas fa-history"></i> Using the <code>dot</code> command (dot formula).</li>
 <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=0NO3MJkxm2g">Comments in Python: Best Practices</a> with Real Python.</li>
-<li><i class="fas fa-history"></i>Equality testing, review JavaScript arrays on <a href="https://www.executeprogram.com">Execute Program</a>.</li>
+<li><i class="fas fa-history"></i>Equality testing, review <i class="fab fa-js"></i> JavaScript arrays on <a href="https://www.executeprogram.com">Execute Program</a>.</li>
 </ul>
 </div>
 </div>
@@ -496,7 +514,7 @@ in the end.
     </ul>
 </li>
 <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=MB0yDMQj1lU">Multi Programming</a> with Computerphile.</li>
-<li>Equality testing, <i class="fas fa-history"></i> review JavaScript arrays on <a href="https://www.executeprogram.com">Execute Program</a>.</li>
+<li>Equality testing, <i class="fas fa-history"></i> review <i class="fab fa-js"></i> JavaScript arrays on <a href="https://www.executeprogram.com">Execute Program</a>.</li>
 </ul>
 </div>
 </div>
@@ -513,7 +531,7 @@ in the end.
     </ul>
 </li>
     <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=mO_dS3rXDIs">Python Quick Tip: The Difference Between "==" and "is" (Equality vs Identity)</a> with Corey Schafer.</li>
-<li><i class="fas fa-history"></i> Review JavaScript arrays on <a href="https://www.executeprogram.com">Execute Program</a>.</li>
+<li><i class="fas fa-history"></i> Review <i class="fab fa-js"></i> JavaScript arrays on <a href="https://www.executeprogram.com">Execute Program</a>.</li>
 </ul>
 </div>
 </div>
@@ -529,7 +547,7 @@ in the end.
         <li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Vectors, dot product, matrices &amp; determinants, elementary row operations, Gaussian elemination with back-substitution, matrices with row-echelon form, analytic geometry in three dimensions.</li>
     </ul>
 </li>
-<li><i class="fas fa-history"></i> Review JavaScript arrays on <a href="https://www.executeprogram.com">Execute Program</a>, <code>forEach</code> iterations.</li>
+<li><i class="fas fa-history"></i> Review <i class="fab fa-js"></i> JavaScript arrays on <a href="https://www.executeprogram.com">Execute Program</a>, <code>forEach</code> iterations.</li>
 </ul>
 </div>
 </div>
@@ -546,7 +564,7 @@ in the end.
         <li><strong>Web development</strong>: Web template systems (Mustache and <code>Handlebars.js</code>).</li>
     </ul>
 </li>
-<li>JavaScript arrays on <a href="https://www.executeprogram.com">Execute Program</a>.</li>
+<li><i class="fab fa-js"></i> JavaScript arrays on <a href="https://www.executeprogram.com">Execute Program</a>.</li>
 </ul>
 </div>
 </div>
@@ -688,8 +706,8 @@ in the end.
         <li>Calculus: <i class="fas fa-history"></i> The quotient rule, product rule, chain rule.</li>
         <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=yQrKXo89nHA">Chains f(g(x)) and the chain rule</a> by MIT</li>
         </ul>
-        <li><strong>Web development</strong>: On JavaScript: touch events, orientation events.</li>
-        <li><strong>Introduction to programming</strong>: JavaScript methods.</li>
+        <li><strong>Web development</strong>: On <i class="fab fa-js"></i> JavaScript: touch events, orientation events.</li>
+        <li><strong>Introduction to programming</strong>: <i class="fab fa-js"></i> JavaScript methods.</li>
     </ul>
 </li>
 </ul>
@@ -810,7 +828,7 @@ in the end.
         <ul>
         <li>Calculus: <i class="fas fa-history"></i> Introduction to limits.</li>
         </ul>
-        <li><strong>Web development</strong>: On JavaScript: Event listeners.</li>
+        <li><strong>Web development</strong>: On <i class="fab fa-js"></i> JavaScript: Event listeners.</li>
     </ul>
 </li>
 <li><i class="fab fa-git"></i> How references work (<code>HEAD</code>, detached <code>HEAD</code>), <code>git reflog</code>, tags, annotated tags.</li>
@@ -928,7 +946,7 @@ in the end.
 <ul>
 <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
     <ul>
-        <li><strong>Web development</strong>: Manipulating the DOM, events and events handlers, <i class="fas fa-history"></i> JavaScript syntax.</li>
+        <li><strong>Web development</strong>: Manipulating the DOM, events and events handlers, <i class="fas fa-history"></i> <i class="fab fa-js"></i> JavaScript syntax.</li>
     </ul>
 </li>
 </ul>
@@ -970,7 +988,7 @@ in the end.
 <ul>
 <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
     <ul>
-        <li><strong>Introduction to programming</strong>: <code>JavaScript</code>: Nesting objects and arrays, search patterns, debugging techniques (common errors with data, iterative coding).</li>
+        <li><strong>Introduction to programming</strong>: <i class="fab fa-js"></i> JavaScript: Nesting objects and arrays, search patterns, debugging techniques (common errors with data, iterative coding).</li>
         <li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Exponential &amp; logarithmic functions.</li>
     </ul>
 </li>
@@ -986,7 +1004,7 @@ in the end.
 <ul>
 <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
     <ul>
-        <li><strong>Introduction to programming</strong>: <code>JavaScript</code>: Variables and scopes, two dimensional arrays.</li>
+        <li><strong>Introduction to programming</strong>: <i class="fab fa-js"></i> JavaScript: Variables and scopes, two dimensional arrays.</li>
         <li><strong>Numerical mathematics</strong>: Exponential functions, logarithmic functions.</li>
     </ul>
 </li>
@@ -1003,7 +1021,7 @@ in the end.
 <ul>
 <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
     <ul>
-        <li><strong>Web development</strong>: Introduction to JavaScript for the web: client-side JavaScript, roles of the language.</li>
+        <li><strong>Web development</strong>: Introduction to <i class="fab fa-js"></i> JavaScript for the web: client-side JavaScript, roles of the language.</li>
     </ul>
 </li>
 </ul>
@@ -1475,7 +1493,7 @@ in the end.
 <ul>
 <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
 <ul>
-<li><strong>Introduction to programming</strong>: JavaScript <code>for</code> loops, arrays.</li>
+<li><strong>Introduction to programming</strong>: <i class="fab fa-js"></i> JavaScript <code>for</code> loops, arrays.</li>
 <li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Trigonometry.</li>
 <li><strong>Web development</strong>: CSS grids and columns, CSS animations, accessibility in CSS.</li>
 </ul>
@@ -1671,7 +1689,7 @@ in the end.
 <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
 <ul>
 <li><strong>Introduction to programming</strong>: Conditionals with types, debugging techniques.
-<ul><li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw">The Coding Train</a>: nested loops, functions, function parameters &amp; arguments, functions &amp; returns, classes in JavaScript with ES6, constructor arguments with classes in JavaScript, web editor: adding JavaScript files, what is an array, arrays &amp; loops, arrays of objects, for of loops, mouse interactions with objects, removing objects from arrays, <i class="fas fa-history"></i> while &amp; for loops.</li></ul>
+<ul><li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw">The Coding Train</a>: nested loops, functions, function parameters &amp; arguments, functions &amp; returns, classes in <i class="fab fa-js"></i> JavaScript with ES6, constructor arguments with classes in JavaScript, web editor: adding JavaScript files, what is an array, arrays &amp; loops, arrays of objects, for of loops, mouse interactions with objects, removing objects from arrays, <i class="fas fa-history"></i> while &amp; for loops.</li></ul>
 </li>
 <li><strong>Web development</strong>: HTML body, introduction to CSS.</li>
 </ul>
@@ -1791,7 +1809,7 @@ in the end.
 <ul>
 <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
 <ul>
-<li><strong>Introduction to programming</strong>: Type casting in JavaScript.</li>
+<li><strong>Introduction to programming</strong>: Type casting in <i class="fab fa-js"></i> JavaScript.</li>
 <li><strong>Numerical mathematics</strong>: Cartesian coordinates, 2D &amp; 3D shapes in planes.</li></ul>
 </ul>
 </div>
@@ -2287,7 +2305,7 @@ in the end.
 <ul>
 <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
 <ul>
-<li><strong>Introduction to programming</strong>: JavaScript objects, conditionals and variable types.</li>
+<li><strong>Introduction to programming</strong>: <i class="fab fa-js"></i> JavaScript objects, conditionals and variable types.</li>
 <li><strong>Web development</strong>: How a web browser works; the importance of design; content, structure &amp; storytelling.</li>
 </ul>
 </ul>
@@ -2301,7 +2319,7 @@ in the end.
 <ul>
 <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
 <ul>
-<li><i class="fas fa-history"></i> <strong>Introduction to programming</strong>: built-in variables, JavaScript objects.</li>
+<li><i class="fas fa-history"></i> <strong>Introduction to programming</strong>: built-in variables, <i class="fab fa-js"></i> JavaScript objects.</li>
 <li><strong>Web development</strong>: Delivering Web content.</li>
 </ul>
 </ul>
@@ -2315,7 +2333,7 @@ in the end.
 <ul>
 <li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
 <ul>
-<li><strong>Introduction to programming</strong>: built-in variables, JavaScript objects.</li>
+<li><strong>Introduction to programming</strong>: built-in variables, <i class="fab fa-js"></i> JavaScript objects.</li>
 <li><strong>Numerical mathematics</strong>: Algorithms for converting binary from/to decimal with fractional part.</li>
 </ul>
 <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=1lxrb_ezP-g">How to Write Python Scripts to Analyze JSON APIs and Sort Results</a> with Corey Schafer.</li>
@@ -2829,7 +2847,7 @@ in the end.
 <ul>
 <li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Steganography (hiding text and images inside another image) in binary, hexadecimal and decimal.</li>
 <li><a href="https://www.coursera.org/learn/learning-how-to-learn/">Mindshift</a> <i class="fas fa-university"></i> on Coursera: Learning environment, memory tips, meditation (focused attention and open monitoring).</li>
-<li><em>10 Days of JavaScript</em> <i class="fab fa-js"></i> on <a href="https://www.hackerrank.com/">HackerRank.com</a>: Bitwise operators, signed binary numbers.</li>
+<li><em>10 Days of <i class="fab fa-js"></i> JavaScript</em> <i class="fab fa-js"></i> on <a href="https://www.hackerrank.com/">HackerRank.com</a>: Bitwise operators, signed binary numbers.</li>
 <li><i class="fab fa-youtube"></i> Refresher on <a href="https://amzn.to/2ThgwA2">So Good They Can't Ignore You</a>, by Cal Newport with <a href="https://www.youtube.com/watch?v=qwOdU02SE0w">Talks at Google</a>.</li>
 </ul>
 </div>
@@ -2842,7 +2860,7 @@ in the end.
 <ul>
 <li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Arithmetic in binary, working with octal and hexadecimal numbers (integers and fractions).</li>
 <li><a href="https://www.coursera.org/learn/learning-how-to-learn/">Mindshift</a> <i class="fas fa-university"></i> on Coursera: Ideas on pace and style of learning.</li>
-<li><em>10 Days of JavaScript</em> <i class="fab fa-js"></i> on <a href="https://www.hackerrank.com/">HackerRank.com</a>: Template literals, arrow functions.</li>
+<li><em>10 Days of <i class="fab fa-js"></i> JavaScript</em> <i class="fab fa-js"></i> on <a href="https://www.hackerrank.com/">HackerRank.com</a>: Template literals, arrow functions.</li>
 </ul>
 </div>
 </div>
@@ -2896,7 +2914,7 @@ in the end.
 <div class="col-12 col-md-10 blue-content">
 <ul>
 <li>Started <a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera, course offered by Goldsmiths, University of London: Number bases, converting between binary and decimals with fraction, rational and irrational numbers.</li>
-<li><em>10 Days of JavaScript</em> <i class="fab fa-js"></i> on <a href="https://www.hackerrank.com/">HackerRank.com</a>: Classes, inheritance.</li>
+<li><em>10 Days of <i class="fab fa-js"></i> JavaScript</em> <i class="fab fa-js"></i> on <a href="https://www.hackerrank.com/">HackerRank.com</a>: Classes, inheritance.</li>
 </ul>
 </div>
 </div>
@@ -2917,7 +2935,7 @@ in the end.
 <div class="col-12 col-md-10 blue-content">
 <ul>
 <li><a href="https://www.coursera.org/learn/how-computers-work/">How Computers Work</a> <i class="fas fa-university"></i>, Coursera: Abstractions, notional machines, application states, modularity.</li>
-<li><em>10 Days of JavaScript</em> <i class="fab fa-js"></i> on <a href="https://www.hackerrank.com/">HackerRank.com</a>: Object initializers, dot notation, bracket notation.</li>
+<li><em>10 Days of <i class="fab fa-js"></i> JavaScript</em> <i class="fab fa-js"></i> on <a href="https://www.hackerrank.com/">HackerRank.com</a>: Object initializers, dot notation, bracket notation.</li>
 </ul>
 </div>
 </div>
@@ -2948,7 +2966,7 @@ in the end.
 <div class="col-12 col-md-2 grey-day">9</div>
 <div class="col-12 col-md-10 grey-content">
 <ul>
-<li><em>10 Days of JavaScript</em> <i class="fab fa-js"></i> on <a href="https://www.hackerrank.com/">HackerRank.com</a>: Regular expressions, arrays, error handling, creating objects.</li>
+<li><em>10 Days of <i class="fab fa-js"></i> JavaScript</em> <i class="fab fa-js"></i> on <a href="https://www.hackerrank.com/">HackerRank.com</a>: Regular expressions, arrays, error handling, creating objects.</li>
 </ul>
 </div>
 </div>
@@ -2970,7 +2988,7 @@ in the end.
 <ul>
 <li>Set up dotfiles on <a href="https://www.github.com/">GitHub</a> <i class="fab fa-github"></i>.</li>
 <li>Configure and use <a href="http://zsh.sourceforge.net/">Z Shell</a> (Zsh) <i class="fas fa-terminal"></i>.</li>
-<li><em>10 Days of JavaScript</em> <i class="fab fa-js"></i> on <a href="https://www.hackerrank.com/">HackerRank.com</a>: Arithmetic operators, functions, let &amp; const, conditional statements (if-else, switch), strings, loops.</li>
+<li><em>10 Days of <i class="fab fa-js"></i> JavaScript</em> <i class="fab fa-js"></i> on <a href="https://www.hackerrank.com/">HackerRank.com</a>: Arithmetic operators, functions, let &amp; const, conditional statements (if-else, switch), strings, loops.</li>
 </ul>
 </div>
 </div>
@@ -2981,7 +2999,7 @@ in the end.
 <div class="col-12 col-md-10 blue-content">
 <ul>
 <li><i class="fas fa-history"></i> Review SQL commands.</li>
-<li>Started <em>10 Days of JavaScript</em> <i class="fab fa-js"></i> on <a href="https://www.hackerrank.com/">HackerRank.com</a>.</li>
+<li>Started <em>10 Days of <i class="fab fa-js"></i> JavaScript</em> <i class="fab fa-js"></i> on <a href="https://www.hackerrank.com/">HackerRank.com</a>.</li>
 </ul>
 </div>
 </div>
@@ -3090,7 +3108,7 @@ in the end.
 <div class="col-12 col-md-2 blue-day">14</div>
 <div class="col-12 col-md-10 blue-content">
 <ul>
-<li>JavaScript <i class="fab fa-js"></i>: built-in variables and events.</li>
+<li><i class="fab fa-js"></i> JavaScript: built-in variables and events.</li>
 </ul>
 </div>
 </div>
@@ -3101,7 +3119,7 @@ in the end.
 <div class="col-12 col-md-10 grey-content">
 <ul>
 <li>Creating abstract SVG paths in <a href="https://inkscape.org/">Inkscape</a>.</li>
-<li>Creating functions in JavaScript <i class="fab fa-js"></i> with <code>Processing.js</code> &amp; <code>p5.js</code>.</li>
+<li>Creating functions in <i class="fab fa-js"></i> JavaScript with <code>Processing.js</code> &amp; <code>p5.js</code>.</li>
 </ul>
 </div>
 </div>
