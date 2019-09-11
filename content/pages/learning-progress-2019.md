@@ -29,6 +29,24 @@ in the end.
 <div id="september19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 grey-day">10</div>
+<div class="col-13 col-md-10 grey-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+    <ul>
+        <li><strong>Web development</strong></li>
+        <ul>
+            <li>Bootstrap 4 framework: List group items, badges, forms, input groups, alerts, progress bars, tables, pagination, cards, media objects, grid system flexbox, JavaScript widgets, collapse widget, accordion widget, tooltips, popovers, modals.</li>
+        </ul>
+    </ul>
+</li>
+<li><code>Gulp</code> with <code>node.js</code>, <i class="fas fa-history"></i> Emmet syntax.</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 blue-day">9</div>
 <div class="col-13 col-md-10 blue-content">
 <ul>
@@ -36,7 +54,7 @@ in the end.
     <ul>
         <li><strong>Web development</strong></li>
         <ul>
-            <li><i class="fas fa-history"></i> Review how Bootstrap framework works: setup, typography, alignment, positioning, CSS breakpoints, buttons, nav bars.</li>
+            <li><i class="fas fa-history"></i> Review how Bootstrap 4 framework works: setup, typography, alignment, positioning, CSS breakpoints, buttons, nav bars.</li>
         </ul>
     </ul>
 </li>
