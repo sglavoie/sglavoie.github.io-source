@@ -29,6 +29,24 @@ in the end.
 <div id="september19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 blue-day">11</div>
+<div class="col-13 col-md-10 blue-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+    <ul>
+        <li><strong>Web development</strong></li>
+        <ul>
+            <li><i class="fas fa-history"></i> General review of Bootstrap 4 framework.</li>
+        </ul>
+    </ul>
+</li>
+<li>Using progress bars with <a href="https://click.palletsprojects.com/">Click</a>, compiling SASS with <code>ruby-sass</code> Using <a href="http://kenwheeler.github.io/slick/">Slick</a> and <a href="https://ashleydw.github.io/lightbox/">Lightbox</a> as JavaScript plugins.</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 grey-day">10</div>
 <div class="col-13 col-md-10 grey-content">
 <ul>
