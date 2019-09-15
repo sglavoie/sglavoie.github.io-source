@@ -29,6 +29,23 @@ in the end.
 <div id="september19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 grey-day">14</div>
+<div class="col-13 col-md-10 grey-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+    <ul>
+        <li><strong>Web development</strong></li>
+        <ul>
+            <li><i class="fas fa-history"></i> Working with Slick carousel, Lightbox plugin for Bootstrap, touch events in JavaScript, event handlers &amp; event listeners.</li>
+        </ul>
+    </ul>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 blue-day">13</div>
 <div class="col-13 col-md-10 blue-content">
 <ul>
