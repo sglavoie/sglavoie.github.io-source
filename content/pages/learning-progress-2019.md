@@ -29,6 +29,15 @@ in the end.
 <div id="september19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 grey-day">18</div>
+<div class="col-13 col-md-10 grey-content">
+<ul>
+<li><i class="fab fa-git"></i> Git <i class="fas fa-history"></i>: Merge, rebase, branches.</li>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 blue-day">17</div>
 <div class="col-13 col-md-10 blue-content">
 <ul>
