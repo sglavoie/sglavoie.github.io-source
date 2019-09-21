@@ -29,6 +29,15 @@ in the end.
 <div id="september19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 grey-day">20</div>
+<div class="col-13 col-md-10 grey-content">
+<ul>
+<li>Pragmatic Programmer: Prototyping, domain languages (internal, external languages), estimating, relying on systems with plain text files, using the command shell, making the most of your text editor, using VCS for everything, advice on debugging, manipulating text with dedicated tools and programming languages, how to work with engineering daybooks, killing programs early, when and when not to use assertions, balancing system resources, decoupling code (the one-dot rule of chaining method calls, avoiding global data).</li>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 blue-day">19</div>
 <div class="col-13 col-md-10 blue-content">
 <ul>
