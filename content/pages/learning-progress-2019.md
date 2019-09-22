@@ -29,6 +29,15 @@ in the end.
 <div id="september19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 blue-day">21</div>
+<div class="col-13 col-md-10 blue-content">
+<ul>
+<li>Customizing <code>zsh</code> better.</li>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 grey-day">20</div>
 <div class="col-13 col-md-10 grey-content">
 <ul>
