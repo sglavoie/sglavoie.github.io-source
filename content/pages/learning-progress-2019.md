@@ -29,6 +29,18 @@ in the end.
 <div id="september19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 grey-day">23</div>
+<div class="col-13 col-md-10 grey-content">
+<ul>
+<li>Threading in <i class="fab fa-python"></i> Python <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=IEEhzQoKtQU">with Corey Schafer</a>.</li>
+<li>Multiprocessing in <i class="fab fa-python"></i> Python <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=fKl2JW_qrso">with Corey Schafer</a>.</li>
+<li>Pragmatic Programmer: Prototyping.</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 blue-day">21</div>
 <div class="col-13 col-md-10 blue-content">
 <ul>
@@ -42,6 +54,7 @@ in the end.
 <div class="col-13 col-md-10 grey-content">
 <ul>
 <li>Pragmatic Programmer: Prototyping, domain languages (internal, external languages), estimating, relying on systems with plain text files, using the command shell, making the most of your text editor, using VCS for everything, advice on debugging, manipulating text with dedicated tools and programming languages, how to work with engineering daybooks, killing programs early, when and when not to use assertions, balancing system resources, decoupling code (the one-dot rule of chaining method calls, avoiding global data).</li>
+</ul>
 </div>
 </div>
 
@@ -51,6 +64,7 @@ in the end.
 <div class="col-13 col-md-10 blue-content">
 <ul>
 <li>Pragmatic Programmer: Design principles (ETC [easier to change]), DRY [Don't Repeat Yourself]), orthogonality (independence of components), reversibility.</li>
+</ul>
 </div>
 </div>
 
@@ -60,6 +74,7 @@ in the end.
 <div class="col-13 col-md-10 grey-content">
 <ul>
 <li><i class="fab fa-git"></i> Git <i class="fas fa-history"></i>: Merge, rebase, branches.</li>
+</ul>
 </div>
 </div>
 
@@ -69,6 +84,7 @@ in the end.
 <div class="col-13 col-md-10 blue-content">
 <ul>
 <li><i class="fab fa-git"></i> Git <i class="fas fa-history"></i>: staging, unstaging, checkout, reset, rebase.</li>
+</ul>
 </div>
 </div>
 
