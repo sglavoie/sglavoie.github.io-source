@@ -29,6 +29,16 @@ in the end.
 <div id="september19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 blue-day">24</div>
+<div class="col-13 col-md-10 blue-content">
+<ul>
+<li>Read <a href="https://realpython.com/python-virtual-environments-a-primer/">Python Virtual Environments: A Primer</a> on Real Python.</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 grey-day">23</div>
 <div class="col-13 col-md-10 grey-content">
 <ul>
