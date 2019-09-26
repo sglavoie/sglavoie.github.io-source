@@ -16,54 +16,6 @@ from pelican import __version__
 CURRENT_PATH = os.path.dirname(os.path.realpath(__file__))
 
 
-def num_articles():
-    """Return the number of articles that match the following regex as
-    an integer."""
-    return len(glob.glob("./content/**/[0-9][0-9][0-9][0-9]*.md"))
-
-
-def read_tree():
-    """Execute `tree` command to output HTML with colors. Filter out the
-    noise and keep the essential part as a template to be included in
-    `tree.html`."""
-    subprocess.run(f"tree -C -H . ./output/ > tree.txt", shell=True)
-    body = False
-    extracted_tree = []
-    with open("tree.txt") as f:
-        for line in f:
-            if not body:
-                if "<body>" in line:
-                    body = True
-            else:
-                if "</body>" in line:
-                    break
-                extracted_tree.append(line)
-    with open("./themes/SL/templates/tree_content.html", "w") as f:
-        for line in extracted_tree:
-            f.write(line)
-
-
-def daily_stats():
-    """Execute `Gitstats` once a day based on the date found in
-    `stats_counter.txt`. Very simple with a caveat: it won't check if
-    there are new commits on the same day if stats have already been
-    generated on that day."""
-    today = datetime.today().strftime("%Y%m%d")
-    with open("stats_counter.txt") as f:
-        content = f.readline().strip()
-    if content != today:
-        cmd = [
-            "gitstats",
-            "-c",
-            "project_name='sglavoie.com'",
-            f"{CURRENT_PATH}",
-            f"{CURRENT_PATH}/output/stats/",
-        ]
-        subprocess.run(cmd)
-        with open("stats_counter.txt", "w") as f:
-            f.write(today)
-
-
 def get_cache_id(filename):
     md5 = hashlib.md5()
 
@@ -77,7 +29,7 @@ def get_cache_id(filename):
 PELICAN_VERSION = __version__
 
 ABOUT_VERSION = "0.8.0"  # major.minor.bug_fix
-SITE_VERSION = "v0.19.1"  # major.minor.bug_fix
+SITE_VERSION = "v0.20.0"  # major.minor.bug_fix
 CURRENT_YEAR = datetime.today().year
 DEFAULT_DATE_FORMAT = "%B %d, %Y"
 LAST_UPDATE = datetime.now().strftime(DEFAULT_DATE_FORMAT)
@@ -194,10 +146,5 @@ ARTICLE_SAVE_AS = "posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html"
 
 
 # Custom behavior below
-
-daily_stats()
-read_tree()
-
-NUM_ARTICLES = num_articles()
 BASE_CSS = get_cache_id(f"{THEME}/static/css/base.css")
 PYGMENT_CSS = get_cache_id(f"{THEME}/static/css/pygment.css")
