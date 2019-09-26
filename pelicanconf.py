@@ -28,7 +28,7 @@ def get_cache_id(filename):
 
 PELICAN_VERSION = __version__
 
-ABOUT_VERSION = "0.8.0"  # major.minor.bug_fix
+ABOUT_VERSION = "0.9.0"  # major.minor.bug_fix
 SITE_VERSION = "v0.20.0"  # major.minor.bug_fix
 CURRENT_YEAR = datetime.today().year
 DEFAULT_DATE_FORMAT = "%B %d, %Y"
@@ -127,7 +127,6 @@ DIRECT_TEMPLATES = [
     # other HTML templates to render
     "tags",
     "about",
-    "tree",
 ]
 
 STATIC_PATHS = ["files", "images"]
