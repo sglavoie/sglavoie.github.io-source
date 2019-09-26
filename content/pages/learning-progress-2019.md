@@ -29,6 +29,17 @@ in the end.
 <div id="september19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 grey-day">25</div>
+<div class="col-13 col-md-10 grey-content">
+<ul>
+<li>Pragmatic Programmer: Inheritance, using external configuration in applications, concurrency and parallelism, tips on following instincts and programming deliberately, estimating algorithms speed, refactoring, testing code.</li>
+<li>Read article <a href="https://www.howtogeek.com/440848/how-to-run-and-control-background-processes-on-linux/">How to Run and Control Background Processes on Linux</a> on How To Geek.</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 blue-day">24</div>
 <div class="col-13 col-md-10 blue-content">
 <ul>
