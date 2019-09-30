@@ -29,10 +29,32 @@ in the end.
 <div id="september19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 grey-day">29</div>
+<div class="col-13 col-md-10 grey-content">
+<ul>
+<li>Finish reading <i class="fas fa-book"></i> Pragmatic Programmer: Continuous development, pragmatic starter kit (version control, regression testing, full automation).</li>
+<li><i class="fas fa-book"></i> Introduction to Algorithms, Third Edition: The role of algorithms in computing.</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
+<div class="col-12 col-md-2 blue-day">28</div>
+<div class="col-13 col-md-10 blue-content">
+<ul>
+<li><i class="fas fa-book"></i> Pragmatic Programmer: Security basic principles, naming things, software requirements, requirements documents, agile movement.</li>
+<li><i class="fas fa-calculator"></i> Solve <a href="https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem">Find the Torsional Angle challenge</a> (<i class="fab fa-python"></i> Python) on HackerRank.</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 grey-day">27</div>
 <div class="col-13 col-md-10 grey-content">
 <ul>
-<li>Pragmatic Programmer: Test-driven development, unit testing, property-based testing, security basic principles.</li>
+<li><i class="fas fa-book"></i> Pragmatic Programmer: Test-driven development, unit testing, property-based testing, security basic principles.</li>
 <li>Develop Slack app locally with <a href="https://ngrok.com/">ngrok</a>.</li>
 <li><i class="fas fa-calculator"></i> Solve <a href="https://www.hackerrank.com/challenges/hex-color-code/problem">Hex Color Code regex challenge</a> (<i class="fab fa-python"></i> Python) on HackerRank.</li>
 </ul>
@@ -57,7 +79,7 @@ in the end.
 <div class="col-12 col-md-2 grey-day">25</div>
 <div class="col-13 col-md-10 grey-content">
 <ul>
-<li>Pragmatic Programmer: Inheritance, using external configuration in applications, concurrency and parallelism, tips on following instincts and programming deliberately, estimating algorithms speed, refactoring, testing code.</li>
+<li><i class="fas fa-book"></i> Pragmatic Programmer: Inheritance, using external configuration in applications, concurrency and parallelism, tips on following instincts and programming deliberately, estimating algorithms speed, refactoring, testing code.</li>
 <li>Read article <a href="https://www.howtogeek.com/440848/how-to-run-and-control-background-processes-on-linux/">How to Run and Control Background Processes on Linux</a> on How To Geek.</li>
 </ul>
 </div>
@@ -80,7 +102,7 @@ in the end.
 <ul>
 <li>Threading in <i class="fab fa-python"></i> Python <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=IEEhzQoKtQU">with Corey Schafer</a>.</li>
 <li>Multiprocessing in <i class="fab fa-python"></i> Python <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=fKl2JW_qrso">with Corey Schafer</a>.</li>
-<li>Pragmatic Programmer: Prototyping.</li>
+<li><i class="fas fa-book"></i> Pragmatic Programmer: Prototyping.</li>
 </ul>
 </div>
 </div>
@@ -99,7 +121,7 @@ in the end.
 <div class="col-12 col-md-2 grey-day">20</div>
 <div class="col-13 col-md-10 grey-content">
 <ul>
-<li>Pragmatic Programmer: Prototyping, domain languages (internal, external languages), estimating, relying on systems with plain text files, using the command shell, making the most of your text editor, using VCS for everything, advice on debugging, manipulating text with dedicated tools and programming languages, how to work with engineering daybooks, killing programs early, when and when not to use assertions, balancing system resources, decoupling code (the one-dot rule of chaining method calls, avoiding global data).</li>
+<li><i class="fas fa-book"></i> Pragmatic Programmer: Prototyping, domain languages (internal, external languages), estimating, relying on systems with plain text files, using the command shell, making the most of your text editor, using VCS for everything, advice on debugging, manipulating text with dedicated tools and programming languages, how to work with engineering daybooks, killing programs early, when and when not to use assertions, balancing system resources, decoupling code (the one-dot rule of chaining method calls, avoiding global data).</li>
 </ul>
 </div>
 </div>
@@ -109,7 +131,7 @@ in the end.
 <div class="col-12 col-md-2 blue-day">19</div>
 <div class="col-13 col-md-10 blue-content">
 <ul>
-<li>Pragmatic Programmer: Design principles (ETC [easier to change]), DRY [Don't Repeat Yourself]), orthogonality (independence of components), reversibility.</li>
+<li><i class="fas fa-book"></i> Pragmatic Programmer: Design principles (ETC [easier to change]), DRY [Don't Repeat Yourself]), orthogonality (independence of components), reversibility.</li>
 </ul>
 </div>
 </div>
