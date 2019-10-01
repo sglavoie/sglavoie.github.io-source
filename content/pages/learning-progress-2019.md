@@ -28,6 +28,16 @@ in the end.
 </div>
 <div id="september19" class="container collapse">
 
+
+<div class="row">
+<div class="col-12 col-md-2 blue-day">30</div>
+<div class="col-13 col-md-10 blue-content">
+<ul>
+<li><i class="fas fa-book"></i> Introduction to Algorithms, Third Edition: Insertion sort, analyzing algorithms (best, worst &amp; average cases, running time, size of input, order of growth), designing algorithms (divide-and-conquer), merge sort algorithm.</li>
+</ul>
+</div>
+</div>
+
 <div class="row">
 <div class="col-12 col-md-2 grey-day">29</div>
 <div class="col-13 col-md-10 grey-content">
