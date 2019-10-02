@@ -23,6 +23,25 @@ in the end.
 <div id="year2019" class="container no-padding">
 <div class="panel">
 
+<div class="row justify-content-center" role="button" data-toggle="collapse" data-parent="#year2019" href="#october19" aria-expanded="false" aria-controls="october19">
+<div class="learning-month">October</div>
+</div>
+<div id="october19" class="container collapse">
+
+<div class="row">
+<div class="col-12 col-md-2 blue-day">1</div>
+<div class="col-13 col-md-10 blue-content">
+<ul>
+<li><i class="fas fa-book"></i> Introduction to Algorithms, Third Edition: Divide-and-conquer algorithms, growth of functions (asymptotic notation, big-o notation [asymptotic upper bound], big-omega notation [asymptotic lower bound], little-o notation [upper bound not asymptotically tight], little-omega notation [lower bound not asymptotically tight]).</li>
+<li><i class="fas fa-history"></i> <code>YAML</code> and <code>TOML</code> syntax.</li>
+<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=8lhxIOAfDss">Recursion 'Super Power' (in Python)</a> with Computerphile.</li>
+</ul>
+</div>
+</div>
+
+</div>
+
+
 <div class="row justify-content-center" role="button" data-toggle="collapse" data-parent="#year2019" href="#september19" aria-expanded="false" aria-controls="september19">
 <div class="learning-month">September</div>
 </div>
