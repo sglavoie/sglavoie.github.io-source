@@ -29,6 +29,30 @@ in the end.
 <div id="october19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 blue-day">8</div>
+<div class="col-13 col-md-10 blue-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+<ul>
+<li><strong>Introduction to Programming II</strong></li>
+<ul>
+<li>Object orientation in practice, organizing code.</li>
+</ul>
+</ul>
+<ul>
+<li><strong>Algorithms and Data Structures I</strong></li>
+<ul>
+<li><i class="fas fa-history"></i> Review Heron's method.</li>
+</ul>
+</ul>
+
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 grey-day">7</div>
 <div class="col-13 col-md-10 grey-content">
 <ul>
