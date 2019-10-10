@@ -29,6 +29,23 @@ in the end.
 <div id="october19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 grey-day">9</div>
+<div class="col-13 col-md-10 grey-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+<ul>
+<li><strong>Discrete mathematics</strong></li>
+<ul>
+<li>Introduction to set theory, set builder method, powerset of a set, cardinality of powerset, set operations.</li>
+</ul>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 blue-day">8</div>
 <div class="col-13 col-md-10 blue-content">
 <ul>
