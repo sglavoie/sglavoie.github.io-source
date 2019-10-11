@@ -36,6 +36,23 @@ in the end.
 <ul>
 <li><strong>Discrete mathematics</strong></li>
 <ul>
+<li>Set theory: partition, <i class="fas fa-history"></i> set operations, set identities, set builder notation.</li>
+</ul>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
+<div class="col-12 col-md-2 blue-day">10</div>
+<div class="col-13 col-md-10 blue-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+<ul>
+<li><strong>Discrete mathematics</strong></li>
+<ul>
 <li>Venn diagrams representations of sets, set representation and manipulation (complement of a set), De Morgan's laws, Laws of sets (commutative, associative and distributive).</li>
 </ul>
 </ul>
