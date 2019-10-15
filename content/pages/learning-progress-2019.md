@@ -29,6 +29,35 @@ in the end.
 <div id="october19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 blue-day">14</div>
+<div class="col-13 col-md-10 blue-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+<ul>
+<li><strong>Discrete mathematics</strong></li>
+<ul>
+<li><i class="fas fa-history"></i> Set theory.</li>
+</ul>
+</ul>
+<ul>
+<li><strong>Introduction to Programming II</strong></li>
+<ul>
+<li><i class="fab fa-js"></i> Introducing case study 1: drawing app.</li>
+</ul>
+</ul>
+</li>
+<li><i class="fas fa-university"></i> <a href="https://www.coursera.org/learn/version-control-with-git">Version Control with Git</a> on Coursera: Rebasing, rewriting history (amending a commit, interactive rebase), pull requests, Git workflows (centralized, feature branch, forking, Gitflow).</li>
+<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=CRlGDDprdOQ">Git MERGE vs REBASE</a> with Academind.</li>
+<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=DeU6opFU_zw">Git - The STASH Command</a> with Academind.</li>
+<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=FdZecVxzJbk">Git Tutorial: Fixing Common Mistakes and Undoing Bad Commits</a> with Corey Schafer.</li>
+<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=KLEDKgMmbBI">Git Tutorial: Using the Stash Command</a> with Corey Schafer.</li>
+<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=iCGrKFH2oeo">Git Tutorial: Diff and Merge Tools</a> with Corey Schafer.</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 grey-day">13</div>
 <div class="col-13 col-md-10 grey-content">
 <ul>
