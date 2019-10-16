@@ -29,6 +29,26 @@ in the end.
 <div id="october19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 grey-day">15</div>
+<div class="col-13 col-md-10 grey-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+<ul>
+<li><strong>Introduction to Programming II</strong></li>
+<ul>
+<li><i class="fab fa-js"></i> Study case 1: Drawing application – under the hood, introduction to P5.dom, handling events in P5.dom.</li>
+<li><i class="fab fa-js"></i> Study case 2: Music visualizer.</li>
+<li><i class="fab fa-js"></i> Asynchronous function calls, using callbacks, debugging skills (breakpoints and stepping), testing for stability, usability testing.</li>
+<li>Interview with Christophe Rhodes.</li>
+</ul>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 blue-day">14</div>
 <div class="col-13 col-md-10 blue-content">
 <ul>
