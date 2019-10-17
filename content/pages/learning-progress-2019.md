@@ -29,6 +29,25 @@ in the end.
 <div id="october19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 blue-day">16</div>
+<div class="col-13 col-md-10 blue-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+<ul>
+<li><strong>Algorithms and Data Structures I</strong></li>
+<ul>
+<li>Birthday Party problem, discretisation and pseudocode, pseudocode and functions, loops in pseudocode, Euclidean algorithm in pseudocode, converting flowcharts to pseudocode and vice versa.</li>
+<li><i class="fas fa-history"></i> Introduction to algorithms, flowcharts, Heron's method, pseudocode.</li>
+</ul>
+</ul>
+<li>Solve <a href="https://www.codewars.com/kata/5a49f074b3bfa89b4c00002b">String subpattern recognition I</a> on Codewars.</li>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 grey-day">15</div>
 <div class="col-13 col-md-10 grey-content">
 <ul>
