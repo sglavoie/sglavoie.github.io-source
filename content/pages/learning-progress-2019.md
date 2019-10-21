@@ -29,6 +29,40 @@ in the end.
 <div id="october19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 blue-day">20</div>
+<div class="col-13 col-md-10 blue-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+<ul>
+<li><strong>Introduction to Programming II</strong></li>
+<ul>
+<li><i class="fab fa-js"></i> Making a website from Vimwiki.</li>
+</ul>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
+<div class="col-12 col-md-2 grey-day">19</div>
+<div class="col-13 col-md-10 grey-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+<ul>
+<li><strong>Introduction to Programming II</strong></li>
+<ul>
+<li><i class="fab fa-js"></i> Study case 2 (music visualizer): P5.dom (handling events), anonymous functions.</li>
+</ul>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 blue-day">18</div>
 <div class="col-13 col-md-10 blue-content">
 <ul>
@@ -42,7 +76,7 @@ in the end.
 <ul>
 <li><strong>Introduction to Programming II</strong></li>
 <ul>
-<li><i class="fab fa-js"></i> Study case 2: Figure out how sound works with Fourier series in P5.js.</li>
+<li><i class="fab fa-js"></i> Study case 2 (music visualizer): Figure out how sound works with Fourier series in P5.js.</li>
 </ul>
 </ul>
 </li>
