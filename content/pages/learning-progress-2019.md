@@ -29,6 +29,30 @@ in the end.
 <div id="october19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 grey-day">21</div>
+<div class="col-13 col-md-10 grey-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+<ul>
+<li><strong>Discrete mathematics</strong></li>
+<ul>
+<li>Logic and proofs (propositional logic), applications of propositional logic, <i class="fas fa-history"></i> Set theory from scratch.</li>
+</ul>
+</ul>
+<ul>
+<li><strong>Introduction to Programming II</strong></li>
+<ul>
+<li>Documenting through SRS (software requirements specification), creating Gantt charts specifically for software development.</li>
+<li><i class="fab fa-js"></i> <code>P5.js</code>: Loading and playing a sound.</li>
+</ul>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 blue-day">20</div>
 <div class="col-13 col-md-10 blue-content">
 <ul>
@@ -53,7 +77,7 @@ in the end.
 <ul>
 <li><strong>Introduction to Programming II</strong></li>
 <ul>
-<li><i class="fab fa-js"></i> Study case 2 (music visualizer): P5.dom (handling events), anonymous functions.</li>
+<li><i class="fab fa-js"></i> Study case 2 (music visualizer): <code>P5.dom</code> (handling events), anonymous functions.</li>
 </ul>
 </ul>
 </li>
@@ -76,7 +100,7 @@ in the end.
 <ul>
 <li><strong>Introduction to Programming II</strong></li>
 <ul>
-<li><i class="fab fa-js"></i> Study case 2 (music visualizer): Figure out how sound works with Fourier series in P5.js.</li>
+<li><i class="fab fa-js"></i> Study case 2 (music visualizer): Figure out how sound works with Fourier series in <code>P5.js</code>.</li>
 </ul>
 </ul>
 </li>
@@ -128,7 +152,7 @@ in the end.
 <ul>
 <li><strong>Introduction to Programming II</strong></li>
 <ul>
-<li><i class="fab fa-js"></i> Study case 1: Drawing application – under the hood, introduction to P5.dom, handling events in P5.dom.</li>
+<li><i class="fab fa-js"></i> Study case 1: Drawing application – under the hood, introduction to <code>P5.dom</code>, handling events in <code>P5.dom</code>.</li>
 <li><i class="fab fa-js"></i> Study case 2: Music visualizer.</li>
 <li><i class="fab fa-js"></i> Asynchronous function calls, using callbacks, debugging skills (breakpoints and stepping), testing for stability, usability testing.</li>
 <li>Interview with Christophe Rhodes.</li>
