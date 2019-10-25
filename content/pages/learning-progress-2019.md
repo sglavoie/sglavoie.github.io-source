@@ -29,6 +29,25 @@ in the end.
 <div id="october19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 blue-day">25</div>
+<div class="col-13 col-md-10 blue-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+<ul>
+<li><strong>Discrete mathematics</strong></li>
+<ul>
+<li>Introduction to functions (one-to-one [injective] and onto [surjective] functions), plotting functions, <i class="fas fa-history"></i> set operations, set notations.</li>
+</ul>
+</ul>
+<li><i class="fab fa-git"></i> How patterns are matched in <code>.gitignore</code>.</li>
+<li>New features in <i class="fab fa-python"></i> Python 8 (<code>:=</code> walrus operator, <code>/</code> positional-only parameters, <code>{var_name=}</code> self-documenting f-strings).</li>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 grey-day">23</div>
 <div class="col-13 col-md-10 grey-content">
 <ul>
