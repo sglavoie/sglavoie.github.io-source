@@ -2,15 +2,11 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 from datetime import datetime
-import glob
 import hashlib
 import os
-import subprocess
 
 # Third-party imports
 from pelican import __version__
-
-# TODO: Until I figure out how to create a plugin, functions appear here
 
 # Absolute path to the directory where this file is being executed
 CURRENT_PATH = os.path.dirname(os.path.realpath(__file__))
@@ -142,7 +138,6 @@ ARTICLE_SAVE_AS = "posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html"
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
-
 
 # Custom behavior below
 BASE_CSS = get_cache_id(f"{THEME}/static/css/base.css")
