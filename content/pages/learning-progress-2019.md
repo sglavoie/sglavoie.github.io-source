@@ -29,6 +29,28 @@ in the end.
 <div id="october19" class="container collapse">
 
 <div class="row">
+<div class="col-12 col-md-2 grey-day">26</div>
+<div class="col-13 col-md-10 grey-content">
+<ul>
+<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
+<ul>
+<li><strong>Discrete mathematics</strong></li>
+<ul>
+<li><i class="fas fa-history"></i> Injective &amp; surjective functions.</li>
+</ul>
+</ul>
+<li>Basics of WebRTC.</li>
+<li>Basics of <a href="https://pandoc.org/">Pandoc</a> and <a href="https://github.com/lervag/vimtex">Vimtex</a>.</li>
+<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=w8EKH_fjmXA">groff/troff: MUH MINIMALIST Documents</a> with Luke Smith.</li>
+<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=nx1tOOc_3fU">The Science of Great UI</a> with Coding Tech.</li>
+<li><i class="fab fa-git"></i> On <a href="https://learngitbranching.js.org/">Learn Git Branching</a> <i class="fas fa-history"></i> Relative refs (<code>^</code>/<code>~</code>), <code>reset</code>, <code>revert</code>, <code>cherry-pick</code>, interactive rebase, tags, <code>describe</code>, <code>clone</code>, remote branches, <code>fetch</code>, <code>pull</code>.</li>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="row">
 <div class="col-12 col-md-2 blue-day">25</div>
 <div class="col-13 col-md-10 blue-content">
 <ul>
