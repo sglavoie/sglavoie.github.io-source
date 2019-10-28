@@ -32,13 +32,8 @@ DEFAULT_LANG = "en"
 DISQUS_SITENAME = "sglavoie"
 GOOGLE_ANALYTICS = "UA-150998392-1"
 LOCALE = "en_US.utf8"
-SITE_DESCRIPTION = """\
-I document my journey as a learner in technology-related matters, \
-explaining the challenges that I face while trying to become a better \
-student. I try to teach the solutions I find along the way so that it \
-can hopefully benefit others too."""
 SITENAME = "sglavoie.com"
-SITEURL = "http://localhost:8080"
+SITEURL = "https://www.sglavoie.com"
 TIMEZONE = "America/Mexico_City"
 
 # Theme-specific
