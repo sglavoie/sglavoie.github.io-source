@@ -190,6 +190,9 @@ main div#ending_message {
     overflow-x: hidden;
     overflow-y: hidden;
   }
+  main article {
+    max-width: 75%;
+  }
   main header {
     border-top: 0;
   }
