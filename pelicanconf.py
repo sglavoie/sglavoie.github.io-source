@@ -5,12 +5,33 @@ from datetime import datetime
 import hashlib
 import os
 
+
+# Pelican-specific settings
+PATH = "content"
+
+STATIC_PATHS = ["files", "images"]
+
+DISPLAY_PAGES_ON_MENU = False
+DEFAULT_PAGINATION = 5
+
+USE_FOLDER_AS_CATEGORY = True
+DEFAULT_CATEGORY = "misc"
+DISPLAY_CATEGORIES_ON_MENU = True
+
+TYPOGRIFY = True
+
+ARTICLE_URL = "posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/"
+ARTICLE_SAVE_AS = "posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html"
+
+# Uncomment following line if you want document-relative URLs when developing
+# RELATIVE_URLS = True
+
+# Site-specific
 AUTHOR = "Sébastien Lavoie"
 DEFAULT_LANG = "en"
 DISQUS_SITENAME = "sglavoie"
 GOOGLE_ANALYTICS = "UA-150998392-1"
 LOCALE = "en_US.utf8"
-PATH = "content"
 SITE_DESCRIPTION = """\
 I document my journey as a learner in technology-related matters, \
 explaining the challenges that I face while trying to become a better \
@@ -18,28 +39,11 @@ student. I try to teach the solutions I find along the way so that it \
 can hopefully benefit others too."""
 SITENAME = "sglavoie.com"
 SITEURL = "http://localhost:8080"
-THEME = "themes/svbhack"
 TIMEZONE = "America/Mexico_City"
+
+# Theme-specific
+THEME = "themes/svbhack"
 USER_LOGO_URL = SITEURL + "/theme/images/logo.png"
-
-# MENUITEMS = [
-#     # title, link
-#     ("tags", "/tags.html"),
-#     # ("/about.html", "about", '<i class="fas fa-info"></i>'),
-# ]
-
-# PAGEITEMS = [
-#     (
-#         "/learning-progress-2019.html",
-#         "learning",
-#         '<i class="fas fa-graduation-cap"></i>',
-#     ),
-#     (
-#         "/learning-progress-2018-earlier.html",
-#         "learning",
-#         '<i class="fas fa-graduation-cap"></i>',
-#     ),
-# ]
 
 # Plugins
 PLUGIN_PATHS = ["plugins"]
@@ -72,27 +76,3 @@ FEED_ATOM_URL = None
 FEED_RSS = None
 FEED_ALL_RSS = "feeds/sglavoie.rss.xml"
 CATEGORY_FEED_RSS = None
-
-# DIRECT_TEMPLATES = [
-#     "index",
-#     "categories",
-#     "authors",
-#     "archives",  # (default)
-#     # other HTML templates to render
-#     "tags",
-#     "about",
-# ]
-
-STATIC_PATHS = ["files", "images"]
-
-DISPLAY_PAGES_ON_MENU = False
-DEFAULT_PAGINATION = 5
-USE_FOLDER_AS_CATEGORY = True
-DEFAULT_CATEGORY = "misc"
-DISPLAY_CATEGORIES_ON_MENU = True
-TYPOGRIFY = True
-ARTICLE_URL = "posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/"
-ARTICLE_SAVE_AS = "posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html"
-
-# Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
