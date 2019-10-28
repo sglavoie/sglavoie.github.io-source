@@ -14,7 +14,7 @@
    viewBox="0 0 24.348095 24.347754"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="sglavoie.svg">
   <defs
      id="defs2">
@@ -52,9 +52,9 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
      inkscape:window-width="1366"
-     inkscape:window-height="727"
+     inkscape:window-height="743"
      inkscape:window-x="0"
-     inkscape:window-y="41"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:measure-start="-350.963,778.817"
      inkscape:measure-end="-350.963,762.817"
@@ -89,30 +89,36 @@
      id="layer2"
      inkscape:label="Layer 2"
      transform="translate(81.39681,-84.454277)">
-    <path
-       inkscape:connector-curvature="0"
-       id="path877"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:medium;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';letter-spacing:0px;word-spacing:0px;fill:#7e7e7e;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
-       d="m -72.272184,98.480553 -9.124626,5.759757 v -3.54801 l 5.865831,-3.501933 v -0.09215 l -5.865831,-3.501932 v -3.548009 l 9.124626,5.759755 z" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path879"
-       d="m -57.048817,105.89912 v 2.90291 h -11.17301 v -2.90291 z"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:medium;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';letter-spacing:0px;word-spacing:0px;fill:#c0c0c0;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path882"
-       d="m -72.272184,98.480553 -9.124626,5.759757 v -3.54801 l 5.865831,-3.501933 v -0.09215 l -5.865831,-3.501932 v -3.548009 l 9.124626,5.759755 z"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:medium;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';letter-spacing:0px;word-spacing:0px;fill:#c0c0c0;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
     <g
        style="stroke-width:0.45701027"
        id="g941"
        transform="matrix(2.1994114,0,0,2.1769157,131.96276,-111.37203)" />
-    <path
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';letter-spacing:0px;word-spacing:0px;fill:#007bff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -273.1543,319.19727 -27.58789,14.76953 8.49805,5.36132 19.08984,-12.04882 z m 15.3086,25.66992 v 44.41211 h 8.86718 v -35.63477 h 33.36133 v -8.77734 h -33.36133 -0.42187 z m 25.33593,24.66015 v 8.77735 h 8.02539 v 10.97461 h 8.86719 v -10.97461 -8.77735 z"
-       transform="scale(0.26458333)"
-       id="path884"
-       inkscape:connector-curvature="0" />
+    <g
+       id="g1252"
+       inkscape:export-filename="/home/sglavoie/Dropbox/github/sglavoie/sglavoie.github.io-source/themes/svbhack/static/images/logo.png"
+       inkscape:export-xdpi="312.5"
+       inkscape:export-ydpi="312.5">
+      <path
+         d="m -72.272184,98.480553 -9.124626,5.759757 v -3.54801 l 5.865831,-3.501933 v -0.09215 l -5.865831,-3.501932 v -3.548009 l 9.124626,5.759755 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:medium;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';letter-spacing:0px;word-spacing:0px;fill:#7e7e7e;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+         id="path877"
+         inkscape:connector-curvature="0" />
+      <path
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:medium;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';letter-spacing:0px;word-spacing:0px;fill:#c0c0c0;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+         d="m -57.048817,105.89912 v 2.90291 h -11.17301 v -2.90291 z"
+         id="path879"
+         inkscape:connector-curvature="0" />
+      <path
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:medium;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';letter-spacing:0px;word-spacing:0px;fill:#c0c0c0;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+         d="m -72.272184,98.480553 -9.124626,5.759757 v -3.54801 l 5.865831,-3.501933 v -0.09215 l -5.865831,-3.501932 v -3.548009 l 9.124626,5.759755 z"
+         id="path882"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path884"
+         transform="scale(0.26458333)"
+         d="m -273.1543,319.19727 -27.58789,14.76953 8.49805,5.36132 19.08984,-12.04882 z m 15.3086,25.66992 v 44.41211 h 8.86718 v -35.63477 h 33.36133 v -8.77734 h -33.36133 -0.42187 z m 25.33593,24.66015 v 8.77735 h 8.02539 v 10.97461 h 8.86719 v -10.97461 -8.77735 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';letter-spacing:0px;word-spacing:0px;fill:#007bff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
   </g>
 </svg>

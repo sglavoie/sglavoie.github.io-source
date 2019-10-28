@@ -5,87 +5,45 @@ from datetime import datetime
 import hashlib
 import os
 
-# Third-party imports
-from pelican import __version__
-
-# Absolute path to the directory where this file is being executed
-CURRENT_PATH = os.path.dirname(os.path.realpath(__file__))
-
-
-def get_cache_id(filename):
-    md5 = hashlib.md5()
-
-    with open(filename, "rb") as f:
-        data = f.read()
-        md5.update(data)
-
-    return md5.hexdigest()
-
-
-PELICAN_VERSION = __version__
-
-ABOUT_VERSION = "0.9.0"  # major.minor.bug_fix
-SITE_VERSION = "v0.20.0"  # major.minor.bug_fix
-CURRENT_YEAR = datetime.today().year
-DEFAULT_DATE_FORMAT = "%B %d, %Y"
-LAST_UPDATE = datetime.now().strftime(DEFAULT_DATE_FORMAT)
-
 AUTHOR = "Sébastien Lavoie"
-SITENAME = "sglavoie.com"
-SITEURL = "https://www.sglavoie.com"
-SITESUBTITLE = f"The Learning Journey to the Summit of Commits | {AUTHOR}"
+DEFAULT_LANG = "en"
+DISQUS_SITENAME = "sglavoie"
+GOOGLE_ANALYTICS = "UA-150998392-1"
+LOCALE = "en_US.utf8"
+PATH = "content"
 SITE_DESCRIPTION = """\
 I document my journey as a learner in technology-related matters, \
 explaining the challenges that I face while trying to become a better \
-student. I teach the solutions that I find along the way so that it can \
-benefit others too."""
-DISQUS_SITENAME = "sglavoie"
-TWITTER_USERNAME = "sgdlavoie"
-THEME = "themes/SL"
-
-PATH = "content"
-
+student. I try to teach the solutions I find along the way so that it \
+can hopefully benefit others too."""
+SITENAME = "sglavoie.com"
+SITEURL = "http://localhost:8080"
+THEME = "themes/svbhack"
 TIMEZONE = "America/Mexico_City"
+USER_LOGO_URL = SITEURL + "/theme/images/logo.png"
 
-DEFAULT_LANG = "en"
-LOCALE = "en_US.utf8"
+# MENUITEMS = [
+#     # title, link
+#     ("tags", "/tags.html"),
+#     # ("/about.html", "about", '<i class="fas fa-info"></i>'),
+# ]
 
-MENUITEMS = [
-    # path, id, icon
-    ("/index.html", "home", '<i class="fas fa-home"></i>'),
-    ("/tags.html", "tags", '<i class="fas fa-hashtag"></i>'),
-    (
-        "/learning-progress-2019.html",
-        "learning",
-        '<i class="fas fa-graduation-cap"></i>',
-    ),
-    ("/about.html", "about", '<i class="fas fa-info"></i>'),
-]
-
-PAGEITEMS = [
-    (
-        "/learning-progress-2019.html",
-        "learning",
-        '<i class="fas fa-graduation-cap"></i>',
-    ),
-    (
-        "/learning-progress-2018-earlier.html",
-        "learning",
-        '<i class="fas fa-graduation-cap"></i>',
-    ),
-]
+# PAGEITEMS = [
+#     (
+#         "/learning-progress-2019.html",
+#         "learning",
+#         '<i class="fas fa-graduation-cap"></i>',
+#     ),
+#     (
+#         "/learning-progress-2018-earlier.html",
+#         "learning",
+#         '<i class="fas fa-graduation-cap"></i>',
+#     ),
+# ]
 
 # Plugins
 PLUGIN_PATHS = ["plugins"]
-PLUGINS = ["tag_cloud"]
-TAG_CLOUD_STEPS = 5  # default 4
-TAG_CLOUD_MAX_ITEMS = 100
-TAG_CLOUD_BADGE = True
-
-# Default is 'random'.
-# Other options are: alphabetically, alphabetically-rev, size, size-rev
-TAG_CLOUD_SORTING = "size"
-
+PLUGINS = ["readtime"]
 
 # `fenced_code` enables the following syntax for code blocks and make it
 # possible to use special symbols, among other things:
@@ -115,15 +73,15 @@ FEED_RSS = None
 FEED_ALL_RSS = "feeds/sglavoie.rss.xml"
 CATEGORY_FEED_RSS = None
 
-DIRECT_TEMPLATES = [
-    "index",
-    "categories",
-    "authors",
-    "archives",  # (default)
-    # other HTML templates to render
-    "tags",
-    "about",
-]
+# DIRECT_TEMPLATES = [
+#     "index",
+#     "categories",
+#     "authors",
+#     "archives",  # (default)
+#     # other HTML templates to render
+#     "tags",
+#     "about",
+# ]
 
 STATIC_PATHS = ["files", "images"]
 
@@ -137,8 +95,4 @@ ARTICLE_URL = "posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/"
 ARTICLE_SAVE_AS = "posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html"
 
 # Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
-
-# Custom behavior below
-BASE_CSS = get_cache_id(f"{THEME}/static/css/base.css")
-PYGMENT_CSS = get_cache_id(f"{THEME}/static/css/pygment.css")
+RELATIVE_URLS = True
