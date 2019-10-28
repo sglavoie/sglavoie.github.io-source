@@ -15,7 +15,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   sodipodi:docname="sglavoie.svg">
+   sodipodi:docname="sglavoie.svg"
+   inkscape:export-filename="/home/sglavoie/Dropbox/github/sglavoie/sglavoie.github.io-source/themes/svbhack/static/images/logo.png"
+   inkscape:export-xdpi="312.5"
+   inkscape:export-ydpi="312.5">
   <defs
      id="defs2">
     <inkscape:perspective
@@ -96,8 +99,8 @@
     <g
        id="g1252"
        inkscape:export-filename="/home/sglavoie/Dropbox/github/sglavoie/sglavoie.github.io-source/themes/svbhack/static/images/logo.png"
-       inkscape:export-xdpi="312.5"
-       inkscape:export-ydpi="312.5">
+       inkscape:export-xdpi="133.52995"
+       inkscape:export-ydpi="133.52995">
       <path
          d="m -72.272184,98.480553 -9.124626,5.759757 v -3.54801 l 5.865831,-3.501933 v -0.09215 l -5.865831,-3.501932 v -3.548009 l 9.124626,5.759755 z"
          style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:medium;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';letter-spacing:0px;word-spacing:0px;fill:#7e7e7e;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"

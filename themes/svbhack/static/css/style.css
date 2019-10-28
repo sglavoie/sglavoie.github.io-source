@@ -123,7 +123,7 @@ main footer {
   padding: 40px;
 }
 main footer a.button_accent {
-  padding: 10px;
+  padding: 8px;
   border: 2px solid #0e94ec;
   border-radius: 20px;
   -moz-border-radius: 20px;
@@ -139,6 +139,10 @@ main footer a.button_accent:hover {
 main footer a.button_accent:active {
   color: #ffffff;
   background-color: #0e94ec;
+}
+div.space-out {
+  margin-top: 1.5em;
+  text-align: center;
 }
 main div#ending_message {
   border-top: #eeeeee 1px solid;
@@ -178,5 +182,12 @@ main div#ending_message {
   }
   main header {
     border-top: 0;
+  }
+  div.space-out {
+  margin: 0 1em 0 0;
+  float: left;
+  }
+  div#paginator {
+    margin-bottom: 1em;
   }
 }
