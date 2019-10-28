@@ -19,6 +19,12 @@ in the end.
 ---
 
 ## October
+### 27
+- University of London
+    - **Discrete mathematics**
+        - Injective, bijective &amp; surjective functions, inverse functions, composition of functions.
+- On [Learn Git Branching](https://learngitbranching.js.org/): Working with remote branches, working with diverged history, `pull --rebase`, merging feature branches, remote-tracking branches, `fetch` arguments, `pull` arguments.
+
 ### 26
 - University of London
     - **Discrete mathematics**
