@@ -1,1339 +1,552 @@
-Title: Learning Progress
+Title: Learning Progress 2018
 Date: 2019-05-15 19:14
 Slug: learning-progress-2018-earlier
 Authors: Sébastien Lavoie
 URL:
 save_as: learning-progress-2018-earlier.html
+status: hidden
 
-<div class="learning-year"><a href="./learning-progress-2019.html">2019</a></div>
+## December
+### 31
+- Managing configuration in [ranger](https://ranger.github.io/).
+
+### 30
+- [DiSSS technique](https://www.youtube.com/watch?v=DSq9uGs_z0E), from [Tim Ferriss](https://tim.blog/).
+- Binary trees implementations in Python.
+- Managing builds in Travis CI.
+
+### 29
+- Using [ClickUp](https://clickup.com) for task and project management.
+
+### 28
+- *Google IT*
+- Managing resources on cloud services, platform services (servers & databases), directory services, centralized management.
+
+### 27
+- *Google IT*
+- Print services, NFS servers, chat communication services (XMPP, IRC, etc.)
+
+- Configure locales on Linux.
+- Using [Joplin](https://joplin.cozic.net) & [Todoist](https://todoist.com/).
+- Setting up [bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status) with [i3](https://i3wm.org/).
+
+### 26
+- i3wm configuration: status bar, workspaces, themes, modules.
+
+### 25
+- *Google IT*
+- Physical infrastructure services.
+- Configuring network services.
+- i3wm setup & configuration.
+
+### 23
+- *Google IT*
+- IT infrastructure services.
+- Regular expressions in Python.
+- Working with JSON files in Python.
+
+### 22
+- *Google IT*
+- System administration & tasks.
+- Regular expressions in Python.
+
+### 21
+- *Google IT*
+- Operating Systems: Filesystems, Process management, Remote access, Virtualization, Logging.
+
+### 20
+- *Google IT*
+- Operating Systems: file and text manipulation, users & permissions, package & software management.
+
+### 19
+- *Google IT*
+- Networking services: VPNs, proxies.
+- Connecting to Internet: Dial-up, broadband, wireless, WANs.
+- Troubleshooting: verifying connectivity, digging into DNS, cloud, IPv6.
+- Operating systems: basic commands (PowerShell & Bash).
+
+### 18
+- *Google IT*
+- Networking services: name resolution, DNS, DHCP, NAT.
+- Implementing linked lists in Python.
+
+### 17
+- *Google IT*
+- Routing (tables, protocols, addresses).
+- Transport layer, application layer.
+
+### 16
+- *Google IT*
+- Introduction to Computer Networking: Subnetting.
+
+### 15
+- Test Driven Development: Pytest, Unittest, Doctest, test doubles, test coverage.
+
+### 14
+- *Google IT*
+- Introduction to Computer Networking: TCP/IP five-Layer model, basics of networking devices.
+
+### 13
+- *Google IT*
+- Operating System: Installing Windows/Linux/Mac, virtual machines, Chrome OS.
+- Networking: TCP/IP, history, limitations, impact, security, privacy.
+- Software: abstractions, types of software, interacting with software.
+- Troubleshooting: best practices, customer service, documentation & writing effective documentation, technical interview.
+
+### 12
+- *Google IT*
+- Hardware: CPU & other components, overclocking, BIOS, computer assembly.
+- Operating System: file systems, kernel, logs, user space, boot process.
+
+### 11
+- Add plugins to Pelican (static site generator): plugin `tag_cloud`.
+- Enrolled in *[Google IT Support Professional Certificate](https://www.coursera.org/specializations/google-it-support)* on Coursera.
+- Introduction to IT support, history of computing, digital logic, computer architecture layer.
+
+### 10
+- Bootstrap (web framework): Tables.
+- Pelican (static site generator): Use *Pages* in theme; Integrate menu items; Add a custom 404 error page.
+- Read *[The Complete Software Developer's Career Guide](https://amzn.to/2O8JAnS)</em>, by [John Sonmez](https://simpleprogrammer.com/): Section 3 (What you need to know about software development) & Section 4 (Working as a developer). Section 4 contained the inspiration I needed to write about this <em>Learning Progress*.
+
+### 9
+- Manage Python dictionary with `(x, y)` coordinates (Advent of Code, day 3).
+
+### 8
+- Use fenced code blocks in Markdown.
+- Add Markdown extensions in Pelican.
+- Emmet syntax with Vim plugin `emmet-vim`.
+
+### 7
+- Compare strings that differ by one character (Advent of Code, day 2).
+- Get common letters from two strings (Advent of Code, day 2).
+
+### 6
+- Customize scrollbar in CSS.
+- Modify code blocks in CSS with Pygments.
+- Module `asyncio` in Python (including [sentdex](https://www.youtube.com/user/sentdex) tutorials on YouTube).
+
+### 5
+- Use `markdown-preview` plugin for Neovim.
+- Storing Python dictionaries into files & retrieving them.
+- Convert list of strings to integers.
+- [Special Pythagorean triplet](https://projecteuler.net/problem=9), Project Euler.
+
+### 4
+- Apply text transformations in CSS (example with Copyleft symbol instead of Copyright).
+- `p5.js` library: Simple themes like shapes, colors & text.
+
+### 3
+- Use Vimwiki for note-taking.
+- Arithmetic in JavaScript.
+
+### 2
+- Set `fzf` with `ag` in Neovim.
+- Remove all buffers except current one in Neovim.
+- Use MathJax syntax.
+- Conditionals in JavaScript.
+
+### 1
+- Vim's location list.
+- `fzf` behavior with `.gitignore` & `.ignore` files.
+- Functions in JavaScript.
+- Swap partitions in Linux.
+- Use Calcurse in terminal.
+
+## November
+### 29
+- Implement linked list in Python.
+
+### 27
+- SVG icon transparency in CSS.
+- Make better use of `display` properties in CSS.
+- SVG rendering of PNG images with Inkscape.
+- SVG support in modern web browsers.
+
+### 26
+- Use of HTML tag `&lt;li&gt;` in footer for images.
+- Get the Pelican version number from a template ([answered on stackoverflow](https://stackoverflow.com/a/53474870/8787680)).
+- Create direct templates in theme ([answered on stackoverflow](https://stackoverflow.com/a/53474144/8787680)).
+
+### 25
+- Use Font Awesome.
+- Disqus integration with comment counts.
+- Correctly set Python host in Neovim.
+
+### 24
+- Link selectors in CSS.
+- Security measures to take with VPN (Virtual Private Networks).
+
+### 23
+- Generate favicon for different devices and platforms.
+
+### 22
+- Make more responsive design in HTML5 & CSS3.
+- Manage bookmarks on the command-line with Buku.
+
+### 22
+- Disqus website integration.
+
+### 19
+- Horizontal scrollable elements with Bootstrap.
+- Jinja2 syntax.
+- Linear gradients with transparency in SVG images.
+
+### 18
+- Gradient mask with transparency in Inkscape.
+- `@media` queries in CSS.
+- Navigation bar togglers in Bootstrap.
+
+### 17
+- tmux color schemes and powerline settings.
+
+### 16
+- HTML Fundamentals ([certificate](https://www.sololearn.com/Certificate/1014-6555674/pdf/)).
+- Use third-party fonts in HTML.
+- Build a simple landing page in HTML5 & CSS3.
+
+### 15
+- Draggable JS.
+- Set up SSH tunnel in MySQL Workbench & DBeaver.
+
+### 14
+- Customize forms in Flask micro-framework with WTForms.
+- Manage pylint settings.
+
+### 13
+- SQLAlchemy in Flask micro-framework.
+
+### 12
+- [Productivity tricks](https://www.maketecheasier.com/kde-plasma-tips-tricks-improve-productivity/) in KDE (Kool Desktop Environment).
+
+### 11
+- Manage notifications in Bash for terminated commands with [NotiFyre](https://github.com/kaustubhhiware/NotiFyre).
+
+### 10
+- Review how to mount exFat filesystem on Linux.
+- Installing fonts on a per-user basis on Linux (Ubuntu derivatives).
+- Set [Bash git prompt](https://github.com/magicmonty/bash-git-prompt).
+
+### 9
+- Concept and application of inheritance in Jinja2 templates.
+- Add Flask Babel to Flask projects.
+- Set up `pylint` with Python project.
+- Validators in WTForms with Flask.
+- Finishing *Python Flask Tutorial* with [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g) on YouTube (including blueprints, sending emails, forms and user input, user authentication and  managing database).
+
+### 8
+- TicTacToe tutorial serie with [sentdex](https://www.youtube.com/user/sentdex) on YouTube.
+- Building a Flask application with SQLAlchemy to manage database.
+
+### 7
+- Integrate user accounts in Flask application.
+
+### 6
+- Structuring Flask application in packages.
+
+### 5
+- Use [draw.io](https://www.draw.io/) to make flowcharts.
+
+### 4
+- Plot in Matplotlib and export to PDF files automatically from input files.
+
+### 3
+- Error handling in Python 3.
+
+### 2
+- Modify appearance of *folds* in Neovim.
+- Integrate tmux with Neovim.
+- Convert videos to GIF images.
+- Review concept of mutability in Python.
+
+### 1
+- Configure tmux.
+
+
+## October
+### 31
+- Use compose key in Linux.
+
+### 30
+- Use of algorithms for [forensic analysis of pictures](http://fotoforensics.com/).
+- Review basics of Python 3 (built-in functions, indexes and slices in lists).
+
+### 28
+- Review tuples, strings and loops in Python.
+- `breakpoint()` function in Python 3.7.
+- Integrate plugins in WordPress.
+
+### 27
+- Review Vim macros.
+
+### 26
+- Use and modify dictionary autocompletion in Neovim.
+- Use mappings in Neovim that toggle one command.
+- Create scatter plots, subplots, annotations and trendlines with Matplotlib.
+
+### 25
+- Regex examples in Vim.
+- Use `pandas` & `numpy` modules to manage data from CSV files to generate plots with Matplotlib.
+
+### 24
+- Iterators and iterables in Python.
+- Selenium module in python and XPath selections.
+
+### 23
+- Arithmetic in SQL.
+- `yaml` logging & configuration format.
+- Logging in Python with `logging` module.
+
+### 22
+- Apply circular text transformations in GIMP.
+
+### 21
+- Use quickfix list in Vim.
+
+### 20
+- Redraw the screen in Neovim and clear highlighted selection.
+- Threading in Python.
+- Incorporate log files automatically with Python script.
+- Use `argparse` Python module.
+
+### 19
+- Configure MySQL/MariaDB server locally.
+
+### 18
+- Learn about `pipenv`.
+- Set Python PATH with different versions installed from source.
+- Improve workflow of virtual environments in Python.
+
+### 17
+- Manage dashboard in Conekta.
+- Functions to find elements in Python module `selenium`.
+
+### 16
+- Use `urllib.request` in Python to get the HTTP status of web pages programmatically.
+
+### 15
+- Options in `rsync` command to build backup script in Python.
+
+### 14
+- Applications of blockchain technology.
+- `coverage.py` to test all Python code.
+- Simple algorithms in Python to count (reverse, consecutive).
+
+### 12
+- Review concept of recursion.
+- Review conversion of numbers from different bases (mainly binary & octal).
+
+### 11
+- Themes in Pelican (static site generator).
+- Set aliases for domain name to get HTTPS everywhere.
+
+### 10
+- Review rounding in Python (built-in functions & `math` module).
+
+### 9
+- Make a website on [GitHub Pages](https://pages.github.com/).
+- Git commands (submodule, branch, merge, revert, show, log).
+
+### 8
+- Use linters with `ALE` (Vim plugin).
+- Use JSON in Python.
+- Use Twilio dashboard.
+- Webhooks (reverse APIs).
+
+### 7
+- Use `argparse` module in Python scripts.
+- Threading in Python (`threading` module).
+- Install latest Python version from source ([article on Real Python](https://realpython.com/installing-python/)).
+- Enable fonts with ligatures in Neovim.
+- `rsync` command & graphical interfaces (including Grsync).
+
+### 6
+- Review Vim basics (editing, modes, word commands, search features, find and replace commands).
+- Basic features in [Krita](https://krita.org/) (digital painting).
+- Use applications packaged with flatpak.
+
+### 5
+- Options in Terminator (terminal emulator).
+- Basics of restoring files with `extundelete` command.
+
+### 4
+- Set up account and website configuration in Disqus.
+- Basics of restoring files with `extundelete` command.
+- Manage Flask messages (errors).
+- Set up custom domain on [Pythonanywere](https://www.pythonanywhere.com/) (superb platform to use Python in the cloud).
+
+### 3
+- Modal popups in Bootstrap.
+- Concept of using AJAX to avoid page refresh.
+
+### 2
+- Fields validation in Flask WTForms.
+- Capture and use arguments in URL within Flask application.
+- Basic inner workings of Blockchain technology.
+
+### 1
+- Find duplicates in Vim and highlight them with macro.
+- More on POST requests in Python with Flask application.
 
 ---
 
-<div class="learning-year">2018</div>
+## September
+### 30
+- Logging in multiple files in Python.
+- Manage errors in pylint.
 
-<div id="year2018" class="container no-padding">
-<div class="panel">
+### 29
+- Use CSS grids with Bootstrap.
+- Convert images from PNG to SVG.
+- String encryption in JavaScript.
 
-<div class="row justify-content-center" role="button" data-toggle="collapse" data-parent="#year2018" href="#dec18" aria-expanded="false" aria-controls="dec18">
-<div class="learning-month">December</div>
-</div>
-<div id="dec18" class="container collapse">
+### 28
+- Connect to AWS database instance through SSH.
 
-<div class="row">
-<div class="col-12 col-md-2 blue-day">31</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Managing configuration in <a href="https://ranger.github.io/">ranger</a>.</li>
-</ul>
-</div>
-</div>
+### 27
+- Set CNAME and other records for domain name.
+- Deploy a website to GitHub.
 
-<div class="row">
-<div class="col-12 col-md-2 grey-day">30</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=DSq9uGs_z0E">DiSSS technique</a>, from <a href="https://tim.blog/">Tim Ferriss</a>.</li>
-<li>Binary trees implementations in Python <i class="fab fa-python"></i>.</li>
-<li>Managing builds in Travis CI.</li>
-</ul>
-</div>
-</div>
+### 26
+- Manage downloaded files with `selenium` module in Python.
+- Quickly clean big chunks of data in Vim with regular expressions.
 
-<div class="row">
-<div class="col-12 col-md-2 blue-day">29</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Using <a href="https://clickup.com">ClickUp</a> for task and project management.</li>
-</ul>
-</div>
-</div>
+### 25
+- Working with invisible elements with `selenium` Python module.
+- Manage Python requests to login forms with hidden token.
 
-<div class="row">
-<div class="col-12 col-md-2 grey-day">28</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li><em>Google IT</em> <i class="fas fa-university"></i></li>
-<ul>
-<li>Managing resources on cloud services, platform services (servers &amp; databases), directory services, centralized management.</li>
-</ul>
-</ul>
-</div>
-</div>
+### 24
+- Regex to set more complicated mappings in Neovim.
+- Set up xmodmap to remap all keys.
+- Use *diff* mode in Neovim.
 
-<div class="row">
-<div class="col-12 col-md-2 blue-day">27</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li><em>Google IT</em> <i class="fas fa-university"></i></li>
-<ul>
-<li>Print services, NFS servers, chat communication services (XMPP, IRC, etc.)</li>
-</ul>
+### 23
+- Basics on Python web scraping with *Beautiful Soup*.
+- Check/change DNS settings and speed.
 
-<li>Configure locales on Linux <i class="fab fa-linux"></i>.</li>
-<li>Using <a href="https://joplin.cozic.net">Joplin</a> &amp; <a href="https://todoist.com/">Todoist</a>.</li>
-<li>Setting up <a href="https://github.com/tobi-wan-kenobi/bumblebee-status">bumblebee-status</a> with <a href="https://i3wm.org/">i3</a>.</li>
-</ul>
-</div>
-</div>
+### 22
+- Start to use Silver Searcher.
+- Buffer navigation with more mappings in Neovim.
 
-<div class="row">
-<div class="col-12 col-md-2 grey-day">26</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>i3wm configuration: status bar, workspaces, themes, modules.</li>
-</ul>
-</div>
-</div>
+### 21
+- Watch [short introduction](https://www.youtube.com/watch?v=LRQGAnPtNdM) on Neovim, by Nick Nisi.
+- More options in `glances` terminal application.
 
-<div class="row">
-<div class="col-12 col-md-2 blue-day">25</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li><em>Google IT</em> <i class="fas fa-university"></i></li>
-<ul>
-<li>Physical infrastructure services.</li>
-<li>Configuring network services.</li>
-</ul>
-<li>i3wm setup &amp; configuration.</li>
-</ul>
-</div>
-</div>
+### 20
+- Spreadsheets graphs in LibreOffice.
+- Sort dictionaries in Python.
 
-<div class="row">
-<div class="col-12 col-md-2 grey-day">23</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li><em>Google IT</em> <i class="fas fa-university"></i></li>
-<ul>
-<li>IT infrastructure services.</li>
-</ul>
-<li>Regular expressions in Python <i class="fab fa-python"></i>.</li>
-<li>Working with JSON files in Python <i class="fab fa-python"></i>.</li>
-</ul>
-</div>
-</div>
+### 19
+- Integrate custom functions in Vim (with [ag](https://github.com/ggreer/the_silver_searcher), [fzf](https://github.com/junegunn/fzf) & [jedi](https://github.com/davidhalter/jedi)).
 
-<div class="row">
-<div class="col-12 col-md-2 blue-day">22</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li><em>Google IT</em> <i class="fas fa-university"></i></li>
-<ul>
-<li>System administration &amp; tasks.</li>
-</ul>
-<li>Regular expressions in Python <i class="fab fa-python"></i>.</li>
-</ul>
-</div>
-</div>
+### 18
+- Vim & Neovim differences to better adjust configuration.
+- Extract frames from videos in terminal with `ffmpeg`.
 
-<div class="row">
-<div class="col-12 col-md-2 grey-day">21</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li><em>Google IT</em> <i class="fas fa-university"></i></li>
-<ul>
-<li>Operating Systems: Filesystems, Process management, Remote access, Virtualization, Logging.</li>
-</ul>
-</ul>
-</div>
-</div>
+### 17
+- Run Vim commands to affect all buffers with `:bufdo` & `:argdo`.
+- Configure Git to authenticate with SSH.
 
-<div class="row">
-<div class="col-12 col-md-2 blue-day">20</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li><em>Google IT</em> <i class="fas fa-university"></i></li>
-<ul>
-<li>Operating Systems: file and text manipulation, users &amp; permissions, package &amp; software management.</li>
-</ul>
-</ul>
-</div>
-</div>
+### 16
+- Finish reading *[Practical Vim, Second Edition](https://amzn.to/2XXOh8p)*, by [Drew Neil](http://drewneil.com/). I love this book!
 
-<div class="row">
-<div class="col-12 col-md-2 grey-day">19</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li><em>Google IT</em> <i class="fas fa-university"></i></li>
-<ul>
-<li>Networking services: VPNs, proxies.</li>
-<li>Connecting to Internet: Dial-up, broadband, wireless, WANs.</li>
-<li>Troubleshooting: verifying connectivity, digging into DNS, cloud, IPv6.</li>
-<li>Operating systems: basic commands (PowerShell &amp; Bash).</li>
-</ul>
-</ul>
-</div>
-</div>
+### 15
+- Use Chrome with `selenium` module in Python.
 
-<div class="row">
-<div class="col-12 col-md-2 blue-day">18</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li><em>Google IT</em> <i class="fas fa-university"></i></li>
-<ul>
-<li>Networking services: name resolution, DNS, DHCP, NAT.</li>
-</ul>
-<li>Implementing linked lists in Python <i class="fab fa-python"></i>.</li>
-</ul>
-</div>
-</div>
+### 14
+- Use ADB & Fastboot to access Android phone from computer.
 
-<div class="row">
-<div class="col-12 col-md-2 grey-day">17</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li><em>Google IT</em> <i class="fas fa-university"></i></li>
-<ul>
-<li>Routing (tables, protocols, addresses).</li>
-<li>Transport layer, application layer.</li>
-</ul>
-</ul>
-</div>
-</div>
+### 13
+- Make use of `fzf` in terminal & Neovim.
+- Configure Neovim from scratch.
+- Discover [Oni](https://github.com/onivim/oni), text editor powered by Neovim.
 
-<div class="row">
-<div class="col-12 col-md-2 blue-day">16</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li><em>Google IT</em> <i class="fas fa-university"></i></li>
-<ul>
-<li>Introduction to Computer Networking: Subnetting.</li>
-</ul>
-</ul>
-</div>
-</div>
+### 12
+- `urllib` Python module by watching [Socratica](https://www.youtube.com/channel/UCW6TXMZ5Pq6yL6_k5NZ2e0Q) on YouTube.
 
-<div class="row">
-<div class="col-12 col-md-2 grey-day">15</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Test Driven Development: Pytest, Unittest, Doctest, test doubles, test coverage.</li>
-</ul>
-</div>
-</div>
+### 11
+- Review table joins in SQL.
+- Set environment variables from terminal.
 
-<div class="row">
-<div class="col-12 col-md-2 blue-day">14</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li><em>Google IT</em> <i class="fas fa-university"></i></li>
-<ul>
-<li>Introduction to Computer Networking: TCP/IP five-Layer model, basics of networking devices.</li>
-</ul>
-</ul>
-</div>
-</div>
+### 10
+- Set and release clips in Inkscape to cut from objects.
 
-<div class="row">
-<div class="col-12 col-md-2 grey-day">13</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li><em>Google IT</em> <i class="fas fa-university"></i></li>
-<ul>
-<li>Operating System: Installing Windows/Linux/Mac, virtual machines, Chrome OS.</li>
-<li>Networking: TCP/IP, history, limitations, impact, security, privacy.</li>
-<li>Software: abstractions, types of software, interacting with software.</li>
-<li>Troubleshooting: best practices, customer service, documentation &amp; writing effective documentation, technical interview.</li>
-</ul>
-</ul>
-</div>
-</div>
+### 9
+- List all file types recursively in Bash.
+- Sign SSL certificates on [Pythonanywhere](https://www.pythonanywhere.com/).
 
-<div class="row">
-<div class="col-12 col-md-2 blue-day">12</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li><em>Google IT</em> <i class="fas fa-university"></i></li>
-<ul>
-<li>Hardware: CPU &amp; other components, overclocking, BIOS, computer assembly.</li>
-<li>Operating System: file systems, kernel, logs, user space, boot process.</li>
-</ul>
-</ul>
-</div>
-</div>
+### 8
+- Internet domains (top-level, generic, country code).
 
-<div class="row">
-<div class="col-12 col-md-2 grey-day">11</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Add plugins to Pelican (static site generator): plugin <code>tag_cloud</code>.</li>
-<li><i class="fas fa-graduation-cap"></i> Enrolled in <em><a href="https://www.coursera.org/specializations/google-it-support">Google IT Support Professional Certificate</a></em> on Coursera.</li>
-<ul>
-<li>Introduction to IT support, history of computing, digital logic, computer architecture layer.</li>
-</ul>
-</ul>
-</div>
-</div>
+### 7
+- Set up [Flask](https://github.com/pallets/flask) application on Pythonanywhere with custom URL.
 
-<div class="row">
-<div class="col-12 col-md-2 blue-day">10</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Bootstrap (web framework): Tables.</li>
-<li>Pelican (static site generator): Use <em>Pages</em> in theme; Integrate menu items; Add a custom 404 error page.</li>
-<li>Read <em><a href="https://amzn.to/2O8JAnS">The Complete Software Developer's Career Guide</a></em> <i class="fas fa-book"></i>, by <a href="https://simpleprogrammer.com/">John Sonmez</a>: Section 3 (What you need to know about software development) &amp; Section 4 (Working as a developer). Section 4 contained the inspiration I needed to write about this <em>Learning Progress</em>.</li>
-</ul>
-</div>
-</div>
+### 6
+- Use `yaml` configuration files with Python.
 
-<div class="row">
-<div class="col-12 col-md-2 grey-day">9</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Manage Python <i class="fab fa-python"></i> dictionary with <code>(x, y)</code> coordinates (Advent of Code, day 3).</li>
-</ul>
-</div>
-</div>
+### 5
+- Set up project with [Click](https://github.com/pallets/click) (command line interface toolkit).
 
-<div class="row">
-<div class="col-12 col-md-2 blue-day">8</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Use fenced code blocks in Markdown <i class="fab fa-markdown"></i>.</li>
-<li>Add Markdown extensions in Pelican.</li>
-<li>Emmet syntax with Vim plugin <code>emmet-vim</code>.</li>
-</ul>
-</div>
-</div>
+### 3
+- Dictionaries being ordered in Python 3.7.
 
-<div class="row">
-<div class="col-12 col-md-2 grey-day">7</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Compare strings that differ by one character (Advent of Code, day 2).</li>
-<li>Get common letters from two strings (Advent of Code, day 2).</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">6</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Customize scrollbar in CSS <i class="fab fa-css3"></i>.</li>
-<li>Modify code blocks in CSS <i class="fab fa-css3"></i> with Pygments.</li>
-<li><i class="fab fa-youtube"></i> Module <code>asyncio</code> in Python <i class="fab fa-python"></i> (including <a href="https://www.youtube.com/user/sentdex">sentdex</a> tutorials on YouTube).</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">5</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Use <code>markdown-preview</code> plugin for Neovim.</li>
-<li>Storing Python <i class="fab fa-python"></i> dictionaries into files &amp; retrieving them.</li>
-<li>Convert list of strings to integers.</li>
-<li><i class="fas fa-calculator"></i> <a href="https://projecteuler.net/problem=9">Special Pythagorean triplet</a>, Project Euler.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">4</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Apply text transformations in CSS <i class="fab fa-css3"></i> (example with Copyleft symbol instead of Copyright).</li>
-<li><code>p5.js</code> library: Simple themes like shapes, colors &amp; text.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">3</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Use Vimwiki for note-taking.</li>
-<li>Arithmetic in JavaScript <i class="fab fa-js"></i>.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">2</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Set <code>fzf</code> with <code>ag</code> in Neovim.</li>
-<li>Remove all buffers except current one in Neovim.</li>
-<li>Use MathJax syntax.</li>
-<li>Conditionals in JavaScript <i class="fab fa-js"></i>.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">1</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Vim's location list.</li>
-<li><code>fzf</code> behavior with <code>.gitignore</code> &amp; <code>.ignore</code> files.</li>
-<li>Functions in JavaScript <i class="fab fa-js"></i>.</li>
-<li>Swap partitions in Linux <i class="fab fa-linux"></i>.</li>
-<li>Use Calcurse in terminal <i class="fas fa-terminal"></i>.</li>
-</ul>
-
-</div>
-</div>
-
-</div>
-
-
-
-<div class="row justify-content-center" role="button" data-toggle="collapse" data-parent="#year2018" href="#nov18" aria-expanded="false" aria-controls="nov18">
-<div class="learning-month">November</div>
-</div>
-<div id="nov18" class="container collapse">
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">29</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Implement linked list in Python <i class="fab fa-python"></i>.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">27</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>SVG icon transparency in CSS <i class="fab fa-css3"></i>.</li>
-<li>Make better use of <code>display</code> properties in CSS <i class="fab fa-css3"></i>.</li>
-<li>SVG rendering of PNG images with Inkscape.</li>
-<li>SVG support in modern web browsers.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">26</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Use of HTML <i class="fab fa-html5"></i> tag <code>&lt;li&gt;</code> in footer for images.</li>
-<li><i class="fab fa-stack-overflow"></i> Get the Pelican version number from a template (<a href="https://stackoverflow.com/a/53474870/8787680">answered on stackoverflow</a>).</li>
-<li><i class="fab fa-stack-overflow"></i> Create direct templates in theme (<a href="https://stackoverflow.com/a/53474144/8787680">answered on stackoverflow</a>).</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">25</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Use Font Awesome.</li>
-<li>Disqus integration with comment counts.</li>
-<li>Correctly set Python <i class="fab fa-python"></i> host in Neovim.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">24</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Link selectors in CSS <i class="fab fa-css3"></i>.</li>
-<li>Security measures to take with VPN (Virtual Private Networks).</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">23</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Generate favicon for different devices and platforms.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">22</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Make more responsive design in HTML5 <i class="fab fa-html5"></i> &amp; CSS3 <i class="fab fa-css3"></i>.</li>
-<li>Manage bookmarks on the command-line with Buku.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">22</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Disqus website integration.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">19</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Horizontal scrollable elements with Bootstrap.</li>
-<li>Jinja2 syntax.</li>
-<li>Linear gradients with transparency in SVG images.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">18</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Gradient mask with transparency in Inkscape.</li>
-<li><code>@media</code> queries in CSS <i class="fab fa-css3"></i>.</li>
-<li>Navigation bar togglers in Bootstrap.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">17</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>tmux color schemes and powerline settings.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">16</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>HTML <i class="fab fa-html5"></i> Fundamentals (<a href="https://www.sololearn.com/Certificate/1014-6555674/pdf/">certificate</a>).</li>
-<li>Use third-party fonts in HTML <i class="fab fa-html5"></i>.</li>
-<li>Build a simple landing page in HTML5 <i class="fab fa-html5"></i> &amp; CSS3 <i class="fab fa-css3"></i>.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">15</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Draggable JS <i class="fab fa-js"></i>.</li>
-<li>Set up SSH tunnel in MySQL Workbench &amp; DBeaver.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">14</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Customize forms in Flask micro-framework with WTForms.</li>
-<li>Manage pylint settings.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">13</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>SQLAlchemy in Flask micro-framework.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">12</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li><a href="https://www.maketecheasier.com/kde-plasma-tips-tricks-improve-productivity/">Productivity tricks</a> in KDE (Kool Desktop Environment).</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">11</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Manage notifications in Bash for terminated commands with <a href="https://github.com/kaustubhhiware/NotiFyre">NotiFyre</a>.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">10</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li><i class="fas fa-history"></i> Review how to mount exFat filesystem on Linux <i class="fab fa-linux"></i>.</li>
-<li>Installing fonts on a per-user basis on Linux <i class="fab fa-linux"></i> (Ubuntu derivatives).</li>
-<li>Set <a href="https://github.com/magicmonty/bash-git-prompt">Bash git prompt</a>.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">9</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Concept and application of inheritance in Jinja2 templates.</li>
-<li>Add Flask Babel to Flask projects.</li>
-<li>Set up <code>pylint</code> with Python <i class="fab fa-python"></i> project.</li>
-<li>Validators in WTForms with Flask.</li>
-<li><i class="fab fa-youtube"></i> Finishing <em>Python <i class="fab fa-python"></i> Flask Tutorial</em> with <a href="https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g">Corey Schafer</a> on YouTube (including blueprints, sending emails, forms and user input, user authentication and  managing database).</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">8</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li><i class="fab fa-youtube"></i> TicTacToe tutorial serie with <a href="https://www.youtube.com/user/sentdex">sentdex</a> on YouTube.</li>
-<li>Building a Flask application with SQLAlchemy to manage database.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">7</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Integrate user accounts in Flask application.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">6</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Structuring Flask application in packages.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">5</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Use <a href="https://www.draw.io/">draw.io</a> to make flowcharts.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">4</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Plot in Matplotlib and export to PDF files automatically from input files.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">3</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Error handling in Python 3 <i class="fab fa-python"></i>.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">2</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Modify appearance of <em>folds</em> in Neovim.</li>
-<li>Integrate tmux with Neovim.</li>
-<li>Convert videos to GIF images.</li>
-<li><i class="fas fa-history"></i> Review concept of mutability in Python <i class="fab fa-python"></i>.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">1</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Configure tmux.</li>
-</ul>
-</div>
-</div>
-
-</div>
-
-<div class="row justify-content-center" role="button" data-toggle="collapse" data-parent="#year2018" href="#oct18" aria-expanded="false" aria-controls="oct18">
-<div class="learning-month">October</div>
-</div>
-<div id="oct18" class="container collapse">
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">31</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Use compose key in Linux <i class="fab fa-linux"></i>.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">30</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Use of algorithms for <a href="http://fotoforensics.com/">forensic analysis of pictures</a>.</li>
-<li><i class="fas fa-history"></i> Review basics of Python 3 <i class="fab fa-python"></i> (built-in functions, indexes and slices in lists).</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">28</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li><i class="fas fa-history"></i> Review tuples, strings and loops in Python <i class="fab fa-python"></i>.</li>
-<li><code>breakpoint()</code> function in Python 3.7 <i class="fab fa-python"></i>.</li>
-<li>Integrate plugins in WordPress.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">27</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li><i class="fas fa-history"></i> Review Vim macros.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">26</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Use and modify dictionary autocompletion in Neovim.</li>
-<li>Use mappings in Neovim that toggle one command.</li>
-<li>Create scatter plots, subplots, annotations and trendlines with Matplotlib.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">25</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Regex examples in Vim.</li>
-<li>Use <code>pandas</code> &amp; <code>numpy</code> modules to manage data from CSV files to generate plots with Matplotlib.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">24</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Iterators and iterables in Python <i class="fab fa-python"></i>.</li>
-<li>Selenium module in python and XPath selections.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">23</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Arithmetic in SQL.</li>
-<li><code>yaml</code> logging &amp; configuration format.</li>
-<li>Logging in Python <i class="fab fa-python"></i> with <code>logging</code> module.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">22</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Apply circular text transformations in GIMP.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">21</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Use quickfix list in Vim.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">20</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Redraw the screen in Neovim and clear highlighted selection.</li>
-<li>Threading in Python <i class="fab fa-python"></i>.</li>
-<li>Incorporate log files automatically with Python <i class="fab fa-python"></i> script.</li>
-<li>Use <code>argparse</code> Python <i class="fab fa-python"></i> module.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">19</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Configure MySQL/MariaDB server locally.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">18</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Learn about <code>pipenv</code>.</li>
-<li>Set Python <i class="fab fa-python"></i> PATH with different versions installed from source.</li>
-<li>Improve workflow of virtual environments in Python <i class="fab fa-python"></i>.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">17</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Manage dashboard in Conekta.</li>
-<li>Functions to find elements in Python <i class="fab fa-python"></i> module <code>selenium</code>.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">16</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Use <code>urllib.request</code> in Python <i class="fab fa-python"></i> to get the HTTP status of web pages programmatically.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">15</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Options in <code>rsync</code> command to build backup script in Python <i class="fab fa-python"></i>.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">14</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Applications of blockchain technology.</li>
-<li><code>coverage.py</code> to test all Python <i class="fab fa-python"></i> code.</li>
-<li>Simple algorithms in Python <i class="fab fa-python"></i> to count (reverse, consecutive).</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">12</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li><i class="fas fa-history"></i> Review concept of recursion.</li>
-<li><i class="fas fa-history"></i> Review conversion of numbers from different bases (mainly binary &amp; octal).</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">11</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Themes in Pelican (static site generator).</li>
-<li>Set aliases for domain name to get HTTPS everywhere.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">10</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li><i class="fas fa-history"></i> Review rounding in Python <i class="fab fa-python"></i> (built-in functions &amp; <code>math</code> module).</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">9</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Make a website on <a href="https://pages.github.com/">GitHub Pages <i class="fab fa-github"></i></a>.</li>
-<li>Git <i class="fab fa-git"></i> commands (submodule, branch, merge, revert, show, log).</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">8</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Use linters with <code>ALE</code> (Vim plugin).</li>
-<li>Use JSON in Python <i class="fab fa-python"></i>.</li>
-<li>Use Twilio dashboard.</li>
-<li>Webhooks (reverse APIs).</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">7</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Use <code>argparse</code> module in Python <i class="fab fa-python"></i> scripts.</li>
-<li>Threading in Python <i class="fab fa-python"></i> (<code>threading</code> module).</li>
-<li>Install latest Python <i class="fab fa-python"></i> version from source (<a href="https://realpython.com/installing-python/">article on Real Python</a>).</li>
-<li>Enable fonts with ligatures in Neovim.</li>
-<li><code>rsync</code> command &amp; graphical interfaces (including Grsync).</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">6</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li><i class="fas fa-history"></i> Review Vim basics (editing, modes, word commands, search features, find and replace commands).</li>
-<li>Basic features in <a href="https://krita.org/">Krita</a> (digital painting).</li>
-<li>Use applications packaged with flatpak.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">5</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Options in Terminator (terminal <i class="fas fa-terminal"></i> emulator).</li>
-<li>Basics of restoring files with <code>extundelete</code> command.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">4</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Set up account and website configuration in Disqus.</li>
-<li>Basics of restoring files with <code>extundelete</code> command.</li>
-<li>Manage Flask messages (errors).</li>
-<li>Set up custom domain on <a href="https://www.pythonanywhere.com/">Pythonanywere</a> (superb platform to use Python <i class="fab fa-python"></i> in the cloud).</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">3</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Modal popups in Bootstrap.</li>
-<li>Concept of using AJAX to avoid page refresh.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">2</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Fields validation in Flask WTForms.</li>
-<li>Capture and use arguments in URL within Flask application.</li>
-<li>Basic inner workings of Blockchain technology.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">1</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Find duplicates in Vim and highlight them with macro.</li>
-<li>More on POST requests in Python <i class="fab fa-python"></i> with Flask application.</li>
-</ul>
-</div>
-</div>
-
-</div>
-
-<div class="row justify-content-center" role="button" data-toggle="collapse" data-parent="#year2018" href="#sep18" aria-expanded="false" aria-controls="sep18">
-<div class="learning-month">September</div>
-</div>
-<div id="sep18" class="container collapse">
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">30</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Logging in multiple files in Python <i class="fab fa-python"></i>.</li>
-<li>Manage errors in pylint.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">29</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Use CSS <i class="fab fa-css3"></i> grids with Bootstrap.</li>
-<li>Convert images from PNG to SVG.</li>
-<li>String encryption in JavaScript <i class="fab fa-js"></i>.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">28</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Connect to AWS database instance through SSH.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">27</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Set CNAME and other records for domain name.</li>
-<li>Deploy a website to GitHub <i class="fab fa-github"></i>.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">26</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Manage downloaded files with <code>selenium</code> module in Python <i class="fab fa-python"></i>.</li>
-<li>Quickly clean big chunks of data in Vim with regular expressions.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">25</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Working with invisible elements with <code>selenium</code> Python <i class="fab fa-python"></i> module.</li>
-<li>Manage Python <i class="fab fa-python"></i> requests to login forms with hidden token.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">24</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Regex to set more complicated mappings in Neovim.</li>
-<li>Set up xmodmap to remap all keys.</li>
-<li>Use <em>diff</em> mode in Neovim.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">23</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Basics on Python <i class="fab fa-python"></i> web scraping with <em>Beautiful Soup</em>.</li>
-<li>Check/change DNS settings and speed.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">22</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Start to use Silver Searcher.</li>
-<li>Buffer navigation with more mappings in Neovim.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">21</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li><i class="fab fa-youtube"></i> Watch <a href="https://www.youtube.com/watch?v=LRQGAnPtNdM">short introduction</a> on Neovim, by Nick Nisi.</li>
-<li>More options in <code>glances</code> terminal <i class="fas fa-terminal"></i> application.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">20</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Spreadsheets graphs in LibreOffice.</li>
-<li>Sort dictionaries in Python <i class="fab fa-python"></i>.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">19</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Integrate custom functions in Vim (with <a href="https://github.com/ggreer/the_silver_searcher">ag</a>, <a href="https://github.com/junegunn/fzf">fzf</a> &amp; <a href="https://github.com/davidhalter/jedi">jedi</a>).</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">18</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Vim &amp; Neovim differences to better adjust configuration.</li>
-<li>Extract frames from videos in terminal <i class="fas fa-terminal"></i> with <code>ffmpeg</code>.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">17</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Run Vim commands to affect all buffers with <code>:bufdo</code> &amp; <code>:argdo</code>.</li>
-<li>Configure Git <i class="fab fa-git"></i> to authenticate with SSH.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">16</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Finish reading <em><a href="https://amzn.to/2XXOh8p">Practical Vim, Second Edition</a></em> <i class="fas fa-book"></i>, by <a href="http://drewneil.com/">Drew Neil</a>. I love this book!</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">15</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Use Chrome with <code>selenium</code> module in Python <i class="fab fa-python"></i>.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">14</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Use ADB &amp; Fastboot to access Android phone from computer.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">13</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Make use of <code>fzf</code> in terminal <i class="fas fa-terminal"></i> &amp; Neovim.</li>
-<li>Configure Neovim from scratch.</li>
-<li>Discover <a href="https://github.com/onivim/oni">Oni</a>, text editor powered by Neovim.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">12</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li><i class="fab fa-youtube"></i> <code>urllib</code> Python <i class="fab fa-python"></i> module by watching <a href="https://www.youtube.com/channel/UCW6TXMZ5Pq6yL6_k5NZ2e0Q">Socratica</a> on YouTube.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">11</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li><i class="fas fa-history"></i> Review table joins in SQL.</li>
-<li>Set environment variables from terminal <i class="fas fa-terminal"></i>.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">10</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Set and release clips in Inkscape to cut from objects.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">9</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>List all file types recursively in Bash.</li>
-<li>Sign SSL certificates on <a href="https://www.pythonanywhere.com/">Pythonanywhere</a>.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">8</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Internet domains (top-level, generic, country code).</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">7</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Set up <a href="https://github.com/pallets/flask">Flask</a> application on Pythonanywhere with custom URL.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">6</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Use <code>yaml</code> configuration files with Python <i class="fab fa-python"></i>.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">5</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Set up project with <a href="https://github.com/pallets/click">Click</a> (command line interface toolkit).</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">3</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Dictionaries being ordered in Python 3.7 <i class="fab fa-python"></i>.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">2</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Python <i class="fab fa-python"></i> <code>timeit</code> module &amp; use of <code>__init__.py</code> files.</li>
-<li><i class="fab fa-youtube"></i> Django tutorial serie with <a href="https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g">Corey Schafer</a> on YouTube.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">1</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Python <i class="fab fa-python"></i> <code>selenium</code> module: deal with page load time &amp; XPath.</li>
-</ul>
-</div>
-</div>
-
-</div>
-</div>
-</div>
+### 2
+- Python `timeit` module & use of `__init__.py` files.
+- Django tutorial serie with [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g) on YouTube.
+
+### 1
+- Python `selenium` module: deal with page load time & XPath.
 
 ----
 
-<div id="earlier2018" class="container no-padding">
-<div class="panel">
+# Earlier in 2018
 
-<div class="row justify-content-center" role="button" data-toggle="collapse" data-parent="#earlier2018" href="#early18" aria-expanded="false" aria-controls="early18">
-<div class="learning-year collapsible">Earlier in 2018</div>
-</div>
-<div id="early18" class="container collapse">
+**Git & GitHub**
 
-<strong>Git <i class="fab fa-git"></i> &amp; GitHub <i class="fab fa-github"></i></strong>
-<ul>
-<li>Contribute a pull request and get feedback.</li>
-<li>Make use of forks and public/private repositories.</li>
-<li>Use <a href="https://github.com/">GitHub</a> <i class="fab fa-github"></i> from terminal <i class="fas fa-terminal"></i>.</li>
-</ul>
-<strong>Python</strong>
-<ul>
-<li>Algorithms &amp; Data Structures on <a href="https://www.hackerrank.com/">HackerRank.com</a>, <a href="http://www.codeabbey.com/">Code Abbey</a>, <a href="https://projecteuler.net/">Project Euler <i class="fas fa-calculator"></i></a>, etc.</li>
-<li>Finish <em>Complete Python Masterclass</em> on Udemy, by Tim Buchalka.</li>
-<li>Jupyter Notebooks.</li>
-<li>Build a CLI with <a href="https://github.com/pallets/click">Click</a>.</li>
-<li>Use <a href="https://www.anaconda.com">Anaconda distribution</a> with scientific libraries.</li>
-<li><code>subprocess</code> module in Python <i class="fab fa-python"></i>.</li>
-</ul>
+- Contribute a pull request and get feedback.
+- Make use of forks and public/private repositories.
+- Use [GitHub](https://github.com/) from terminal.
+**Python**
+- Algorithms & Data Structures on [HackerRank.com](https://www.hackerrank.com/), [Code Abbey](http://www.codeabbey.com/), [Project Euler](https://projecteuler.net/), etc.
+- Finish *Complete Python Masterclass* on Udemy, by Tim Buchalka.
+- Jupyter Notebooks.
+- Build a CLI with [Click](https://github.com/pallets/click).
+- Use [Anaconda distribution](https://www.anaconda.com) with scientific libraries.
+- `subprocess` module in Python.
 
-<strong>SQL</strong>
-<ul>
-<li>[Basic] Certificate of Completion of <em>Database for Developers</em>, by Oracle.</li>
-</ul>
+**SQL**
 
-<strong>Vim/Neovim &amp; other text editors</strong>
-<ul>
-<li>Clear variables and registers in Neovim to improve mappings efficiency.</li>
-<li>Completion with <code>Ctrl + x</code> in Neovim.</li>
-<li>Control over buffers and windows in Neovim.</li>
-<li>Make use of <code>ctags</code> in Vim.</li>
-<li>Plugin <code>vim-rhubarb</code> for Neovim.</li>
-<li>Search files recursively inside a project in Neovim.</li>
-<li>Set <code>pdb</code> mappings in Neovim.</li>
-<li>Start using more <code>comfortable-motion.vim</code> plugin with Neovim.</li>
-<li>Start using plugin <code>ALE</code> with Neovim.</li>
-<li>Start using plugin <code>deoplete.nvim</code> with Neovim.</li>
-<li>Use <code>ctrlp</code> plugin.</li>
-<li>Use <code>jedi-vim</code> plugin.</li>
-<li>Use <code>vim-airline</code> settings plugin.</li>
-<li>Use <code>vim-fugitive</code> to visualize differences between files in split windows.</li>
-<li>Use setting <code>wildignore</code> in Neovim.</li>
-<li>Vim script language.</li>
-</ul>
-<ul>
-<li>Use VS Code, Atom &amp; nano (mainly).</li>
-</ul>
+- [Basic] Certificate of Completion of *Database for Developers*, by Oracle.
 
+**Vim/Neovim & other text editors**
 
-</div>
-
-</div>
-</div>
+- Clear variables and registers in Neovim to improve mappings efficiency.
+- Completion with `Ctrl + x` in Neovim.
+- Control over buffers and windows in Neovim.
+- Make use of `ctags` in Vim.
+- Plugin `vim-rhubarb` for Neovim.
+- Search files recursively inside a project in Neovim.
+- Set `pdb` mappings in Neovim.
+- Start using more `comfortable-motion.vim` plugin with Neovim.
+- Start using plugin `ALE` with Neovim.
+- Start using plugin `deoplete.nvim` with Neovim.
+- Use `ctrlp` plugin.
+- Use `jedi-vim` plugin.
+- Use `vim-airline` settings plugin.
+- Use `vim-fugitive` to visualize differences between files in split windows.
+- Use setting `wildignore` in Neovim.
+- Vim script language.
+- Use VS Code, Atom & nano (mainly).
 
 ----
 
-<div id="earlier2017" class="container no-padding">
-<div class="panel">
+# Earlier
 
-<div class="row justify-content-center" role="button" data-toggle="collapse" data-parent="#earlier2017" href="#early17" aria-expanded="false" aria-controls="early17">
-<div class="learning-year collapsible">2017 &amp; earlier</div>
-</div>
-<div id="early17" class="container collapse">
+**Linux**
 
-<strong>Linux <i class="fab fa-linux"></i></strong>
-<ul>
-<li>Bash scripting.</li>
-<li>Disk encryption with cryptsetup.</li>
-<li>Use Bash terminal <i class="fas fa-terminal"></i>.</li>
-<li>Use distributions, including <a href="https://kubuntu.org/">Kubuntu</a>, <a href="https://www.debian.org/">Debian</a>, <a href="https://getfedora.org/">Fedora</a>, <a href="https://www.ubuntu.com/">Ubuntu</a>, <a href="https://linuxmint.com/">Linux Mint</a>, <a href="https://www.openmandriva.org/">Mandrake, Mandriva</a> and <a href="https://www.suse.com/">SuSE</a>.</li>
-</ul>
-<strong>Basics of...</strong>
-<ul>
-<li>Python <i class="fab fa-python"></i>: Get <i class="fas fa-graduation-cap"></i> <a href="https://www.sololearn.com/Certificate/1073-6555674/pdf/">certificate</a> for Python 3 Tutorial on <a href="https://www.sololearn.com/">SoloLearn</a>.</li>
-<li>HTML <i class="fab fa-html5"></i>, CSS <i class="fab fa-css3"></i>, JavaScript <i class="fab fa-js"></i>, SQL, Visual Basic, Pascal, Scribus, LibreOffice, GIMP, Audacity, Inkscape, Blender, XAMPP (Apache distribution), Wordpress, Freeplane (mind mapping software).</li>
-</ul>
-
-</div>
-
-</div>
-</div>
+- Bash scripting.
+- Disk encryption with cryptsetup.
+- Use Bash terminal.
+- Use distributions, including [Kubuntu](https://kubuntu.org/), [Debian](https://www.debian.org/), [Fedora](https://getfedora.org/), [Ubuntu](https://www.ubuntu.com/), [Linux Mint](https://linuxmint.com/), [Mandrake, Mandriva](https://www.openmandriva.org/) and [SuSE](https://www.suse.com/).
+**Basics of...**
+- Python: Get [certificate](https://www.sololearn.com/Certificate/1073-6555674/pdf/) for Python 3 Tutorial on [SoloLearn](https://www.sololearn.com/).
+- HTML, CSS, JavaScript, SQL, Visual Basic, Pascal, Scribus, LibreOffice, GIMP, Audacity, Inkscape, Blender, XAMPP (Apache distribution), Wordpress, Freeplane (mind mapping software).

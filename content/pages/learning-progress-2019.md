@@ -1,8 +1,8 @@
-Title: Learning Progress
+Title: Learning Progress 2019
 Date: 2018-12-10 14:24
 Slug: learning-progress-2019
 Authors: Sébastien Lavoie
-URL:
+URL: learning-progress-2019.html
 save_as: learning-progress-2019.html
 
 > Learning is an eternal path. I wanted to share my own
@@ -14,3937 +14,1409 @@ class="fab fa-wikipedia-w"></i>. This is really just a summary to
 motivate myself to keep on track and be reminded as often as possible to
 stay a bit more humble, as it becomes obvious that I don’t know much
 in the end.
-
 > In the process, I hope you may find some inspiration too.
 
-
-<div class="learning-year">2019</div>
-
-<div id="year2019" class="container no-padding">
-<div class="panel">
-
-<div class="row justify-content-center" role="button" data-toggle="collapse" data-parent="#year2019" href="#october19" aria-expanded="false" aria-controls="october19">
-<div class="learning-month">October</div>
-</div>
-<div id="october19" class="container collapse">
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">26</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Discrete mathematics</strong></li>
-<ul>
-<li><i class="fas fa-history"></i> Injective &amp; surjective functions.</li>
-</ul>
-</ul>
-<li>Basics of WebRTC.</li>
-<li>Basics of <a href="https://pandoc.org/">Pandoc</a> and <a href="https://github.com/lervag/vimtex">Vimtex</a>.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=w8EKH_fjmXA">groff/troff: MUH MINIMALIST Documents</a> with Luke Smith.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=nx1tOOc_3fU">The Science of Great UI</a> with Coding Tech.</li>
-<li><i class="fab fa-git"></i> On <a href="https://learngitbranching.js.org/">Learn Git Branching</a> <i class="fas fa-history"></i> Relative refs (<code>^</code>/<code>~</code>), <code>reset</code>, <code>revert</code>, <code>cherry-pick</code>, interactive rebase, tags, <code>describe</code>, <code>clone</code>, remote branches, <code>fetch</code>, <code>pull</code>.</li>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">25</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Discrete mathematics</strong></li>
-<ul>
-<li>Introduction to functions (one-to-one [injective] and onto [surjective] functions), plotting functions, <i class="fas fa-history"></i> set operations, set notations.</li>
-</ul>
-</ul>
-<li><i class="fab fa-git"></i> How patterns are matched in <code>.gitignore</code>.</li>
-<li>New features in <i class="fab fa-python"></i> Python 8 (<code>:=</code> walrus operator, <code>/</code> positional-only parameters, <code>{var_name=}</code> self-documenting f-strings).</li>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">23</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Discrete mathematics</strong></li>
-<ul>
-<li>Propositional equivalences, De Morgan's laws, applications of satisfiability.</li>
-</ul>
-</ul>
-<li><i class="fab fa-git"></i> Review Git basics.</li>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">22</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Discrete mathematics</strong></li>
-<ul>
-<li>Applications of propositional logic, propositional equivalences.</li>
-</ul>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">21</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Discrete mathematics</strong></li>
-<ul>
-<li>Logic and proofs (propositional logic), applications of propositional logic, <i class="fas fa-history"></i> Set theory from scratch.</li>
-</ul>
-</ul>
-<ul>
-<li><strong>Introduction to Programming II</strong></li>
-<ul>
-<li>Documenting through SRS (software requirements specification), creating Gantt charts specifically for software development.</li>
-<li><i class="fab fa-js"></i> <code>P5.js</code>: Loading and playing a sound.</li>
-</ul>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">20</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Introduction to Programming II</strong></li>
-<ul>
-<li><i class="fab fa-js"></i> Making a website from Vimwiki.</li>
-</ul>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">19</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Introduction to Programming II</strong></li>
-<ul>
-<li><i class="fab fa-js"></i> Study case 2 (music visualizer): <code>P5.dom</code> (handling events), anonymous functions.</li>
-</ul>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">18</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Discrete mathematics</strong></li>
-<ul>
-<li><i class="fas fa-history"></i> Review aspects of set theory.</li>
-</ul>
-</ul>
-<ul>
-<li><strong>Introduction to Programming II</strong></li>
-<ul>
-<li><i class="fab fa-js"></i> Study case 2 (music visualizer): Figure out how sound works with Fourier series in <code>P5.js</code>.</li>
-</ul>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">17</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Discrete mathematics</strong></li>
-<ul>
-<li><i class="fas fa-history"></i> Introduction to set theory, set builder method, powerset of a set, cardinality of powerset, set operations, De Morgan's laws.</li>
-</ul>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">16</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Algorithms and Data Structures I</strong></li>
-<ul>
-<li>Birthday Party problem, discretisation and pseudocode, pseudocode and functions, loops in pseudocode, Euclidean algorithm in pseudocode, converting flowcharts to pseudocode and vice versa.</li>
-<li><i class="fas fa-history"></i> Introduction to algorithms, flowcharts, Heron's method, pseudocode.</li>
-</ul>
-</ul>
-<li>Solve <a href="https://www.codewars.com/kata/5a49f074b3bfa89b4c00002b">String subpattern recognition I</a> on Codewars.</li>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">15</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Introduction to Programming II</strong></li>
-<ul>
-<li><i class="fab fa-js"></i> Study case 1: Drawing application – under the hood, introduction to <code>P5.dom</code>, handling events in <code>P5.dom</code>.</li>
-<li><i class="fab fa-js"></i> Study case 2: Music visualizer.</li>
-<li><i class="fab fa-js"></i> Asynchronous function calls, using callbacks, debugging skills (breakpoints and stepping), testing for stability, usability testing.</li>
-<li>Interview with Christophe Rhodes.</li>
-</ul>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">14</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Discrete mathematics</strong></li>
-<ul>
-<li><i class="fas fa-history"></i> Set theory.</li>
-</ul>
-</ul>
-<ul>
-<li><strong>Introduction to Programming II</strong></li>
-<ul>
-<li><i class="fab fa-js"></i> Introducing case study 1: drawing app.</li>
-</ul>
-</ul>
-</li>
-<li><i class="fas fa-university"></i> <a href="https://www.coursera.org/learn/version-control-with-git">Version Control with Git</a> on Coursera: Rebasing, rewriting history (amending a commit, interactive rebase), pull requests, Git workflows (centralized, feature branch, forking, Gitflow).</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=CRlGDDprdOQ">Git MERGE vs REBASE</a> with Academind.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=DeU6opFU_zw">Git - The STASH Command</a> with Academind.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=FdZecVxzJbk">Git Tutorial: Fixing Common Mistakes and Undoing Bad Commits</a> with Corey Schafer.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=KLEDKgMmbBI">Git Tutorial: Using the Stash Command</a> with Corey Schafer.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=iCGrKFH2oeo">Git Tutorial: Diff and Merge Tools</a> with Corey Schafer.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">13</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Discrete mathematics</strong></li>
-<ul>
-<li><i class="fas fa-history"></i> Set operations, set identities, set builder notation.</li>
-</ul>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">12</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Discrete mathematics</strong></li>
-<ul>
-<li>Injective and surjective properties, <i class="fas fa-history"></i> introduction to functions, Heron's method.</li>
-</ul>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">11</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Discrete mathematics</strong></li>
-<ul>
-<li>Set theory: partition, <i class="fas fa-history"></i> set operations, set identities, set builder notation.</li>
-</ul>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">10</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Discrete mathematics</strong></li>
-<ul>
-<li>Venn diagrams representations of sets, set representation and manipulation (complement of a set), De Morgan's laws, Laws of sets (commutative, associative and distributive).</li>
-</ul>
-</ul>
-<ul>
-<li><strong>Introduction to Programming II</strong></li>
-<ul>
-<li><i class="fab fa-js"></i> Public vs private properties.</li>
-</ul>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">9</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Discrete mathematics</strong></li>
-<ul>
-<li>Introduction to set theory, set builder method, powerset of a set, cardinality of powerset, set operations.</li>
-</ul>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">8</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Introduction to Programming II</strong></li>
-<ul>
-<li>Object orientation in practice, organizing code.</li>
-</ul>
-</ul>
-<ul>
-<li><strong>Algorithms and Data Structures I</strong></li>
-<ul>
-<li><i class="fas fa-history"></i> Review Heron's method.</li>
-</ul>
-</ul>
-
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">7</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Algorithms and Data Structures I</strong></li>
-<ul>
-<li>Problems, algorithms and flowcharts.</li>
-</ul>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">5</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><i class="fas fa-university"></i> <a href="https://www.coursera.org/learn/version-control-with-git">Version Control with Git</a> on Coursera: Git overview (remote repository), Git's graph model (Directed Acyclic Graph), Git IDs, Git references, branches, merging, resolving merge conflicts, tracking branches, fetch, pull, push.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">4</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><i class="fas fa-university"></i> <a href="https://www.coursera.org/learn/version-control-with-git">Version Control with Git</a> on Coursera: Git overview (remote repository).</li>
-<li>Converting JSON to CSV through Vim macros.</li>
-<li>Integrating Google Sheets with Slack, using Zapier.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">3</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><i class="fas fa-university"></i> <a href="https://www.coursera.org/learn/version-control-with-git">Version Control with Git</a> on Coursera: Git overview (Git locations, commit to a local repository).</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">2</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><i class="fas fa-book"></i> Introduction to Algorithms, Third Edition: Standard notations and common functions.</li>
-<li><i class="fas fa-university"></i> <a href="https://www.coursera.org/learn/version-control-with-git">Version Control with Git</a> on Coursera: DevOps and Git in a Nutshell.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">1</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><i class="fas fa-book"></i> Introduction to Algorithms, Third Edition: Divide-and-conquer algorithms, growth of functions (asymptotic notation, big-o notation [asymptotic upper bound], big-omega notation [asymptotic lower bound], little-o notation [upper bound not asymptotically tight], little-omega notation [lower bound not asymptotically tight]).</li>
-<li><i class="fas fa-history"></i> <code>YAML</code> and <code>TOML</code> syntax.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=8lhxIOAfDss">Recursion 'Super Power' (in Python)</a> with Computerphile.</li>
-</ul>
-</div>
-</div>
-
-</div>
-
-
-<div class="row justify-content-center" role="button" data-toggle="collapse" data-parent="#year2019" href="#september19" aria-expanded="false" aria-controls="september19">
-<div class="learning-month">September</div>
-</div>
-<div id="september19" class="container collapse">
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">30</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><i class="fas fa-book"></i> Introduction to Algorithms, Third Edition: Insertion sort, analyzing algorithms (best, worst &amp; average cases, running time, size of input, order of growth), designing algorithms (divide-and-conquer), merge sort algorithm.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">29</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li>Finish reading <i class="fas fa-book"></i> Pragmatic Programmer: Continuous development, pragmatic starter kit (version control, regression testing, full automation).</li>
-<li><i class="fas fa-book"></i> Introduction to Algorithms, Third Edition: The role of algorithms in computing.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">28</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><i class="fas fa-book"></i> Pragmatic Programmer: Security basic principles, naming things, software requirements, requirements documents, agile movement.</li>
-<li><i class="fas fa-calculator"></i> Solve <a href="https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem">Find the Torsional Angle challenge</a> (<i class="fab fa-python"></i> Python) on HackerRank.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">27</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><i class="fas fa-book"></i> Pragmatic Programmer: Test-driven development, unit testing, property-based testing, security basic principles.</li>
-<li>Develop Slack app locally with <a href="https://ngrok.com/">ngrok</a>.</li>
-<li><i class="fas fa-calculator"></i> Solve <a href="https://www.hackerrank.com/challenges/hex-color-code/problem">Hex Color Code regex challenge</a> (<i class="fab fa-python"></i> Python) on HackerRank.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">26</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=y_MTsIQuNEo">New UI Design Trends</a> with DesignCourse.</li>
-<li>Read article <a href="https://hackersandslackers.com/simplify-your-python-projects-configuration/">The Many Faces and Filetypes of Python Configs</a> on Hackers And Slackers.</li>
-<li>Learn basic usage of <a href="https://github.com/rochacbruno/dynaconf">Dynaconf</a> to manage configuration files in Python projects.</li>
-<li>Build and deploy a simple Slack bot in Python to Heroku.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">25</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><i class="fas fa-book"></i> Pragmatic Programmer: Inheritance, using external configuration in applications, concurrency and parallelism, tips on following instincts and programming deliberately, estimating algorithms speed, refactoring, testing code.</li>
-<li>Read article <a href="https://www.howtogeek.com/440848/how-to-run-and-control-background-processes-on-linux/">How to Run and Control Background Processes on Linux</a> on How To Geek.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">24</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li>Read <a href="https://realpython.com/python-virtual-environments-a-primer/">Python Virtual Environments: A Primer</a> on Real Python.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">23</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li>Threading in <i class="fab fa-python"></i> Python <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=IEEhzQoKtQU">with Corey Schafer</a>.</li>
-<li>Multiprocessing in <i class="fab fa-python"></i> Python <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=fKl2JW_qrso">with Corey Schafer</a>.</li>
-<li><i class="fas fa-book"></i> Pragmatic Programmer: Prototyping.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">21</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li>Customizing <code>zsh</code> better.</li>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">20</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><i class="fas fa-book"></i> Pragmatic Programmer: Prototyping, domain languages (internal, external languages), estimating, relying on systems with plain text files, using the command shell, making the most of your text editor, using VCS for everything, advice on debugging, manipulating text with dedicated tools and programming languages, how to work with engineering daybooks, killing programs early, when and when not to use assertions, balancing system resources, decoupling code (the one-dot rule of chaining method calls, avoiding global data).</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">19</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><i class="fas fa-book"></i> Pragmatic Programmer: Design principles (ETC [easier to change]), DRY [Don't Repeat Yourself]), orthogonality (independence of components), reversibility.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">18</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><i class="fab fa-git"></i> Git <i class="fas fa-history"></i>: Merge, rebase, branches.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">17</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><i class="fab fa-git"></i> Git <i class="fas fa-history"></i>: staging, unstaging, checkout, reset, rebase.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">14</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Web development</strong></li>
-<ul>
-<li><i class="fas fa-history"></i> Working with Slick carousel, Lightbox plugin for Bootstrap, touch events in JavaScript, event handlers &amp; event listeners.</li>
-</ul>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">13</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Web development</strong></li>
-<ul>
-<li><i class="fas fa-history"></i> General review of Bootstrap 4 framework, Slick JavaScript library, Lightbox library.</li>
-</ul>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">12</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Web development</strong></li>
-<ul>
-<li><i class="fas fa-history"></i> General review of Bootstrap 4 framework.</li>
-</ul>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">11</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Web development</strong></li>
-<ul>
-<li><i class="fas fa-history"></i> General review of Bootstrap 4 framework.</li>
-</ul>
-</ul>
-</li>
-<li>Using progress bars with <a href="https://click.palletsprojects.com/">Click</a>, compiling SASS with <code>ruby-sass</code> Using <a href="http://kenwheeler.github.io/slick/">Slick</a> and <a href="https://ashleydw.github.io/lightbox/">Lightbox</a> as JavaScript plugins.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">10</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Web development</strong></li>
-<ul>
-<li>Bootstrap 4 framework: List group items, badges, forms, input groups, alerts, progress bars, tables, pagination, cards, media objects, grid system flexbox, JavaScript widgets, collapse widget, accordion widget, tooltips, popovers, modals.</li>
-</ul>
-</ul>
-</li>
-<li><code>Gulp</code> with <code>node.js</code>, <i class="fas fa-history"></i> Emmet syntax.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">9</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Web development</strong></li>
-<ul>
-<li><i class="fas fa-history"></i> Review how Bootstrap 4 framework works: setup, typography, alignment, positioning, CSS breakpoints, buttons, nav bars.</li>
-</ul>
-</ul>
-</li>
-<li>Recursion in <code>p5.js</code>: <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=jPsZwrV9ld0">Coding Challenge #77: Recursion</a>.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">8</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Introduction to programming</strong>: <i class="fas fa-history"></i> Working with realistic physics in <code>p5.js</code>.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">7</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Introduction to programming</strong>: Working with realistic physics animations, particle systems (fireworks), working with the DOM inside <code>p5.js</code>.</li>
-</ul>
-</li>
-<li>Closures in <i class="fab fa-js"></i> JavaScript.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">6</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Introduction to programming</strong>: Layering canvases in <code>p5.js</code>, calling scripts dynamically.</li>
-</ul>
-</li>
-<li><i class="fab fa-python"></i> Python: <i class="fas fa-history"></i> Unit testing, importing modules.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">5</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Introduction to programming</strong>: Splitting application into modules, <i class="fas fa-history"></i> working with sound in <code>p5.js</code>.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">4</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Introduction to programming</strong>: <i class="fas fa-history"></i> Constructor functions, working with sound and <code>DOM</code> functions in <code>p5.js</code>.</li>
-</ul>
-</li>
-<li>Logging in <i class="fab fa-python"></i> Python.</li>
-<li>Setting up Mailgun with custom domains.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">3</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Calculus, linear algebra, sequences &amp; series, probability, number bases, modular arithmetic.</li>
-</ul>
-</li>
-<li>Creating a watchdog in <i class="fab fa-python"></i> Python.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">2</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Calculus, linear algebra, sequences &amp; series, probability, number bases, modular arithmetic.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">1</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Graph transformations, probability, binomial probability, linear algebra, affine transformations, number bases, modular arithmetic.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-</div>
-
-
-<div class="row justify-content-center" role="button" data-toggle="collapse" data-parent="#year2019" href="#august19" aria-expanded="false" aria-controls="august19">
-<div class="learning-month">August</div>
-</div>
-<div id="august19" class="container collapse">
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">31</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Sequences and series, modular arithmetic, number bases, probability.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">30</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> SUVAT equations, local minima and maxima with first derivative test, sequences and series.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">29</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Calculus and derivatives, limits and continuous functions, inverse functions and their derivatives, SUVAT equations.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">28</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Calculus and derivatives, product rule, quotient rule, chain rule.</li>
-</ul>
-</li>
-<li>Read <a href="https://dev.to/jacobherrington/git-bisect-is-easy-44ol">Git Guides - Jacob Herrington - Git Bisect is Easy (How to Initiate the Robot Uprising)</a> and <code>git cherry-pick</code>.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">27</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Geometric progressions, sequences, calculus and derivatives.</li>
-</ul>
-</li>
-<li>Read <a href="https://dev.to/jacobherrington/10-git-tricks-to-save-your-time-and-sanity-289h">Git Guides - Jacob Herrington - 10 Git Tricks to Save Your Time and Sanity</a>.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">26</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Linear dependence and independence, linear subspaces, number bases, number base conversions, modular arithmetic, patterns in sequences.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">25</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Systems of equations with matrices, inverse matrices, permutations in matrices, basic operations on vectors, linear combinations of vectors, span, linear independence.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">24</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Law of sine, Law of cosine, triangles with ambiguous cases, matrices (linear transformations, systems of equations).</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">22</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Dot product and angle between two vectors, polar coordinates, SUVAT equations, derivatives.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">21</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Inverse of matrices, probability of an event, mutually exclusive events, independent events, conditional probability, fundamental counting principle.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">20</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: Simple machine learning model, Bayes' Theorem (likelihood, prior, evidence, posterior), Bayesian inference.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">19</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Introduction to programming</strong>: <i class="fas fa-history"></i> <i class="fab fa-js"></i> JavaScript arrays, debugging techniques, methods, vector objects in <code>p5.js</code>.</li>
-<li><strong>Numerical mathematics</strong>: Probability &amp; statistics: independent events, complement of an event, averages (mean, median, mode), variance, standard deviation, conditional probability, sets.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">17</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: Introduction to combinatorics and probability, counting principles, independent events (multiplication law), permutations, mutually exclusive events, complement of an event, combinations.</li>
-<li><strong>Web development</strong></li>
-<ul>
-<li><i class="fab fa-js"></i> JavaScript basics: Execution context, execution stack (creation and execution phases), hoisting, scoping and scoping chain, DOM manipulation and events, <i class="fas fa-history"></i> <code>this</code> keyword in practice, events handlers &amp; events listeners.</li>
-</ul>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">16</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: Affine transformations, kaleidoscopes and tilings, solving simultaneous equations using matrices, <i class="fas fa-history"></i> linear transformations of matrices, homogeneous coordinates.</li>
-<li><strong>Web development</strong></li>
-<ul>
-<li><i class="fab fa-js"></i> JavaScript basics: <i class="fas fa-history"></i> basic operators, operator precedence, conditional statements, boolean logic, ternary operators, switch statement, truthy &amp; falsy values, equality operators, functions, arrays, objects, properties and methods, loops and iterations, continue, break, ES5, ES2015+.</li>
-</ul>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">15</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Linear transformations of matrices.</li>
-</ul>
-</li>
-<li><strong>Neovim</strong>: <i class="fas fa-history"></i> Using the <code>dot</code> command (dot formula).</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=0NO3MJkxm2g">Comments in Python: Best Practices</a> with Real Python.</li>
-<li><i class="fas fa-history"></i>Equality testing, review <i class="fab fa-js"></i> JavaScript arrays on <a href="https://www.executeprogram.com">Execute Program</a>.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">14</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Multiplying matrices and column vectors, linear transformations of matrices, homogeneous coordinates.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">13</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: Cross product of vectors, inverse of a matrix, multiply matrices and column vectors.</li>
-</ul>
-</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=6tNS--WetLI">Python Tutorial: Unit Testing Your Code with the unittest Module</a> with Corey Schafer.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">12</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: Homogeneous coordinates, <i class="fas fa-history"></i> cross product of two vectors, triple scalar product, vector product, inverse of a matrix with cofactor method and Jordan-Gauss method.</li>
-</ul>
-</li>
-<li>Using primary (<code>Shift + Insert</code>) and default (<code>Ctrl + Shift + v</code>) clipboard in terminal.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=f-Br8cud2eI">Git Fu Developing</a> with Coding Tech: <code>git</code> aliases (Git aliases and aliases with Shell commands <code>!</code>), logs, reflogs, stash, bisect.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">11</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Solving a matrix equation, inverse of a square matrix, system of linear equations.</li>
-</ul>
-</li>
-<li><i class="fab fa-python"></i> Dot product and cross product in Python.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">10</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> matrices &amp; systems of equations, elementary row operations, Gaussian elimination with back-substitution, Gauss-Jordan elimination, operations with matrices.</li>
-<li><strong>Introduction to programming</strong>: <i class="fas fa-history"></i> Working with <code>this</code> keyword, vectors in <code>p5.js</code>.</li>
-</ul>
-</li>
-<li><i class="fab fa-python"></i> Python concepts: <i class="fas fa-history"></i> <code>sys.path</code>, creating packages and subpackages.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">9</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> matrices (linear combinations, multiplication), determinant.</li>
-</ul>
-</li>
-<li>Using <code>git stash</code>, <code>git commit --amend</code>, <code>git diff</code>, <code>.gitignore</code> and <code>.git/info/exclude</code> files, <code>git blame</code>.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">8</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: <strong>SUVAT</strong> equations in vector form, <i class="fas fa-history"></i> Operations with 2D vectors, dot product, angle between vectors, operations with 3D vectors.</li>
-<li><strong>Web development</strong></li>
-<ul>
-<li>More on <code>Handlebars.js</code>: Custom expressions, partials.</li>
-</ul>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">7</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: Triple scalar product, <i class="fas fa-history"></i> cross-product of two vectors.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab">Essence of linear algebra</a> with 3Blue1Brown: <i class="fas fa-history"></i> determinant, cross products.</li>
-</ul>
-</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=MB0yDMQj1lU">Multi Programming</a> with Computerphile.</li>
-<li>Equality testing, <i class="fas fa-history"></i> review <i class="fab fa-js"></i> JavaScript arrays on <a href="https://www.executeprogram.com">Execute Program</a>.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">6</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: Vectors in space, cross-product of two vectors, <i class="fas fa-history"></i> Analytic geometry.</li>
-<li><strong>Web development</strong>: <code>Handlebars.js</code> helpers.</li>
-</ul>
-</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=mO_dS3rXDIs">Python Quick Tip: The Difference Between "==" and "is" (Equality vs Identity)</a> with Corey Schafer.</li>
-<li><i class="fas fa-history"></i> Review <i class="fab fa-js"></i> JavaScript arrays on <a href="https://www.executeprogram.com">Execute Program</a>.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">5</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Introduction to programming</strong>: <i class="fas fa-history"></i> Working with <code>this</code> keyword.</li>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Vectors, dot product, matrices &amp; determinants, elementary row operations, Gaussian elemination with back-substitution, matrices with row-echelon form, analytic geometry in three dimensions.</li>
-</ul>
-</li>
-<li><i class="fas fa-history"></i> Review <i class="fab fa-js"></i> JavaScript arrays on <a href="https://www.executeprogram.com">Execute Program</a>, <code>forEach</code> iterations.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">4</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Introduction to programming</strong>: More on constructor functions, creating a particle system with an emitter (holds, adds and removes particles), making platforms in a <code>p5.js</code> game.</li>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> More on vectors, dot product.</li>
-<li><strong>Web development</strong>: Web template systems (Mustache and <code>Handlebars.js</code>).</li>
-</ul>
-</li>
-<li><i class="fab fa-js"></i> JavaScript arrays on <a href="https://www.executeprogram.com">Execute Program</a>.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">3</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Introduction to programming</strong>: Vector objects and adding sound in <code>p5.js</code>, factory pattern, constructor functions.</li>
-<li><strong>Numerical mathematics</strong>: Matrices, inverse matrices.</li>
-</ul>
-</li>
-<li><i class="fas fa-calculator"></i> Solve <a href="https://projecteuler.net/problem=30">digit fifth powers</a>, Project Euler.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">2</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong></li>
-<ul>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab">Essence of linear algebra</a> with 3Blue1Brown: <i class="fas fa-history"></i> Matrix multiplication as composition, three-dimensional linear transformations, the determinant, inverse matrices, column space and null space, nonsquare matrices as transformations between dimensions, dot products and duality, cross products.</li>
-</ul>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">1</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: addition, subtraction, scalar product (dot product) with vectors and matrices.</li>
-<ul>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab">Essence of linear algebra</a> with 3Blue1Brown: <i class="fas fa-history"></i> vectors — what even are they, linear combinations, span, and basis vectors, linear transformations and matrices.</li>
-</ul>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-</div>
-
-
-<div class="row justify-content-center" role="button" data-toggle="collapse" data-parent="#year2019" href="#july19" aria-expanded="false" aria-controls="july19">
-<div class="learning-month">July</div>
-</div>
-<div id="july19" class="container collapse">
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">31</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong></li>
-<ul>
-<li>Calculus: Differentiating exponential functions, find maxima, minima, turning points and asymptotes of graphs of trigonometric, exponential and logarithmic functions.</li>
-</ul>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">30</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong></li>
-<ul>
-<li>Calculus: Using differentiation to analyse the behaviour of a function, differentiating trigonometric functions.</li>
-</ul>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">29</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong></li>
-<ul>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=UcWsDwg1XwM&list=PLBE9407EA64E2C318">MIT Highlights of Calculus</a> by MIT: Limits and continuous functions, inverse funtions and the natural logarithm, derivatives of natural logarithms and sine inverse, growth rates &amp; log graphs, linear approximation &amp; Newton's method, <i class="fas fa-history"></i> chains f(g(x)) and the chain rule.</li>
-</ul>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">28</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong></li>
-<ul>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=UcWsDwg1XwM&list=PLBE9407EA64E2C318">MIT Highlights of Calculus</a> by MIT: Big picture of calculus, big picture of derivatives, max and min and second derivative, the exponential function, product rule, quotient rule, big picture of integrals, derivative of <code>sin(x)</code> and <code>cos(x)</code>.</li>
-</ul>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">27</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong></li>
-<ul>
-<li>Calculus: <i class="fas fa-history"></i> The quotient rule, product rule, chain rule.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=yQrKXo89nHA">Chains f(g(x)) and the chain rule</a> by MIT</li>
-</ul>
-<li><strong>Web development</strong>: On <i class="fab fa-js"></i> JavaScript: touch events, orientation events.</li>
-<li><strong>Introduction to programming</strong>: <i class="fab fa-js"></i> JavaScript methods.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">26</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong></li>
-<ul>
-<li>Calculus: <i class="fas fa-history"></i> The quotient rule, product rule, chain rule.</li>
-</ul>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">25</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong></li>
-<ul>
-<li>Calculus: Differentiating compositions of functions with the chain rule, <i class="fas fa-history"></i> differentiation of polynomial, rational and algebraic functions.</li>
-</ul>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">24</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong></li>
-<ul>
-<li>Calculus: Differentiating polynomials and rational functions, <i class="fas fa-history"></i> limits of functions, chords and lines tangent to graphs.</li>
-</ul>
-</ul>
-</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=2Fp1N6dof0Y">Python Tutorial: Calling External Commands Using the Subprocess Module</a></li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">23</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong></li>
-<ul>
-<li>Calculus: Limits of functions, chords and lines tangent to graphs.</li>
-</ul>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">22</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong></li>
-<ul>
-<li>Calculus: Limits of sequences, limits of summations, <i class="fas fa-history"></i> evaluating limits at infinity.</li>
-</ul>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">21</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong></li>
-<ul>
-<li>Calculus: <i class="fas fa-history"></i> Limits at infinity &amp; limits of sequences.</li>
-</ul>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">20</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong></li>
-<ul>
-<li>Calculus: <i class="fas fa-history"></i> Introduction to limits.</li>
-</ul>
-<li><strong>Web development</strong>: On <i class="fab fa-js"></i> JavaScript: Event listeners.</li>
-</ul>
-</li>
-<li><i class="fab fa-git"></i> How references work (<code>HEAD</code>, detached <code>HEAD</code>), <code>git reflog</code>, tags, annotated tags.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">19</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong></li>
-<ul>
-<li>Calculus: The quotient rule, product rule, chain rule, <i class="fas fa-history"></i> introduction to limits.</li>
-</ul>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">18</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: The product rule.</li>
-<ul>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr">Essence of Calculus</a> with 3Blue1Brown: <i class="fas fa-history"></i> Higher order derivatives, Taylor series, what they don't teach you in calculus.</li>
-</ul>
-</ul>
-</li>
-<li>Create Slack App with Zapier integrations.</li>
-<li><i class="fab fa-git"></i> Git: <i class="fas fa-history"></i> Modifying files on <i class="fab fa-github"></i> GitHub, <code>git pull</code>.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">17</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong></li>
-<ul>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr">Essence of Calculus</a> with 3Blue1Brown: <i class="fas fa-history"></i> What's so special about Euler's number <strong>e</strong>, implicit differentiation, limits, l'Hopital's rule &amp; epsilon delta definitions, integration &amp; the fundamental theorem of calculus and what does area have to do with slope.</li>
-</ul>
-</ul>
-</li>
-<li><i class="fab fa-git"></i> Git: <i class="fas fa-history"></i> Configuring SSH, <code>git status</code>, staging, committing, <code>git remote</code>, <code>git log</code>, collaborating on <i class="fab fa-github"></i> GitHub.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">16</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong></li>
-<ul>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr">Essence of Calculus</a> with 3Blue1Brown: <i class="fas fa-history"></i> Visualizing the chain rule and product rule.</li>
-</ul>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">15</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Introduction to programming</strong>: Create a <em>simple</em> yet complete game with <code>p5.js</code>.</li>
-<li><strong>Numerical mathematics</strong>: Introduction to calculus: limits and differentiation, <i class="fas fa-history"></i> exponential and logarithmic functions.</li>
-<ul>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr">Essence of Calculus</a> with 3Blue1Brown: <i class="fas fa-history"></i> Introduction, the paradox of the derivative, derivative formulas through geometry.</li>
-</ul>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">14</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>:  Introduction to calculus: limits and differentiation, <i class="fas fa-history"></i> exponential and logarithmic functions.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">13</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Web development</strong>: Manipulating the DOM, events and events handlers, <i class="fas fa-history"></i> <i class="fab fa-js"></i> JavaScript syntax.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">12</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Logarithmic functions.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">11</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Logarithmic functions.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">10</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Introduction to programming</strong>: <i class="fab fa-js"></i> JavaScript: Nesting objects and arrays, search patterns, debugging techniques (common errors with data, iterative coding).</li>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Exponential &amp; logarithmic functions.</li>
-</ul>
-</li>
-<li>Read article on new features in Python 3 at <a href="https://python-catalin.blogspot.com/2019/07/python-373-about-python-version-373.html">python-catalin</a>.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">9</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Introduction to programming</strong>: <i class="fab fa-js"></i> JavaScript: Variables and scopes, two dimensional arrays.</li>
-<li><strong>Numerical mathematics</strong>: Exponential functions, logarithmic functions.</li>
-</ul>
-</li>
-<li><i class="fas fa-history"></i> <code>Vim</code> global substitution features, tags stack, <code>CTRL + F</code> in command mode to search previous commands.</li>
-<li><a href="https://classicproblems.com/">Classic Computer Science Problems in Python</a>, by David Kopec: constraint-satisfaction problem framework.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">8</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Web development</strong>: Introduction to <i class="fab fa-js"></i> JavaScript for the web: client-side JavaScript, roles of the language.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">7</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Web development</strong>: <i class="fas fa-history"></i> Describe the experience of building a website with a remote team from multiple continents.</li>
-</ul>
-</li>
-<li>Learn the technical differences between Live CD/USB, persistent Live CD/USB, full installation on drive and inside virtual machines with fixed or dynamically allocated storage space.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">6</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Web development</strong>: <i class="fas fa-history"></i> More on building a responsive website from scratch.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">5</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Introduction to programming</strong>: Traversing arrays.</li>
-<li><strong>Web development</strong>: More on building a responsive website from scratch.</li>
-</ul>
-</li>
-<li>Read article <a href="https://hackernoon.com/is-there-such-a-thing-as-bug-free-software-320cd862af17">Is There Such a Thing As Bug-free Software?</a> on Hacker Noon.</li>
-<li>Read article <a href="https://steelkiwi.com/blog/how-write-unit-tests-and-how-they-help-development/">How to Write Unit Tests and How They Help in The Development Process</a> on Steel Kiwi.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">4</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: Exponential &amp; logarithmic models, <i class="fas fa-history"></i> more on exponential and logarithmic functions.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">3</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: More on exponential and logarithmic functions.</li>
-</ul>
-</li>
-<li>Configure <code>unclutter</code> to hide cursor automatically.</li>
-<li>Configure <code>vim-gitgutter</code> with Neovim.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">2</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: Inverse functions, exponential and logarithmic functions.</li>
-</ul>
-</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=l8iXMgk2nnY">VIM tutorial: linux terminal tools for bug bounty pentest and redteams with @tomnomnom</a> with STÖK.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">1</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Introduction to programming</strong>: Refactoring code, user-defined functions, function input &amp; output.</li>
-</ul>
-</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=AOeRbuwCd-Y">My Biggest Challenge With Programming (Q&A #11)</a> with sentdex.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=Nck9SX52qpU">How to use Gnaural to create binaural beats</a> with Gnaural.</li>
-</ul>
-</div>
-</div>
-
-</div>
-
-
-<div class="row justify-content-center" role="button" data-toggle="collapse" data-parent="#year2019" href="#june19" aria-expanded="false" aria-controls="june19">
-<div class="learning-month">June</div>
-</div>
-<div id="june19" class="container collapse">
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">30</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Steganography, RSA algorithm, sequences &amp; series.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">29</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Sequences &amp; series.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">28</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Sequences &amp; series.</li>
-</ul>
-</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=E-ZbrtoSuzw">Talk on going mouseless with Vim, Tmux, and Hotkeys</a> with Leeren.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">27</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Sequences &amp; series, transformation of graphs.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">26</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Transformation of graphs.</li>
-</ul>
-</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=bam83Xv4VMA">Responsive CSS grid with no media queries</a> with DesignCourse.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">25</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> RSA algorithm, transformation of graphs.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">24</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Web development</strong>: More on CSS grid layouts and redesigning a website from scratch.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">23</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Web development</strong>: CSS grid layouts, redesigning a website from scratch.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">22</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> RSA algorithm.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">21</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Steganography, modular arithmetic, encryption &amp; RSA algorithm, transformation of graphs.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">20</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Web development</strong>: CSS animations, CSS <code>grid-area</code>, <code>@font-face</code>, <code>@media</code> queries.</li>
-</ul>
-</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=Zuwa8zlfXSY">8 super heroic Linux commands that you probably aren't using</a> with Engineer Man.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">19</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Steganography, modular arithmetic.</li>
-<li><strong>Web development</strong>: CSS frameworks, accessibility.</li>
-</ul>
-</li>
-<li><a href="https://classicproblems.com/">Classic Computer Science Problems in Python</a>, by David Kopec: Missionaries and cannibals problem with <code>BFS</code>.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=XFZRVnP-MTU">Matplotlib Tutorial (Part 10): Subplots</a> with Corey Schafer.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">18</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Introduction to programming</strong>: <i class="fas fa-history"></i> Advanced work with arrays, nested iteration for drawing patterns.</li>
-<li><strong>Numerical mathematics</strong>: Exponential and logarithmic functions.</li>
-</ul>
-</li>
-<li><a href="https://classicproblems.com/">Classic Computer Science Problems in Python</a>, by David Kopec: More on search algorithms (<code>BFS</code>, <code>DFS</code>, <code>A*</code>).</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=Ercd-Ip5PfQ">Matplotlib Tutorial (Part 9): Plotting Live Data in Real-Time</a> with Corey Schafer.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">17</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li>More on Core study skills course.</li>
-<li><strong>Introduction to programming</strong>: Advanced work with arrays, nested iteration for drawing patterns.</li>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Steganography.</li>
-<li><strong>Web development</strong>: Coding responsive behavior.</li>
-</ul>
-</li>
-<li><a href="https://classicproblems.com/">Classic Computer Science Problems in Python</a>, by David Kopec: More on search algorithms.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=_LWjaAiKaf8">Matplotlib Tutorial (Part 8): Plotting Time Series Data</a> with Corey Schafer.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">16</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li>More on Core study skills course.</li>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Plotting, transformation of graphs.</li>
-</ul>
-</li>
-</li>
-<li><a href="https://classicproblems.com/">Classic Computer Science Problems in Python</a>, by David Kopec: Search algorithms.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=8aZW9mYOxhc">What is a bare Git repo and why you need them</a> with Engineer Man.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=zZZ_RCwp49g">Matplotlib Tutorial (Part 7): Scatter Plots</a> with Corey Schafer.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">15</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li>Core study skills course.</li>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Plotting, transformation of graphs.</li>
-</li>
-</ul>
-</li>
-<li><a href="https://classicproblems.com/">Classic Computer Science Problems in Python</a>, by David Kopec: Search algorithms.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=XDv6T4a0RNc">Matplotlib Tutorial (Part 6): Histograms</a> with Corey Schafer.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">14</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: <a href="https://www.khanacademy.org/">Cryptography on Khan Academy</a>: Fundamental theorem of arithmetic, public key cryptography, Diffie-hellman key exchange, RSA encryption, Euler's totient function, primality tests.</li>
-</li>
-</ul>
-</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=x0Uguu7gqgk">Matplotlib Tutorial (Part 5): Filling Area on Line Plots</a> with Corey Schafer.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">13</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: Polar coordinates, solving trigonometric equations, <i class="fas fa-history"></i> damped trigonometric graphs, trigonometric ratios and functions, number bases with rational and irrational numbers.</li>
-</ul>
-</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=xN-Supd4H38">Matplotlib Tutorial (Part 4): Stack Plots</a> with Corey Schafer.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">12</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> trigonometric ratios and functions.</li>
-<li><strong>Web development</strong>: Creating a responsive website from scratch.</li>
-</ul>
-</li>
-<li><a href="https://classicproblems.com/">Classic Computer Science Problems in Python</a>, by David Kopec: Encryption with <code>XOR</code> bit operation.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=MPiz50TsyF0">Matplotlib Tutorial (Part 3): Pie Charts</a> with Corey Schafer.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">11</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Introduction to programming</strong>: Create a <em>very</em> simple side-scrolling game with <code>p5.js</code>.</li>
-</ul>
-</li>
-<li><a href="https://classicproblems.com/">Classic Computer Science Problems in Python</a>, by David Kopec: Recursive functions, memoization, generators, compressing and decompressing data.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=nKxLfUrkLE8">Matplotlib Tutorial (Part 2): Bar Charts and Analyzing Data from CSVs</a> with Corey Schafer.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">10</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> trigonometric ratios and functions.</li>
-</ul>
-</li>
-<li><a href="https://classicproblems.com/">Classic Computer Science Problems in Python</a>, by David Kopec: Recursive functions.</li>
-<li><i class="fas fa-university"></i> <a href="https://www.coursera.org/learn/python-data-analysis/home">Introduction to Data Science in Python</a> on Coursera: <i class="fas fa-history"></i> More on Python fundamentals (lambda, list comprehension), <code>Numpy</code> basics.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=UO98lJQ3QGI">Matplotlib Tutorial (Part 1): Creating and Customizing Our First Plots</a> with Corey Schafer.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">9</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: Analytic trigonometry, <i class="fas fa-history"></i> unit circle, law of sines, law of cosines.</li>
-</ul>
-</li>
-<li><i class="fas fa-history"></i> Flask: <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=Z1RJmh_OqeA">Learn Flask for Python</a> with FreeCodeCamp.org.</li>
-<li><i class="fas fa-university"></i> <a href="https://www.coursera.org/learn/python-data-analysis/home">Introduction to Data Science in Python</a> on Coursera: Advanced Python objects, <code>map()</code>.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">8</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Introduction to programming</strong>: <i class="fab fa-js"></i> JavaScript <code>for</code> loops, arrays.</li>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Trigonometry.</li>
-<li><strong>Web development</strong>: CSS grids and columns, CSS animations, accessibility in CSS.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">7</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Trigonometry.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">6</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: Compositions with inverse trigonometric functions, inverse trigonometric functions, <i class="fas fa-history"></i> trigonometrical functions.</li>
-<li><strong>Web development</strong>: CSS box model, CSS layout.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">5</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Introduction to programming</strong>: <i class="fas fa-history"></i> Game project.</li>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Trigonometrical functions.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">4</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: Trigonometrical functions, identities &amp; equations.</li>
-<li><strong>Web development</strong>: CSS colouring, <i class="fas fa-history"></i> CSS typography.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">3</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Web development</strong>: CSS selectors, CSS typography.</li>
-</ul>
-</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=fMJflV_GUpU">Tribonacci Numbers (and the Rauzy Fractal)</a> with Numberphile.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">2</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Web development</strong>: CSS selectors.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">1</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Plotting, transformation of graphs.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-</div>
-
-
-<div class="row justify-content-center" role="button" data-toggle="collapse" data-parent="#year2019" href="#may19" aria-expanded="false" aria-controls="may19">
-<div class="learning-month">May</div>
-</div>
-<div id="may19" class="container collapse">
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">31</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: Angles and triangles, trigonometry.</li></ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">30</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: Angles and triangles.</li>
-<li><strong>Web development</strong>: HTML prototype.</li>
-</ul>
-</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=yMk_XtIEzH8">Q Learning Intro/Table - Reinforcement Learning p.1</a> with sentdex.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">29</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: <a href="https://www.khanacademy.org/math/trigonometry">Trigonometry on Khan Academy</a>, angles and triangles.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">28</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Introduction to programming</strong>: Game project (working with extra canvas in <code>p5.js</code>).</li>
-<li><strong>Numerical mathematics</strong>: Trigonometry.</li></ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">27</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Introduction to programming</strong>: Interaction with game character (movement, gravity).</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=3yAYjz4Q9Ak">Simple steps to help shut down scammers</a> with Engineer Man.</li>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">26</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Introduction to programming</strong>: Conditionals with types, debugging techniques.
-<ul><li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw">The Coding Train</a>: nested loops, functions, function parameters &amp; arguments, functions &amp; returns, classes in <i class="fab fa-js"></i> JavaScript with ES6, constructor arguments with classes in JavaScript, web editor: adding JavaScript files, what is an array, arrays &amp; loops, arrays of objects, for of loops, mouse interactions with objects, removing objects from arrays, <i class="fas fa-history"></i> while &amp; for loops.</li></ul>
-</li>
-<li><strong>Web development</strong>: HTML body, introduction to CSS.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">25</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Introduction to programming</strong>: Conditional logic, template literals.</li>
-<ul><li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw">The Coding Train</a>: <i class="fab fa-youtube"></i> checking objects intersection/collisions, object communication part 2, while &amp; for loops.</li></ul>
-</li>
-</ul>
-</li>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">24</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: Kinematic equations, angles, triangles, trigonometry.</li></ul>
-</li>
-<li><i class="fas fa-history"></i> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=vt33Hp-4RXg">Custom commands with fzf in Linux terminal</a> with Luke Smith.</li>
-<li>Animating SVG images with CSS.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">23</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: Plotting, transformation of graphs, Fibonacci spiral.</li></ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">22</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: <code>suvat</code> equations.</li></ul>
-</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=unqsQJaECv0">Suckless's dwm: So easy even a caveman could do it!</a> with Luke Smith.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">21</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London
-<ul>
-<li><strong>Numerical mathematics</strong>: Polynomial and rational functions, motions (distance and speed, displacement and velocity, acceleration).</li></ul>
-</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=ojyOVRAPT3Y">For Loops - JavaScript Programming Basics p.6</a> with sentdex.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=hKBZjH7Ot2g">10 Ways to Learn Faster</a> with Siraj Raval.</li>
-<li><i class="fab fa-youtube"></i> GitHub Workflow, working locally, Git status, saved changes, Git pull &amp; push, Git reset, merge strategies, organizations &amp; teams, integrations and changing history with <a href="https://www.youtube.com/channel/UCP7RrmoueENv9TZts3HXXtw">GitHub Training &amp; Guides</a>.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">20</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
-<ul>
-<li><strong>Numerical mathematics</strong>: Polynomial and rational functions.</li></ul>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=IsyyRKbFi7w">Object Oriented Programming in js - JavaScript Programming Basics p.5</a> with sentdex.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=A0hoqSkyY7o">JSON, not Jason</a> with Computerphile.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=PsGUEj4w9Cc">The Plastic Ratio</a> with Numberphile.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">19</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
-<ul>
-<li><strong>Numerical mathematics</strong>: Distance formula, midpoint formula, linear extrapolation, step functions, transformations of functions, composition of functions, polynomial and rational functions, <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=nz058Hil6rA">Criss Cross Factoring</a> with Steven Kliemann.</li></ul>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=2ClckQzJTlk">Binding Keys *Universally* in Linux</a> with Luke Smith.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=_2vW0JE18pY">Running functions on an Interval with setInterval - JavaScript Programming Basics p.3</a> with sentdex.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=HQTUwz1slAQ">Conditionals (if statement) - JavaScript Programming Basics p.4</a> with sentdex.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=BaRtXhcD9O4">Getting started with React.js: Simple todo list</a> with Engineer Man.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">18</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
-<ul>
-<li><strong>Introduction to programming</strong>: Type casting in <i class="fab fa-js"></i> JavaScript.</li>
-<li><strong>Numerical mathematics</strong>: Cartesian coordinates, 2D &amp; 3D shapes in planes.</li></ul>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">17</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> More on functions, graphs of functions, piecewise functions, composite functions.</li></ul>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=dxv3k4EIGfc">Functions and more Canvas - JavaScript Programming Basics p.2</a> with sentdex.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">16</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
-<ul>
-<li><strong>Numerical mathematics</strong>: Functions, graphs of functions, piecewise functions, composite functions.</li>
-</ul>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=GRtSc2Mp0WI">Introduction - JavaScript Programming Basics p.1</a> with sentdex.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">15</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
-<ul>
-<li><strong>Web development</strong>: HTML body.</li>
-</ul>
-<li>Setting up VirtualBox on Manjaro.</li>
-<li>Creating wireframes in Adobe XD.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">14</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
-<ul>
-<li><strong>Introduction to programming</strong>: drawing more objects in <code>p5.js</code>.</li>
-<li><strong>Web development</strong>: HTML markup history, meta tags, open graphs tags, SEO.</li>
-</ul>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">13</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
-<ul>
-<li><strong>Introduction to programming</strong>: drawing more objects in <code>p5.js</code>.</li>
-</ul>
-<li>Reconfigure hardware and software on MacOS from scratch with external backup.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">12</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
-<ul>
-<li><strong>Web development</strong>: Introduction to HTML.</li>
-</ul>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">11</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
-<ul>
-<li><strong>Numerical mathematics</strong>: Series, convergence, divergence.</li>
-<li><strong>Web development</strong>: Basics of HTML wireframes, CSS, PWA (Progressive Web App) &amp; service workers.</li>
-</ul>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">10</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
-<ul>
-<li><strong>Numerical mathematics</strong>: Series, convergence, divergence.</li>
-</ul>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">9</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
-<ul>
-<li><strong>Numerical mathematics</strong>: Generating random numbers, <i class="fas fa-history"></i> arithmetic &amp; geometric progressions.</li>
-</ul>
-<li><i class="fas fa-university"></i> <a href="https://www.coursera.org/learn/python-data-analysis/home">Introduction to Data Science in Python</a> on Coursera: <i class="fas fa-history"></i> Python fundamentals, Pandas.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">8</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
-<ul>
-<li><strong>Numerical mathematics</strong>: Arithmetic &amp; geometric progressions, series.</li>
-</ul>
-<li><i class="fas fa-university"></i> <a href="https://www.coursera.org/learn/python-data-analysis/home">Introduction to Data Science in Python</a> on Coursera: <i class="fas fa-history"></i> Python fundamentals.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=iGFdh6_FePU">Learn Pandas in about 10 minutes! A great python module for Data Science!</a> with Python Programmer.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">7</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
-<ul>
-<li><strong>Numerical mathematics</strong>: Arithmetic sequences &amp; partial sums.</li>
-</ul>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=msNAEaCTleQ">Creating Search Over Time Video Graphs - Data Analysis of Google Takeout p.2</a> with sentdex.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">6</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
-<ul>
-<li><strong>Numerical mathematics</strong>: Recursive series, <i class="fas fa-history"></i> finite &amp; infinite series.</li>
-</ul>
-<li>Configure <a href="https://dunst-project.org/">Dunst</a>.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=Siyg1Wn5VDs">Building Search Word Database - Data Analysis of Google Tracking Takeout p.1</a> with sentdex.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">5</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Infinite series, limits.</li>
-</ul>
-<li>Setting up <code>Neomake</code> &amp; <code>Black</code> with <a href="https://neovim.io/">Neovim</a>.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">4</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li>Configure <a href="https://manjaro.org/download/i3/">Manjaro i3</a> from scratch.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">2</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li>Changing <em>compose key</em> settings in <code>.xinitrc</code>.</li>
-<li>BIOS settings: TPM (Trusted Platform Module), VT (Virtualization Technology), DEP (Data Execution prevention).</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">1</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=CIW0H70wo0M">Android deployment - Kivy Mobile and Desktop App Dev w/ Python</a> with sentdex.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=w68BBPDAWr8">How Password Managers Work</a> with Computerphile.</li>
-</ul>
-</div>
-</div>
-
-</div>
-
-
-<div class="row justify-content-center" role="button" data-toggle="collapse" data-parent="#year2019" href="#apr19" aria-expanded="false" aria-controls="apr19">
-<div class="learning-month">April</div>
-</div>
-<div id="apr19" class="container collapse">
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">30</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><i class="fas fa-university"></i> <a href="https://www.coursera.org/learn/python-data-analysis/home">Introduction to Data Science in Python</a> on Coursera: Working with dataframes in <code>Pandas</code>.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=lmWE2bydekk">Finishing Chat Application - Kivy Mobile and Desktop App Dev w/ Python</a> with sentdex.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">29</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><i class="fas fa-university"></i> <a href="https://www.coursera.org/learn/python-data-analysis/home">Introduction to Data Science in Python</a> on Coursera: Introduction to <code>Pandas</code>.</li>
-<li><i class="fab fa-stack-overflow"></i> How to make vim spell error search the current line only? (<a href="https://stackoverflow.com/a/55913687/8787680">Stackoverflow answer</a>).</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=ucl1y2uCyhs">DIY Raspberry Pi Wireless Driveway Gate Opener</a> with Engineer Man.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=62LSK62Gudc">Chat Application Page - Kivy Mobile and Desktop App Dev w/ Python</a> with sentdex.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">28</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> simplified RSA algorithm, finding encryption and decryption keys for any <em>mod</em>.</li>
-</ul>
-<li><i class="fas fa-university"></i> <a href="https://www.coursera.org/learn/python-data-analysis/home">Introduction to Data Science in Python</a> on Coursera: <i class="fas fa-history"></i> Introduction to <code>NumPy</code>.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">27</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
-<ul>
-<li><strong>Numerical mathematics</strong>: Python algorithm to calculate congruence for very large numbers, <i class="fas fa-history"></i> RSA algorithm, number bases, modular arithmetic, sequences &amp; series.</li>
-</ul>
-<li><i class="fas fa-university"></i> <a href="https://www.coursera.org/learn/python-data-analysis/home">Introduction to Data Science in Python</a> on Coursera: Python fundamentals, introduction to <code>NumPy</code>.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=w_37upFE-qw">Working with pipes in shell scripts - Part 2</a> with Luke Smith.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">26</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> RSA algorithm.</li>
-</ul>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=8E8sUNHdzG8">Working with pipes in shell scripts</a> with Luke Smith.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=hsnch676Lco">Scheduling tasks/functions/methods - Kivy Mobile and Desktop App Dev w/ Python</a> with sentdex.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=LdF2RcelRg0">15 VS Code Extensions For Front-End Developers in 2019</a> with Traversy Media.</li>
-<li>Configure <a href="https://code.visualstudio.com/">VS Code</a> to the core.</li>
-<li>Setting up <code>Snap</code> and <code>Flatpak</code> packages.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">25</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
-<ul>
-<li><strong>Numerical mathematics</strong>: RSA algorithm.</li>
-</ul>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=sJmkhV02lnM">Changing Screen/view/page - Kivy Mobile and Desktop App Dev w/ Python</a> with sentdex.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">24</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=8I2fMqrruwc">Buttons &amp; Events - Kivy Mobile and Desktop App Dev w/ Python</a> with sentdex.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=_JGmemuINww">Clarifying the Issues with Mutable Default Arguments</a> with Corey Schafer.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">23</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
-<ul>
-<li><strong>Numerical mathematics</strong>: Sequences and series, <i class="fas fa-history"></i> linear congruence, modular exponentiation, modular inverses.</li>
-</ul>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=FjwD0SOGQ1k">Kivy Intro - Mobile and Desktop App Dev w/ Python</a> with sentdex.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">22</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
-<ul>
-<li><strong>Numerical mathematics</strong>: Linear congruence, modular exponentiation, RSA encryption.</li>
-</ul>
-<li>Skim through <a href="https://automatetheboringstuff.com/">Automate the Boring Stuff with Python</a>, by Al Sweigart: Reading &amp; writing files.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=zdJEYhA2AZQ">5 Common Python Mistakes and How to Fix Them</a> with Corey Schafer.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">21</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Euclidean algorithm, extended Euclidean algorithm, modular inverses.</li>
-</ul>
-<li>Skim through <a href="https://automatetheboringstuff.com/">Automate the Boring Stuff with Python</a>, by Al Sweigart: Python programming basics, regular expressions.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">20</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Euclidean algorithm, extended Euclidean algorithm, modular inverses.</li>
-</ul>
-<li><i class="fab fa-stack-overflow"></i> Using string formatting to evaluate hexadecimal, binary, decimal and octal versions of a value (<a href="https://stackoverflow.com/a/55779060/8787680">Stackoverflow answer</a>).</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">19</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Euclidean algorithm.</li>
-</ul>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">18</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Modular arithmetic, number theory, Euclidean algorithm.</li>
-</ul>
-<li>Configuring <a href="https://st.suckless.org/">st (simple terminal)</a> and <a href="https://tools.suckless.org/dmenu/">dmenu</a>.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">17</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
-<ul>
-<li><strong>Introduction to programming</strong>: <code>p5.js</code> with functions, loops &amp; objects.</li>
-</ul>
-<li>Batch convert and rename images and videos in terminal with <code>ImageMagick</code>, <code>ffmpeg</code> and <code>rename</code>.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">16</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
-<ul>
-<li><strong>Numerical mathematics</strong>: <i class="fas fa-history"></i> Modular arithmetic.</li>
-</ul>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">15</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
-<ul>
-<li><strong>Numerical mathematics</strong>: Arithmetic in any base, modular arithmetic, theory of divisibility, theory of congruences.</li>
-</ul>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=kIdiWut8eD8">How I Setup a New Development Machine - Using Scripts to Automate Installs and Save Time</a> with Corey Schafer.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=JBjjnqG0BP8">Bjarne Stroustrup: Why I Created C++</a> with Big Think.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">14</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
-<ul>
-<li><strong>Numerical mathematics</strong>: Steganography, arithmetic in hexadecimal and octal.</li>
-</ul>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">13</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
-<ul>
-<li><strong>Numerical mathematics</strong>: Octal and hexadecimal.</li>
-</ul>
-<li><i class="fab fa-stack-overflow"></i> Linking variables from different functions to print them (<a href="https://stackoverflow.com/a/55661226/8787680">Stackoverflow answer</a>).</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">12</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
-<ul>
-<li><strong>Numerical mathematics</strong>: Arithmetic in binary.</li>
-</ul>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">11</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
-<ul>
-<li><strong>Introduction to programming</strong>: <i class="fab fa-js"></i> JavaScript objects, conditionals and variable types.</li>
-<li><strong>Web development</strong>: How a web browser works; the importance of design; content, structure &amp; storytelling.</li>
-</ul>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">10</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
-<ul>
-<li><i class="fas fa-history"></i> <strong>Introduction to programming</strong>: built-in variables, <i class="fab fa-js"></i> JavaScript objects.</li>
-<li><strong>Web development</strong>: Delivering Web content.</li>
-</ul>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">9</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
-<ul>
-<li><strong>Introduction to programming</strong>: built-in variables, <i class="fab fa-js"></i> JavaScript objects.</li>
-<li><strong>Numerical mathematics</strong>: Algorithms for converting binary from/to decimal with fractional part.</li>
-</ul>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=1lxrb_ezP-g">How to Write Python Scripts to Analyze JSON APIs and Sort Results</a> with Corey Schafer.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">8</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
-<ul>
-<li><strong>Introduction to programming</strong>: development environment, drawing in 2D.</li>
-<li><strong>Numerical mathematics</strong>: Introduction to number bases and modular arithmetic, number bases, octal and hexadecimal with fractional parts.</li>
-</ul>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">7</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Goldsmiths, University of London</li>
-<ul>
-<li><strong>Web development</strong>: Introduction to the Web.</li>
-</ul>
-<li><i class="fab fa-stack-overflow"></i> How to fix SyntaxError in a module that gives an error upon import? (<a href="https://stackoverflow.com/a/55555026/8787680">Stackoverflow answer</a>).</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">6</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=CV7_stUWvBQ">Creating chat application with sockets in Python</a> <i class="fab fa-python"></i> with sentdex.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab">Essence of linear algebra</a> with 3Blue1Brown: Transformation ranks, nonsquare matrices.</li>
-<li><i class="fab fa-stack-overflow"></i> Import error with Discord bot (<a href="https://stackoverflow.com/a/55555026/8787680">Stackoverflow answer</a>).</li>
-<li><i class="fab fa-stack-overflow"></i> Flask Web App Not Rendering on PythonAnywhere (<a href="https://stackoverflow.com/a/55555437/8787680">Stackoverflow answer</a>).</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">5</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li>Python <i class="fab fa-python"></i>: Checking dead links asynchronously.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">4</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li>Python <i class="fab fa-python"></i>: Writing to files with asynchronous jobs in queue.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">3</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab">Essence of linear algebra</a> with 3Blue1Brown: Determinant, inverse matrices, column space and null space.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">2</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=9vKqVkMQHKk&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr">Essence of Calculus</a> with 3Blue1Brown: Higher order derivatives, Taylor series.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab">Essence of linear algebra</a> with 3Blue1Brown: Vectors, linear combinations, span, basis vectors, linear transformations, matrices, matrix multiplication as composition, three-dimensional transformations.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=II2M3rqgCQA">Linux Nice and Priority values</a> with Engineer Man.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=Kg1Yvry_Ydk">How to use virtual environments with the built-in venv module</a> with Corey Schafer.</li>
-<li>Setting up <code>LaTeX</code> with Vim.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">1</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=9vKqVkMQHKk&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr">Essence of Calculus</a> with 3Blue1Brown: Limits, L'Hôpital's rule, fundamental theorem of calculus, areas and slopes.</li>
-</ul>
-</div>
-</div>
-
-</div>
-
-
-<div class="row justify-content-center" role="button" data-toggle="collapse" data-parent="#year2019" href="#mar19" aria-expanded="false" aria-controls="mar19">
-<div class="learning-month">March</div>
-</div>
-<div id="mar19" class="container collapse">
-<div class="row">
-<div class="col-12 col-md-2 blue-day">31</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><i class="fab fa-stack-overflow"></i> Tuples in regular expressions (<a href="https://stackoverflow.com/a/55438354/8787680">Stackoverflow answer</a>).</li>
-<li>Managing <a href="https://github.com/">GitHub</a> <i class="fab fa-github"></i> organizations.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=9vKqVkMQHKk&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr">Essence of Calculus</a> with 3Blue1Brown: Euler's number, implicit differentiation.</li>
-</ul>
-</div>
-</div>
-<div class="row">
-<div class="col-12 col-md-2 grey-day">30</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=9vKqVkMQHKk&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr">Essence of Calculus</a> with 3Blue1Brown: Chain rule, product rule.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=8jU8SrAPn9c">SQL VIEWS + Complex Queries, Cross Joins, Unions</a> with Socratica.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=6J4i2wRIbEs">Everyday Python Programming — Cryptocurrency stock exchange API</a> with Engineer Man.</li>
-<li>Regular expressions in Python <i class="fab fa-python"></i> with <a href="https://developers.google.com/edu/python/regular-expressions">Google for Education</a>.</li>
-</ul>
-</div>
-</div>
-<div class="row">
-<div class="col-12 col-md-2 blue-day">29</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=9vKqVkMQHKk&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr">Essence of Calculus</a> with 3Blue1Brown: Fundamentals of Calculus, derivatives.</li>
-<li>Merging history in Git <i class="fab fa-git"></i>.</li>
-<li>Importing existing GPG keys and setting Git <i class="fab fa-git"></i> to use them.</li>
-</ul>
-</div>
-</div>
-<div class="row">
-<div class="col-12 col-md-2 grey-day">28</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><a href="https://www.packtpub.com/application-development/python-everyday-life-video">Python for Everyday Life</a>: Anatomy of a Web application, MVC frameworks, building and testing a simple website with Flask, working with SQLite in Python, ORMs (Django &amp; SQLAlchemy), designing a bot deployed to Heroku.</li>
-<li>Reworking history in Git <i class="fab fa-git"></i> (squash, pick).</li>
-</ul>
-</div>
-</div>
-<div class="row">
-<div class="col-12 col-md-2 blue-day">27</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><i class="fas fa-graduation-cap"></i> Finished <a href="https://www.coursera.org/learn/ai-for-everyone/">AI For Everyone</a> on Coursera: AI strategy, pitfalls to avoid, major application areas (computer vision, NLP, speech, robotics, machine learning), major AI techniques (unsupervised learning, transfer learning, reinforcement learning, Generative Adversarial Networks, knowledge graph), AI and society.</li>
-</ul>
-</div>
-</div>
-<div class="row">
-<div class="col-12 col-md-2 grey-day">26</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><i class="fas fa-university"></i> <a href="https://www.coursera.org/learn/ai-for-everyone/">AI For Everyone</a> on Coursera: What is AI (machine learning, data, terminology, deep learning), building &amp; choosing AI projects, technical tools.</li>
-</ul>
-</div>
-</div>
-<div class="row">
-<div class="col-12 col-md-2 blue-day">25</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=C-gEQdGVXbk">10 Python Tips and Tricks For Writing Better Code</a> with Corey Schafer: Ternary operators, underscores placeholders, string formatting in f-strings placeholders, using context managers, <code>enumerate</code> function in loops, <code>zip</code> function in loops, value unpacking, getting and setting attributes on objects (<code>getattr</code>, <code>setattr</code>), inputting sensitive information (<code>getpass</code> function), <code>help</code> and <code>dir</code> function.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=9yeOJ0ZMUYw">SQL Joins Explained</a> with Socratica.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=QEdHAwHfGPc">Linux Cron Jobs</a> with Engineer Man.</li>
-<li><a href="https://www.packtpub.com/application-development/python-everyday-life-video">Python for Everyday Life</a>: Interact with httpbin Test Service, fetching data from API, automating Internet tasks (Gmail, Twitter, Reddit).</li>
-<li>Creating a Discord bot with custom commands.</li>
-<li><i class="fas fa-code"></i> <a href="https://www.codeabbey.com/index/task_view/matching-brackets">Matching Brackets</a> on Code Abbey.</li>
-</ul>
-</div>
-</div>
-<div class="row">
-<div class="col-12 col-md-2 grey-day">24</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><i class="fas fa-calculator"></i> Solve <a href="https://projecteuler.net/problem=92">square digit chains</a>, Project Euler.</li>
-<li>Setting up a webcam on Linux and using it with <a href="https://webcamoid.github.io/">Webcamoid</a>.</li>
-</ul>
-</div>
-</div>
-<div class="row">
-<div class="col-12 col-md-2 blue-day">23</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><a href="https://www.packtpub.com/application-development/python-everyday-life-video">Python for Everyday Life</a>: Working with images, parsing QR codes, face recognition, working with APIs.</li>
-<li><i class="fab fa-stack-overflow"></i> Figuring out delayed requests with API response (<a href="https://stackoverflow.com/a/55317279/8787680">Stackoverflow answer</a>).</li>
-<li><i class="fas fa-calculator"></i> Solve <a href="https://projecteuler.net/problem=48">self powers</a>, Project Euler.</li>
-<li><i class="fas fa-calculator"></i> Solve <a href="https://projecteuler.net/problem=56">powerful digit sum</a>, Project Euler.</li>
-</ul>
-</div>
-</div>
-<div class="row">
-<div class="col-12 col-md-2 grey-day">22</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><i class="fas fa-calculator"></i> Solve <a href="https://projecteuler.net/problem=40">Champernowne's constant</a>, Project Euler.</li>
-<li><i class="fas fa-calculator"></i> Solve <a href="https://projecteuler.net/problem=42">Coded triangle numbers</a>, Project Euler.</li>
-<li><i class="fab fa-python"></i> Python: Working with PDF files, processing images with Pillow.</li>
-</ul>
-</div>
-</div>
-<div class="row">
-<div class="col-12 col-md-2 blue-day">21</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><i class="fas fa-graduation-cap"></i> Certifications on <a href="https://www.testdome.com/">TestDome</a> (<a href="https://www.testdome.com/cert/999c53f380934d99aa4bda2a9c2a33ec">Python</a>, <a href="https://www.testdome.com/cert/09e820d68d6f4a0ab28cbdba646d0932">Linux</a>, <a href="https://www.testdome.com/cert/b824f9b10c0c476c88c8dfbaf0495afc">Numerical Reasoning</a>).</li>
-<li><i class="fas fa-history"></i> Python review with <a href="https://www.packtpub.com/application-development/python-everyday-life-video">Python for Everyday Life</a>: Logging, regular expressions, function decorators, context managers, generator expressions &amp; generators, magic methods, metaprogramming, functional programming, pythonic code, manipulation files &amp; folders, handle common file formats.</li>
-</ul>
-</div>
-</div>
-<div class="row">
-<div class="col-12 col-md-2 grey-day">20</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li>Following along <a href="http://docs.scrapy.org/en/latest/intro/tutorial.html">Scrapy tutorial</a>.</li>
-<li>Modular arithmetic with negative divisors.</li>
-</ul>
-</div>
-</div>
-<div class="row">
-<div class="col-12 col-md-2 blue-day">19</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=JRCJ6RtE3xU">Sending emails with Python</a> (Gmail and local debugging server) with Corey Schafer.</li>
-<li>Batch convert <strong>.NEF</strong> photos to <strong>.tif</strong> with <code>mogrify</code> from <a href="https://www.imagemagick.org/">ImageMagick</a>.</li>
-<li>Keeping files securely encrypted with <a href="https://www.gnupg.org/">GPG</a>.</li>
-<li>Creating templates &amp; styles with <a href="https://www.scribus.net/">Scribus</a>.</li>
-</ul>
-</div>
-</div>
-<div class="row">
-<div class="col-12 col-md-2 grey-day">18</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li>Setting a <a href="https://discordapp.com/">Discord</a> server.</li>
-<li>Setting up <a href="https://slack.com/">Slack</a> channels and apps.</li>
-</ul>
-</div>
-</div>
-<div class="row">
-<div class="col-12 col-md-2 blue-day">17</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><i class="fas fa-calculator"></i> Solve <a href="https://projecteuler.net/problem=35">Circular primes</a>, Project Euler.</li>
-<li><i class="fas fa-calculator"></i> Solve <a href="https://projecteuler.net/problem=36">Double-base palindromes</a>, Project Euler.</li>
-<li><i class="fas fa-calculator"></i> Solve <a href="https://projecteuler.net/problem=39">Integer right triangles</a>, Project Euler.</li>
-<li><i class="fab fa-stack-overflow"></i> Replacing the first word in a string in Python 3 <i class="fab fa-python"></i> (<a href="https://stackoverflow.com/a/55213732/8787680">Stackoverflow answer</a>).</li>
-</ul>
-</div>
-</div>
-<div class="row">
-<div class="col-12 col-md-2 grey-day">16</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><img class="mini-icon" src="{static}/images/uol_logo.png" alt="UoL Logo" /> Officially enrolled in <a href="https://london.ac.uk/courses/computer-science-machine-learning-and-ai">BSc in Computer Science (Machine Learning and Artificial Intelligence)</a> at <a href="https://www.gold.ac.uk/">Goldsmiths, University of London</a>.</li>
-</ul>
-</div>
-</div>
-<div class="row">
-<div class="col-12 col-md-2 blue-day">15</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li>Insertion sort algorithm.</li>
-<li>URL encoding with <code>cURL</code> and <code>requests</code>.</li>
-<li><i class="fab fa-stack-overflow"></i> Scraping a website with <code>requests_html</code> (<a href="https://stackoverflow.com/a/55193557/8787680">Stackoverflow answer</a>).</li>
-<li><i class="fab fa-stack-overflow"></i> Quickly open files in Vim (<a href="https://stackoverflow.com/a/55176008/8787680">Stackoverflow answer</a>).</li>
-</ul>
-</div>
-</div>
-<div class="row">
-<div class="col-12 col-md-2 grey-day">14</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><i class="fab fa-youtube"></i> Sockets Tutorial with Python 3 <i class="fab fa-python"></i> (<a href="https://www.youtube.com/watch?v=8A4dqoGL62E">buffering and streaming data</a> &amp; <a href="https://www.youtube.com/watch?v=WM1z8soch0Q">sending and receiving Python objects with pickle</a>) with sentdex.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=fZQI7nBu32M">PostgreSQL</a>, SELECT (<a href="https://www.youtube.com/watch?v=YufocuHbYZo">part 1</a> &amp; <a href="https://www.youtube.com/watch?v=PkJKzR_sClM">part 2</a>), <a href="https://www.youtube.com/watch?v=VkabxQgtGsA">INSERT INTO</a> &amp; <a href="https://www.youtube.com/watch?v=cd-hSl7_pGQ">UPDATE</a> with Socratica.</li>
-<li><i class="fas fa-calculator"></i> Solve <a href="https://projecteuler.net/problem=15">Lattice paths</a>, Project Euler.</li>
-</ul>
-</div>
-</div>
-<div class="row">
-<div class="col-12 col-md-2 blue-day">13</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li>Setting up a basic web application with <a href="https://trypyramid.com/">Pyramid</a>.</li>
-<li><i class="fas fa-history"></i> Review <a href="https://github.com/tpope/vim-fugitive">vim-fugitive</a> features and mappings.</li>
-<li><i class="fas fa-history"></i> Review properties of CSS <i class="fab fa-css3"></i> selectors and hierarchies.</li>
-<li>Manage caching of CSS <i class="fab fa-css3"></i> files with MD5 hashes.</li>
-<li>Setting up <a href="https://hluk.github.io/CopyQ/">CopyQ</a>, a <em>"Clipboard Manager with Advanced Features"</em>.</li>
-</ul>
-</div>
-</div>
-<div class="row">
-<div class="col-12 col-md-2 grey-day">12</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li>Python <i class="fab fa-python"></i> scripting: Communicating with <a href="https://haveibeenpwned.com/API/v2">HaveIBeenPwned.com's API</a> to ensure a password hasn't been breached. <a href="https://github.com/sglavoie/python-utilities">Code available on Github</a> <i class="fab fa-github"></i>.</li>
-<li><i class="fas fa-calculator"></i> Solve <a href="https://projecteuler.net/problem=24">Lexicographic permutations</a>, Project Euler.</li>
-<li><i class="fas fa-calculator"></i> Solve <a href="https://projecteuler.net/problem=28">Number spiral diagonals</a>, Project Euler.</li>
-<li><i class="fas fa-calculator"></i> Solve <a href="https://projecteuler.net/problem=34">Digit factorials</a>, Project Euler.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=Lbfe3-v7yE0">Sockets Tutorial with Python 3</a> <i class="fab fa-python"></i> (receiving and sending data) with sentdex.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=a6fIbtFB46g">Web Scraping with Requests-HTML</a> with Corey Schafer.</li>
-</ul>
-</div>
-</div>
-<div class="row">
-<div class="col-12 col-md-2 blue-day">11</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><a href="https://realpython.com/python-refactoring/">Refactoring Python Applications for Simplicity</a>, by <a href="https://tonybaloney.github.io/">Anthony Shaw</a> on <a href="https://realpython.com/">Real Python</a>: Code complexity.</li>
-<li><i class="fab fa-stack-overflow"></i> Python <i class="fab fa-python"></i>: Find unique words in text file (<a href="https://stackoverflow.com/a/55113291/8787680">Stackoverflow answer</a>).</li>
-<li><i class="fab fa-stack-overflow"></i> <a href="https://stackoverflow.com/a/41125461/8787680">Limiting RAM usage</a> inside Python <i class="fab fa-python"></i> script.</li>
-<li><i class="fas fa-calculator"></i> Solve <a href="https://projecteuler.net/problem=12">Finding the number of factors in a large number</a>, Project Euler.</li>
-</ul>
-</div>
-</div>
-<div class="row">
-<div class="col-12 col-md-2 grey-day">10</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li>Tor network, Tor Browser, onion routes, deep/dark web.</li>
-</ul>
-</div>
-</div>
-<div class="row">
-<div class="col-12 col-md-2 blue-day">9</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><i class="fas fa-book"></i> Read <a href="https://amzn.to/2NTZ0Mg">Learning Python</a>, by Mark Lutz: Core data types, Python statements, assignments, expressions, if tests, syntax rules, ternary expressions, loops.</li>
-</ul>
-</div>
-</div>
-<div class="row">
-<div class="col-12 col-md-2 grey-day">8</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><i class="fas fa-history"></i> Review data structures in Python.</li>
-</ul>
-</div>
-</div>
-<div class="row">
-<div class="col-12 col-md-2 blue-day">7</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><a href="https://www.linkedin.com/learning/python-programming-efficiently">Python: Programming Efficiently</a>, on LinkedIn Learning (<code>jupyter-lab</code>, list / dict / set comprehension, modules <code>collections</code>, <code>geopy</code> &amp; <code>basemap</code>).</li>
-<li><a href="https://www.linkedin.com/learning/ethical-hacking-overview">Introduction to ethical hacking</a> on LinkedIn Learning.</li>
-<li>Changing CSS <i class="fab fa-css3"></i> style for <a href="http://gitstats.sourceforge.net/">Gitstats</a>.</li>
-<li><i class="fas fa-calculator"></i> Solve <a href="https://projecteuler.net/problem=11">Special Pythagorean triplet</a>, Project Euler.</li>
-</ul>
-</div>
-</div>
-<div class="row">
-<div class="col-12 col-md-2 grey-day">6</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=DamIIzp41Jg">Data analysis with Python</a> <i class="fab fa-python"></i>, <a href="https://pandas.pydata.org/">Pandas</a> and introduction to <a href="https://scikit-learn.org/">scikit-learn</a> with sentdex.</li>
-<li>Integrating <a href="http://gitstats.sourceforge.net/">Gitstats</a> in <a href="https://blog.getpelican.com/">Pelican</a> website.</li>
-</ul>
-</div>
-</div>
-<div class="row">
-<div class="col-12 col-md-2 blue-day">5</div>
-<div class="col-13 col-md-10 blue-content">
-<ul>
-<li><i class="fas fa-graduation-cap"></i> Finished <a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> on Coursera.</li>
-<li><i class="fas fa-graduation-cap"></i> Finished <a href="https://www.coursera.org/learn/learning-how-to-learn/">Mindshift</a> on Coursera.</li>
-<li><i class="fas fa-history"></i> Review Vim features on <a href="http://vimcasts.org/">vimcasts.org</a>: Long-range line duplication with <code>:t</code>, working with arglist &amp; <code>:argdo</code>, <code>:global</code> with yank, <code>windo diffthis</code>, <code>gn</code>.</li>
-</ul>
-</div>
-</div>
-<div class="row">
-<div class="col-12 col-md-2 grey-day">4</div>
-<div class="col-13 col-md-10 grey-content">
-<ul>
-<li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Transformation of graphs, kinematics equations.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=DamIIzp41Jg">Data analysis with Python</a> <i class="fab fa-python"></i> and <a href="https://pandas.pydata.org/">Pandas</a> (visualization, groupby, correlation) with sentdex.</li>
-<li><a href="https://www.coursera.org/learn/learning-how-to-learn/">Mindshift</a> <i class="fas fa-university"></i> on Coursera: Deliberate practice, reframing experiences, facing adversity, <a href="https://www.futurice.com/blog/from-t-to-pi-design-skill-expectations-in-change/"><em>π</em> approach</a> to learning instead of <em>T</em>.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=yqm6MBt-yfY">Monitor a website with Python</a> <i class="fab fa-python"></i> with Corey Schafer.</li>
-<li>Retrieving data with <a href="https://github.com/PyGithub/PyGithub">PyGithub</a>.</li>
-</ul>
-</div>
-</div>
-<div class="row">
-<div class="col-12 col-md-2 blue-day">3</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Plotting, transformations of graphs.</li>
-<li>Screencasting/streaming with <a href="https://www.ffmpeg.org/">ffmpeg</a>.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=vt33Hp-4RXg">Custom commands with fzf in Linux terminal</a> with Luke Smith.</li>
-</ul>
-</div>
-</div>
-<div class="row">
-<div class="col-12 col-md-2 grey-day">2</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Series &amp; patterns, limits of sequences, convergence and divergence, graph sketching.</li>
-<li>Redirecting websites hosted on <a href="https://pages.github.com/">GitHub Pages</a> <i class="fab fa-github"></i>.</li>
-<li><i class="fab fa-youtube"></i> The Hadwiger–Nelson problem with <a href="https://www.youtube.com/watch?v=niaeV_NHh-o">Numberphile</a>.</li>
-</ul>
-</div>
-</div>
-<div class="row">
-<div class="col-12 col-md-2 blue-day">1</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: More on geometric progressions with A size papers, series.</li>
-</ul>
-</div>
-</div>
-</div>
-
-
-<div class="row justify-content-center" role="button" data-toggle="collapse" data-parent="#year2019" href="#feb19" aria-expanded="false" aria-controls="feb19">
-<div class="learning-month">February</div>
-</div>
-<div id="feb19" class="container collapse">
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">28</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Introduction to sequences and series, modified Josephus problem with any number, geometric progressions on A paper sizes.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">27</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Encryption using modular arithmetic, solving <a href="https://en.wikipedia.org/wiki/Josephus_problem">Josephus problem</a> <i class="fab fa-wikipedia-w"></i> with bitwise operators.</li>
-<li><i class="fab fa-youtube"></i> Josephus problem explained by <a href="https://www.youtube.com/watch?v=uCsD3ZGzMgE">Numberphile</a>.</li>
-<li><i class="fab fa-youtube"></i> Python <i class="fab fa-python"></i>: <a href="https://www.youtube.com/watch?v=2TR_6VaVSOs">Introduction to data visualization</a> with <a href="https://bokeh.pydata.org/">Bokeh</a> with Traversy Media.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=tb8gHvYlCFs">Python requests tutorial</a> with Corey Schafer.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">26</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: More examples on modular arithmetic.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">25</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Congruence &amp; equivalence relations, modular exponentiation.</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=4QTAtFaIiyc">The future of Cloud Computing</a> with a16z.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">24</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li><i class="fab fa-stack-overflow"></i> Python <i class="fab fa-python"></i>: Scope in classes (<a href="https://stackoverflow.com/a/54853361/8787680">Stackoverflow answer</a>).</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">23</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: <i class="fas fa-history"></i> Review modular arithmetic concepts.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">22</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Modular arithmetic (multiplicative identity &amp; inverses, exponentiation, Fermat's Little Theorem).</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">21</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Arithmetic in any base, modular arithmetic (additive identity, additive inverses).</li>
-<li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=AsYfbmp0To0">The ELO rating system explained</a> by James Grime.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">20</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Steganography (hiding text and images inside another image) in binary, hexadecimal and decimal.</li>
-<li><a href="https://www.coursera.org/learn/learning-how-to-learn/">Mindshift</a> <i class="fas fa-university"></i> on Coursera: Learning environment, memory tips, meditation (focused attention and open monitoring).</li>
-<li><em>10 Days of <i class="fab fa-js"></i> JavaScript</em> <i class="fab fa-js"></i> on <a href="https://www.hackerrank.com/">HackerRank.com</a>: Bitwise operators, signed binary numbers.</li>
-<li><i class="fab fa-youtube"></i> Refresher on <a href="https://amzn.to/2ThgwA2">So Good They Can't Ignore You</a>, by Cal Newport with <a href="https://www.youtube.com/watch?v=qwOdU02SE0w">Talks at Google</a>.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">19</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: Arithmetic in binary, working with octal and hexadecimal numbers (integers and fractions).</li>
-<li><a href="https://www.coursera.org/learn/learning-how-to-learn/">Mindshift</a> <i class="fas fa-university"></i> on Coursera: Ideas on pace and style of learning.</li>
-<li><em>10 Days of <i class="fab fa-js"></i> JavaScript</em> <i class="fab fa-js"></i> on <a href="https://www.hackerrank.com/">HackerRank.com</a>: Template literals, arrow functions.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">18</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li><a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera: <i class="fas fa-history"></i> Review &amp; create algorithms for binary to decimal conversion and vice versa.</li>
-<li><a href="https://www.coursera.org/learn/learning-how-to-learn/">Learning How to Learn</a> <i class="fas fa-university"></i> on Coursera: <i class="fas fa-history"></i> Quick review &amp; tips on writing more readable ideas.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">17</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li><i class="fas fa-graduation-cap"></i> Finished <a href="https://www.coursera.org/learn/learning-how-to-learn/">Learning How to Learn</a> on Coursera.</li>
-<li>Website optimization with <a href="https://developers.google.com/web/tools/lighthouse/">Google Lighthouse</a>.</li>
-</ul>
-</div>
-</div>
-
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">16</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li><a href="https://www.coursera.org/learn/learning-how-to-learn/">Learning How to Learn</a> <i class="fas fa-university"></i> on Coursera: Motivation, overlearning, Einstellung (attitude, mindset), interweaving practice, procrastination, memory.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">15</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Started <a href="https://www.coursera.org/learn/learning-how-to-learn/">Learning How to Learn</a> <i class="fas fa-university"></i> on Coursera: Focused/diffused thinking, procrastination, memory, sleep, creativity &amp; problem solving, chunking.</li>
-<li>Manage a website remotely with <code>rsync</code> and <code>SSH</code>.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">14</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Started <a href="https://www.coursera.org/learn/mathematics-for-computer-science/">Mathematics for Computer Science</a> <i class="fas fa-university"></i> on Coursera, course offered by Goldsmiths, University of London: Number bases, converting between binary and decimals with fraction, rational and irrational numbers.</li>
-<li><em>10 Days of <i class="fab fa-js"></i> JavaScript</em> <i class="fab fa-js"></i> on <a href="https://www.hackerrank.com/">HackerRank.com</a>: Classes, inheritance.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">13</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li><i class="fas fa-graduation-cap"></i> Finished <a href="https://www.coursera.org/learn/how-computers-work/">How Computers Work</a> on Coursera, course offered by Goldsmiths, University of London: General concepts on networks, security and web.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">12</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li><a href="https://www.coursera.org/learn/how-computers-work/">How Computers Work</a> <i class="fas fa-university"></i>, Coursera: Abstractions, notional machines, application states, modularity.</li>
-<li><em>10 Days of <i class="fab fa-js"></i> JavaScript</em> <i class="fab fa-js"></i> on <a href="https://www.hackerrank.com/">HackerRank.com</a>: Object initializers, dot notation, bracket notation.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">11</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li><i class="fas fa-graduation-cap"></i> Finished <em><a href="https://www.coursera.org/learn/introduction-to-computer-programming/">Introduction to Computer Programming</a></em> on Coursera, course offered by Goldsmiths, University of London.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">10</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Configure VirtualBox with all major Operating Systems (Windows, Mac, Linux, BSD).</li>
-<li><a href="https://inkscape.org/">Inkscape</a>: Convert text to vector paths.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">9</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li><em>10 Days of <i class="fab fa-js"></i> JavaScript</em> <i class="fab fa-js"></i> on <a href="https://www.hackerrank.com/">HackerRank.com</a>: Regular expressions, arrays, error handling, creating objects.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">8</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li><i class="fab fa-stack-overflow"></i> Recreate structure of <code>content/</code> folder in <code>output/</code> with Pelican (<a href="https://stackoverflow.com/a/54600188/8787680">Stackoverflow answer</a>).</li>
-<li>Managing submodules with Git <i class="fab fa-git"></i>.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">7</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Set up dotfiles on <a href="https://www.github.com/">GitHub</a> <i class="fab fa-github"></i>.</li>
-<li>Configure and use <a href="http://zsh.sourceforge.net/">Z Shell</a> (Zsh) <i class="fas fa-terminal"></i>.</li>
-<li><em>10 Days of <i class="fab fa-js"></i> JavaScript</em> <i class="fab fa-js"></i> on <a href="https://www.hackerrank.com/">HackerRank.com</a>: Arithmetic operators, functions, let &amp; const, conditional statements (if-else, switch), strings, loops.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">6</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li><i class="fas fa-history"></i> Review SQL commands.</li>
-<li>Started <em>10 Days of <i class="fab fa-js"></i> JavaScript</em> <i class="fab fa-js"></i> on <a href="https://www.hackerrank.com/">HackerRank.com</a>.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">5</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Git <i class="fab fa-git"></i>: branches, tags, commit revisions.</li>
-<li><i class="fas fa-history"></i> Review Vim and Qutebrowser shortcuts on <a href="https://www.shortcutfoo.com/">ShortcutFoo</a>.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">4</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li>Learning to use and enjoy <a href="https://qutebrowser.org/">Qutebrowser</a>.</li>
-<li>Simplifying vector paths in <a href="https://inkscape.org/">Inkscape</a>.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">3</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Design a logo with the golden ratio.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">2</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li><i class="fas fa-history"></i> Review <a href="https://git-scm.com/">Git</a> <i class="fab fa-git"></i> basics.</li>
-</ul>
-</div>
-</div>
-
-</div>
-
-
-<div class="row justify-content-center" role="button" data-toggle="collapse" data-parent="#year2019" href="#jan19" aria-expanded="false" aria-controls="jan19">
-<div class="learning-month">January</div>
-</div>
-<div id="jan19" class="container collapse">
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">18</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li><em><a href="https://www.edx.org">HarvardX: CS50</a></em> <i class="fas fa-university"></i></li>
-<ul>
-<li>First steps in C (header files, syntax, compiler).</li>
-<li>Broadcasting events in <a href="https://scratch.mit.edu">Scratch</a>.</li>
-</ul>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">17</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li><em><a href="https://www.edx.org">HarvardX: CS50</a></em> <i class="fas fa-university"></i></li>
-<ul>
-<li>Making a simple game in <a href="https://scratch.mit.edu">Scratch</a>.</li>
-</ul>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">16</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li><i class="fas fa-graduation-cap"></i> Finished the <a href="https://www.sololearn.com/Certificate/1024-6555674/pdf/">JavaScript Tutorial course</a> on <a href="https://www.sololearn.com">SoloLearn</a>!</li>
-<li>JavaScript <i class="fab fa-js"></i>: Objects, DOM &amp; events, ECMAScript 6.</li>
-<li>Using embedded terminals in <code>Neovim</code>.</li>
-</ul>
-</div>
-</div>
-
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">15</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>JavaScript <i class="fab fa-js"></i>: Conditional statements, loops and functions.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">14</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li><i class="fab fa-js"></i> JavaScript: built-in variables and events.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">13</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li>Creating abstract SVG paths in <a href="https://inkscape.org/">Inkscape</a>.</li>
-<li>Creating functions in <i class="fab fa-js"></i> JavaScript with <code>Processing.js</code> &amp; <code>p5.js</code>.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">12</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li><i class="fas fa-graduation-cap"></i> Finished <em>Google IT Support Professional</em> <a href="https://www.coursera.org/account/accomplishments/specialization/GYNYSFSVYNAS">Certificate</a>!</li>
-<ul>
-<li>IT Security: <i class="fas fa-history"></i> Review (application policies, privacy policies, information policies, password policies, security recommendations on mobile &amp; laptop, wireless security, authentication systems, network separation, firewalls, intrusion detection &amp; prevention systems).</li>
-</ul>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">11</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li><em>Google IT</em> <i class="fas fa-university"></i></li>
-<ul>
-<li>IT Security: <i class="fas fa-history"></i> Review of security measures.</li>
-</ul>
-
-<li>Creating collapsible, responsive content in CSS <i class="fab fa-css3"></i> with Bootstrap 4.</li>
-</ul>
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">10</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li><em>Google IT</em> <i class="fas fa-university"></i></li>
-<ul>
-<li>IT Security: Secure network architecture, wireless security, network monitoring, system hardening, application hardening, security model of Chrome OS.</li>
-</ul>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">9</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li><em>Google IT</em> <i class="fas fa-university"></i></li>
-<ul>
-<li>IT Security: AAA (Authentication, Authorization, Accounting).</li>
-</ul>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">8</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li><em>Google IT</em> <i class="fas fa-university"></i></li>
-<ul>
-<li>IT Security: Symmetric encryption, asymmetric encryption, hashing, cryptography applications.</li>
-</ul>
-<li>Standard functions in SQL.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">7</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li><em>Google IT</em> <i class="fas fa-university"></i></li>
-<ul>
-<li>IT Security: Malicious software, network attacks, other types of attacks.</li>
-</ul>
-<li>Statistics (Poisson distribution, geometric distribution, binomial distribution).</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">6</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li><em>Google IT</em> <i class="fas fa-university"></i></li>
-<ul>
-<li>System administration consultation (process improvements).</li>
-</ul>
-<li>Finish reading <a href="https://amzn.to/2Y0QGis">Atomic Habits</a> <i class="fas fa-book"></i>, by <a href="https://jamesclear.com/">James Clear</a>.</li>
-<li>Managing duplicates in Python <i class="fab fa-python"></i> (<a href="https://github.com/sglavoie/python-utilities/tree/master/bash_history_cleaner">Bash History Cleaner</a>).</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">5</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li><em>Google IT</em> <i class="fas fa-university"></i></li>
-<ul>
-<li>Disaster recovery plans &amp; post-mortems.</li>
-</ul>
-<li>Statistics (conditional probability).</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">4</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li><em>Google IT</em> <i class="fas fa-university"></i></li>
-<ul>
-<li>Setting a backup server (BackupPC) on Linux <i class="fab fa-linux"></i>. Disaster recovery plans.</li>
-</ul>
-<li>Bitwise operations (Python <i class="fab fa-python"></i>).</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">3</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li><em>Google IT</em> <i class="fas fa-university"></i></li>
-<ul>
-<li>Data recovery plans, types of backups.</li>
-</ul>
-<li>Primality testing algorithm in Python <i class="fab fa-python"></i>.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 blue-day">2</div>
-<div class="col-12 col-md-10 blue-content">
-<ul>
-<li><em>Google IT</em> <i class="fas fa-university"></i></li>
-<ul>
-<li>Active Directory (managing users and passwords, group policy), OpenLDAP.</li>
-</ul>
-<li>Began reading <a href="https://jamesclear.com/atomic-habits">Atomic Habits</a> <i class="fas fa-book"></i>, by <a href="https://jamesclear.com/">James Clear</a>.</li>
-</ul>
-</div>
-</div>
-
-<div class="row">
-<div class="col-12 col-md-2 grey-day">1</div>
-<div class="col-12 col-md-10 grey-content">
-<ul>
-<li><i class="fas fa-graduation-cap"></i> Finish CSS Fundamentals Course on <a href="https://www.sololearn.com/">SoloLearn</a>.</li>
-<li><i class="fas fa-graduation-cap"></i> Finish SQL Fundamentals Course on <a href="https://www.sololearn.com/">SoloLearn</a>.</li>
-</ul>
-</div>
-</div>
-
-</div>
-
-</div>
-</div>
+---
+
+## October
+### 26
+- University of London
+    - **Discrete mathematics**
+        - Injective & surjective functions.
+- Basics of WebRTC.
+- Basics of [Pandoc](https://pandoc.org/) and [Vimtex](https://github.com/lervag/vimtex).
+- [groff/troff: MUH MINIMALIST Documents](https://www.youtube.com/watch?v=w8EKH_fjmXA) with Luke Smith.
+- [The Science of Great UI](https://www.youtube.com/watch?v=nx1tOOc_3fU) with Coding Tech.
+- On [Learn Git Branching](https://learngitbranching.js.org/) Relative refs (`^`/`~`), `reset`, `revert`, `cherry-pick`, interactive rebase, tags, `describe`, `clone`, remote branches, `fetch`, `pull`.
+
+### 25
+- University of London
+    - **Discrete mathematics**
+        - Introduction to functions (one-to-one [injective] and onto [surjective] functions), plotting functions, set operations, set notations.
+- How patterns are matched in `.gitignore`.
+- New features in Python 8 (`:=` walrus operator, `/` positional-only parameters, `{var_name=}` self-documenting f-strings).
+
+### 23
+- University of London
+    - **Discrete mathematics**
+        - Propositional equivalences, De Morgan's laws, applications of satisfiability.
+- Review Git basics.
+
+### 22
+- University of London
+    - **Discrete mathematics**
+        - Applications of propositional logic, propositional equivalences.
+
+### 21
+- University of London
+    - **Discrete mathematics**
+        - Logic and proofs (propositional logic), applications of propositional logic, Set theory from scratch.
+    - **Introduction to Programming II**
+        - Documenting through SRS (software requirements specification), creating Gantt charts specifically for software development.
+        - `P5.js`: Loading and playing a sound.
+
+### 20
+- University of London
+    - **Introduction to Programming II**
+        - Making a website from Vimwiki.
+
+### 19
+- University of London
+    - **Introduction to Programming II**
+        - Study case 2 (music visualizer): `P5.dom` (handling events), anonymous functions.
+
+### 18
+- University of London
+    - **Discrete mathematics**
+        - Review aspects of set theory.
+    - **Introduction to Programming II**
+        - Study case 2 (music visualizer): Figure out how sound works with Fourier series in `P5.js`.
+
+### 17
+- University of London
+    - **Discrete mathematics**
+        - Introduction to set theory, set builder method, powerset of a set, cardinality of powerset, set operations, De Morgan's laws.
+
+### 16
+- University of London
+    - **Algorithms and Data Structures I**
+        - Birthday Party problem, discretisation and pseudocode, pseudocode and functions, loops in pseudocode, Euclidean algorithm in pseudocode, converting flowcharts to pseudocode and vice versa.
+        - Introduction to algorithms, flowcharts, Heron's method, pseudocode.
+- Solve [String subpattern recognition I](https://www.codewars.com/kata/5a49f074b3bfa89b4c00002b) on Codewars.
+
+### 15
+- University of London
+    - **Introduction to Programming II**
+        - Study case 1: Drawing application – under the hood, introduction to `P5.dom`, handling events in `P5.dom`.
+        - Study case 2: Music visualizer.
+        - Asynchronous function calls, using callbacks, debugging skills (breakpoints and stepping), testing for stability, usability testing.
+        - Interview with Christophe Rhodes.
+
+### 14
+- University of London
+    - **Discrete mathematics**
+        - Set theory.
+    - **Introduction to Programming II**
+        - Introducing case study 1: drawing app.
+- [Version Control with Git](https://www.coursera.org/learn/version-control-with-git) on Coursera: Rebasing, rewriting history (amending a commit, interactive rebase), pull requests, Git workflows (centralized, feature branch, forking, Gitflow).
+- [Git MERGE vs REBASE](https://www.youtube.com/watch?v=CRlGDDprdOQ) with Academind.
+- [Git - The STASH Command](https://www.youtube.com/watch?v=DeU6opFU_zw) with Academind.
+- [Git Tutorial: Fixing Common Mistakes and Undoing Bad Commits](https://www.youtube.com/watch?v=FdZecVxzJbk) with Corey Schafer.
+- [Git Tutorial: Using the Stash Command](https://www.youtube.com/watch?v=KLEDKgMmbBI) with Corey Schafer.
+- [Git Tutorial: Diff and Merge Tools](https://www.youtube.com/watch?v=iCGrKFH2oeo) with Corey Schafer.
+
+### 13
+- University of London
+    - **Discrete mathematics**
+        - Set operations, set identities, set builder notation.
+
+### 12
+- University of London
+    - **Discrete mathematics**
+        - Injective and surjective properties, introduction to functions, Heron's method.
+
+### 11
+- University of London
+    - **Discrete mathematics**
+        - Set theory: partition, set operations, set identities, set builder notation.
+
+### 10
+- University of London
+    - **Discrete mathematics**
+        - Venn diagrams representations of sets, set representation and manipulation (complement of a set), De Morgan's laws, Laws of sets (commutative, associative and distributive).
+    - **Introduction to Programming II**
+        - Public vs private properties.
+
+### 9
+- University of London
+    - **Discrete mathematics**
+        - Introduction to set theory, set builder method, powerset of a set, cardinality of powerset, set operations.
+
+### 8
+- University of London
+    - **Introduction to Programming II**
+        - Object orientation in practice, organizing code.
+    - **Algorithms and Data Structures I**
+        - Review Heron's method.
+
+### 7
+- University of London
+    - **Algorithms and Data Structures I**
+        - Problems, algorithms and flowcharts.
+
+### 5
+- [Version Control with Git](https://www.coursera.org/learn/version-control-with-git) on Coursera: Git overview (remote repository), Git's graph model (Directed Acyclic Graph), Git IDs, Git references, branches, merging, resolving merge conflicts, tracking branches, fetch, pull, push.
+
+### 4
+- [Version Control with Git](https://www.coursera.org/learn/version-control-with-git) on Coursera: Git overview (remote repository).
+- Converting JSON to CSV through Vim macros.
+- Integrating Google Sheets with Slack, using Zapier.
+
+### 3
+- [Version Control with Git](https://www.coursera.org/learn/version-control-with-git) on Coursera: Git overview (Git locations, commit to a local repository).
+
+### 2
+- Introduction to Algorithms, Third Edition: Standard notations and common functions.
+- [Version Control with Git](https://www.coursera.org/learn/version-control-with-git) on Coursera: DevOps and Git in a Nutshell.
+
+### 1
+- Introduction to Algorithms, Third Edition: Divide-and-conquer algorithms, growth of functions (asymptotic notation, big-o notation [asymptotic upper bound], big-omega notation [asymptotic lower bound], little-o notation [upper bound not asymptotically tight], little-omega notation [lower bound not asymptotically tight]).
+- `YAML` and `TOML` syntax.
+- [Recursion 'Super Power' (in Python)](https://www.youtube.com/watch?v=8lhxIOAfDss) with Computerphile.
+
+## September
+### 30
+- Introduction to Algorithms, Third Edition: Insertion sort, analyzing algorithms (best, worst & average cases, running time, size of input, order of growth), designing algorithms (divide-and-conquer), merge sort algorithm.
+
+### 29
+- Finish reading Pragmatic Programmer: Continuous development, pragmatic starter kit (version control, regression testing, full automation).
+- Introduction to Algorithms, Third Edition: The role of algorithms in computing.
+
+### 28
+- Pragmatic Programmer: Security basic principles, naming things, software requirements, requirements documents, agile movement.
+- Solve [Find the Torsional Angle challenge](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem) (Python) on HackerRank.
+
+### 27
+- Pragmatic Programmer: Test-driven development, unit testing, property-based testing, security basic principles.
+- Develop Slack app locally with [ngrok](https://ngrok.com/).
+- Solve [Hex Color Code regex challenge](https://www.hackerrank.com/challenges/hex-color-code/problem) (Python) on HackerRank.
+
+### 26
+- [New UI Design Trends](https://www.youtube.com/watch?v=y_MTsIQuNEo) with DesignCourse.
+- Read article [The Many Faces and Filetypes of Python Configs](https://hackersandslackers.com/simplify-your-python-projects-configuration/) on Hackers And Slackers.
+- Learn basic usage of [Dynaconf](https://github.com/rochacbruno/dynaconf) to manage configuration files in Python projects.
+- Build and deploy a simple Slack bot in Python to Heroku.
+
+### 25
+- Pragmatic Programmer: Inheritance, using external configuration in applications, concurrency and parallelism, tips on following instincts and programming deliberately, estimating algorithms speed, refactoring, testing code.
+- Read article [How to Run and Control Background Processes on Linux](https://www.howtogeek.com/440848/how-to-run-and-control-background-processes-on-linux/) on How To Geek.
+
+### 24
+- Read [Python Virtual Environments: A Primer](https://realpython.com/python-virtual-environments-a-primer/) on Real Python.
+
+### 23
+- Threading in Python [with Corey Schafer](https://www.youtube.com/watch?v=IEEhzQoKtQU).
+- Multiprocessing in Python [with Corey Schafer](https://www.youtube.com/watch?v=fKl2JW_qrso).
+- Pragmatic Programmer: Prototyping.
+
+### 21
+- Customizing `zsh` better.
+
+### 20
+- Pragmatic Programmer: Prototyping, domain languages (internal, external languages), estimating, relying on systems with plain text files, using the command shell, making the most of your text editor, using VCS for everything, advice on debugging, manipulating text with dedicated tools and programming languages, how to work with engineering daybooks, killing programs early, when and when not to use assertions, balancing system resources, decoupling code (the one-dot rule of chaining method calls, avoiding global data).
+
+### 19
+- Pragmatic Programmer: Design principles (ETC [easier to change]), DRY [Don't Repeat Yourself]), orthogonality (independence of components), reversibility.
+
+### 18
+- Git: Merge, rebase, branches.
+
+### 17
+- Git: staging, unstaging, checkout, reset, rebase.
+
+### 14
+- University of London
+    - **Web development**
+        - Working with Slick carousel, Lightbox plugin for Bootstrap, touch events in JavaScript, event handlers & event listeners.
+
+### 13
+- University of London
+    - **Web development**
+        - General review of Bootstrap 4 framework, Slick JavaScript library, Lightbox library.
+
+### 12
+- University of London
+    - **Web development**
+        - General review of Bootstrap 4 framework.
+
+### 11
+- University of London
+    - **Web development**
+        - General review of Bootstrap 4 framework.
+- Using progress bars with [Click](https://click.palletsprojects.com/), compiling SASS with `ruby-sass` Using [Slick](http://kenwheeler.github.io/slick/) and [Lightbox](https://ashleydw.github.io/lightbox/) as JavaScript plugins.
+
+### 10
+- University of London
+    - **Web development**
+        - Bootstrap 4 framework: List group items, badges, forms, input groups, alerts, progress bars, tables, pagination, cards, media objects, grid system flexbox, JavaScript widgets, collapse widget, accordion widget, tooltips, popovers, modals.
+- `Gulp` with `node.js`, Emmet syntax.
+
+### 9
+- University of London
+    - **Web development**
+        - Review how Bootstrap 4 framework works: setup, typography, alignment, positioning, CSS breakpoints, buttons, nav bars.
+- Recursion in `p5.js`: [Coding Challenge #77: Recursion](https://www.youtube.com/watch?v=jPsZwrV9ld0).
+
+### 8
+- University of London
+    - **Introduction to programming**: Working with realistic physics in `p5.js`.
+
+### 7
+- University of London
+    - **Introduction to programming**: Working with realistic physics animations, particle systems (fireworks), working with the DOM inside `p5.js`.
+- Closures in JavaScript.
+
+### 6
+- University of London
+    - **Introduction to programming**: Layering canvases in `p5.js`, calling scripts dynamically.
+- Python: Unit testing, importing modules.
+
+### 5
+- University of London
+    - **Introduction to programming**: Splitting application into modules, working with sound in `p5.js`.
+
+### 4
+- University of London
+    - **Introduction to programming**: Constructor functions, working with sound and `DOM` functions in `p5.js`.
+- Logging in Python.
+- Setting up Mailgun with custom domains.
+
+### 3
+- University of London
+    - **Numerical mathematics**: Calculus, linear algebra, sequences & series, probability, number bases, modular arithmetic.
+- Creating a watchdog in Python.
+
+### 2
+- University of London
+    - **Numerical mathematics**: Calculus, linear algebra, sequences & series, probability, number bases, modular arithmetic.
+
+### 1
+- University of London
+    - **Numerical mathematics**: Graph transformations, probability, binomial probability, linear algebra, affine transformations, number bases, modular arithmetic.
+
+## August
+### 31
+- University of London
+    - **Numerical mathematics**: Sequences and series, modular arithmetic, number bases, probability.
+
+### 30
+- University of London
+    - **Numerical mathematics**: SUVAT equations, local minima and maxima with first derivative test, sequences and series.
+
+### 29
+- University of London
+    - **Numerical mathematics**: Calculus and derivatives, limits and continuous functions, inverse functions and their derivatives, SUVAT equations.
+
+### 28
+- University of London
+    - **Numerical mathematics**: Calculus and derivatives, product rule, quotient rule, chain rule.
+- Read [Git Guides - Jacob Herrington - Git Bisect is Easy (How to Initiate the Robot Uprising)](https://dev.to/jacobherrington/git-bisect-is-easy-44ol) and `git cherry-pick`.
+
+### 27
+- University of London
+    - **Numerical mathematics**: Geometric progressions, sequences, calculus and derivatives.
+- Read [Git Guides - Jacob Herrington - 10 Git Tricks to Save Your Time and Sanity](https://dev.to/jacobherrington/10-git-tricks-to-save-your-time-and-sanity-289h).
+
+### 26
+- University of London
+    - **Numerical mathematics**: Linear dependence and independence, linear subspaces, number bases, number base conversions, modular arithmetic, patterns in sequences.
+
+### 25
+- University of London
+    - **Numerical mathematics**: Systems of equations with matrices, inverse matrices, permutations in matrices, basic operations on vectors, linear combinations of vectors, span, linear independence.
+
+### 24
+- University of London
+    - **Numerical mathematics**: Law of sine, Law of cosine, triangles with ambiguous cases, matrices (linear transformations, systems of equations).
+
+### 22
+- University of London
+    - **Numerical mathematics**: Dot product and angle between two vectors, polar coordinates, SUVAT equations, derivatives.
+
+### 21
+- University of London
+    - **Numerical mathematics**: Inverse of matrices, probability of an event, mutually exclusive events, independent events, conditional probability, fundamental counting principle.
+
+### 20
+- University of London
+    - **Numerical mathematics**: Simple machine learning model, Bayes' Theorem (likelihood, prior, evidence, posterior), Bayesian inference.
+
+### 19
+- University of London
+    - **Introduction to programming**: JavaScript arrays, debugging techniques, methods, vector objects in `p5.js`.
+    - **Numerical mathematics**: Probability & statistics: independent events, complement of an event, averages (mean, median, mode), variance, standard deviation, conditional probability, sets.
+
+### 17
+- University of London
+    - **Numerical mathematics**: Introduction to combinatorics and probability, counting principles, independent events (multiplication law), permutations, mutually exclusive events, complement of an event, combinations.
+    - **Web development**
+- JavaScript basics: Execution context, execution stack (creation and execution phases), hoisting, scoping and scoping chain, DOM manipulation and events, `this` keyword in practice, events handlers & events listeners.
+
+### 16
+- University of London
+    - **Numerical mathematics**: Affine transformations, kaleidoscopes and tilings, solving simultaneous equations using matrices, linear transformations of matrices, homogeneous coordinates.
+    - **Web development**
+- JavaScript basics: basic operators, operator precedence, conditional statements, boolean logic, ternary operators, switch statement, truthy & falsy values, equality operators, functions, arrays, objects, properties and methods, loops and iterations, continue, break, ES5, ES2015+.
+
+### 15
+- University of London
+    - **Numerical mathematics**: Linear transformations of matrices.
+
+- **Neovim**: Using the `dot` command (dot formula).
+- [Comments in Python: Best Practices](https://www.youtube.com/watch?v=0NO3MJkxm2g) with Real Python.
+- <i class="fas fa-history"></i>Equality testing, review JavaScript arrays on [Execute Program](https://www.executeprogram.com).
+
+### 14
+- University of London
+    - **Numerical mathematics**: Multiplying matrices and column vectors, linear transformations of matrices, homogeneous coordinates.
+
+### 13
+- University of London
+    - **Numerical mathematics**: Cross product of vectors, inverse of a matrix, multiply matrices and column vectors.
+
+- [Python Tutorial: Unit Testing Your Code with the unittest Module](https://www.youtube.com/watch?v=6tNS--WetLI) with Corey Schafer.
+
+### 12
+- University of London
+    - **Numerical mathematics**: Homogeneous coordinates, cross product of two vectors, triple scalar product, vector product, inverse of a matrix with cofactor method and Jordan-Gauss method.
+
+- Using primary (`Shift + Insert`) and default (`Ctrl + Shift + v`) clipboard in terminal.
+- [Git Fu Developing](https://www.youtube.com/watch?v=f-Br8cud2eI) with Coding Tech: `git` aliases (Git aliases and aliases with Shell commands `!`), logs, reflogs, stash, bisect.
+
+### 11
+- University of London
+    - **Numerical mathematics**: Solving a matrix equation, inverse of a square matrix, system of linear equations.
+
+- Dot product and cross product in Python.
+
+### 10
+- University of London
+    - **Numerical mathematics**: matrices & systems of equations, elementary row operations, Gaussian elimination with back-substitution, Gauss-Jordan elimination, operations with matrices.
+    - **Introduction to programming**: Working with `this` keyword, vectors in `p5.js`.
+
+- Python concepts: `sys.path`, creating packages and subpackages.
+
+### 9
+- University of London
+    - **Numerical mathematics**: matrices (linear combinations, multiplication), determinant.
+
+- Using `git stash`, `git commit --amend`, `git diff`, `.gitignore` and `.git/info/exclude` files, `git blame`.
+
+### 8
+- University of London
+    - **Numerical mathematics**: **SUVAT** equations in vector form, Operations with 2D vectors, dot product, angle between vectors, operations with 3D vectors.
+    - **Web development**
+- More on `Handlebars.js`: Custom expressions, partials.
+
+### 7
+- University of London
+    - **Numerical mathematics**: Triple scalar product, cross-product of two vectors.
+- [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) with 3Blue1Brown: determinant, cross products.
+
+- [Multi Programming](https://www.youtube.com/watch?v=MB0yDMQj1lU) with Computerphile.
+- Equality testing, review JavaScript arrays on [Execute Program](https://www.executeprogram.com).
+
+### 6
+- University of London
+    - **Numerical mathematics**: Vectors in space, cross-product of two vectors, Analytic geometry.
+    - **Web development**: `Handlebars.js` helpers.
+
+- [Python Quick Tip: The Difference Between "==" and "is" (Equality vs Identity)](https://www.youtube.com/watch?v=mO_dS3rXDIs) with Corey Schafer.
+- Review JavaScript arrays on [Execute Program](https://www.executeprogram.com).
+
+### 5
+- University of London
+    - **Introduction to programming**: Working with `this` keyword.
+    - **Numerical mathematics**: Vectors, dot product, matrices & determinants, elementary row operations, Gaussian elemination with back-substitution, matrices with row-echelon form, analytic geometry in three dimensions.
+
+- Review JavaScript arrays on [Execute Program](https://www.executeprogram.com), `forEach` iterations.
+
+### 4
+- University of London
+    - **Introduction to programming**: More on constructor functions, creating a particle system with an emitter (holds, adds and removes particles), making platforms in a `p5.js` game.
+    - **Numerical mathematics**: More on vectors, dot product.
+    - **Web development**: Web template systems (Mustache and `Handlebars.js`).
+
+- JavaScript arrays on [Execute Program](https://www.executeprogram.com).
+
+### 3
+- University of London
+    - **Introduction to programming**: Vector objects and adding sound in `p5.js`, factory pattern, constructor functions.
+    - **Numerical mathematics**: Matrices, inverse matrices.
+
+- Solve [digit fifth powers](https://projecteuler.net/problem=30), Project Euler.
+
+### 2
+- University of London
+    - **Numerical mathematics**
+        - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) with 3Blue1Brown: Matrix multiplication as composition, three-dimensional linear transformations, the determinant, inverse matrices, column space and null space, nonsquare matrices as transformations between dimensions, dot products and duality, cross products.
+
+### 1
+- University of London
+    - **Numerical mathematics**: addition, subtraction, scalar product (dot product) with vectors and matrices.
+        - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) with 3Blue1Brown: vectors — what even are they, linear combinations, span, and basis vectors, linear transformations and matrices.
+
+## July
+### 31
+- University of London
+    - **Numerical mathematics**
+        - Calculus: Differentiating exponential functions, find maxima, minima, turning points and asymptotes of graphs of trigonometric, exponential and logarithmic functions.
+
+### 30
+- University of London
+    - **Numerical mathematics**
+        - Calculus: Using differentiation to analyse the behaviour of a function, differentiating trigonometric functions.
+
+### 29
+- University of London
+    - **Numerical mathematics**
+        - [MIT Highlights of Calculus](https://www.youtube.com/watch?v=UcWsDwg1XwM&list=PLBE9407EA64E2C318) by MIT: Limits and continuous functions, inverse funtions and the natural logarithm, derivatives of natural logarithms and sine inverse, growth rates & log graphs, linear approximation & Newton's method, chains f(g(x)) and the chain rule.
+
+### 28
+- University of London
+    - **Numerical mathematics**
+        - [MIT Highlights of Calculus](https://www.youtube.com/watch?v=UcWsDwg1XwM&list=PLBE9407EA64E2C318) by MIT: Big picture of calculus, big picture of derivatives, max and min and second derivative, the exponential function, product rule, quotient rule, big picture of integrals, derivative of `sin(x)` and `cos(x)`.
+
+### 27
+- University of London
+    - **Numerical mathematics**
+        - Calculus: The quotient rule, product rule, chain rule.
+        - [Chains f(g(x)) and the chain rule](https://www.youtube.com/watch?v=yQrKXo89nHA) by MIT
+    - **Web development**: On JavaScript: touch events, orientation events.
+    - **Introduction to programming**: JavaScript methods.
+
+### 26
+- University of London
+    - **Numerical mathematics**
+        - Calculus: The quotient rule, product rule, chain rule.
+
+### 25
+- University of London
+    - **Numerical mathematics**
+        - Calculus: Differentiating compositions of functions with the chain rule, differentiation of polynomial, rational and algebraic functions.
+
+### 24
+- University of London
+    - **Numerical mathematics**
+        - Calculus: Differentiating polynomials and rational functions, limits of functions, chords and lines tangent to graphs.
+
+- [Python Tutorial: Calling External Commands Using the Subprocess Module](https://www.youtube.com/watch?v=2Fp1N6dof0Y)
+
+### 23
+- University of London
+    - **Numerical mathematics**
+        - Calculus: Limits of functions, chords and lines tangent to graphs.
+
+### 22
+- University of London
+    - **Numerical mathematics**
+        - Calculus: Limits of sequences, limits of summations, evaluating limits at infinity.
+
+### 21
+- University of London
+    - **Numerical mathematics**
+        - Calculus: Limits at infinity & limits of sequences.
+
+### 20
+- University of London
+    - **Numerical mathematics**
+        - Calculus: Introduction to limits.
+    - **Web development**: On JavaScript: Event listeners.
+
+- How references work (`HEAD`, detached `HEAD`), `git reflog`, tags, annotated tags.
+
+### 19
+- University of London
+    - **Numerical mathematics**
+        - Calculus: The quotient rule, product rule, chain rule, introduction to limits.
+
+### 18
+- University of London
+    - **Numerical mathematics**: The product rule.
+        - [Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) with 3Blue1Brown: Higher order derivatives, Taylor series, what they don't teach you in calculus.
+
+- Create Slack App with Zapier integrations.
+- Git: Modifying files on GitHub, `git pull`.
+
+### 17
+- University of London
+    - **Numerical mathematics**
+        - [Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) with 3Blue1Brown: What's so special about Euler's number **e**, implicit differentiation, limits, l'Hopital's rule & epsilon delta definitions, integration & the fundamental theorem of calculus and what does area have to do with slope.
+
+- Git: Configuring SSH, `git status`, staging, committing, `git remote`, `git log`, collaborating on GitHub.
+
+### 16
+- University of London
+    - **Numerical mathematics**
+        - [Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) with 3Blue1Brown: Visualizing the chain rule and product rule.
+
+### 15
+- University of London
+    - **Introduction to programming**: Create a *simple* yet complete game with `p5.js`.
+    - **Numerical mathematics**: Introduction to calculus: limits and differentiation, exponential and logarithmic functions.
+        - [Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) with 3Blue1Brown: Introduction, the paradox of the derivative, derivative formulas through geometry.
+
+### 14
+- University of London
+    - **Numerical mathematics**:  Introduction to calculus: limits and differentiation, exponential and logarithmic functions.
+
+### 13
+- University of London
+    - **Web development**: Manipulating the DOM, events and events handlers, JavaScript syntax.
+
+### 12
+- University of London
+    - **Numerical mathematics**: Logarithmic functions.
+
+### 11
+- University of London
+    - **Numerical mathematics**: Logarithmic functions.
+
+### 10
+- University of London
+    - **Introduction to programming**: JavaScript: Nesting objects and arrays, search patterns, debugging techniques (common errors with data, iterative coding).
+    - **Numerical mathematics**: Exponential & logarithmic functions.
+
+- Read article on new features in Python 3 at [python-catalin](https://python-catalin.blogspot.com/2019/07/python-373-about-python-version-373.html).
+
+### 9
+- University of London
+    - **Introduction to programming**: JavaScript: Variables and scopes, two dimensional arrays.
+    - **Numerical mathematics**: Exponential functions, logarithmic functions.
+
+- `Vim` global substitution features, tags stack, `CTRL + F` in command mode to search previous commands.
+- [Classic Computer Science Problems in Python](https://classicproblems.com/), by David Kopec: constraint-satisfaction problem framework.
+
+### 8
+- University of London
+    - **Web development**: Introduction to JavaScript for the web: client-side JavaScript, roles of the language.
+
+### 7
+- University of London
+    - **Web development**: Describe the experience of building a website with a remote team from multiple continents.
+
+- Learn the technical differences between Live CD/USB, persistent Live CD/USB, full installation on drive and inside virtual machines with fixed or dynamically allocated storage space.
+
+### 6
+- University of London
+    - **Web development**: More on building a responsive website from scratch.
+
+### 5
+- University of London
+    - **Introduction to programming**: Traversing arrays.
+    - **Web development**: More on building a responsive website from scratch.
+
+- Read article [Is There Such a Thing As Bug-free Software?](https://hackernoon.com/is-there-such-a-thing-as-bug-free-software-320cd862af17) on Hacker Noon.
+- Read article [How to Write Unit Tests and How They Help in The Development Process](https://steelkiwi.com/blog/how-write-unit-tests-and-how-they-help-development/) on Steel Kiwi.
+
+### 4
+- University of London
+    - **Numerical mathematics**: Exponential & logarithmic models, more on exponential and logarithmic functions.
+
+### 3
+- University of London
+    - **Numerical mathematics**: More on exponential and logarithmic functions.
+
+- Configure `unclutter` to hide cursor automatically.
+- Configure `vim-gitgutter` with Neovim.
+
+### 2
+- University of London
+    - **Numerical mathematics**: Inverse functions, exponential and logarithmic functions.
+
+- [VIM tutorial: linux terminal tools for bug bounty pentest and redteams with @tomnomnom](https://www.youtube.com/watch?v=l8iXMgk2nnY) with STÖK.
+
+### 1
+- University of London
+    - **Introduction to programming**: Refactoring code, user-defined functions, function input & output.
+
+- [My Biggest Challenge With Programming (Q&A #11)](https://www.youtube.com/watch?v=AOeRbuwCd-Y) with sentdex.
+- [How to use Gnaural to create binaural beats](https://www.youtube.com/watch?v=Nck9SX52qpU) with Gnaural.
+
+## June
+### 30
+- University of London
+    - **Numerical mathematics**: Steganography, RSA algorithm, sequences & series.
+
+### 29
+- University of London
+    - **Numerical mathematics**: Sequences & series.
+
+### 28
+- University of London
+    - **Numerical mathematics**: Sequences & series.
+
+- [Talk on going mouseless with Vim, Tmux, and Hotkeys](https://www.youtube.com/watch?v=E-ZbrtoSuzw) with Leeren.
+
+### 27
+- University of London
+    - **Numerical mathematics**: Sequences & series, transformation of graphs.
+
+### 26
+- University of London
+    - **Numerical mathematics**: Transformation of graphs.
+
+- [Responsive CSS grid with no media queries](https://www.youtube.com/watch?v=bam83Xv4VMA) with DesignCourse.
+
+### 25
+- University of London
+    - **Numerical mathematics**: RSA algorithm, transformation of graphs.
+
+### 24
+- University of London
+    - **Web development**: More on CSS grid layouts and redesigning a website from scratch.
+
+### 23
+- University of London
+    - **Web development**: CSS grid layouts, redesigning a website from scratch.
+
+### 22
+- University of London
+    - **Numerical mathematics**: RSA algorithm.
+
+### 21
+- University of London
+    - **Numerical mathematics**: Steganography, modular arithmetic, encryption & RSA algorithm, transformation of graphs.
+
+### 20
+- University of London
+    - **Web development**: CSS animations, CSS `grid-area`, `@font-face`, `@media` queries.
+
+- [8 super heroic Linux commands that you probably aren't using](https://www.youtube.com/watch?v=Zuwa8zlfXSY) with Engineer Man.
+
+### 19
+- University of London
+    - **Numerical mathematics**: Steganography, modular arithmetic.
+    - **Web development**: CSS frameworks, accessibility.
+
+- [Classic Computer Science Problems in Python](https://classicproblems.com/), by David Kopec: Missionaries and cannibals problem with `BFS`.
+- [Matplotlib Tutorial (Part 10): Subplots](https://www.youtube.com/watch?v=XFZRVnP-MTU) with Corey Schafer.
+
+### 18
+- University of London
+    - **Introduction to programming**: Advanced work with arrays, nested iteration for drawing patterns.
+    - **Numerical mathematics**: Exponential and logarithmic functions.
+
+- [Classic Computer Science Problems in Python](https://classicproblems.com/), by David Kopec: More on search algorithms (`BFS`, `DFS`, `A*`).
+- [Matplotlib Tutorial (Part 9): Plotting Live Data in Real-Time](https://www.youtube.com/watch?v=Ercd-Ip5PfQ) with Corey Schafer.
+
+### 17
+- University of London
+    - **Introduction to programming**: Advanced work with arrays, nested iteration for drawing patterns.
+    - **Numerical mathematics**: Steganography.
+    - **Web development**: Coding responsive behavior.
+    - More on Core study skills course.
+
+- [Classic Computer Science Problems in Python](https://classicproblems.com/), by David Kopec: More on search algorithms.
+- [Matplotlib Tutorial (Part 8): Plotting Time Series Data](https://www.youtube.com/watch?v=_LWjaAiKaf8) with Corey Schafer.
+
+### 16
+- University of London
+    - **Numerical mathematics**: Plotting, transformation of graphs.
+    - More on Core study skills course.
+
+- [Classic Computer Science Problems in Python](https://classicproblems.com/), by David Kopec: Search algorithms.
+- [What is a bare Git repo and why you need them](https://www.youtube.com/watch?v=8aZW9mYOxhc) with Engineer Man.
+- [Matplotlib Tutorial (Part 7): Scatter Plots](https://www.youtube.com/watch?v=zZZ_RCwp49g) with Corey Schafer.
+
+### 15
+- University of London
+    - **Numerical mathematics**: Plotting, transformation of graphs.
+    - Core study skills course.
+
+- [Classic Computer Science Problems in Python](https://classicproblems.com/), by David Kopec: Search algorithms.
+- [Matplotlib Tutorial (Part 6): Histograms](https://www.youtube.com/watch?v=XDv6T4a0RNc) with Corey Schafer.
+
+### 14
+- University of London
+    - **Numerical mathematics**: [Cryptography on Khan Academy](https://www.khanacademy.org/): Fundamental theorem of arithmetic, public key cryptography, Diffie-hellman key exchange, RSA encryption, Euler's totient function, primality tests.
+
+- [Matplotlib Tutorial (Part 5): Filling Area on Line Plots](https://www.youtube.com/watch?v=x0Uguu7gqgk) with Corey Schafer.
+
+### 13
+- University of London
+    - **Numerical mathematics**: Polar coordinates, solving trigonometric equations, damped trigonometric graphs, trigonometric ratios and functions, number bases with rational and irrational numbers.
+
+- [Matplotlib Tutorial (Part 4): Stack Plots](https://www.youtube.com/watch?v=xN-Supd4H38) with Corey Schafer.
+
+### 12
+- University of London
+    - **Numerical mathematics**: trigonometric ratios and functions.
+    - **Web development**: Creating a responsive website from scratch.
+
+- [Classic Computer Science Problems in Python](https://classicproblems.com/), by David Kopec: Encryption with `XOR` bit operation.
+- [Matplotlib Tutorial (Part 3): Pie Charts](https://www.youtube.com/watch?v=MPiz50TsyF0) with Corey Schafer.
+
+### 11
+- University of London
+    - **Introduction to programming**: Create a *very* simple side-scrolling game with `p5.js`.
+
+- [Classic Computer Science Problems in Python](https://classicproblems.com/), by David Kopec: Recursive functions, memoization, generators, compressing and decompressing data.
+- [Matplotlib Tutorial (Part 2): Bar Charts and Analyzing Data from CSVs](https://www.youtube.com/watch?v=nKxLfUrkLE8) with Corey Schafer.
+
+### 10
+- University of London
+    - **Numerical mathematics**: trigonometric ratios and functions.
+
+- [Classic Computer Science Problems in Python](https://classicproblems.com/), by David Kopec: Recursive functions.
+- [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis/home) on Coursera: More on Python fundamentals (lambda, list comprehension), `Numpy` basics.
+- [Matplotlib Tutorial (Part 1): Creating and Customizing Our First Plots](https://www.youtube.com/watch?v=UO98lJQ3QGI) with Corey Schafer.
+
+### 9
+- University of London
+    - **Numerical mathematics**: Analytic trigonometry, unit circle, law of sines, law of cosines.
+
+- Flask: [Learn Flask for Python](https://www.youtube.com/watch?v=Z1RJmh_OqeA) with FreeCodeCamp.org.
+- [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis/home) on Coursera: Advanced Python objects, `map()`.
+
+### 8
+- University of London
+    - **Introduction to programming**: JavaScript `for` loops, arrays.
+    - **Numerical mathematics**: Trigonometry.
+    - **Web development**: CSS grids and columns, CSS animations, accessibility in CSS.
+
+### 7
+- University of London
+    - **Numerical mathematics**: Trigonometry.
+
+### 6
+- University of London
+    - **Numerical mathematics**: Compositions with inverse trigonometric functions, inverse trigonometric functions, trigonometrical functions.
+    - **Web development**: CSS box model, CSS layout.
+
+### 5
+- University of London
+    - **Introduction to programming**: Game project.
+    - **Numerical mathematics**: Trigonometrical functions.
+
+### 4
+- University of London
+    - **Numerical mathematics**: Trigonometrical functions, identities & equations.
+    - **Web development**: CSS colouring, CSS typography.
+
+### 3
+- University of London
+    - **Web development**: CSS selectors, CSS typography.
+
+- [Tribonacci Numbers (and the Rauzy Fractal)](https://www.youtube.com/watch?v=fMJflV_GUpU) with Numberphile.
+
+### 2
+- University of London
+    - **Web development**: CSS selectors.
+
+### 1
+- University of London
+    - **Numerical mathematics**: Plotting, transformation of graphs.
+
+## May
+### 31
+- University of London
+    - **Numerical mathematics**: Angles and triangles, trigonometry.</ul>
+
+### 30
+- University of London
+    - **Numerical mathematics**: Angles and triangles.
+    - **Web development**: HTML prototype.
+
+- [Q Learning Intro/Table - Reinforcement Learning p.1](https://www.youtube.com/watch?v=yMk_XtIEzH8) with sentdex.
+
+### 29
+- University of London
+    - **Numerical mathematics**: [Trigonometry on Khan Academy](https://www.khanacademy.org/math/trigonometry), angles and triangles.
+
+### 28
+- University of London
+    - **Introduction to programming**: Game project (working with extra canvas in `p5.js`).
+    - **Numerical mathematics**: Trigonometry.</ul>
+
+### 27
+- University of London
+    - **Introduction to programming**: Interaction with game character (movement, gravity).
+- [Simple steps to help shut down scammers](https://www.youtube.com/watch?v=3yAYjz4Q9Ak) with Engineer Man.
+
+### 26
+- University of London
+    - **Introduction to programming**: Conditionals with types, debugging techniques.
+- [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw): nested loops, functions, function parameters & arguments, functions & returns, classes in JavaScript with ES6, constructor arguments with classes in JavaScript, web editor: adding JavaScript files, what is an array, arrays & loops, arrays of objects, for of loops, mouse interactions with objects, removing objects from arrays, while & for loops.
+
+    - **Web development**: HTML body, introduction to CSS.
+
+### 25
+- University of London
+    - **Introduction to programming**: Conditional logic, template literals.
+- [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw): checking objects intersection/collisions, object communication part 2, while & for loops.
+
+### 24
+- University of London
+    - **Numerical mathematics**: Kinematic equations, angles, triangles, trigonometry.</ul>
+
+- [Custom commands with fzf in Linux terminal](https://www.youtube.com/watch?v=vt33Hp-4RXg) with Luke Smith.
+- Animating SVG images with CSS.
+
+### 23
+- University of London
+    - **Numerical mathematics**: Plotting, transformation of graphs, Fibonacci spiral.</ul>
+
+### 22
+- University of London
+    - **Numerical mathematics**: `suvat` equations.</ul>
+
+- [Suckless's dwm: So easy even a caveman could do it!](https://www.youtube.com/watch?v=unqsQJaECv0) with Luke Smith.
+
+### 21
+- University of London
+    - **Numerical mathematics**: Polynomial and rational functions, motions (distance and speed, displacement and velocity, acceleration).</ul>
+
+- [For Loops - JavaScript Programming Basics p.6](https://www.youtube.com/watch?v=ojyOVRAPT3Y) with sentdex.
+- [10 Ways to Learn Faster](https://www.youtube.com/watch?v=hKBZjH7Ot2g) with Siraj Raval.
+- GitHub Workflow, working locally, Git status, saved changes, Git pull & push, Git reset, merge strategies, organizations & teams, integrations and changing history with [GitHub Training & Guides](https://www.youtube.com/channel/UCP7RrmoueENv9TZts3HXXtw).
+
+### 20
+- University of London
+    - **Numerical mathematics**: Polynomial and rational functions.</ul>
+- [Object Oriented Programming in js - JavaScript Programming Basics p.5](https://www.youtube.com/watch?v=IsyyRKbFi7w) with sentdex.
+- [JSON, not Jason](https://www.youtube.com/watch?v=A0hoqSkyY7o) with Computerphile.
+- [The Plastic Ratio](https://www.youtube.com/watch?v=PsGUEj4w9Cc) with Numberphile.
+
+### 19
+- University of London
+    - **Numerical mathematics**: Distance formula, midpoint formula, linear extrapolation, step functions, transformations of functions, composition of functions, polynomial and rational functions, [Criss Cross Factoring](https://www.youtube.com/watch?v=nz058Hil6rA) with Steven Kliemann.</ul>
+- [Binding Keys *Universally* in Linux](https://www.youtube.com/watch?v=2ClckQzJTlk) with Luke Smith.
+- [Running functions on an Interval with setInterval - JavaScript Programming Basics p.3](https://www.youtube.com/watch?v=_2vW0JE18pY) with sentdex.
+- [Conditionals (if statement) - JavaScript Programming Basics p.4](https://www.youtube.com/watch?v=HQTUwz1slAQ) with sentdex.
+- [Getting started with React.js: Simple todo list](https://www.youtube.com/watch?v=BaRtXhcD9O4) with Engineer Man.
+
+### 18
+- University of London
+    - **Introduction to programming**: Type casting in JavaScript.
+    - **Numerical mathematics**: Cartesian coordinates, 2D & 3D shapes in planes.</ul>
+
+### 17
+- University of London
+    - **Numerical mathematics**: More on functions, graphs of functions, piecewise functions, composite functions.</ul>
+- [Functions and more Canvas - JavaScript Programming Basics p.2](https://www.youtube.com/watch?v=dxv3k4EIGfc) with sentdex.
+
+### 16
+- University of London
+    - **Numerical mathematics**: Functions, graphs of functions, piecewise functions, composite functions.
+- [Introduction - JavaScript Programming Basics p.1](https://www.youtube.com/watch?v=GRtSc2Mp0WI) with sentdex.
+
+### 15
+- University of London
+    - **Web development**: HTML body.
+- Setting up VirtualBox on Manjaro.
+- Creating wireframes in Adobe XD.
+
+### 14
+- University of London
+    - **Introduction to programming**: drawing more objects in `p5.js`.
+    - **Web development**: HTML markup history, meta tags, open graphs tags, SEO.
+
+### 13
+- University of London
+    - **Introduction to programming**: drawing more objects in `p5.js`.
+- Reconfigure hardware and software on MacOS from scratch with external backup.
+
+### 12
+- University of London
+    - **Web development**: Introduction to HTML.
+
+### 11
+- University of London
+    - **Numerical mathematics**: Series, convergence, divergence.
+    - **Web development**: Basics of HTML wireframes, CSS, PWA (Progressive Web App) & service workers.
+
+### 10
+- University of London
+    - **Numerical mathematics**: Series, convergence, divergence.
+
+### 9
+- University of London
+    - **Numerical mathematics**: Generating random numbers, arithmetic & geometric progressions.
+- [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis/home) on Coursera: Python fundamentals, Pandas.
+
+### 8
+- University of London
+    - **Numerical mathematics**: Arithmetic & geometric progressions, series.
+- [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis/home) on Coursera: Python fundamentals.
+- [Learn Pandas in about 10 minutes! A great python module for Data Science!](https://www.youtube.com/watch?v=iGFdh6_FePU) with Python Programmer.
+
+### 7
+- University of London
+    - **Numerical mathematics**: Arithmetic sequences & partial sums.
+- [Creating Search Over Time Video Graphs - Data Analysis of Google Takeout p.2](https://www.youtube.com/watch?v=msNAEaCTleQ) with sentdex.
+
+### 6
+- University of London
+    - **Numerical mathematics**: Recursive series, finite & infinite series.
+- Configure [Dunst](https://dunst-project.org/).
+- [Building Search Word Database - Data Analysis of Google Tracking Takeout p.1](https://www.youtube.com/watch?v=Siyg1Wn5VDs) with sentdex.
+
+### 5
+- University of London
+    - **Numerical mathematics**: Infinite series, limits.
+- Setting up `Neomake` & `Black` with [Neovim](https://neovim.io/).
+
+### 4
+- Configure [Manjaro i3](https://manjaro.org/download/i3/) from scratch.
+
+### 2
+- Changing *compose key* settings in `.xinitrc`.
+- BIOS settings: TPM (Trusted Platform Module), VT (Virtualization Technology), DEP (Data Execution prevention).
+
+### 1
+- [Android deployment - Kivy Mobile and Desktop App Dev w/ Python](https://www.youtube.com/watch?v=CIW0H70wo0M) with sentdex.
+- [How Password Managers Work](https://www.youtube.com/watch?v=w68BBPDAWr8) with Computerphile.
+
+## April
+### 30
+- [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis/home) on Coursera: Working with dataframes in `Pandas`.
+- [Finishing Chat Application - Kivy Mobile and Desktop App Dev w/ Python](https://www.youtube.com/watch?v=lmWE2bydekk) with sentdex.
+
+### 29
+- [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis/home) on Coursera: Introduction to `Pandas`.
+- How to make vim spell error search the current line only? ([Stackoverflow answer](https://stackoverflow.com/a/55913687/8787680)).
+- [DIY Raspberry Pi Wireless Driveway Gate Opener](https://www.youtube.com/watch?v=ucl1y2uCyhs) with Engineer Man.
+- [Chat Application Page - Kivy Mobile and Desktop App Dev w/ Python](https://www.youtube.com/watch?v=62LSK62Gudc) with sentdex.
+
+### 28
+- University of London
+    - **Numerical mathematics**: simplified RSA algorithm, finding encryption and decryption keys for any *mod*.
+- [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis/home) on Coursera: Introduction to `NumPy`.
+
+### 27
+- University of London
+    - **Numerical mathematics**: Python algorithm to calculate congruence for very large numbers, RSA algorithm, number bases, modular arithmetic, sequences & series.
+- [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis/home) on Coursera: Python fundamentals, introduction to `NumPy`.
+- [Working with pipes in shell scripts - Part 2](https://www.youtube.com/watch?v=w_37upFE-qw) with Luke Smith.
+
+### 26
+- University of London
+    - **Numerical mathematics**: RSA algorithm.
+- [Working with pipes in shell scripts](https://www.youtube.com/watch?v=8E8sUNHdzG8) with Luke Smith.
+- [Scheduling tasks/functions/methods - Kivy Mobile and Desktop App Dev w/ Python](https://www.youtube.com/watch?v=hsnch676Lco) with sentdex.
+- [15 VS Code Extensions For Front-End Developers in 2019](https://www.youtube.com/watch?v=LdF2RcelRg0) with Traversy Media.
+- Configure [VS Code](https://code.visualstudio.com/) to the core.
+- Setting up `Snap` and `Flatpak` packages.
+
+### 25
+- University of London
+    - **Numerical mathematics**: RSA algorithm.
+- [Changing Screen/view/page - Kivy Mobile and Desktop App Dev w/ Python](https://www.youtube.com/watch?v=sJmkhV02lnM) with sentdex.
+
+### 24
+- [Buttons & Events - Kivy Mobile and Desktop App Dev w/ Python](https://www.youtube.com/watch?v=8I2fMqrruwc) with sentdex.
+- [Clarifying the Issues with Mutable Default Arguments](https://www.youtube.com/watch?v=_JGmemuINww) with Corey Schafer.
+
+### 23
+- University of London
+    - **Numerical mathematics**: Sequences and series, linear congruence, modular exponentiation, modular inverses.
+- [Kivy Intro - Mobile and Desktop App Dev w/ Python](https://www.youtube.com/watch?v=FjwD0SOGQ1k) with sentdex.
+
+### 22
+- University of London
+    - **Numerical mathematics**: Linear congruence, modular exponentiation, RSA encryption.
+- Skim through [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/), by Al Sweigart: Reading & writing files.
+- [5 Common Python Mistakes and How to Fix Them](https://www.youtube.com/watch?v=zdJEYhA2AZQ) with Corey Schafer.
+
+### 21
+- University of London
+    - **Numerical mathematics**: Euclidean algorithm, extended Euclidean algorithm, modular inverses.
+- Skim through [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/), by Al Sweigart: Python programming basics, regular expressions.
+
+### 20
+- University of London
+    - **Numerical mathematics**: Euclidean algorithm, extended Euclidean algorithm, modular inverses.
+- Using string formatting to evaluate hexadecimal, binary, decimal and octal versions of a value ([Stackoverflow answer](https://stackoverflow.com/a/55779060/8787680)).
+
+### 19
+- University of London
+    - **Numerical mathematics**: Euclidean algorithm.
+
+### 18
+- University of London
+    - **Numerical mathematics**: Modular arithmetic, number theory, Euclidean algorithm.
+- Configuring [st (simple terminal)](https://st.suckless.org/) and [dmenu](https://tools.suckless.org/dmenu/).
+
+### 17
+- University of London
+    - **Introduction to programming**: `p5.js` with functions, loops & objects.
+- Batch convert and rename images and videos in terminal with `ImageMagick`, `ffmpeg` and `rename`.
+
+### 16
+- University of London
+    - **Numerical mathematics**: Modular arithmetic.
+
+### 15
+- University of London
+    - **Numerical mathematics**: Arithmetic in any base, modular arithmetic, theory of divisibility, theory of congruences.
+- [How I Setup a New Development Machine - Using Scripts to Automate Installs and Save Time](https://www.youtube.com/watch?v=kIdiWut8eD8) with Corey Schafer.
+- [Bjarne Stroustrup: Why I Created C++](https://www.youtube.com/watch?v=JBjjnqG0BP8) with Big Think.
+
+### 14
+- University of London
+    - **Numerical mathematics**: Steganography, arithmetic in hexadecimal and octal.
+
+### 13
+- University of London
+    - **Numerical mathematics**: Octal and hexadecimal.
+- Linking variables from different functions to print them ([Stackoverflow answer](https://stackoverflow.com/a/55661226/8787680)).
+
+### 12
+- University of London
+    - **Numerical mathematics**: Arithmetic in binary.
+
+### 11
+- University of London
+    - **Introduction to programming**: JavaScript objects, conditionals and variable types.
+    - **Web development**: How a web browser works; the importance of design; content, structure & storytelling.
+
+### 10
+- University of London
+    - **Introduction to programming**: built-in variables, JavaScript objects.
+    - **Web development**: Delivering Web content.
+
+### 9
+- University of London
+    - **Introduction to programming**: built-in variables, JavaScript objects.
+    - **Numerical mathematics**: Algorithms for converting binary from/to decimal with fractional part.
+- [How to Write Python Scripts to Analyze JSON APIs and Sort Results](https://www.youtube.com/watch?v=1lxrb_ezP-g) with Corey Schafer.
+
+### 8
+- University of London
+    - **Introduction to programming**: development environment, drawing in 2D.
+    - **Numerical mathematics**: Introduction to number bases and modular arithmetic, number bases, octal and hexadecimal with fractional parts.
+
+### 7
+- University of London
+    - **Web development**: Introduction to the Web.
+- How to fix SyntaxError in a module that gives an error upon import? ([Stackoverflow answer](https://stackoverflow.com/a/55555026/8787680)).
+
+### 6
+- [Creating chat application with sockets in Python](https://www.youtube.com/watch?v=CV7_stUWvBQ) with sentdex.
+- [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) with 3Blue1Brown: Transformation ranks, nonsquare matrices.
+- Import error with Discord bot ([Stackoverflow answer](https://stackoverflow.com/a/55555026/8787680)).
+- Flask Web App Not Rendering on PythonAnywhere ([Stackoverflow answer](https://stackoverflow.com/a/55555437/8787680)).
+
+### 5
+- Python: Checking dead links asynchronously.
+
+### 4
+- Python: Writing to files with asynchronous jobs in queue.
+
+### 3
+- [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) with 3Blue1Brown: Determinant, inverse matrices, column space and null space.
+
+### 2
+- [Essence of Calculus](https://www.youtube.com/watch?v=9vKqVkMQHKk&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) with 3Blue1Brown: Higher order derivatives, Taylor series.
+- [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) with 3Blue1Brown: Vectors, linear combinations, span, basis vectors, linear transformations, matrices, matrix multiplication as composition, three-dimensional transformations.
+- [Linux Nice and Priority values](https://www.youtube.com/watch?v=II2M3rqgCQA) with Engineer Man.
+- [How to use virtual environments with the built-in venv module](https://www.youtube.com/watch?v=Kg1Yvry_Ydk) with Corey Schafer.
+- Setting up `LaTeX` with Vim.
+
+### 1
+- [Essence of Calculus](https://www.youtube.com/watch?v=9vKqVkMQHKk&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) with 3Blue1Brown: Limits, L'Hôpital's rule, fundamental theorem of calculus, areas and slopes.
+
+## March
+### 31
+- Tuples in regular expressions ([Stackoverflow answer](https://stackoverflow.com/a/55438354/8787680)).
+- Managing [GitHub](https://github.com/) organizations.
+- [Essence of Calculus](https://www.youtube.com/watch?v=9vKqVkMQHKk&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) with 3Blue1Brown: Euler's number, implicit differentiation.
+### 30
+- [Essence of Calculus](https://www.youtube.com/watch?v=9vKqVkMQHKk&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) with 3Blue1Brown: Chain rule, product rule.
+- [SQL VIEWS + Complex Queries, Cross Joins, Unions](https://www.youtube.com/watch?v=8jU8SrAPn9c) with Socratica.
+- [Everyday Python Programming — Cryptocurrency stock exchange API](https://www.youtube.com/watch?v=6J4i2wRIbEs) with Engineer Man.
+- Regular expressions in Python with [Google for Education](https://developers.google.com/edu/python/regular-expressions).
+### 29
+- [Essence of Calculus](https://www.youtube.com/watch?v=9vKqVkMQHKk&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) with 3Blue1Brown: Fundamentals of Calculus, derivatives.
+- Merging history in Git.
+- Importing existing GPG keys and setting Git to use them.
+### 28
+- [Python for Everyday Life](https://www.packtpub.com/application-development/python-everyday-life-video): Anatomy of a Web application, MVC frameworks, building and testing a simple website with Flask, working with SQLite in Python, ORMs (Django & SQLAlchemy), designing a bot deployed to Heroku.
+- Reworking history in Git (squash, pick).
+### 27
+- Finished [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone/) on Coursera: AI strategy, pitfalls to avoid, major application areas (computer vision, NLP, speech, robotics, machine learning), major AI techniques (unsupervised learning, transfer learning, reinforcement learning, Generative Adversarial Networks, knowledge graph), AI and society.
+### 26
+- [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone/) on Coursera: What is AI (machine learning, data, terminology, deep learning), building & choosing AI projects, technical tools.
+### 25
+- [10 Python Tips and Tricks For Writing Better Code](https://www.youtube.com/watch?v=C-gEQdGVXbk) with Corey Schafer: Ternary operators, underscores placeholders, string formatting in f-strings placeholders, using context managers, `enumerate` function in loops, `zip` function in loops, value unpacking, getting and setting attributes on objects (`getattr`, `setattr`), inputting sensitive information (`getpass` function), `help` and `dir` function.
+- [SQL Joins Explained](https://www.youtube.com/watch?v=9yeOJ0ZMUYw) with Socratica.
+- [Linux Cron Jobs](https://www.youtube.com/watch?v=QEdHAwHfGPc) with Engineer Man.
+- [Python for Everyday Life](https://www.packtpub.com/application-development/python-everyday-life-video): Interact with httpbin Test Service, fetching data from API, automating Internet tasks (Gmail, Twitter, Reddit).
+- Creating a Discord bot with custom commands.
+- [Matching Brackets](https://www.codeabbey.com/index/task_view/matching-brackets) on Code Abbey.
+### 24
+- Solve [square digit chains](https://projecteuler.net/problem=92), Project Euler.
+- Setting up a webcam on Linux and using it with [Webcamoid](https://webcamoid.github.io/).
+### 23
+- [Python for Everyday Life](https://www.packtpub.com/application-development/python-everyday-life-video): Working with images, parsing QR codes, face recognition, working with APIs.
+- Figuring out delayed requests with API response ([Stackoverflow answer](https://stackoverflow.com/a/55317279/8787680)).
+- Solve [self powers](https://projecteuler.net/problem=48), Project Euler.
+- Solve [powerful digit sum](https://projecteuler.net/problem=56), Project Euler.
+### 22
+- Solve [Champernowne's constant](https://projecteuler.net/problem=40), Project Euler.
+- Solve [Coded triangle numbers](https://projecteuler.net/problem=42), Project Euler.
+- Python: Working with PDF files, processing images with Pillow.
+### 21
+- Certifications on [TestDome](https://www.testdome.com/) ([Python](https://www.testdome.com/cert/999c53f380934d99aa4bda2a9c2a33ec), [Linux](https://www.testdome.com/cert/09e820d68d6f4a0ab28cbdba646d0932), [Numerical Reasoning](https://www.testdome.com/cert/b824f9b10c0c476c88c8dfbaf0495afc)).
+- Python review with [Python for Everyday Life](https://www.packtpub.com/application-development/python-everyday-life-video): Logging, regular expressions, function decorators, context managers, generator expressions & generators, magic methods, metaprogramming, functional programming, pythonic code, manipulation files & folders, handle common file formats.
+### 20
+- Following along [Scrapy tutorial](http://docs.scrapy.org/en/latest/intro/tutorial.html).
+- Modular arithmetic with negative divisors.
+### 19
+- [Sending emails with Python](https://www.youtube.com/watch?v=JRCJ6RtE3xU) (Gmail and local debugging server) with Corey Schafer.
+- Batch convert **.NEF** photos to **.tif** with `mogrify` from [ImageMagick](https://www.imagemagick.org/).
+- Keeping files securely encrypted with [GPG](https://www.gnupg.org/).
+- Creating templates & styles with [Scribus](https://www.scribus.net/).
+### 18
+- Setting a [Discord](https://discordapp.com/) server.
+- Setting up [Slack](https://slack.com/) channels and apps.
+### 17
+- Solve [Circular primes](https://projecteuler.net/problem=35), Project Euler.
+- Solve [Double-base palindromes](https://projecteuler.net/problem=36), Project Euler.
+- Solve [Integer right triangles](https://projecteuler.net/problem=39), Project Euler.
+- Replacing the first word in a string in Python 3 ([Stackoverflow answer](https://stackoverflow.com/a/55213732/8787680)).
+### 16
+- Officially enrolled in [BSc in Computer Science (Machine Learning and Artificial Intelligence)](https://london.ac.uk/courses/computer-science-machine-learning-and-ai) at [Goldsmiths, University of London](https://www.gold.ac.uk/).
+### 15
+- Insertion sort algorithm.
+- URL encoding with `cURL` and `requests`.
+- Scraping a website with `requests_html` ([Stackoverflow answer](https://stackoverflow.com/a/55193557/8787680)).
+- Quickly open files in Vim ([Stackoverflow answer](https://stackoverflow.com/a/55176008/8787680)).
+### 14
+- Sockets Tutorial with Python 3 ([buffering and streaming data](https://www.youtube.com/watch?v=8A4dqoGL62E) & [sending and receiving Python objects with pickle](https://www.youtube.com/watch?v=WM1z8soch0Q)) with sentdex.
+- [PostgreSQL](https://www.youtube.com/watch?v=fZQI7nBu32M), SELECT ([part 1](https://www.youtube.com/watch?v=YufocuHbYZo) & [part 2](https://www.youtube.com/watch?v=PkJKzR_sClM)), [INSERT INTO](https://www.youtube.com/watch?v=VkabxQgtGsA) & [UPDATE](https://www.youtube.com/watch?v=cd-hSl7_pGQ) with Socratica.
+- Solve [Lattice paths](https://projecteuler.net/problem=15), Project Euler.
+### 13
+- Setting up a basic web application with [Pyramid](https://trypyramid.com/).
+- Review [vim-fugitive](https://github.com/tpope/vim-fugitive) features and mappings.
+- Review properties of CSS selectors and hierarchies.
+- Manage caching of CSS files with MD5 hashes.
+- Setting up [CopyQ](https://hluk.github.io/CopyQ/), a *"Clipboard Manager with Advanced Features"*.
+### 12
+- Python scripting: Communicating with [HaveIBeenPwned.com's API](https://haveibeenpwned.com/API/v2) to ensure a password hasn't been breached. [Code available on Github](https://github.com/sglavoie/python-utilities).
+- Solve [Lexicographic permutations](https://projecteuler.net/problem=24), Project Euler.
+- Solve [Number spiral diagonals](https://projecteuler.net/problem=28), Project Euler.
+- Solve [Digit factorials](https://projecteuler.net/problem=34), Project Euler.
+- [Sockets Tutorial with Python 3](https://www.youtube.com/watch?v=Lbfe3-v7yE0) (receiving and sending data) with sentdex.
+- [Web Scraping with Requests-HTML](https://www.youtube.com/watch?v=a6fIbtFB46g) with Corey Schafer.
+### 11
+- [Refactoring Python Applications for Simplicity](https://realpython.com/python-refactoring/), by [Anthony Shaw](https://tonybaloney.github.io/) on [Real Python](https://realpython.com/): Code complexity.
+- Python: Find unique words in text file ([Stackoverflow answer](https://stackoverflow.com/a/55113291/8787680)).
+- [Limiting RAM usage](https://stackoverflow.com/a/41125461/8787680) inside Python script.
+- Solve [Finding the number of factors in a large number](https://projecteuler.net/problem=12), Project Euler.
+### 10
+- Tor network, Tor Browser, onion routes, deep/dark web.
+### 9
+- Read [Learning Python](https://amzn.to/2NTZ0Mg), by Mark Lutz: Core data types, Python statements, assignments, expressions, if tests, syntax rules, ternary expressions, loops.
+### 8
+- Review data structures in Python.
+### 7
+- [Python: Programming Efficiently](https://www.linkedin.com/learning/python-programming-efficiently), on LinkedIn Learning (`jupyter-lab`, list / dict / set comprehension, modules `collections`, `geopy` & `basemap`).
+- [Introduction to ethical hacking](https://www.linkedin.com/learning/ethical-hacking-overview) on LinkedIn Learning.
+- Changing CSS style for [Gitstats](http://gitstats.sourceforge.net/).
+- Solve [Special Pythagorean triplet](https://projecteuler.net/problem=11), Project Euler.
+### 6
+- [Data analysis with Python](https://www.youtube.com/watch?v=DamIIzp41Jg), [Pandas](https://pandas.pydata.org/) and introduction to [scikit-learn](https://scikit-learn.org/) with sentdex.
+- Integrating [Gitstats](http://gitstats.sourceforge.net/) in [Pelican](https://blog.getpelican.com/) website.
+### 5
+- Finished [Mathematics for Computer Science](https://www.coursera.org/learn/mathematics-for-computer-science/) on Coursera.
+- Finished [Mindshift](https://www.coursera.org/learn/learning-how-to-learn/) on Coursera.
+- Review Vim features on [vimcasts.org](http://vimcasts.org/): Long-range line duplication with `:t`, working with arglist & `:argdo`, `:global` with yank, `windo diffthis`, `gn`.
+### 4
+- [Mathematics for Computer Science](https://www.coursera.org/learn/mathematics-for-computer-science/) on Coursera: Transformation of graphs, kinematics equations.
+- [Data analysis with Python](https://www.youtube.com/watch?v=DamIIzp41Jg) and [Pandas](https://pandas.pydata.org/) (visualization, groupby, correlation) with sentdex.
+- [Mindshift](https://www.coursera.org/learn/learning-how-to-learn/) on Coursera: Deliberate practice, reframing experiences, facing adversity, [*π* approach](https://www.futurice.com/blog/from-t-to-pi-design-skill-expectations-in-change/) to learning instead of *T*.
+- [Monitor a website with Python](https://www.youtube.com/watch?v=yqm6MBt-yfY) with Corey Schafer.
+- Retrieving data with [PyGithub](https://github.com/PyGithub/PyGithub).
+### 3
+- [Mathematics for Computer Science](https://www.coursera.org/learn/mathematics-for-computer-science/) on Coursera: Plotting, transformations of graphs.
+- Screencasting/streaming with [ffmpeg](https://www.ffmpeg.org/).
+- [Custom commands with fzf in Linux terminal](https://www.youtube.com/watch?v=vt33Hp-4RXg) with Luke Smith.
+### 2
+- [Mathematics for Computer Science](https://www.coursera.org/learn/mathematics-for-computer-science/) on Coursera: Series & patterns, limits of sequences, convergence and divergence, graph sketching.
+- Redirecting websites hosted on [GitHub Pages](https://pages.github.com/).
+- The Hadwiger–Nelson problem with [Numberphile](https://www.youtube.com/watch?v=niaeV_NHh-o).
+### 1
+- [Mathematics for Computer Science](https://www.coursera.org/learn/mathematics-for-computer-science/) on Coursera: More on geometric progressions with A size papers, series.
+
+## February
+### 28
+- [Mathematics for Computer Science](https://www.coursera.org/learn/mathematics-for-computer-science/) on Coursera: Introduction to sequences and series, modified Josephus problem with any number, geometric progressions on A paper sizes.
+
+### 27
+- [Mathematics for Computer Science](https://www.coursera.org/learn/mathematics-for-computer-science/) on Coursera: Encryption using modular arithmetic, solving [Josephus problem](https://en.wikipedia.org/wiki/Josephus_problem) with bitwise operators.
+- Josephus problem explained by [Numberphile](https://www.youtube.com/watch?v=uCsD3ZGzMgE).
+- Python: [Introduction to data visualization](https://www.youtube.com/watch?v=2TR_6VaVSOs) with [Bokeh](https://bokeh.pydata.org/) with Traversy Media.
+- [Python requests tutorial](https://www.youtube.com/watch?v=tb8gHvYlCFs) with Corey Schafer.
+
+### 26
+- [Mathematics for Computer Science](https://www.coursera.org/learn/mathematics-for-computer-science/) on Coursera: More examples on modular arithmetic.
+
+### 25
+- [Mathematics for Computer Science](https://www.coursera.org/learn/mathematics-for-computer-science/) on Coursera: Congruence & equivalence relations, modular exponentiation.
+- [The future of Cloud Computing](https://www.youtube.com/watch?v=4QTAtFaIiyc) with a16z.
+
+### 24
+- Python: Scope in classes ([Stackoverflow answer](https://stackoverflow.com/a/54853361/8787680)).
+
+### 23
+- [Mathematics for Computer Science](https://www.coursera.org/learn/mathematics-for-computer-science/) on Coursera: Review modular arithmetic concepts.
+
+### 22
+- [Mathematics for Computer Science](https://www.coursera.org/learn/mathematics-for-computer-science/) on Coursera: Modular arithmetic (multiplicative identity & inverses, exponentiation, Fermat's Little Theorem).
+
+### 21
+- [Mathematics for Computer Science](https://www.coursera.org/learn/mathematics-for-computer-science/) on Coursera: Arithmetic in any base, modular arithmetic (additive identity, additive inverses).
+- [The ELO rating system explained](https://www.youtube.com/watch?v=AsYfbmp0To0) by James Grime.
+
+### 20
+- [Mathematics for Computer Science](https://www.coursera.org/learn/mathematics-for-computer-science/) on Coursera: Steganography (hiding text and images inside another image) in binary, hexadecimal and decimal.
+- [Mindshift](https://www.coursera.org/learn/learning-how-to-learn/) on Coursera: Learning environment, memory tips, meditation (focused attention and open monitoring).
+- *10 Days of JavaScript* on [HackerRank.com](https://www.hackerrank.com/): Bitwise operators, signed binary numbers.
+- Refresher on [So Good They Can't Ignore You](https://amzn.to/2ThgwA2), by Cal Newport with [Talks at Google](https://www.youtube.com/watch?v=qwOdU02SE0w).
+
+### 19
+- [Mathematics for Computer Science](https://www.coursera.org/learn/mathematics-for-computer-science/) on Coursera: Arithmetic in binary, working with octal and hexadecimal numbers (integers and fractions).
+- [Mindshift](https://www.coursera.org/learn/learning-how-to-learn/) on Coursera: Ideas on pace and style of learning.
+- *10 Days of JavaScript* on [HackerRank.com](https://www.hackerrank.com/): Template literals, arrow functions.
+
+### 18
+- [Mathematics for Computer Science](https://www.coursera.org/learn/mathematics-for-computer-science/) on Coursera: Review & create algorithms for binary to decimal conversion and vice versa.
+- [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/) on Coursera: Quick review & tips on writing more readable ideas.
+
+### 17
+- Finished [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/) on Coursera.
+- Website optimization with [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/).
+
+### 16
+- [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/) on Coursera: Motivation, overlearning, Einstellung (attitude, mindset), interweaving practice, procrastination, memory.
+
+### 15
+- Started [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/) on Coursera: Focused/diffused thinking, procrastination, memory, sleep, creativity & problem solving, chunking.
+- Manage a website remotely with `rsync` and `SSH`.
+
+### 14
+- Started [Mathematics for Computer Science](https://www.coursera.org/learn/mathematics-for-computer-science/) on Coursera, course offered by Goldsmiths, University of London: Number bases, converting between binary and decimals with fraction, rational and irrational numbers.
+- *10 Days of JavaScript* on [HackerRank.com](https://www.hackerrank.com/): Classes, inheritance.
+
+### 13
+- Finished [How Computers Work](https://www.coursera.org/learn/how-computers-work/) on Coursera, course offered by Goldsmiths, University of London: General concepts on networks, security and web.
+
+### 12
+- [How Computers Work](https://www.coursera.org/learn/how-computers-work/), Coursera: Abstractions, notional machines, application states, modularity.
+- *10 Days of JavaScript* on [HackerRank.com](https://www.hackerrank.com/): Object initializers, dot notation, bracket notation.
+
+### 11
+- Finished *[Introduction to Computer Programming](https://www.coursera.org/learn/introduction-to-computer-programming/)* on Coursera, course offered by Goldsmiths, University of London.
+
+### 10
+- Configure VirtualBox with all major Operating Systems (Windows, Mac, Linux, BSD).
+- [Inkscape](https://inkscape.org/): Convert text to vector paths.
+
+### 9
+- *10 Days of JavaScript* on [HackerRank.com](https://www.hackerrank.com/): Regular expressions, arrays, error handling, creating objects.
+
+### 8
+- Recreate structure of `content/` folder in `output/` with Pelican ([Stackoverflow answer](https://stackoverflow.com/a/54600188/8787680)).
+- Managing submodules with Git.
+
+### 7
+- Set up dotfiles on [GitHub](https://www.github.com/).
+- Configure and use [Z Shell](http://zsh.sourceforge.net/) (Zsh).
+- *10 Days of JavaScript* on [HackerRank.com](https://www.hackerrank.com/): Arithmetic operators, functions, let & const, conditional statements (if-else, switch), strings, loops.
+
+### 6
+- Review SQL commands.
+- Started *10 Days of JavaScript* on [HackerRank.com](https://www.hackerrank.com/).
+
+### 5
+- Git: branches, tags, commit revisions.
+- Review Vim and Qutebrowser shortcuts on [ShortcutFoo](https://www.shortcutfoo.com/).
+
+### 4
+- Learning to use and enjoy [Qutebrowser](https://qutebrowser.org/).
+- Simplifying vector paths in [Inkscape](https://inkscape.org/).
+
+### 3
+- Design a logo with the golden ratio.
+
+### 2
+- Review [Git](https://git-scm.com/) basics.
+
+## January
+### 18
+- *[HarvardX: CS50](https://www.edx.org)*
+- First steps in C (header files, syntax, compiler).
+- Broadcasting events in [Scratch](https://scratch.mit.edu).
+
+### 17
+- *[HarvardX: CS50](https://www.edx.org)*
+- Making a simple game in [Scratch](https://scratch.mit.edu).
+
+### 16
+- Finished the [JavaScript Tutorial course](https://www.sololearn.com/Certificate/1024-6555674/pdf/) on [SoloLearn](https://www.sololearn.com)!
+- JavaScript: Objects, DOM & events, ECMAScript 6.
+- Using embedded terminals in `Neovim`.
+
+### 15
+- JavaScript: Conditional statements, loops and functions.
+
+### 14
+- JavaScript: built-in variables and events.
+
+### 13
+- Creating abstract SVG paths in [Inkscape](https://inkscape.org/).
+- Creating functions in JavaScript with `Processing.js` & `p5.js`.
+
+### 12
+- Finished *Google IT Support Professional* [Certificate](https://www.coursera.org/account/accomplishments/specialization/GYNYSFSVYNAS)!
+- IT Security: Review (application policies, privacy policies, information policies, password policies, security recommendations on mobile & laptop, wireless security, authentication systems, network separation, firewalls, intrusion detection & prevention systems).
+
+### 11
+- *Google IT*
+    - IT Security: Review of security measures.
+
+- Creating collapsible, responsive content in CSS with Bootstrap 4.
+
+### 10
+- *Google IT*
+    - IT Security: Secure network architecture, wireless security, network monitoring, system hardening, application hardening, security model of Chrome OS.
+
+### 9
+- *Google IT*
+    - IT Security: AAA (Authentication, Authorization, Accounting).
+
+### 8
+- *Google IT*
+    - IT Security: Symmetric encryption, asymmetric encryption, hashing, cryptography applications.
+- Standard functions in SQL.
+
+### 7
+- *Google IT*
+    - IT Security: Malicious software, network attacks, other types of attacks.
+- Statistics (Poisson distribution, geometric distribution, binomial distribution).
+
+### 6
+- *Google IT*
+    - System administration consultation (process improvements).
+- Finish reading [Atomic Habits](https://amzn.to/2Y0QGis), by [James Clear](https://jamesclear.com/).
+- Managing duplicates in Python ([Bash History Cleaner](https://github.com/sglavoie/python-utilities/tree/master/bash_history_cleaner)).
+
+### 5
+- *Google IT*
+    - Disaster recovery plans & post-mortems.
+- Statistics (conditional probability).
+
+### 4
+- *Google IT*
+    - Setting a backup server (BackupPC) on Linux. Disaster recovery plans.
+- Bitwise operations (Python).
+
+### 3
+- *Google IT*
+    - Data recovery plans, types of backups.
+- Primality testing algorithm in Python.
+
+### 2
+- *Google IT*
+    - Active Directory (managing users and passwords, group policy), OpenLDAP.
+- Began reading [Atomic Habits](https://jamesclear.com/atomic-habits), by [James Clear](https://jamesclear.com/).
+
+### 1
+- Finish CSS Fundamentals Course on [SoloLearn](https://www.sololearn.com/).
+- Finish SQL Fundamentals Course on [SoloLearn](https://www.sololearn.com/).
 
 ----
 
-<div class="learning-year"><a href="./learning-progress-2018-earlier.html">2018 and earlier</a></div>
+[2018 and earlier](./learning-progress-2018-earlier.html)
