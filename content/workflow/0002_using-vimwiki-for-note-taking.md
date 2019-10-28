@@ -53,8 +53,7 @@ a feature that allows you to move a slider which acts as a timeline
 and shows you a different version of your note since its creation
 with the actual date and time down to the minute for each *restore
 point*. You can also use tags and Markdown and it has options to
-share and collaborate with others. Highly recommended <i class="fas
-fa-grin-alt"></i>!
+share and collaborate with others. Highly recommended!
 - It should have a hefty user base to back it up. This would exclude
 text editor plugins such as `atom-notes` for *Atom* or `VSNotes` for *VS
 Code*, which also lack features for accomplishing all of the above.
@@ -69,8 +68,7 @@ in the comments below!
 \* <sub>I somehow discredited
 **[Emacs](https://www.gnu.org/software/emacs)** simply because I started
 to learn Vim first and since I'm still far from understanding all of
-its features, I had to postpone the discovery of Emacs <i class="fas
-fa-grin-beam"></i>.</sub>
+its features, I had to postpone the discovery of Emacs.</sub>
 
 ### One feature-rich alternative to Vimwiki
 
@@ -104,7 +102,7 @@ class="fab fa-github"></i></a>.
 editor once you get used to it. The learning curve is quite considerable
 and nearly infinite, but this is also why I think it is worth investing
 more time to master it as it has proven to be an everlasting piece of
-trusty software <i class="fas fa-thumbs-up"></i>.
+trusty software.
 
 > There is a feature in Boostnote to set the Editor Keymap to `vim` so
 that you can edit text in a very similar way, but then you miss out on
@@ -159,7 +157,7 @@ distinct. Boostnote has a polished interface, is much easier to use and
 has many settings easily changed. Vim/Neovim, on the contrary, requires
 a lot of initial effort both to understand and to set up according
 to your needs, but it does deliver a good dose of productivity...
-Eventually <i class="fas fa-laugh-beam"></i>!
+Eventually!
 
 An honorable mention goes to Simplenote, which is a joy to use with
 mobile devices and allows for quick synchronization between different

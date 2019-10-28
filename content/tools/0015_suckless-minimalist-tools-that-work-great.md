@@ -18,8 +18,7 @@ There are also other incredible pieces of software that are worth
 mentioning, including [st](https://st.suckless.org/).
 
 Here, I will only go over the tools I use frequently, but keep in mind
-that everything from Suckless... Sucks less
-<i class="fas fa-smile-wink"></i>.
+that everything from Suckless... Sucks less.
 
 ----
 
@@ -144,4 +143,4 @@ Again, its simplicity is charming and nothing really needs to be changed in `con
 
 This was a lighting fast overview of some of the tools I now use on a daily basis. Suckless tools caught my attention and kept it! They offer other specialized software like a web browser, a tool for presentation from the terminal, IRC client and others... but the ones described here are really those which I now can't live without.
 
-I was originally inspired to seek out those tools thanks to [Luke Smith](https://lukesmith.xyz/), a <i class="fab fa-youtube"></i> [fantastic YouTuber](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA) <i class="fas fa-smile-wink"></i>.
+I was originally inspired to seek out those tools thanks to [Luke Smith](https://lukesmith.xyz/), a [fantastic YouTuber](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA).

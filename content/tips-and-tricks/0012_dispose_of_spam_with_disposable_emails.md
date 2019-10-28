@@ -21,7 +21,7 @@ will go ahead and share your email, which can eventually have a
 snowball effect and you end up getting more emails than there are trees
 available to print them. As with printing emails, you must agree this
 is totally irresponsible and should be punished by law
-<i class="fas fa-smile-wink"></i>.
+.
 
 Because attackers can often retrieve your complete name from your
 email address (either because you signed up for a service sharing your
@@ -38,7 +38,7 @@ you that all your files have been encrypted and a ransom, along with
 only unrecognizable files on your system, convincingly dictates what
 your destiny looks like. At this point, _you are doomed_, unless you
 actually take pleasure in formatting your computer once in a while for
-the shear joy of it <i class="fas fa-smile"></i>.
+the shear joy of it.
 
 So what shall we do about it?
 
@@ -92,7 +92,7 @@ If you have created an account on, say, `clouds.com` with your special
 email _created on the fly without ever needing to go to Spamgourmet_,
 let's say it's `clouds.my_username@spamgourmet.com`, if you receive
 spammy content sent to that address six months later, don't look too
-hard: you know who did it <i class="fas fa-smile-wink"></i>.
+hard: you know who did it.
 
 Not only you know this, but you can keep on using this made up email
 for as long as you wish. Need to be in touch with a person who
@@ -111,8 +111,7 @@ visit Spamgourmet and generate an email of your choice that will be
 sending to a specific address email. You will simply send the email to
 this specially generated address from your email account and voilà!
 The person on the other end will have a hard time figuring out your
-real address, except if you added it in your signature
-<i class="fas fa-laugh-beam"></i>.
+real address, except if you added it in your signature.
 
 <a href="{static}/images/posts/0012_dispose-of-spam/spamgourmet_getting_through.png"><img src="{static}/images/posts/0012_dispose-of-spam/spamgourmet_getting_through.png" alt="spamgourmet_getting_through" class="max-size-img-post"></a>
 
@@ -173,7 +172,7 @@ scenario, there is another way...
 This is pretty straightforward and even though you initially have to do
 more work to set things up, this can work very well for various reasons:
 
-1. You get 15GB on each Gmail account. This can be useful, as long as you don't abuse it and get banned for life without the possibility of ever communicating through email ever again in your lifetime <i class="fas fa-smile"></i>.
+1. You get 15GB on each Gmail account. This can be useful, as long as you don't abuse it and get banned for life without the possibility of ever communicating through email ever again in your lifetime.
 
 2. You can apply custom filters such as `send to trash` for each secondary account before forwarding what's left to your main account. You can then apply a filter in your main account to visually get a hint of where the email is coming from, like a label `my.second.email@gmail.com`.
 
@@ -187,4 +186,4 @@ I hope you found something useful in this rambling about spam.
 I don't like spam myself, so if you have any tips or tricks you
 would like to share with me to help in this quest for freedom,
 please reach out to me at my email shared in plain text at
-<a href="mailto:sebastien39571@gmail.com">sebastien39571@gmail.com</a> <i class="fas fa-laugh-beam"></i>.
+<a href="mailto:sebastien39571@gmail.com">sebastien39571@gmail.com</a>.

@@ -39,8 +39,7 @@ like any other page (`hjkl`, `Ctrl + d`, `Ctrl + u`, `gg`, `G`), etc.
 
 Even though it is based on Python which is a "_slow_" language, most of
 the libraries and the web engine rely on C++ and the end result is a
-fast and powerful browser that's totally customizable... Not unlike Vim
-<i class="fas fa-smile-wink"></i>.
+fast and powerful browser that's totally customizable... Not unlike Vim.
 
 #### Minimal interface ⇒ more space
 
@@ -135,4 +134,4 @@ efficiency and/or in trying out alternatives. Because I am very fond
 of relying on the keyboard as much as possible and because I love to
 program in Python, I have grown to like this web browser very quickly.
 This is clearly a tool designed for a specific type of user in mind and
-who knows, you might be one of those <i class="fas fa-smile"></i>.
+who knows, you might be one of those.

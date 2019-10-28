@@ -112,4 +112,4 @@ _teach clearly what you know_, which is what I tried to do
 in the end. By the way, I found the course [Learning How to
 Learn](https://www.coursera.org/learn/learning-how-to-learn/) on
 Coursera to be quite satisfying and I would invite you to have a look if
-that's a topic you're interested in <i class="fas fa-smile"></i>!
+that's a topic you're interested in!

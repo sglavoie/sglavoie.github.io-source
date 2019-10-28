@@ -69,4 +69,4 @@ To keep those tags useful when you update your project, you can map a sequence t
 nnoremap <leader>W :w<CR>:MakeTags<CR>:echo 'ctags have been updated.'<CR>
 ```
 
-And on this note, we're ready to conquer the world <i class="fas fa-smile-wink"></i>.
+And on this note, we're ready to conquer the world.

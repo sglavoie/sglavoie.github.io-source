@@ -8,7 +8,7 @@ Description:  Meet Black, a superb Python code formatter that will automatically
 
 ## What is Black?
 
-From its <i class="fab fa-github-alt"></i> [GitHub repository](https://github.com/python/black):
+From its [GitHub repository](https://github.com/python/black):
 
 > Black is the uncompromising Python code formatter. By using it, you agree to cede control over minutiae of hand-formatting. In return, Black gives you speed, determinism, and freedom from pycodestyle nagging about formatting. You will save time and mental energy for more important matters.
 
@@ -55,18 +55,18 @@ $ black --help
 
 ### Use it with Vim
 
-Using **Black** as part of your workflow in a code editor is where I believe it really shines, because you can see almost in real-time when you make a formatting mistake, which will help down the road in committing less sins <i class="fas fa-smile-wink"></i>.
+Using **Black** as part of your workflow in a code editor is where I believe it really shines, because you can see almost in real-time when you make a formatting mistake, which will help down the road in committing less sins.
 
 Integrating **Black** with Vim or Neovim is quick and painless, adding a simple line in your `.vimrc` or `init.vim` file. You can also proceed to do a manual installation without a plugin manager as explained in the GitHub repository.
 
-With <i class="fab fa-github-alt"></i> [vim-plug](https://github.com/junegunn/vim-plug):
+With [vim-plug](https://github.com/junegunn/vim-plug):
 
 ~~~~{.vim}
 Plug 'python/black'
 ~~~~
 
 
-With <i class="fab fa-github-alt"></i> [Vundle](https://github.com/VundleVim/Vundle.vim):
+With [Vundle](https://github.com/VundleVim/Vundle.vim):
 
 ~~~~{.vim}
 Plugin 'python/black'
@@ -164,4 +164,4 @@ Running **Black**, we will get something that's quite a bit more palatable:
 
 ## Conclusion
 
-I think the results speak for themselves: enforcing a style with a tool like **Black** is definitely useful to avoid arguments about conflicting coding styles. It lets you focus on what matters instead: being productive while providing value to the world <i class="fas fa-smile"></i>.
+I think the results speak for themselves: enforcing a style with a tool like **Black** is definitely useful to avoid arguments about conflicting coding styles. It lets you focus on what matters instead: being productive while providing value to the world.

@@ -27,7 +27,7 @@ API. Both can be obtained as follow in a terminal:
 $ pip install click requests
 ~~~~
 
-And now, the _pièce de résistance_ <i class="fas fa-smile-wink"></i>.
+And now, the _pièce de résistance_.
 
 ~~~~{.python}
 """
@@ -160,11 +160,11 @@ if __name__ == '__main__':
 
 ## Conclusion
 
-If you are familiar with Python <i class="fab fa-python"></i>,
+If you are familiar with Python,
 you can easily make sense of how this little tool works by
 reading its code. You can also have a look at this [repository on
 GitHub](https://github.com/sglavoie/python-utilities/tree/master/haveibe
-enpwnwed_password_checker) <i class="fab fa-github-alt"></i> if you want
+enpwnwed_password_checker) if you want
 to fork it or reuse it any other way you wish. I have personally found
 it much easier to work with [Click](https://github.com/pallets/click)
 instead of `argparse` and `optparse`. I haven't got to try

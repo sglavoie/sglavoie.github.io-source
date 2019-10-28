@@ -8,7 +8,7 @@ Description: Search and, most importantly, finally find what you are looking for
 
 I know people who make such a mess when _not_ organizing their files and
 directories appropriately on their system, they would benefit greatly
-from `fzf` <i class="fas fa-laugh-beam"></i>.
+from `fzf`.
 
 ## What is fzf?
 
@@ -104,7 +104,7 @@ map <C-p> :FZF<cr>
 `fzf` really shines when used with Neovim as it is extremely fast,
 especially when configured with
 [The Silver Searcher](https://github.com/ggreer/the_silver_searcher)
-which deserves its own article <i class="fas fa-smile-wink"></i>. It
+which deserves its own article. It
 integrates with core functionality of Vim and makes it easy to find what
 you are looking for.
 
@@ -148,11 +148,11 @@ plugin and can work much faster on larger codebases.
 ## Conclusion
 
 There is much more that can be done with it and I am barely scratching
-the surface here. Luke Smith shared <i class="fab fa-youtube"></i>
+the surface here. Luke Smith shared
 [a great video](https://www.youtube.com/watch?v=vt33Hp-4RXg) that will
 complement the information from this post nicely with a more technical
 approach. Highly recommended to see more practical ways to use this
-superb piece of software <i class="fas fa-smile"></i>!
+superb piece of software!
 
 [Luke Smith](https://lukesmith.xyz/) also makes a strong point of
 combining `fzf` with [dmenu](https://tools.suckless.org/dmenu/), a tool

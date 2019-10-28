@@ -21,10 +21,10 @@ done on paper, but there must be a better way...
 
 Once again, programming comes in handy! Life is complicated, but there
 are aspects of it that can be solved more easily than previously
-thought when we use the right tools <i class="fas fa-smile"></i>.
+thought when we use the right tools.
 Knowing that this particular situation corresponds to values from
 [Pascal's Triangle](https://en.wikipedia.org/wiki/Pascal%27s_triangle)
-<i class="fab fa-wikipedia-w"></i> might help, but it sure is more fun
+ might help, but it sure is more fun
 to come up with a different solution. Here is how it occurred to me in
 Python:
 
@@ -138,5 +138,4 @@ Clear:
 > A 1% daily improvement leads to a version of yourself that's *37* times better in one year.
 
 If that's not motivating enough to start taking little steps with
-consistency towards your dreams, I don't know what is <i class="fas
-fa-laugh-beam"></i>.
+consistency towards your dreams, I don't know what is.

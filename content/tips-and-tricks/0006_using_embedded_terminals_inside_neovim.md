@@ -62,7 +62,7 @@ selection, a line or a range of lines. I don't personally
 use that feature yet, but I see how useful that can be and
 you can too if you watch this [screencast presented by Drew
 Neil](https://thoughtbot.com/upcase/videos/neovim-sending-commands-to-a-
-terminal-buffer) <i class="fas fa-tv"></i> on
+terminal-buffer) on
 [thoughtbot.com](https://thoughtbot.com).
 
 - If the terminal is opened in `Normal` mode, the cursor and the current
@@ -90,8 +90,7 @@ have found that this behaviour is what I expect pretty much all the
 time because the idea of having a terminal inside a working session
 of Neovim is to work on something related, so it makes sense to close
 everything that's to do with a single project or task when you exit the
-text editor. No need for `CTRL + d` or `exit` anymore <i class="fas
-fa-smile-beam"></i>!
+text editor. No need for `CTRL + d` or `exit` anymore!
 
 ---
 
@@ -134,4 +133,4 @@ This was a quick overview of a feature that I have neglected for some
 time but recently realized how well it integrates with my workflow. You
 can find some more information by typing `:h terminal`. If you already
 use Neovim, it's worth giving it a try! Otherwise, it's worth giving
-[Neovim](https://neovim.io/) a try <i class="fas fa-laugh-wink"></i>.
+[Neovim](https://neovim.io/) a try.

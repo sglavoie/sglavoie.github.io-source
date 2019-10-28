@@ -96,5 +96,4 @@ generated on demand!
 I am always amazed at how easy it can be to automate simple tasks like
 those mentioned above. Programming can be very rewarding regardless of
 initial abilities. Just beyond the most basic stuff, suddenly there is a
-world that opens up to those that stay curious long enough <i class="fas
-fa-smile"></i>.
+world that opens up to those that stay curious long enough.

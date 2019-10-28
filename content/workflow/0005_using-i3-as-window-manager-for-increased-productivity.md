@@ -17,7 +17,7 @@ place.
 
 ### What are desktop environments?
 
-If you are familiar with Linux <i class="fab fa-linux"></i>,
+If you are familiar with Linux,
 you certainly know about desktop environments such as
 [GNOME](https://www.gnome.org/), [KDE](https://www.kde.org/),
 [Xfce](https://www.xfce.org/)... and actually many
@@ -25,8 +25,7 @@ more are available (you can see [this article on
 Wikipedia](https://en.wikipedia.org/wiki/Desktop_environment) <i
 class="fab fa-wikipedia-w"></i> for an extended selection)! The
 classic Graphical User Interface (GUI) on Windows XP was known as
-[Luna](https://en.wikipedia.org/wiki/Luna_(theme)) <i class="fab
-fa-wikipedia-w"></i> and is now called Modern on Windows 10.
+[Luna](https://en.wikipedia.org/wiki/Luna_(theme)) and is now called Modern on Windows 10.
 [Aqua](https://en.wikipedia.org/wiki/Aqua_(user_interface)) <i
 class="fab fa-wikipedia-w"></i> is the name of the GUI on MacOS.
 Well, every desktop environment comes with a window manager, the main
@@ -44,7 +43,7 @@ to open with certain file types.
 automatic mounting of drives when you plug them in, etc.
 - You can enable [virtual
 desktops](https://en.wikipedia.org/wiki/Virtual_desktop)
-<i class="fab fa-wikipedia-w"></i> to split your work
+ to split your work
 across different spaces. This concept can grow to
 _[Activities](https://docs.kde.org/trunk5/en/kde-workspace/plasma-deskto
 p/activities-interface.html)_, which is a feature implemented in KDE
@@ -63,7 +62,7 @@ arranging settings in a common location for all applications.
 
 Even though desktop environments are user-friendly and include many
 goodies, they do have several disadvantages that make window managers
-great alternatives <i class="fas fa-thumbs-up"></i>.
+great alternatives.
 
 #### Less bloated
 
@@ -229,7 +228,7 @@ workspace_layout stacking
 ## Conclusion
 
 I am not trying to convince myself anymore: I really prefer this
-workflow <i class="fas fa-grin-hearts"></i>! If you are looking for a
+workflow! If you are looking for a
 change and would like to maximize both your productivity and your system
 resources, `i3` is a great window manager to consider. It doesn't seem
 very intuitive at first, but I swear it quickly becomes easy to use and

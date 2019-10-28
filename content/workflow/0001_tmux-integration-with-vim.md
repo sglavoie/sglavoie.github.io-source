@@ -120,4 +120,4 @@ alias adev='tmux attach-session -t dev'
 
 The content of this post can be found on
 [GitHub](https://github.com/sglavoie/better-vim-experience#tmux-integrat
-ion) <i class="fab fa-github-alt"></i> .
+ion).
