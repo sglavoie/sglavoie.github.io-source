@@ -19,6 +19,14 @@ in the end.
 ---
 
 ## October
+### 28
+- University of London
+    - **Discrete mathematics**
+        - Review graph of functions.
+        - Partial functions.
+        - [Four Basic Proof Techniques Used in Mathematics](https://www.youtube.com/watch?v=V5tUc-J124s) with patrickJMT (direct, by contradiction, by induction, by contrapositive).
+- **Git** review: Merging branches (fast-forwarding), cherry picking, `git push`, `git pull`, tracking branches, aliases.
+
 ### 27
 - University of London
     - **Discrete mathematics**
@@ -360,7 +368,7 @@ in the end.
 
 - **Neovim**: Using the `dot` command (dot formula).
 - [Comments in Python: Best Practices](https://www.youtube.com/watch?v=0NO3MJkxm2g) with Real Python.
-- <i class="fas fa-history"></i>Equality testing, review JavaScript arrays on [Execute Program](https://www.executeprogram.com).
+-Equality testing, review JavaScript arrays on [Execute Program](https://www.executeprogram.com).
 
 ### 14
 - University of London

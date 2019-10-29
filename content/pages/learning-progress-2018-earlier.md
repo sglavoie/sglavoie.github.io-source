@@ -20,11 +20,11 @@ status: hidden
 
 ### 28
 - *Google IT*
-- Managing resources on cloud services, platform services (servers & databases), directory services, centralized management.
+    - Managing resources on cloud services, platform services (servers & databases), directory services, centralized management.
 
 ### 27
 - *Google IT*
-- Print services, NFS servers, chat communication services (XMPP, IRC, etc.)
+    - Print services, NFS servers, chat communication services (XMPP, IRC, etc.)
 
 - Configure locales on Linux.
 - Using [Joplin](https://joplin.cozic.net) & [Todoist](https://todoist.com/).
@@ -35,68 +35,68 @@ status: hidden
 
 ### 25
 - *Google IT*
-- Physical infrastructure services.
-- Configuring network services.
+    - Physical infrastructure services.
+    - Configuring network services.
 - i3wm setup & configuration.
 
 ### 23
 - *Google IT*
-- IT infrastructure services.
+    - IT infrastructure services.
 - Regular expressions in Python.
 - Working with JSON files in Python.
 
 ### 22
 - *Google IT*
-- System administration & tasks.
+    - System administration & tasks.
 - Regular expressions in Python.
 
 ### 21
 - *Google IT*
-- Operating Systems: Filesystems, Process management, Remote access, Virtualization, Logging.
+    - Operating Systems: Filesystems, Process management, Remote access, Virtualization, Logging.
 
 ### 20
 - *Google IT*
-- Operating Systems: file and text manipulation, users & permissions, package & software management.
+    - Operating Systems: file and text manipulation, users & permissions, package & software management.
 
 ### 19
 - *Google IT*
-- Networking services: VPNs, proxies.
-- Connecting to Internet: Dial-up, broadband, wireless, WANs.
-- Troubleshooting: verifying connectivity, digging into DNS, cloud, IPv6.
-- Operating systems: basic commands (PowerShell & Bash).
+    - Networking services: VPNs, proxies.
+    - Connecting to Internet: Dial-up, broadband, wireless, WANs.
+    - Troubleshooting: verifying connectivity, digging into DNS, cloud, IPv6.
+    - Operating systems: basic commands (PowerShell & Bash).
 
 ### 18
 - *Google IT*
-- Networking services: name resolution, DNS, DHCP, NAT.
+    - Networking services: name resolution, DNS, DHCP, NAT.
 - Implementing linked lists in Python.
 
 ### 17
 - *Google IT*
-- Routing (tables, protocols, addresses).
-- Transport layer, application layer.
+    - Routing (tables, protocols, addresses).
+    - Transport layer, application layer.
 
 ### 16
 - *Google IT*
-- Introduction to Computer Networking: Subnetting.
+    - Introduction to Computer Networking: Subnetting.
 
 ### 15
 - Test Driven Development: Pytest, Unittest, Doctest, test doubles, test coverage.
 
 ### 14
 - *Google IT*
-- Introduction to Computer Networking: TCP/IP five-Layer model, basics of networking devices.
+    - Introduction to Computer Networking: TCP/IP five-Layer model, basics of networking devices.
 
 ### 13
 - *Google IT*
-- Operating System: Installing Windows/Linux/Mac, virtual machines, Chrome OS.
-- Networking: TCP/IP, history, limitations, impact, security, privacy.
-- Software: abstractions, types of software, interacting with software.
-- Troubleshooting: best practices, customer service, documentation & writing effective documentation, technical interview.
+    - Operating System: Installing Windows/Linux/Mac, virtual machines, Chrome OS.
+    - Networking: TCP/IP, history, limitations, impact, security, privacy.
+    - Software: abstractions, types of software, interacting with software.
+    - Troubleshooting: best practices, customer service, documentation & writing effective documentation, technical interview.
 
 ### 12
 - *Google IT*
-- Hardware: CPU & other components, overclocking, BIOS, computer assembly.
-- Operating System: file systems, kernel, logs, user space, boot process.
+    - Hardware: CPU & other components, overclocking, BIOS, computer assembly.
+    - Operating System: file systems, kernel, logs, user space, boot process.
 
 ### 11
 - Add plugins to Pelican (static site generator): plugin `tag_cloud`.
