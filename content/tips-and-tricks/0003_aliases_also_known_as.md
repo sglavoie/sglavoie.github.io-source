@@ -255,5 +255,4 @@ the following patterns in their name: `__pycache__`, `.pyc` or `.pyo`.
 ## Conclusion
 
 I hope you will find at least one alias to improve your productivity.
-Of course, you are welcome to chime in with your own suggestions <i
-class="fas fa-smile-wink"></i> !
+Of course, you are welcome to chime in with your own suggestions!

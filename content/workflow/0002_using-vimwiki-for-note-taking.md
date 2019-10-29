@@ -90,8 +90,7 @@ OneDrive and even your own private cloud
 
 This application left me a great first impression to say the least and I
 will make sure to stay up to date on its active development, which you
-can <a href="https://github.com/laurent22/joplin">follow on GitHub <i
-class="fab fa-github"></i></a>.
+can <a href="https://github.com/laurent22/joplin">follow on GitHub</a>.
 
 ----
 
