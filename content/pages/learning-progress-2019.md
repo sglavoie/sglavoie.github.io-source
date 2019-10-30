@@ -9,16 +9,22 @@ save_as: learning-progress-2019.html
 adventure primarily for the following practical reasons: to
 help me remember what I have supposedly been working on and
 to help me practice a technique that is known as [spaced
-repetition](https://en.wikipedia.org/wiki/Spaced_repetition) <i
-class="fab fa-wikipedia-w"></i>. This is really just a summary to
-motivate myself to keep on track and be reminded as often as possible to
-stay a bit more humble, as it becomes obvious that I don’t know much
-in the end.
-> In the process, I hope you may find some inspiration too.
+repetition](https://en.wikipedia.org/wiki/Spaced_repetition).
+This is really just a summary to motivate myself to keep on track and
+be reminded as often as possible to stay a bit more humble, as it
+becomes obvious that I don’t know much in the end. In the process, I
+hope you may find some inspiration too.
 
 ---
 
 ## October
+### 29
+- University of London
+    - **Discrete mathematics**
+        - Partial functions, function compositions, bijective functions.
+- Configure [ActivityWatch](https://activitywatch.net) with extra watchers.
+- [5 GOLDEN Rules Of MINIMAL Graphic Design](https://www.youtube.com/watch?v=2mO5DiX4ipU) with Satori Graphics.
+
 ### 28
 - University of London
     - **Discrete mathematics**
@@ -41,7 +47,7 @@ in the end.
 - Basics of [Pandoc](https://pandoc.org/) and [Vimtex](https://github.com/lervag/vimtex).
 - [groff/troff: MUH MINIMALIST Documents](https://www.youtube.com/watch?v=w8EKH_fjmXA) with Luke Smith.
 - [The Science of Great UI](https://www.youtube.com/watch?v=nx1tOOc_3fU) with Coding Tech.
-- On [Learn Git Branching](https://learngitbranching.js.org/) Relative refs (`^`/`~`), `reset`, `revert`, `cherry-pick`, interactive rebase, tags, `describe`, `clone`, remote branches, `fetch`, `pull`.
+- On [Learn Git Branching](https://learngitbranching.js.org/): Relative refs (`^`/`~`), `reset`, `revert`, `cherry-pick`, interactive rebase, tags, `describe`, `clone`, remote branches, `fetch`, `pull`.
 
 ### 25
 - University of London
