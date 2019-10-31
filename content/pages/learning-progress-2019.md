@@ -18,6 +18,11 @@ hope you may find some inspiration too.
 ---
 
 ## October
+### 30
+- University of London
+    - **Discrete mathematics**
+        - Bijective functions, logarithmic functions, floor & ceiling functions.
+
 ### 29
 - University of London
     - **Discrete mathematics**
