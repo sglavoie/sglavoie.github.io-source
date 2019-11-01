@@ -5,9 +5,9 @@ Authors: Sébastien Lavoie
 URL: learning-progress-2019.html
 save_as: learning-progress-2019.html
 
-> Learning is an eternal path. I wanted to share my own
-adventure primarily for the following practical reasons: to
-help me remember what I have supposedly been working on and
+> Learning is an eternal path. I wanted to share my own adventure
+primarily for the following practical reasons: to help me remember what
+I have supposedly been working on technology-wise and
 to help me practice a technique that is known as [spaced
 repetition](https://en.wikipedia.org/wiki/Spaced_repetition).
 This is really just a summary to motivate myself to keep on track and
@@ -18,6 +18,16 @@ hope you may find some inspiration too.
 ---
 
 ## October
+### 31
+- University of London
+    - **Discrete mathematics**
+        - Review powerset of a set, set operations, sets representation with Venn diagrams, De Morgan's laws, laws of sets.
+        - Propositional logic, propositions, truth tables, truth sets, compound propositions, logical implication (converse, contrapositive, inverse).
+    - **Introduction to Programming II**
+        - `P5.js` sound: amplitude; frequency, creating a "ridge plots" visualization. `P5.js` data.
+- Review basics of [Flask](https://palletsprojects.com/p/flask/) web framework (routes, templates with Jinja2).
+- Vimwiki: managing tags, creating tables.
+
 ### 30
 - University of London
     - **Discrete mathematics**
