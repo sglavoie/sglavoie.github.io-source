@@ -17,6 +17,14 @@ hope you may find some inspiration too.
 
 ---
 
+## November
+### 1
+- University of London
+    - **Discrete mathematics**
+        - Review powerset of a set, set operations, sets representation with Venn diagrams, De Morgan's laws, laws of sets.
+    - **Introduction to Programming II**
+        - `p5.js` sound: working with frequency bands, `P5.gui`.
+
 ## October
 ### 31
 - University of London
@@ -24,7 +32,7 @@ hope you may find some inspiration too.
         - Review powerset of a set, set operations, sets representation with Venn diagrams, De Morgan's laws, laws of sets.
         - Propositional logic, propositions, truth tables, truth sets, compound propositions, logical implication (converse, contrapositive, inverse).
     - **Introduction to Programming II**
-        - `P5.js` sound: amplitude; frequency, creating a "ridge plots" visualization. `P5.js` data.
+        - `p5.js` sound: amplitude; frequency, creating a "ridge plots" visualization. `p5.js` data.
 - Review basics of [Flask](https://palletsprojects.com/p/flask/) web framework (routes, templates with Jinja2).
 - Vimwiki: managing tags, creating tables.
 
@@ -88,7 +96,7 @@ hope you may find some inspiration too.
         - Logic and proofs (propositional logic), applications of propositional logic, Set theory from scratch.
     - **Introduction to Programming II**
         - Documenting through SRS (software requirements specification), creating Gantt charts specifically for software development.
-        - `P5.js`: Loading and playing a sound.
+        - `p5.js`: Loading and playing a sound.
 
 ### 20
 - University of London
@@ -98,14 +106,14 @@ hope you may find some inspiration too.
 ### 19
 - University of London
     - **Introduction to Programming II**
-        - Study case 2 (music visualizer): `P5.dom` (handling events), anonymous functions.
+        - Study case 2 (music visualizer): `p5.dom` (handling events), anonymous functions.
 
 ### 18
 - University of London
     - **Discrete mathematics**
         - Review aspects of set theory.
     - **Introduction to Programming II**
-        - Study case 2 (music visualizer): Figure out how sound works with Fourier series in `P5.js`.
+        - Study case 2 (music visualizer): Figure out how sound works with Fourier series in `p5.js`.
 
 ### 17
 - University of London
@@ -122,7 +130,7 @@ hope you may find some inspiration too.
 ### 15
 - University of London
     - **Introduction to Programming II**
-        - Study case 1: Drawing application – under the hood, introduction to `P5.dom`, handling events in `P5.dom`.
+        - Study case 1: Drawing application – under the hood, introduction to `p5.dom`, handling events in `p5.dom`.
         - Study case 2: Music visualizer.
         - Asynchronous function calls, using callbacks, debugging skills (breakpoints and stepping), testing for stability, usability testing.
         - Interview with Christophe Rhodes.
