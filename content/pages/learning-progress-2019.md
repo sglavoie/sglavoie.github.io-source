@@ -18,6 +18,14 @@ hope you may find some inspiration too.
 ---
 
 ## November
+### 2
+- University of London
+    - **Introduction to Programming II**
+        - Using `Function.prototype.bind()` instead of `that = this`.
+        - [Software structure](https://www.destroyallsoftware.com/compendium/software-structure) on Destroy All Software.
+- Piping Linux commands like a real plumber.
+
+
 ### 1
 - University of London
     - **Discrete mathematics**
