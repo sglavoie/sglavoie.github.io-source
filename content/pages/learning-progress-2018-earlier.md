@@ -52,7 +52,7 @@ status: hidden
 
 ### 21
 - *Google IT*
-    - Operating Systems: Filesystems, Process management, Remote access, Virtualization, Logging.
+    - Operating Systems: Filesystems; Process management; Remote access; Virtualization; Logging.
 
 ### 20
 - *Google IT*
@@ -60,7 +60,7 @@ status: hidden
 
 ### 19
 - *Google IT*
-    - Networking services: VPNs, proxies.
+    - Networking services: VPNs; proxies.
     - Connecting to Internet: Dial-up, broadband, wireless, WANs.
     - Troubleshooting: verifying connectivity, digging into DNS, cloud, IPv6.
     - Operating systems: basic commands (PowerShell & Bash).
@@ -80,7 +80,7 @@ status: hidden
     - Introduction to Computer Networking: Subnetting.
 
 ### 15
-- Test Driven Development: Pytest, Unittest, Doctest, test doubles, test coverage.
+- Test Driven Development: Pytest; Unittest; Doctest; test doubles; test coverage.
 
 ### 14
 - *Google IT*
@@ -90,7 +90,7 @@ status: hidden
 - *Google IT*
     - Operating System: Installing Windows/Linux/Mac, virtual machines, Chrome OS.
     - Networking: TCP/IP, history, limitations, impact, security, privacy.
-    - Software: abstractions, types of software, interacting with software.
+    - Software: abstractions; types of software; interacting with software.
     - Troubleshooting: best practices, customer service, documentation & writing effective documentation, technical interview.
 
 ### 12

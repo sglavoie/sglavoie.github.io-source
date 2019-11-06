@@ -18,6 +18,20 @@ hope you may find some inspiration too.
 ---
 
 ## November
+### 5
+- University of London
+    - **Algorithms and Data Structures I**
+        - Data structure: Queues; stacks.
+
+### 4
+- University of London
+    - **Algorithms and Data Structures I**
+        - Data structure: vectors.
+- Read [Awesome Command-Line Tools](https://www.vimfromscratch.com/articles/awesome-command-line-tools/) from Vim from Scratch.
+    - Learn about [z](https://github.com/rupa/z), a tool to jump around in the terminal by 'frecency' (frequency & recency).
+    - Learn about [bat](https://github.com/sharkdp/bat), a `cat` with wings.
+- Use [Forgit](https://github.com/wfxr/forgit) (fuzzy finder for Git).
+
 ### 3
 - University of London
     - **Algorithms and Data Structures I**
@@ -155,7 +169,7 @@ hope you may find some inspiration too.
         - Set theory.
     - **Introduction to Programming II**
         - Introducing case study 1: drawing app.
-- [Version Control with Git](https://www.coursera.org/learn/version-control-with-git) on Coursera: Rebasing, rewriting history (amending a commit, interactive rebase), pull requests, Git workflows (centralized, feature branch, forking, Gitflow).
+- [Version Control with Git](https://www.coursera.org/learn/version-control-with-git) on Coursera: Rebasing; rewriting history (amending a commit, interactive rebase); pull requests; Git workflows (centralized, feature branch, forking, Gitflow).
 - [Git MERGE vs REBASE](https://www.youtube.com/watch?v=CRlGDDprdOQ) with Academind.
 - [Git - The STASH Command](https://www.youtube.com/watch?v=DeU6opFU_zw) with Academind.
 - [Git Tutorial: Fixing Common Mistakes and Undoing Bad Commits](https://www.youtube.com/watch?v=FdZecVxzJbk) with Corey Schafer.
@@ -175,7 +189,7 @@ hope you may find some inspiration too.
 ### 11
 - University of London
     - **Discrete mathematics**
-        - Set theory: partition, set operations, set identities, set builder notation.
+        - Set theory: partition; set operations; set identities; set builder notation.
 
 ### 10
 - University of London
@@ -245,7 +259,7 @@ hope you may find some inspiration too.
 - Build and deploy a simple Slack bot in Python to Heroku.
 
 ### 25
-- Pragmatic Programmer: Inheritance, using external configuration in applications, concurrency and parallelism, tips on following instincts and programming deliberately, estimating algorithms speed, refactoring, testing code.
+- Pragmatic Programmer: Inheritance; using external configuration in applications; concurrency and parallelism; tips on following instincts and programming deliberately; estimating algorithms speed; refactoring; testing code.
 - Read article [How to Run and Control Background Processes on Linux](https://www.howtogeek.com/440848/how-to-run-and-control-background-processes-on-linux/) on How To Geek.
 
 ### 24
@@ -260,16 +274,16 @@ hope you may find some inspiration too.
 - Customizing `zsh` better.
 
 ### 20
-- Pragmatic Programmer: Prototyping, domain languages (internal, external languages), estimating, relying on systems with plain text files, using the command shell, making the most of your text editor, using VCS for everything, advice on debugging, manipulating text with dedicated tools and programming languages, how to work with engineering daybooks, killing programs early, when and when not to use assertions, balancing system resources, decoupling code (the one-dot rule of chaining method calls, avoiding global data).
+- Pragmatic Programmer: Prototyping; domain languages (internal, external languages); estimating; relying on systems with plain text files; using the command shell; making the most of your text editor; using VCS for everything; advice on debugging; manipulating text with dedicated tools and programming languages; how to work with engineering daybooks; killing programs early; when and when not to use assertions; balancing system resources; decoupling code (the one-dot rule of chaining method calls, avoiding global data).
 
 ### 19
 - Pragmatic Programmer: Design principles (ETC [easier to change]), DRY [Don't Repeat Yourself]), orthogonality (independence of components), reversibility.
 
 ### 18
-- Git: Merge, rebase, branches.
+- Git: Merge; rebase; branches.
 
 ### 17
-- Git: staging, unstaging, checkout, reset, rebase.
+- Git: staging; unstaging; checkout; reset; rebase.
 
 ### 14
 - University of London
@@ -301,7 +315,7 @@ hope you may find some inspiration too.
 ### 9
 - University of London
     - **Web development**
-        - Review how Bootstrap 4 framework works: setup, typography, alignment, positioning, CSS breakpoints, buttons, nav bars.
+        - Review how Bootstrap 4 framework works: setup; typography; alignment; positioning; CSS breakpoints; buttons; nav bars.
 - Recursion in `p5.js`: [Coding Challenge #77: Recursion](https://www.youtube.com/watch?v=jPsZwrV9ld0).
 
 ### 8
@@ -458,7 +472,7 @@ hope you may find some inspiration too.
 ### 7
 - University of London
     - **Numerical mathematics**: Triple scalar product, cross-product of two vectors.
-- [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) with 3Blue1Brown: determinant, cross products.
+- [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) with 3Blue1Brown: determinant; cross products.
 
 - [Multi Programming](https://www.youtube.com/watch?v=MB0yDMQj1lU) with Computerphile.
 - Equality testing, review JavaScript arrays on [Execute Program](https://www.executeprogram.com).
@@ -601,7 +615,7 @@ hope you may find some inspiration too.
 - University of London
     - **Introduction to programming**: Create a *simple* yet complete game with `p5.js`.
     - **Numerical mathematics**: Introduction to calculus: limits and differentiation, exponential and logarithmic functions.
-        - [Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) with 3Blue1Brown: Introduction, the paradox of the derivative, derivative formulas through geometry.
+        - [Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) with 3Blue1Brown: Introduction; the paradox of the derivative; derivative formulas through geometry.
 
 ### 14
 - University of London
@@ -1152,17 +1166,17 @@ hope you may find some inspiration too.
 - Python: Writing to files with asynchronous jobs in queue.
 
 ### 3
-- [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) with 3Blue1Brown: Determinant, inverse matrices, column space and null space.
+- [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) with 3Blue1Brown: Determinant; inverse matrices; column space and null space.
 
 ### 2
 - [Essence of Calculus](https://www.youtube.com/watch?v=9vKqVkMQHKk&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) with 3Blue1Brown: Higher order derivatives, Taylor series.
-- [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) with 3Blue1Brown: Vectors, linear combinations, span, basis vectors, linear transformations, matrices, matrix multiplication as composition, three-dimensional transformations.
+- [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) with 3Blue1Brown: Vectors; linear combinations; span; basis vectors; linear transformations; matrices; matrix multiplication as composition; three-dimensional transformations.
 - [Linux Nice and Priority values](https://www.youtube.com/watch?v=II2M3rqgCQA) with Engineer Man.
 - [How to use virtual environments with the built-in venv module](https://www.youtube.com/watch?v=Kg1Yvry_Ydk) with Corey Schafer.
 - Setting up `LaTeX` with Vim.
 
 ### 1
-- [Essence of Calculus](https://www.youtube.com/watch?v=9vKqVkMQHKk&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) with 3Blue1Brown: Limits, L'Hôpital's rule, fundamental theorem of calculus, areas and slopes.
+- [Essence of Calculus](https://www.youtube.com/watch?v=9vKqVkMQHKk&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) with 3Blue1Brown: Limits; L'Hôpital's rule; fundamental theorem of calculus; areas and slopes.
 
 ## March
 ### 31
@@ -1277,7 +1291,7 @@ hope you may find some inspiration too.
 - [Monitor a website with Python](https://www.youtube.com/watch?v=yqm6MBt-yfY) with Corey Schafer.
 - Retrieving data with [PyGithub](https://github.com/PyGithub/PyGithub).
 ### 3
-- [Mathematics for Computer Science](https://www.coursera.org/learn/mathematics-for-computer-science/) on Coursera: Plotting, transformations of graphs.
+- [Mathematics for Computer Science](https://www.coursera.org/learn/mathematics-for-computer-science/) on Coursera: Plotting; transformations of graphs.
 - Screencasting/streaming with [ffmpeg](https://www.ffmpeg.org/).
 - [Custom commands with fzf in Linux terminal](https://www.youtube.com/watch?v=vt33Hp-4RXg) with Luke Smith.
 ### 2
@@ -1337,7 +1351,7 @@ hope you may find some inspiration too.
 - Website optimization with [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/).
 
 ### 16
-- [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/) on Coursera: Motivation, overlearning, Einstellung (attitude, mindset), interweaving practice, procrastination, memory.
+- [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/) on Coursera: Motivation; overlearning; Einstellung (attitude, mindset); interweaving practice; procrastination; memory.
 
 ### 15
 - Started [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/) on Coursera: Focused/diffused thinking, procrastination, memory, sleep, creativity & problem solving, chunking.
@@ -1351,7 +1365,7 @@ hope you may find some inspiration too.
 - Finished [How Computers Work](https://www.coursera.org/learn/how-computers-work/) on Coursera, course offered by Goldsmiths, University of London: General concepts on networks, security and web.
 
 ### 12
-- [How Computers Work](https://www.coursera.org/learn/how-computers-work/), Coursera: Abstractions, notional machines, application states, modularity.
+- [How Computers Work](https://www.coursera.org/learn/how-computers-work/), Coursera: Abstractions; notional machines; application states; modularity.
 - *10 Days of JavaScript* on [HackerRank.com](https://www.hackerrank.com/): Object initializers, dot notation, bracket notation.
 
 ### 11
@@ -1378,7 +1392,7 @@ hope you may find some inspiration too.
 - Started *10 Days of JavaScript* on [HackerRank.com](https://www.hackerrank.com/).
 
 ### 5
-- Git: branches, tags, commit revisions.
+- Git: branches; tags; commit revisions.
 - Review Vim and Qutebrowser shortcuts on [ShortcutFoo](https://www.shortcutfoo.com/).
 
 ### 4
@@ -1403,7 +1417,7 @@ hope you may find some inspiration too.
 
 ### 16
 - Finished the [JavaScript Tutorial course](https://www.sololearn.com/Certificate/1024-6555674/pdf/) on [SoloLearn](https://www.sololearn.com)!
-- JavaScript: Objects, DOM & events, ECMAScript 6.
+- JavaScript: Objects; DOM & events; ECMAScript 6.
 - Using embedded terminals in `Neovim`.
 
 ### 15
