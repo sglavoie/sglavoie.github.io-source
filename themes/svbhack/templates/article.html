@@ -1,6 +1,11 @@
 {% extends "base.html" %}
 {% block head %}
-<meta name="keywords" content="{{ article.tags|join(', ')  }}">
+      <meta name="keywords" content="{{ article.tags|join(', ')  }}">
+{% if article.description %}
+
+      <!-- Open graph for social networks -->
+      <meta name="og:title" property="og:title" content="{{article.description}}">
+{% endif %}
 {% endblock %}
 
 {% block title %}&ndash; {{ article.title }}{% endblock %}
