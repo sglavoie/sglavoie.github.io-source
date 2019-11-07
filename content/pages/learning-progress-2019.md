@@ -18,6 +18,15 @@ hope you may find some inspiration too.
 ---
 
 ## November
+### 6
+- University of London
+    - **Discrete mathematics**
+        - Logical implications, logical equivalence, laws of propositional logic.
+    - **Algorithms and Data Structures I**
+        - Using stacks to check for palindromes, dynamic sets (stack, queue).
+- Review how to use `crontab` to schedule tasks with Bash and Python scripts.
+
+
 ### 5
 - University of London
     - **Algorithms and Data Structures I**
