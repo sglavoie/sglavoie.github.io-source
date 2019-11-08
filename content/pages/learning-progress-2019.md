@@ -18,6 +18,13 @@ hope you may find some inspiration too.
 ---
 
 ## November
+### 7
+- University of London
+    - **Discrete mathematics**
+        - Review logical implications, logical equivalence, laws of propositional logic.
+    - **Algorithms and Data Structures I**
+        - Queues, deques, linked lists.
+
 ### 6
 - University of London
     - **Discrete mathematics**
