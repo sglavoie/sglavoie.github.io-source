@@ -1,7 +1,7 @@
 Title: Using i3 as a Window Manager for Increased Productivity
 Date: 2019-01-08 11:12
 Modified: 2019-02-12 11:51
-Tags: productivity, window-manager
+Tags: linux, productivity, window-manager
 Slug: using-i3-as-a-window-manager-for-increased-productivity
 Authors: Sébastien Lavoie
 Summary: I was striving to improve my productivity as one of my New Year's resolutions and finally found the courage to take the time to try out i3, a fantastic window manager.

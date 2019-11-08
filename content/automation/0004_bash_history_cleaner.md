@@ -1,7 +1,7 @@
 Title: Bash History Cleaner
 Date: 2018-12-23 19:35
 Modified: 2019-01-06 14:37
-Tags: bash, python, regex, script, terminal
+Tags: bash, linux, python, regex, script, terminal
 Slug: bash-history-cleaner
 Authors: Sébastien Lavoie
 Summary: If you ever wanted to automatically clean your Bash history file, here is a working solution written in Python that uses regular expressions to set any kind of pattern you might be looking for.
