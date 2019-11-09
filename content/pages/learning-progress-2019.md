@@ -6,8 +6,8 @@ URL: learning-progress-2019.html
 save_as: learning-progress-2019.html
 
 > Learning is an eternal path. I wanted to share my own adventure
-primarily for the following practical reasons: to help me remember what
-I have supposedly been working on technology-wise and
+primarily for the following practical reasons: to help me remember
+what I have supposedly been working on technology-wise and
 to help me practice a technique that is known as [spaced
 repetition](https://en.wikipedia.org/wiki/Spaced_repetition).
 This is really just a summary to motivate myself to keep on track and
@@ -18,6 +18,14 @@ hope you may find some inspiration too.
 ---
 
 ## November
+### 8
+- University of London
+    - **Discrete mathematics**
+        - Review logical implications, logical equivalence, laws of propositional logic.
+        - Predicate logic, quantification (universal, existential, uniqueness quantifiers), nested quantifiers.
+    - **Algorithms and Data Structures I**
+        - Linear abstract data structures (stacks, queues, vectors, arrays, dynamic arrays).
+
 ### 7
 - University of London
     - **Discrete mathematics**
@@ -32,7 +40,6 @@ hope you may find some inspiration too.
     - **Algorithms and Data Structures I**
         - Using stacks to check for palindromes, dynamic sets (stack, queue).
 - Review how to use `crontab` to schedule tasks with Bash and Python scripts.
-
 
 ### 5
 - University of London
