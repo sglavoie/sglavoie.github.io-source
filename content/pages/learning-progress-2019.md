@@ -18,6 +18,13 @@ hope you may find some inspiration too.
 ---
 
 ## November
+### 9
+- University of London
+    - **Discrete mathematics**
+        - Definition of predicates, quantifiers, logical operators and nested quantifiers.
+    - **Algorithms and Data Structures I**
+        - Linear search algorithm, searching stacks and queues.
+
 ### 8
 - University of London
     - **Discrete mathematics**
