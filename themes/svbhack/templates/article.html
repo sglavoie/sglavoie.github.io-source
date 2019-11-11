@@ -25,6 +25,11 @@
   </div>
   <div class="article_meta">
     <p>Posted on: {{ article.locale_date }}</p>
+    {% if article.modified %}
+     <time class="modified" datetime="{{ article.modified.isoformat() }}">
+      Modified on: {{ article.locale_modified }}
+    </time>
+    {% endif %}
     <p>Category: <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
       {% if article.tags %} &ndash; Tags:
       {% for tag in article.tags %}
