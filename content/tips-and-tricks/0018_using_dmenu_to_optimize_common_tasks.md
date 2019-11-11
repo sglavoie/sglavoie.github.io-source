@@ -1,5 +1,6 @@
 Title: Using dmenu to Optimize Common Tasks
 Date: 2019-11-10 9:02
+Modified: 2019-11-11 10:56
 Slug: using-dmenu-to-optimize-common-tasks
 Tags: bash, dmenu, i3, linux, productivity, script
 Authors: Sébastien Lavoie
@@ -119,11 +120,13 @@ So, how does that all work? As a starting point, all of those menus are launched
 
 Let's take the cheat sheets example, which is a bit more interesting since it launches different applications.
 
+---
+
 ## Setting Up a Custom Command
 ### Configuration for i3 (bind a keyboard shortcut)
 Here, I'm using [i3](https://i3wm.org) to set a keyboard shortcut to run a specific command, but this will be a similar experience on other window managers and desktop environments.
 
-```text
+```bash
 # i3config file
 # The backslash at the end of the line allows us
 # to split the line to increase readability
@@ -131,7 +134,7 @@ Here, I'm using [i3](https://i3wm.org) to set a keyboard shortcut to run a speci
 ## Cheatsheets
 
 bindsym $mod+Mod1+c exec --no-startup-id \
-cat ~/.custom/dmenu/cheatsheets.conf \
+cat path/to/cheatsheets.conf \
 | dmenu -l 30 | sed 's/.*    \+//' | sh
 ```
 
@@ -141,7 +144,7 @@ You would usually be able to launch a custom command from your environment throu
 #!/bin/bash
 
 ## Cheatsheets
-cat ~/.custom/dmenu/cheatsheets.conf \
+cat path/to/cheatsheets.conf \
 | dmenu -l 30 | sed 's/.*    \+//' | sh
 ```
 
@@ -149,27 +152,27 @@ As far as **i3** is concerned, that's all you need to do. You would need to relo
 
 ### Configuration for cheatsheets.conf
 The content of this file is literally what will be shown when **dmenu** opens it. An excerpt:
-```
+```text
 #---------- Cheat Sheets -------------------------------------------------------
-bash          st -e nvim ~/Dropbox/Programming/cheatsheets/bash.sh
-git           zathura ~/Dropbox/Programming/cheatsheets/github-git.pdf
-vimwiki       firefox ~/Dropbox/Programming/cheatsheets/vimwiki.html
+bash         st -e nvim path/to/bash.sh
+git          zathura path/to/github.pdf
+vimwiki      firefox path/to/vimwiki.html
 ```
 
 Here, we have set a maximum of **30** lines to be displayed (`-l 30`). What follows after an element has been selected with **dmenu** allows us to parse the content of the line and retrieve only the command we are interested in with `sed` before passing that filtered content around to `sh` to execute it as a shell command. With more complex commands requiring multiples arguments to be received, we could add one more pipe between `sed` and `sh` like this (or with `xargs -I {}` to avoid problems with spaces):
 ```bash
-cat ~/.custom/dmenu/cheatsheets.conf \
+cat path/to/cheatsheets.conf \
 | dmenu -l 30 | sed 's/.*    \+//' | xargs -r | sh
 ```
 
 If the line we want to run only includes a path to a file as in:
 ```text
-myshortcut       ~/path/to/a/file.pdf
+myshortcut      path/to/file.pdf
 ```
 
 We could instead pipe it into an external command of choice if the same program applies to all items presented in the menu, say Firefox:
 ```bash
-cat ~/.custom/dmenu/pdf-and-docs.conf \
+cat path/to/file.conf \
 | dmenu -l 30 | sed 's/.*    \+//' | xargs -I {} firefox "{}"
 ```
 
@@ -177,13 +180,13 @@ What's nice with the way pipes work in a Unix-like system is that we can chain h
 
 #### Pipe 1
 ```bash
-cat ~/.custom/dmenu/cheatsheets.conf \
+cat path/to/cheatsheets.conf \
 | dmenu -l 30
 ```
 
 If you remember from the menu we saw earlier, there's a shortcut to open a cheat sheet for Git. Let's say we selected that one with **dmenu**. Because our command isn't doing anything with the result, it will be outputted to the terminal like so (just like in the excerpt of `cheatsheets.conf`):
 ```bash
-git           zathura ~/Dropbox/Programming/cheatsheets/github-git.pdf
+git      zathura path/to/github.pdf
 ```
 
 What `sed` does here is to cut everything from the beginning of the line up to where the command starts (that's where we find [zathura](https://pwmt.org/projects/zathura/), which is a powerful document viewer), because we need to isolate that part of the line so it looks like a shell command we could run on its own. Let's add a new pipe to our command and see what `sed` does with it\*.
@@ -193,12 +196,12 @@ What `sed` does here is to cut everything from the beginning of the line up to w
 
 #### Pipe 2
 ```bash
-cat ~/.custom/dmenu/cheatsheets.conf \
+cat path/to/cheatsheets.conf \
 | dmenu -l 30 | sed 's/.*    \+//'
 ```
 If we select the same item as before with **dmenu** to illustrate more clearly what this new addition does, we will get this output:
 ```bash
-zathura ~/Dropbox/Programming/cheatsheets/github-git.pdf
+zathura path/to/github.pdf
 ```
 
 If we were to type this in the terminal (assuming the file exists and **zathura** is installed!), that would do the trick and it would open with the specified document viewer. **Pipe 2** and subsequent pipes before we execute something is where the filtering magic happen. In short:
@@ -211,22 +214,24 @@ Once we are visually satisfied with how our command is supposed to look like (it
 
 #### Pipe 3
 ```bash
-cat ~/.custom/dmenu/cheatsheets.conf \
+cat path/to/cheatsheets.conf \
 | dmenu -l 30 | sed 's/.*    \+//' | sh
 ```
 
 There we go, the command is launched. If we keep the same simple syntax in all of our `.conf` files —or whatever extension we choose— where the content of our menus is stored in plain text, we can quickly and painlessly create keyboard shortcuts to run custom lists of commands that can be edited on the fly. Once our shortcuts are active, it's only a matter of editing one of those `.conf` files and automatically our lists will be up-to-date when we trigger the shortcut again.
 
+---
+
 ## Running a Custom Script
 If we want to run custom scripts, we need to indicate a command that would work in the terminal, such as `python myscrypt.py` or `./myscript.sh`. When it comes to shell scripts, we have to make sure they are executable. We can do so through a file manager or within the terminal like this:
 ```bash
-chmod +x ~/path/to/script.sh
+chmod +x path/to/script.sh
 ```
 
 This will add the necessary permissions for the user to execute the script. As we already know, we would then need to add a keyboard shortcut to launch our custom menu and store our command in a file like `scripts.conf` that would contain the following:
-```bash
+```text
 #---------- scripts.conf -------------------------------------------------------
-myscript           ~/scripts/script.sh
+myscript      script.sh
 ```
 
 And that's all there is to know to get piping with `dmenu`! You may also find [this video from Luke Smith](https://www.youtube.com/watch?v=8E8sUNHdzG8) on YouTube to be quite helpful as well, which is where the inspiration for this post came from. He also [posted a complementary video](https://www.youtube.com/watch?v=R9m723tAurA) about adding prompts to your commands which is a nice way to add interactivity to your scripts!
@@ -235,32 +240,34 @@ And that's all there is to know to get piping with `dmenu`! You may also find [t
 
 # Customize the Look of dmenu
 As they say, _"beauty is in the eye of the beholder"_. If you would rather make some changes to how dmenu look, you can. **dmenu** will be searching for the configuration file located at `~/.dmenurc`, which could contain something as put below (with this configuration, it will look like the screenshots shown previously):
-```text
+```bash
 #
 # ~/.dmenurc
 #
 
-## define the font for dmenu to be used
+# define the font for dmenu to be used
 DMENU_FN="NotoSans-10.5"
 
-## background colour for unselected menu-items
+# background colour for unselected menu-items
 DMENU_NB="#161925"
 
-## textcolour for unselected menu-items
+# textcolour for unselected menu-items
 DMENU_NF="#fdfffc"
 
-## background colour for selected menu-items
+# background colour for selected menu-items
 DMENU_SB="#235789"
 
-## textcolour for selected menu-items
+# textcolour for selected menu-items
 DMENU_SF="#fdfffc"
 
-## command for the terminal application to be used:
+# command for the terminal application to be used:
 TERMINAL_CMD="st -e"
 
-## export our variables
+# export our variables
 DMENU_OPTIONS="-fn $DMENU_FN -nb $DMENU_NB -nf $DMENU_NF -sf $DMENU_SF -sb $DMENU_SB"
 ```
+
+---
 
 # Conclusion
 Hopefully this introduction to what **dmenu** has to offer gave you some ideas. I hope you'll find many ways to adapt the examples so you can benefit from this amazing tool. You can find more configuration details in my [dotfiles on GitHub](https://github.com/sglavoie/dotfiles/tree/master/config) for anything related to **i3**, **dmenu**, **zathura**, **st**, **slock** and many more useful programs.
