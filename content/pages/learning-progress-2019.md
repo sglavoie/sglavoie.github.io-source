@@ -18,6 +18,20 @@ hope you may find some inspiration too.
 ---
 
 ## November
+### 11
+- University of London
+    - **Discrete mathematics**
+        - Predicates and quantifiers, De Morgan's law for quantifiers.
+    - **Algorithms and Data Structures I**
+        - Implementing stacks and queues with linked lists, bubble sort.
+    - **Introduction to Programming II**
+        - Producing high-quality Gantt charts.
+
+### 10
+- University of London
+    - **Algorithms and Data Structures I**
+        - Linked lists.
+
 ### 9
 - University of London
     - **Discrete mathematics**
