@@ -18,6 +18,13 @@ hope you may find some inspiration too.
 ---
 
 ## November
+### 12
+- University of London
+    - **Discrete mathematics**
+        - De Morgan's law for quantifiers, rules of inference with/without quantifiers.
+    - **Algorithms and Data Structures I**
+        - Review discretisation, Euclidean algorithm, birthday party problem, vectors, queues, stacks, arrays.
+
 ### 11
 - University of London
     - **Discrete mathematics**
