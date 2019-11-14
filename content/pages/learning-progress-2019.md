@@ -18,6 +18,16 @@ hope you may find some inspiration too.
 ---
 
 ## November
+### 13
+- University of London
+    - **Discrete mathematics**
+        - Review: logical equivalences; predicates & quantifiers; De Morgan’s laws; rules of inference with/without quantifiers.
+    - **Algorithms and Data Structures I**
+        - Review: dynamic arrays, linear search algorithm, searching stacks and queues.
+    - **Introduction to Programming II**
+        - `IntersectionObserver` in JavaScript at [CSS-Trick](https://css-tricks.com/an-explanation-of-how-the-intersection-observer-watches).
+        - Read about [JavaScript Best Practices](https://www.w3schools.com/js/js_best_practices.asp).
+
 ### 12
 - University of London
     - **Discrete mathematics**
