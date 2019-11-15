@@ -18,22 +18,30 @@ hope you may find some inspiration too.
 ---
 
 ## November
+### 14
+- University of London
+    - **Discrete mathematics**
+        - Review: laws of propositional logic; predicate logic; predicates; quantification; nested quantifiers; De Morgan's laws for quantifiers; rules of inference with/without quantifiers.
+    - **Algorithms and Data Structures I**
+        - Review: Linked lists.
+        - Bubble sort on a stack.
+
 ### 13
 - University of London
     - **Discrete mathematics**
         - Review: logical equivalences; predicates & quantifiers; De Morgan’s laws; rules of inference with/without quantifiers.
     - **Algorithms and Data Structures I**
-        - Review: dynamic arrays, linear search algorithm, searching stacks and queues.
+        - Review: dynamic arrays; linear search algorithm; searching stacks and queues.
     - **Introduction to Programming II**
         - `IntersectionObserver` in JavaScript at [CSS-Trick](https://css-tricks.com/an-explanation-of-how-the-intersection-observer-watches).
-        - Read about [JavaScript Best Practices](https://www.w3schools.com/js/js_best_practices.asp).
+        - Read about [JavaScript Best Practices](https://www.w3schools.com/js/js_best_practices.asp) at W3Schools.
 
 ### 12
 - University of London
     - **Discrete mathematics**
         - De Morgan's law for quantifiers, rules of inference with/without quantifiers.
     - **Algorithms and Data Structures I**
-        - Review discretisation, Euclidean algorithm, birthday party problem, vectors, queues, stacks, arrays.
+        - Review: discretisation; Euclidean algorithm; birthday party problem; vectors; queues; stacks; arrays.
 
 ### 11
 - University of London
@@ -59,7 +67,7 @@ hope you may find some inspiration too.
 ### 8
 - University of London
     - **Discrete mathematics**
-        - Review logical implications, logical equivalence, laws of propositional logic.
+        - Review: logical implications; logical equivalence; laws of propositional logic.
         - Predicate logic, quantification (universal, existential, uniqueness quantifiers), nested quantifiers.
     - **Algorithms and Data Structures I**
         - Linear abstract data structures (stacks, queues, vectors, arrays, dynamic arrays).
@@ -67,7 +75,7 @@ hope you may find some inspiration too.
 ### 7
 - University of London
     - **Discrete mathematics**
-        - Review logical implications, logical equivalence, laws of propositional logic.
+        - Review: logical implications; logical equivalence; laws of propositional logic.
     - **Algorithms and Data Structures I**
         - Queues, deques, linked lists.
 
@@ -110,7 +118,7 @@ hope you may find some inspiration too.
 ### 1
 - University of London
     - **Discrete mathematics**
-        - Review powerset of a set, set operations, sets representation with Venn diagrams, De Morgan's laws, laws of sets.
+        - Review: powerset of a set; set operations; sets representation with Venn diagrams; De Morgan's laws; laws of sets.
     - **Introduction to Programming II**
         - `p5.js` sound: working with frequency bands, `P5.gui`.
 
@@ -118,7 +126,7 @@ hope you may find some inspiration too.
 ### 31
 - University of London
     - **Discrete mathematics**
-        - Review powerset of a set, set operations, sets representation with Venn diagrams, De Morgan's laws, laws of sets.
+        - Review: powerset of a set; set operations; sets representation with Venn diagrams; De Morgan's laws; laws of sets.
         - Propositional logic, propositions, truth tables, truth sets, compound propositions, logical implication (converse, contrapositive, inverse).
     - **Introduction to Programming II**
         - `p5.js` sound: amplitude; frequency, creating a "ridge plots" visualization. `p5.js` data.
