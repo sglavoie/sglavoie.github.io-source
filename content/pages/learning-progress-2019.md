@@ -18,6 +18,20 @@ hope you may find some inspiration too.
 ---
 
 ## November
+### 16
+- University of London
+    - **Discrete mathematics**
+        - Review: De Morgan's laws for quantifiers; rules of inference.
+        - Boolean algebra, postulates of Boolean algebra, Boolean functions.
+    - **Algorithms and Data Structures I**
+        - Insertion sort algorithm, loops in JavaScript, bubble sort in JavaScript.
+
+### 15
+- University of London
+    - **Discrete mathematics**
+        - Review: De Morgan's laws for quantifiers; rules of inference.
+        - Propositional satisfiability.
+
 ### 14
 - University of London
     - **Discrete mathematics**
