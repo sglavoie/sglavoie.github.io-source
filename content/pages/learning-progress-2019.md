@@ -18,6 +18,12 @@ hope you may find some inspiration too.
 ---
 
 ## November
+### 17
+- University of London
+    - **Introduction to Programming II**
+        - Software architecture patterns.
+        - **SOLID** principle (Single Responsibility, Open Closed, Liskov substitution, Interface Segregation and Dependency Inversion Principles).
+
 ### 16
 - University of London
     - **Discrete mathematics**
