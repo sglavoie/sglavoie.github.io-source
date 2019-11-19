@@ -18,6 +18,13 @@ hope you may find some inspiration too.
 ---
 
 ## November
+### 18
+- University of London
+    - **Discrete mathematics**
+        - Boolean expressions, Boolean functions, identities of Boolean algebra, duality.
+    - **Algorithms and Data Structures I**
+        - Introduction to `Node.js`, `insertionSort` algorithm in JavaScript.
+
 ### 17
 - University of London
     - **Introduction to Programming II**
