@@ -18,12 +18,18 @@ hope you may find some inspiration too.
 ---
 
 ## November
+### 19
+- University of London
+    - **Algorithms and Data Structures I**
+        - Review: elementary data structures; bubble sort & insertion sort.
+        - [Linked lists](https://www.youtube.com/watch?v=njTh_OwMljA) (HackerRank), [Arrays vs Linked lists](https://www.youtube.com/watch?v=DyG9S9nAlUM) (Computerphile), [Linked lists](https://www.youtube.com/watch?v=_jQhALI4ujg) (Computerphile).
+
 ### 18
 - University of London
     - **Discrete mathematics**
         - Boolean expressions, Boolean functions, identities of Boolean algebra, duality.
     - **Algorithms and Data Structures I**
-        - Introduction to `Node.js`, `insertionSort` algorithm in JavaScript.
+        - Introduction to `Node.js`, insertion sort algorithm in JavaScript.
 
 ### 17
 - University of London
