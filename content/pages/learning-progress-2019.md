@@ -18,6 +18,13 @@ hope you may find some inspiration too.
 ---
 
 ## November
+### 20
+- University of London
+    - **Algorithms and Data Structures I**
+        - Review: bubble sort & insertion sort, loops in JavaScript.
+    - **Discrete mathematics**
+        - Functional completeness in Boolean algebra, [Logic gates](https://www.youtube.com/watch?v=RhS-AL2ZcyE) with The Organic Chemistry Tutor.
+
 ### 19
 - University of London
     - **Algorithms and Data Structures I**
