@@ -18,6 +18,13 @@ hope you may find some inspiration too.
 ---
 
 ## November
+### 21
+- University of London
+    - **Discrete mathematics**
+        - Finish watching [Logic gates](https://www.youtube.com/watch?v=RhS-AL2ZcyE) with The Organic Chemistry Tutor.
+    - **Algorithms and Data Structures I**
+        - Review: loops in JavaScript, bubble sort in JavaScript.
+
 ### 20
 - University of London
     - **Algorithms and Data Structures I**
