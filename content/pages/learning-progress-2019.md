@@ -18,6 +18,16 @@ hope you may find some inspiration too.
 ---
 
 ## November
+### 22
+- University of London
+    - **Discrete mathematics**
+        - Review: Operations in Boolean algebra.
+        - [Introduction to Karnaugh Maps](https://www.youtube.com/watch?v=RO5alU6PpSU) with The Organic Chemistry Tutor.
+        - [Boolean Logic & Logic Gates](https://www.youtube.com/watch?v=gI-qXk7XojA) with Crash Course Computer Science.
+    - **Introduction to Programming II**
+        - Finish [JavaScript: Getting Started](https://app.pluralsight.com/library/courses/javascript-getting-started) course at Pluralsight (introduction, types, arrays, program flow, functions, objects, programming for web pages).
+        - [JavaScript Fundamentals](https://app.pluralsight.com/library/courses/javascript-fundamentals) course at Pluralsight (language features, operators, functions, objects and arrays, classes and modules).
+
 ### 21
 - University of London
     - **Discrete mathematics**
