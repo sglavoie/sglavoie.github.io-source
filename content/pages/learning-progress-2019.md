@@ -12,12 +12,19 @@ to help me practice a technique that is known as [spaced
 repetition](https://en.wikipedia.org/wiki/Spaced_repetition).
 This is really just a summary to motivate myself to keep on track and
 be reminded as often as possible to stay a bit more humble, as it
-becomes obvious that I don’t know much in the end. In the process, I
+becomes obvious that I don't know much in the end. In the process, I
 hope you may find some inspiration too.
 
 ---
 
 ## November
+### 23
+- University of London
+    - **Introduction to Programming II**
+        - Finish [JavaScript Fundamentals](https://app.pluralsight.com/library/courses/javascript-fundamentals) course at Pluralsight (programming the BOM and DOM, promises & error handling, data access using HTTP, forms, security and building for production).
+        - Finish [JavaScript Objects and Prototypes](https://app.pluralsight.com/library/courses/javascript-objects-prototypes) course at Pluralsight (creating JavaScript objects, object properties, prototypes and inheritance).
+        - [Practical Design Patterns in JavaScript](https://app.pluralsight.com/library/courses/javascript-practical-design-patterns) course at Pluralsight (what design patterns are, objects, creational design patterns, structural design patterns, behavioral patterns).
+
 ### 22
 - University of London
     - **Discrete mathematics**
