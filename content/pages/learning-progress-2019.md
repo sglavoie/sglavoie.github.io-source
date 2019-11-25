@@ -18,6 +18,13 @@ hope you may find some inspiration too.
 ---
 
 ## November
+### 24
+- University of London
+    - **Introduction to Programming II**
+        - Finish [Practical Design Patterns in JavaScript](https://app.pluralsight.com/library/courses/javascript-practical-design-patterns) course at Pluralsight (mediator pattern, command pattern).
+        - Finish [JavaScript Best Pratices](https://app.pluralsight.com/library/courses/javascript-best-practices) course at Pluralsight (why best practices, syntax, behaviors, async patterns, production code).
+        - Finish [Mastering Git](https://app.pluralsight.com/library/courses/mastering-git) course at Pluralsight (workflows, reset, stash, solving conflicts, working with history, fixing mistakes).
+
 ### 23
 - University of London
     - **Introduction to Programming II**
