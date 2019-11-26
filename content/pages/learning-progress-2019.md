@@ -18,6 +18,11 @@ hope you may find some inspiration too.
 ---
 
 ## November
+### 25
+- University of London
+    - **Discrete mathematics**
+        - Review: Morgan's laws in Boolean algebra, modular properties in Boolean algebra, laws of Boolean algebra, Karnaugh maps.
+
 ### 24
 - University of London
     - **Introduction to Programming II**
