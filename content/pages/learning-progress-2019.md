@@ -18,6 +18,13 @@ hope you may find some inspiration too.
 ---
 
 ## November
+### 26
+- University of London
+    - **Discrete mathematics**
+        - Review: Karnaugh maps, De Morgan's Theorem, logic gates, combinational circuits, simplification of circuits, Boolean algebra, adders.
+    - **Algorithms and Data Structures I**
+        - Random-access machines.
+
 ### 25
 - University of London
     - **Discrete mathematics**
