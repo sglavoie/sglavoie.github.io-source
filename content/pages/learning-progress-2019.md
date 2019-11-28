@@ -18,6 +18,14 @@ hope you may find some inspiration too.
 ---
 
 ## November
+### 27
+- University of London
+    - **Discrete mathematics**
+        - Review: Logic gates, postulates of Boolean algebra, Boolean functions.
+    - **Algorithms and Data Structures I**
+        - Comparing function growth, big O notation, worst-case time complexity, input size.
+- Solve [permuted multiples](https://projecteuler.net/problem=52), Project Euler.
+
 ### 26
 - University of London
     - **Discrete mathematics**
