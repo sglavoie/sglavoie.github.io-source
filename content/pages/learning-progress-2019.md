@@ -18,6 +18,11 @@ hope you may find some inspiration too.
 ---
 
 ## November
+### 28
+- University of London
+    - **Discrete mathematics**
+        - Review: Boolean algebra, Boolean functions, logic gates, combinational circuits, simplification of circuits.
+
 ### 27
 - University of London
     - **Discrete mathematics**
