@@ -18,6 +18,12 @@ hope you may find some inspiration too.
 ---
 
 ## November
+### 29
+- University of London
+    - **Introduction to Programming II**
+        - `p5.js`: File dropper, manipulating the DOM, working with media files.
+- Read article [Things I Learnt from a Senior Software Engineer](https://neilkakkar.com/things-I-learnt-from-a-senior-dev.html).
+
 ### 28
 - University of London
     - **Discrete mathematics**
