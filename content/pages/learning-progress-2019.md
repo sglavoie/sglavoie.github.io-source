@@ -18,6 +18,11 @@ hope you may find some inspiration too.
 ---
 
 ## November
+### 30
+- University of London
+    - **Introduction to Programming II**
+        - `p5.js`: Manipulating the DOM, working with media files, working with [SweetAlert](https://sweetalert2.github.io) library.
+
 ### 29
 - University of London
     - **Introduction to Programming II**
