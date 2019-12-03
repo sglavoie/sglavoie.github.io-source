@@ -17,6 +17,14 @@ hope you may find some inspiration too.
 
 ---
 
+## December
+### 2
+- University of London
+    - **Algorithms and Data Structures I**
+        - Sudoku assignment: Converting Python functions to pseudo code and vice versa.
+
+---
+
 ## November
 ### 30
 - University of London
@@ -229,6 +237,8 @@ hope you may find some inspiration too.
     - **Introduction to Programming II**
         - `p5.js` sound: working with frequency bands, `P5.gui`.
 
+---
+
 ## October
 ### 31
 - University of London
@@ -411,6 +421,8 @@ hope you may find some inspiration too.
 - `YAML` and `TOML` syntax.
 - [Recursion 'Super Power' (in Python)](https://www.youtube.com/watch?v=8lhxIOAfDss) with Computerphile.
 
+---
+
 ## September
 ### 30
 - Introduction to Algorithms, Third Edition: Insertion sort, analyzing algorithms (best, worst & average cases, running time, size of input, order of growth), designing algorithms (divide-and-conquer), merge sort algorithm.
@@ -530,6 +542,8 @@ hope you may find some inspiration too.
 ### 1
 - University of London
     - **Numerical mathematics**: Graph transformations, probability, binomial probability, linear algebra, affine transformations, number bases, modular arithmetic.
+
+---
 
 ## August
 ### 31
@@ -692,6 +706,8 @@ hope you may find some inspiration too.
 - University of London
     - **Numerical mathematics**: addition, subtraction, scalar product (dot product) with vectors and matrices.
         - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) with 3Blue1Brown: vectors — what even are they, linear combinations, span, and basis vectors, linear transformations and matrices.
+
+---
 
 ## July
 ### 31
@@ -870,6 +886,8 @@ hope you may find some inspiration too.
 - [My Biggest Challenge With Programming (Q&A #11)](https://www.youtube.com/watch?v=AOeRbuwCd-Y) with sentdex.
 - [How to use Gnaural to create binaural beats](https://www.youtube.com/watch?v=Nck9SX52qpU) with Gnaural.
 
+---
+
 ## June
 ### 30
 - University of London
@@ -1045,6 +1063,8 @@ hope you may find some inspiration too.
 - University of London
     - **Numerical mathematics**: Plotting, transformation of graphs.
 
+---
+
 ## May
 ### 31
 - University of London
@@ -1205,6 +1225,8 @@ hope you may find some inspiration too.
 - [Android deployment - Kivy Mobile and Desktop App Dev w/ Python](https://www.youtube.com/watch?v=CIW0H70wo0M) with sentdex.
 - [How Password Managers Work](https://www.youtube.com/watch?v=w68BBPDAWr8) with Computerphile.
 
+---
+
 ## April
 ### 30
 - [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis/home) on Coursera: Working with dataframes in `Pandas`.
@@ -1354,6 +1376,8 @@ hope you may find some inspiration too.
 ### 1
 - [Essence of Calculus](https://www.youtube.com/watch?v=9vKqVkMQHKk&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) with 3Blue1Brown: Limits; L'Hôpital's rule; fundamental theorem of calculus; areas and slopes.
 
+---
+
 ## March
 ### 31
 - Tuples in regular expressions ([Stackoverflow answer](https://stackoverflow.com/a/55438354/8787680)).
@@ -1477,6 +1501,8 @@ hope you may find some inspiration too.
 ### 1
 - [Mathematics for Computer Science](https://www.coursera.org/learn/mathematics-for-computer-science/) on Coursera: More on geometric progressions with A size papers, series.
 
+---
+
 ## February
 ### 28
 - [Mathematics for Computer Science](https://www.coursera.org/learn/mathematics-for-computer-science/) on Coursera: Introduction to sequences and series, modified Josephus problem with any number, geometric progressions on A paper sizes.
@@ -1581,6 +1607,8 @@ hope you may find some inspiration too.
 ### 2
 - Review [Git](https://git-scm.com/) basics.
 
+---
+
 ## January
 ### 18
 - *[HarvardX: CS50](https://www.edx.org)*
@@ -1664,6 +1692,6 @@ hope you may find some inspiration too.
 - Finish CSS Fundamentals Course on [SoloLearn](https://www.sololearn.com/).
 - Finish SQL Fundamentals Course on [SoloLearn](https://www.sololearn.com/).
 
-----
+---
 
 [2018 and earlier](./learning-progress-2018-earlier.html)
