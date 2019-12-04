@@ -18,6 +18,11 @@ hope you may find some inspiration too.
 ---
 
 ## December
+### 3
+- University of London
+    - **Algorithms and Data Structures I**
+        - Sudoku assignment: Permuting elements with queues.
+
 ### 2
 - University of London
     - **Algorithms and Data Structures I**
