@@ -18,6 +18,11 @@ hope you may find some inspiration too.
 ---
 
 ## December
+### 4
+- University of London
+    - **Algorithms and Data Structures I**
+        - Sudoku assignment: Working with a coordinate system inside vectors (pseudocode) and lists (Python).
+
 ### 3
 - University of London
     - **Algorithms and Data Structures I**
