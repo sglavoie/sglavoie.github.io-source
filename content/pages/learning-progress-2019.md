@@ -18,6 +18,11 @@ hope you may find some inspiration too.
 ---
 
 ## December
+### 5
+- University of London
+    - **Algorithms and Data Structures I**
+        - Sudoku assignment: Dancing links and backtracking algorithms, mathematics of Sudoku.
+
 ### 4
 - University of London
     - **Algorithms and Data Structures I**
