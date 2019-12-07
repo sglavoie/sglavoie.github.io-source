@@ -18,6 +18,11 @@ hope you may find some inspiration too.
 ---
 
 ## December
+### 6
+- University of London
+    - **Introduction to Programming II**
+        - Working with sound files properties (pitch, volume, playback rate), conditional ternary operator, SweetAlert2 events, asynchronous functions.
+
 ### 5
 - University of London
     - **Algorithms and Data Structures I**
