@@ -18,6 +18,18 @@ hope you may find some inspiration too.
 ---
 
 ## December
+### 8
+- University of London
+    - **Introduction to Programming II**
+        - Promises in JavaScript, adding autocompletion to forms elements, working with applications that toggle fullscreen.
+- Batch renaming files in Bash functions.
+
+### 7
+- University of London
+    - **Introduction to Programming II**
+        - Add loading animations to `p5.js` application.
+        - Work with `p5.GUI` library.
+
 ### 6
 - University of London
     - **Introduction to Programming II**
