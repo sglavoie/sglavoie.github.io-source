@@ -18,6 +18,11 @@ hope you may find some inspiration too.
 ---
 
 ## December
+### 9
+- University of London
+    - **Introduction to Programming II**
+        - Positioning elements in CSS3, fullscreen API, CSS3 hover effects.
+
 ### 8
 - University of London
     - **Introduction to Programming II**
