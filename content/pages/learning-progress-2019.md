@@ -18,6 +18,11 @@ hope you may find some inspiration too.
 ---
 
 ## December
+### 10
+- University of London
+    - **Discrete mathematics**
+        - Review sets, set builder notation, functions, set partitions, injective and surjective functions, bijective functions, inverse functions.
+
 ### 9
 - University of London
     - **Introduction to Programming II**
