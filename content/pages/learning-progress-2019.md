@@ -18,6 +18,11 @@ hope you may find some inspiration too.
 ---
 
 ## December
+### 11
+- University of London
+    - **Discrete mathematics**
+        - Review injective and surjective functions, bijective functions, inverse functions, exponential and logarithm functions.
+
 ### 10
 - University of London
     - **Discrete mathematics**
