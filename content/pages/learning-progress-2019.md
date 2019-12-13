@@ -18,6 +18,12 @@ hope you may find some inspiration too.
 ---
 
 ## December
+### 12
+- University of London
+    - **Discrete mathematics**
+        - Working with LaTeX expressions with LibreOffice extension.
+- Getting to know Xmonad, bspwm and dwm.
+
 ### 11
 - University of London
     - **Discrete mathematics**
