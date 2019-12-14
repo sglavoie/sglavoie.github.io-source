@@ -18,6 +18,11 @@ hope you may find some inspiration too.
 ---
 
 ## December
+### 13
+- University of London
+    - **Introduction to Programming II**
+        - Review JavaScript: arrow functions, loops with `forEach` structure, modules in ES6, IIFE.
+
 ### 12
 - University of London
     - **Discrete mathematics**
