@@ -18,6 +18,11 @@ hope you may find some inspiration too.
 ---
 
 ## December
+### 15
+- University of London
+    - **Algorithms and Data Structures I**
+        - Sudoku assignment: Depth-search algorithm, symmetry in Sudoku.
+
 ### 14
 - University of London
     - **Algorithms and Data Structures I**
