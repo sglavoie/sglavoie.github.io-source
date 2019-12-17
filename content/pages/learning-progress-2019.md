@@ -18,6 +18,12 @@ hope you may find some inspiration too.
 ---
 
 ## December
+### 16
+- University of London
+    - **Algorithms and Data Structures I**
+        - Sudoku assignment: Recursive algorithm to set blank characters in solved puzzle.
+- Understanding window placement and tags in DWM.
+
 ### 15
 - University of London
     - **Algorithms and Data Structures I**
