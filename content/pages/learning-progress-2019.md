@@ -18,6 +18,12 @@ hope you may find some inspiration too.
 ---
 
 ## December
+### 17
+- University of London
+    - **Algorithms and Data Structures I**
+        - Sudoku assignment: Heap's algorithm, recursive functions in Python.
+- Configuring and compiling DWM.
+
 ### 16
 - University of London
     - **Algorithms and Data Structures I**
