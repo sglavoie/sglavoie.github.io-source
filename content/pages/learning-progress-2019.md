@@ -18,6 +18,13 @@ hope you may find some inspiration too.
 ---
 
 ## December
+### 18
+- University of London
+    - **Introduction to Programming II**
+        - JavaScript: delaying actions with `setTimeout`.
+    - **Discrete mathematics**
+        - Review propositional logic, implications (converse, inverse, contrapositive, biconditionals, compound propositions), propositional equivalences (tautology, contradictions, contingency).
+
 ### 17
 - University of London
     - **Algorithms and Data Structures I**
