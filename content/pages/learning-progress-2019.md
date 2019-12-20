@@ -18,6 +18,11 @@ hope you may find some inspiration too.
 ---
 
 ## December
+### 19
+- University of London
+    - **Discrete mathematics**
+        - Review propositional logic: propositional satisfiability; logical equivalences.
+
 ### 18
 - University of London
     - **Introduction to Programming II**
