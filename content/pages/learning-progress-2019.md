@@ -18,6 +18,15 @@ hope you may find some inspiration too.
 ---
 
 ## December
+### 20
+- University of London
+    - **Introduction to Programming II**
+        - Analyzing sounds in `p5.js` with fast Fourier transform.
+    - **Discrete mathematics**
+        - Review boolean algebra, predicate logic.
+- [Common Gotchas](https://docs.python-guide.org/writing/gotchas) from The Hitchhiker's Guide to Python.
+- Using [DeepSource](https://deepsource.io) static code analysis tool for Python and Go.
+
 ### 19
 - University of London
     - **Discrete mathematics**
