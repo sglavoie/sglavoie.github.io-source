@@ -12,7 +12,7 @@ You can see the [theme in action](http://www.giuliofidente.com/).
 
 - responsive
 - syntax highlighting for pre blocks
-- supports google analytics
+- supports google analytics (removed from theme)
 - custom list of links
 - supports the [readtime](https://github.com/getpelican/pelican-plugins/tree/master/readtime) plugin
 
@@ -29,7 +29,7 @@ Clone the [repository](https://github.com/gfidente/pelican-svbhack), edit your `
 
 Supports a number of common global variables but patches are welcomed if you need better support.
 
-- `GOOGLE_ANALYTICS` to use Google Analytics, set this var to your UA-XYZ code
+- ~~`GOOGLE_ANALYTICS` to use Google Analytics, set this var to your UA-XYZ code~~ (removed from theme)
 
 - `USER_LOGO_URL` to replace the logo placeholder, put your logo in content/images/your_logo.png and make this var point to `SITEURL + '/static/images/your_logo.png'`
 
@@ -41,7 +41,7 @@ Supports a number of common global variables but patches are welcomed if you nee
 
 - `TAGLINE` some text rendered right below the logo
 
-- `INTERNET_DEFENSE_LEAGUE` set this to `True` if you want to enable the [Internet Defense League](http://internetdefenseleague.org) code
+- ~~`INTERNET_DEFENSE_LEAGUE` set this to `True` if you want to enable the [Internet Defense League](http://internetdefenseleague.org) code~~ (removed from theme)
 
 When developing locally, you may want to set the following variable: `SITEURL = http://localhost:8000`
 

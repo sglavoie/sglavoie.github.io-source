@@ -1,9 +1,7 @@
+"""Pelican's main configuration file"""
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
-from datetime import datetime
-import hashlib
-import os
 
 
 # Pelican-specific settings
@@ -30,7 +28,6 @@ ARTICLE_SAVE_AS = "posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html"
 AUTHOR = "Sébastien Lavoie"
 DEFAULT_LANG = "en"
 DISQUS_SITENAME = "sglavoie"
-GOOGLE_ANALYTICS = "UA-150998392-1"
 LOCALE = "en_US.utf8"
 SITENAME = "sglavoie.com"
 SITEURL = "https://www.sglavoie.com"
