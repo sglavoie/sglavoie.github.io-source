@@ -18,14 +18,22 @@ hope you may find some inspiration too.
 ---
 
 ## December
+### 21
+- University of London
+    - **Introduction to Programming II**
+        - Dealing with memory leaks in JavaScript.
+    - **Discrete mathematics**
+        - Review predicates and quantifiers, nested quantifiers and negations, rules of inference.
+
 ### 20
 - University of London
     - **Introduction to Programming II**
         - Analyzing sounds in `p5.js` with fast Fourier transform.
     - **Discrete mathematics**
-        - Review boolean algebra, predicate logic.
+        - Review boolean algebra, predicate logic and quantifiers.
 - [Common Gotchas](https://docs.python-guide.org/writing/gotchas) from The Hitchhiker's Guide to Python.
 - Using [DeepSource](https://deepsource.io) static code analysis tool for Python and Go.
+- Using [Vifm](https://vifm.info) as terminal file manager.
 
 ### 19
 - University of London
