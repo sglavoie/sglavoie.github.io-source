@@ -18,6 +18,13 @@ hope you may find some inspiration too.
 ---
 
 ## December
+### 22
+- University of London
+    - **Introduction to Programming II**
+        - More on OOP in JavaScript, async and await functions.
+    - **Discrete mathematics**
+        - Review predicates and quantifiers, nested quantifiers and negations, rules of inference.
+
 ### 21
 - University of London
     - **Introduction to Programming II**
