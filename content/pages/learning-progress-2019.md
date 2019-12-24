@@ -18,6 +18,13 @@ hope you may find some inspiration too.
 ---
 
 ## December
+### 23
+- University of London
+    - **Introduction to Programming II**
+        - JavaScript: Review IIFE, arrow functions, `map`, `fill`, `reduce`, `filter`, `sort`.
+    - **Discrete mathematics**
+        - Review rules of inference.
+
 ### 22
 - University of London
     - **Introduction to Programming II**
