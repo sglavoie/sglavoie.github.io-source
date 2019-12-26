@@ -18,6 +18,12 @@ hope you may find some inspiration too.
 ---
 
 ## December
+### 25
+- University of London
+    - **Discrete mathematics**
+        - Introduction to proofs (direct, contrapositive, contradiction), mathematical induction, proof by induction.
+- Setting dual-screen workflow with `i3`.
+
 ### 23
 - University of London
     - **Introduction to Programming II**
