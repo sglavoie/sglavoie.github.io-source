@@ -18,6 +18,15 @@ hope you may find some inspiration too.
 ---
 
 ## December
+### 26
+- University of London
+    - **Discrete mathematics**
+        - Review rules of inference, inferences with quantifiers, direct proof, proof by contraposition, proof by contradiction, proof by cases.
+    - **Introduction to Programming II**
+        - Working with a beat detector in `p5.js`.
+- Review Python: regex; zip function.
+- Setting up `AUR` in Manjaro.
+
 ### 25
 - University of London
     - **Discrete mathematics**
