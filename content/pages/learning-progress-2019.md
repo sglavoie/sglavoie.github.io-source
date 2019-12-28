@@ -18,6 +18,12 @@ hope you may find some inspiration too.
 ---
 
 ## December
+### 27
+- University of London
+    - **Introduction to Programming II**
+        - Particle system and beat detector in `p5.js`.
+- Patching `st` to get scrollback and transparency.
+
 ### 26
 - University of London
     - **Discrete mathematics**
