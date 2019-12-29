@@ -18,6 +18,12 @@ hope you may find some inspiration too.
 ---
 
 ## December
+### 28
+- University of London
+    - **Discrete mathematics**
+        - Induction (proof by induction, strong induction), recursion.
+- Review Git concepts: branching workflows; rebasing; interactive staging; rewriting history; submodules.
+
 ### 27
 - University of London
     - **Introduction to Programming II**
