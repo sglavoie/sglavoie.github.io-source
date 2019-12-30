@@ -18,6 +18,11 @@ hope you may find some inspiration too.
 ---
 
 ## December
+### 29
+- University of London
+    - **Discrete mathematics**
+        - Mathematical induction, strong induction, well-ordering principle.
+
 ### 28
 - University of London
     - **Discrete mathematics**
