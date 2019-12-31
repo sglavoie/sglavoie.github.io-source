@@ -18,6 +18,11 @@ hope you may find some inspiration too.
 ---
 
 ## December
+### 30
+- University of London
+    - **Discrete mathematics**
+        - Recursion: recurrence relations, structural induction.
+
 ### 29
 - University of London
     - **Discrete mathematics**
