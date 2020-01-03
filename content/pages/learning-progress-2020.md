@@ -18,6 +18,13 @@ hope you may find some inspiration too.
 ---
 
 ## January
+### 2
+- University of London
+    - **Algorithms and Data Structures I**
+        - RAM model, time complexity, insertion sort, running time of algorithms, binary search.
+    - **Discrete mathematics**
+        - Recursion: recursively defined functions, structural induction.
+
 ### 1
 - University of London
     - **Discrete mathematics**
