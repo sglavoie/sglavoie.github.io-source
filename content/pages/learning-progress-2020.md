@@ -18,6 +18,13 @@ hope you may find some inspiration too.
 ---
 
 ## January
+### 3
+- University of London
+    - **Algorithms and Data Structures I**
+        - Binary search, search problems and abstraction.
+    - **Discrete mathematics**
+        - Introduction to graph theory, degree sequence of a graph.
+
 ### 2
 - University of London
     - **Algorithms and Data Structures I**
