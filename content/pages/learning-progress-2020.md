@@ -18,6 +18,15 @@ hope you may find some inspiration too.
 ---
 
 ## January
+### 5
+- University of London
+    - **Discrete mathematics**
+        - Review predicate logic and Boolean algebra.
+### 4
+- University of London
+    - **Discrete mathematics**
+        - Graph theory: terminology; types of graphs (simple, r-regular, complete graphs); graph models.
+
 ### 3
 - University of London
     - **Algorithms and Data Structures I**
