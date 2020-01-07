@@ -18,6 +18,11 @@ hope you may find some inspiration too.
 ---
 
 ## January
+### 6
+- University of London
+    - **Discrete mathematics**
+        - Review propositional logic, predicate logic, Boolean algebra, set theory, functions.
+
 ### 5
 - University of London
     - **Discrete mathematics**
