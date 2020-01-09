@@ -18,6 +18,9 @@ hope you may find some inspiration too.
 ---
 
 ## January
+### 8
+- Git: Committing file patches; adding changes to old commits; recovering dropped hash references.
+
 ### 7
 - University of London
     - **Discrete mathematics**
