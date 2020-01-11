@@ -18,6 +18,11 @@ hope you may find some inspiration too.
 ---
 
 ## January
+### 10
+    - **Discrete mathematics**
+        - Review graph theory: terminology; special types of graphs.
+- Review walrus operator in Python 3.8.
+
 ### 8
 - Git: Committing file patches; adding changes to old commits; recovering dropped hash references.
 
