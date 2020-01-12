@@ -18,7 +18,14 @@ hope you may find some inspiration too.
 ---
 
 ## January
+### 11
+- University of London
+    - **Discrete mathematics**
+        - Review graph theory: special types of graphs; simple graphs; bipartite graphs & matchings; complete bipartite graphs.
+- Git: Read article [Trunk-based development](https://dzone.com/articles/why-i-prefer-trunk-based-development-over-feature).
+
 ### 10
+- University of London
     - **Discrete mathematics**
         - Review graph theory: terminology; special types of graphs.
 - Review walrus operator in Python 3.8.
