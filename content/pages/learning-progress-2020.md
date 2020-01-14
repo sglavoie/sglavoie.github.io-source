@@ -18,6 +18,13 @@ hope you may find some inspiration too.
 ---
 
 ## January
+### 13
+- University of London
+    - **Algorithms and Data Structures I**
+        - Abstraction and linked lists, recursion.
+    - **Discrete mathematics**
+        - Graph theory: union of graphs; graph isomorphism; incidence matrices; graph invariant; graph connectivity; review special types of graphs.
+
 ### 11
 - University of London
     - **Discrete mathematics**
