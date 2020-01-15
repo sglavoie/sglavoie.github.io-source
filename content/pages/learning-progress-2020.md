@@ -18,6 +18,16 @@ hope you may find some inspiration too.
 ---
 
 ## January
+### 14
+- University of London
+    - **Algorithms and Data Structures I**
+        - Decrease & conquer, recursive Euclidean algorithm, recursive searching and sorting, permutations, recursive binary search.
+        - Review: insertion sort; bubble sort.
+    - **Discrete mathematics**
+        - Isomorphic graphs, bipartite graphs, Hopcroft-Karp algorithm, introduction to proofs.
+    - **Introduction to Programming II**
+        - JavaScript: Asynchronous function calls; using callbacks; error handling.
+
 ### 13
 - University of London
     - **Algorithms and Data Structures I**
