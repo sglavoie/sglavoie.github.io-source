@@ -18,6 +18,14 @@ hope you may find some inspiration too.
 ---
 
 ## January
+### 15
+- University of London
+    - **Algorithms and Data Structures I**
+        - Call stack, quick sort algorithm.
+    - **Discrete mathematics**
+        - Induction, strong induction.
+- Python: review namespaces; scopes; decomposition (splits into functions, classes, modules, packages); encapsulation.
+
 ### 14
 - University of London
     - **Algorithms and Data Structures I**
