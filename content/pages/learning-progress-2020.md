@@ -18,6 +18,16 @@ hope you may find some inspiration too.
 ---
 
 ## January
+### 16
+- University of London
+    - **Algorithms and Data Structures I**
+        - `mergeSort` algorithm.
+        - Review: `quickSort` algorithm and time complexity.
+    - **Discrete mathematics**
+        - Graph theory and coloring, matching problems, spanning trees (ST) & minimum spanning trees (MST).
+    - **Introduction to Programming II**
+        - Breakpoint and stepping.
+
 ### 15
 - University of London
     - **Algorithms and Data Structures I**
