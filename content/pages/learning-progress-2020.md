@@ -18,6 +18,13 @@ hope you may find some inspiration too.
 ---
 
 ## January
+### 17
+- University of London
+    - **Algorithms and Data Structures I**
+        - Review: `mergeSort` algorithm.
+    - **Discrete mathematics**
+        - Communication networks (including Butterfly and Benes), graph theory.
+
 ### 16
 - University of London
     - **Algorithms and Data Structures I**
