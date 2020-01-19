@@ -18,6 +18,15 @@ hope you may find some inspiration too.
 ---
 
 ## January
+### 18
+- University of London
+    - **Algorithms and Data Structures I**
+        - Substitution cipher with `mergeSort`.
+    - **Discrete mathematics**
+        - More on graph theory (common graphs, subgraphs, weighted graphs, adjacency matrices, matching).
+    - **Introduction to Programming II**
+        - JavaScript modules, [Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s).
+
 ### 17
 - University of London
     - **Algorithms and Data Structures I**
