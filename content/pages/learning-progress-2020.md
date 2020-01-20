@@ -18,6 +18,11 @@ hope you may find some inspiration too.
 ---
 
 ## January
+### 19
+- University of London
+    - **Discrete mathematics**
+        - Graph theory: Euler & Hamiltonian paths, shortest-path problems.
+
 ### 18
 - University of London
     - **Algorithms and Data Structures I**
