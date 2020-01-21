@@ -18,6 +18,13 @@ hope you may find some inspiration too.
 ---
 
 ## January
+### 20
+- University of London
+    - **Algorithms and Data Structures I**
+        - Worst-case time complexity of `quickSort` and `mergeSort`.
+    - **Discrete mathematics**
+        - Graph theory: bipartite graphs; adjacency list; adjacency matrix; Dijkstra's algorithm.
+
 ### 19
 - University of London
     - **Discrete mathematics**
