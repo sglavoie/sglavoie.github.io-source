@@ -18,6 +18,13 @@ hope you may find some inspiration too.
 ---
 
 ## January
+### 21
+- University of London
+    - **Discrete mathematics**
+        - Graph theory: matching in bipartite graphs; graph isomorphism; adjacency matrices; connectivity; shortest-path algorithm.
+    - **Introduction to Programming II**
+        - JavaScript: pass by value and by reference.
+
 ### 20
 - University of London
     - **Algorithms and Data Structures I**
