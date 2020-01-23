@@ -18,6 +18,14 @@ hope you may find some inspiration too.
 ---
 
 ## January
+### 22
+- University of London
+    - **Discrete mathematics**
+        - Graph theory: Dijkstra's algorithm; bipartite graphs; matching.
+    - **Algorithms and Data Structures I**
+        - Analysis of `quickSort`.
+- Solve [problem 53](https://projecteuler.net/problem=53) on Project Euler: Combinatoric selections.
+
 ### 21
 - University of London
     - **Discrete mathematics**
