@@ -18,6 +18,14 @@ hope you may find some inspiration too.
 ---
 
 ## January
+### 23
+- University of London
+    - **Discrete mathematics**
+        - Graph theory: Dijkstra's algorithm in real-world scenarios.
+        - Trees: Definitions; spanning trees; minimum spanning trees (Kruskal's algorithm, Prim's algorithm); rooted trees; binary search trees; Huffman coding; game trees.
+    - **Introduction to Programming II**
+        - `p5.js`: Loading many assets at once, managing waiting time with loading screen.
+
 ### 22
 - University of London
     - **Discrete mathematics**
