@@ -18,6 +18,14 @@ hope you may find some inspiration too.
 ---
 
 ## January
+### 24
+- University of London
+    - **Discrete mathematics**
+        - Trees: Tree traversal; universal address system; traversal algorithms (preorder, inorder, postorder); spanning trees; depth-first search; breath-first search.
+    - **Algorithms and Data Structures I**
+        - Analysis of `quickSort`.
+- Using `git bisect` and `git bisect run`.
+
 ### 23
 - University of London
     - **Discrete mathematics**
