@@ -18,6 +18,12 @@ hope you may find some inspiration too.
 ---
 
 ## January
+### 25
+- University of London
+    - **Discrete mathematics**
+        - Trees: Prim's algorithm; Kruskal's algorithm; tree traversal; binary search trees.
+- Solve [problem 55](https://projecteuler.net/problem=55) on Project Euler: Lychrel numbers.
+
 ### 24
 - University of London
     - **Discrete mathematics**
