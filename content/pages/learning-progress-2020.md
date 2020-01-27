@@ -18,6 +18,11 @@ hope you may find some inspiration too.
 ---
 
 ## January
+### 26
+- University of London
+    - **Algorithms and Data Structures I**
+        - Computational complexity: complexity classes.
+
 ### 25
 - University of London
     - **Discrete mathematics**
