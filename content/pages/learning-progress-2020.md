@@ -18,6 +18,11 @@ hope you may find some inspiration too.
 ---
 
 ## January
+### 27
+- University of London
+    - **Discrete mathematics**
+        - Relations, relation properties (symmetry, transitivity, anti-symmetry, reflexivity), Cartesian product, relations using matrices, graph representations of a relation, transitive closure.
+
 ### 26
 - University of London
     - **Algorithms and Data Structures I**
