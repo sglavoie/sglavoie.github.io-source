@@ -18,6 +18,11 @@ hope you may find some inspiration too.
 ---
 
 ## January
+### 28
+- University of London
+    - **Discrete mathematics**
+        - Relations and their properties, equivalence relations, equivalence classes.
+
 ### 27
 - University of London
     - **Discrete mathematics**
