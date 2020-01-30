@@ -18,6 +18,13 @@ hope you may find some inspiration too.
 ---
 
 ## January
+### 29
+- University of London
+    - **Discrete mathematics**
+        - Strong & weak partial orders, total order, Hasse diagram, binary relations, surjective and injective relations, equivalence relations, partitions, transitive closure.
+    - **Algorithms and Data Structures I**
+        - Complexity classes, P vs EXP vs NP.
+
 ### 28
 - University of London
     - **Discrete mathematics**
