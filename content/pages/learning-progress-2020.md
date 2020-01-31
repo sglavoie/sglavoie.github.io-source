@@ -18,6 +18,13 @@ hope you may find some inspiration too.
 ---
 
 ## January
+### 30
+- University of London
+    - **Discrete mathematics**
+        - Equivalence relations, equivalence classes, partial order, total order, n-ary relations, closures of relations.
+    - **Algorithms and Data Structures I**
+        - Computational complexity, NP problems and searching.
+
 ### 29
 - University of London
     - **Discrete mathematics**
