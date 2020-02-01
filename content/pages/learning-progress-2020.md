@@ -18,6 +18,11 @@ hope you may find some inspiration too.
 ---
 
 ## January
+### 31
+- University of London
+    - **Discrete mathematics**
+        - Partial orderings, lexicographic order, equivalence relations, parallel task scheduling, Hasse diagram, sums, asymptotic notation.
+
 ### 30
 - University of London
     - **Discrete mathematics**
