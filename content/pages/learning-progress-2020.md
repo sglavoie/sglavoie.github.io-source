@@ -17,6 +17,16 @@ hope you may find some inspiration too.
 
 ---
 
+## February
+### 1
+- University of London
+    - **Discrete mathematics**
+        - Combinatorics: product rule; addition rule; combining sum & product rules; subtraction rule (principle of inclusion-exclusion); division rule; pigeonhole principle; permutations & combinations.
+    - **Algorithms and Data Structures I**
+        - Review: Heron's algorithm; discretisation & pseudocode; vectors.
+
+---
+
 ## January
 ### 31
 - University of London
