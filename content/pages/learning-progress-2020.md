@@ -18,6 +18,16 @@ hope you may find some inspiration too.
 ---
 
 ## February
+### 3
+- University of London
+    - **Discrete mathematics**
+        - Permutations, combinations, binomial theorem, Pascal's identity, divide & conquer recurrences.
+    - **Algorithms and Data Structures I**
+        - Review: queues; stacks.
+    - **Introduction to Programming II**
+        - Working with hamburger menus.
+- Solve [problem 49](https://projecteuler.net/problem=49) on Project Euler: Prime permutations.
+
 ### 1
 - University of London
     - **Discrete mathematics**
