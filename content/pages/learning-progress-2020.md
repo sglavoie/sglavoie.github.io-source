@@ -18,6 +18,13 @@ hope you may find some inspiration too.
 ---
 
 ## February
+### 4
+- University of London
+    - **Discrete mathematics**
+        - Review: Lexicographic ordering; Hasse diagrams; linear recurrences; sequences; permutations; functions (surjective, bijective, injective); mapping rule; generalized pigeonhole principle; division rule; product rule; product of sets; sum rule.
+    - **Introduction to Programming II**
+        - Review: working with DOM elements with `p5.js`.
+
 ### 3
 - University of London
     - **Discrete mathematics**
