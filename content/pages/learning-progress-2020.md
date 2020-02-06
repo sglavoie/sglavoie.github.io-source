@@ -18,6 +18,14 @@ hope you may find some inspiration too.
 ---
 
 ## February
+### 5
+- University of London
+    - **Discrete mathematics**
+        - Review of counting rules: Inclusion-exclusion of sets; Pascal's identity.
+        - Review of probability: sample space & outcomes; probability space; probability trees; conditional probability.
+    - **Introduction to Programming II**
+        - Showing and hiding DOM elements in `p5.js` based on events.
+
 ### 4
 - University of London
     - **Discrete mathematics**
