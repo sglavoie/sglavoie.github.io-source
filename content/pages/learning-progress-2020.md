@@ -18,6 +18,11 @@ hope you may find some inspiration too.
 ---
 
 ## February
+### 6
+- University of London
+    - **Discrete mathematics**
+        - Review: Permutations with/without repetition; distinguishable objects; binomial coefficients; Pascal's identity.
+
 ### 5
 - University of London
     - **Discrete mathematics**
