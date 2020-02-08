@@ -18,6 +18,9 @@ hope you may find some inspiration too.
 ---
 
 ## February
+### 7
+- Pluralsight courses: [What Is TDD and Why It Is Not Unit Testing](https://app.pluralsight.com/library/courses/tdd-is-not-unit-testing-executive-briefing/table-of-contents); [Test-driven Development: The Big Picture](https://app.pluralsight.com/library/courses/test-driven-development-big-picture/table-of-contents); [Agile Fundamentals](https://app.pluralsight.com/library/courses/agile-fundamentals/table-of-contents); [Advanced Git Techniques](https://app.pluralsight.com/library/courses/advanced-git-techniques/table-of-contents).
+
 ### 6
 - University of London
     - **Discrete mathematics**
