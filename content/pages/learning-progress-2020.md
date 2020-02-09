@@ -18,6 +18,10 @@ hope you may find some inspiration too.
 ---
 
 ## February
+### 8
+- Pluralsight courses: [Advanced Git Techniques](https://app.pluralsight.com/library/courses/advanced-git-techniques/table-of-contents) (submodules, custom commands, hooks, `git bisect`); [Working with Git Branches](https://app.pluralsight.com/library/courses/working-git-branches/table-of-contents); [Rewriting Git History](https://app.pluralsight.com/library/courses/rewriting-git-history/table-of-contents); [Code School: Git Real 2](https://app.pluralsight.com/library/courses/code-school-git-real-2/table-of-contents); [Advanced Git Tips and Tricks](https://app.pluralsight.com/library/courses/git-advanced-tips-tricks/table-of-contents).
+- Using [all-contributors-bot](https://github.com/all-contributors/all-contributors-bot) on GitHub.
+
 ### 7
 - Pluralsight courses: [What Is TDD and Why It Is Not Unit Testing](https://app.pluralsight.com/library/courses/tdd-is-not-unit-testing-executive-briefing/table-of-contents); [Test-driven Development: The Big Picture](https://app.pluralsight.com/library/courses/test-driven-development-big-picture/table-of-contents); [Agile Fundamentals](https://app.pluralsight.com/library/courses/agile-fundamentals/table-of-contents); [Advanced Git Techniques](https://app.pluralsight.com/library/courses/advanced-git-techniques/table-of-contents).
 
