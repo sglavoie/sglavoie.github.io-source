@@ -18,6 +18,9 @@ hope you may find some inspiration too.
 ---
 
 ## February
+### 9
+- Pluralsight courses: [Advanced Git Tips and Tricks](https://app.pluralsight.com/library/courses/git-advanced-tips-tricks/table-of-contents) (rewriting history); [Increasing Productivity by Beating Procrastination](https://app.pluralsight.com/library/courses/increasing-productivity-beating-procrastination/table-of-contents); [Rapid ES6 Training](https://app.pluralsight.com/library/courses/rapid-es6-training/table-of-contents); [Practical Design Patterns in JavaScript](https://app.pluralsight.com/courses/a08f57bc-ff55-4f2d-b209-fb00e88dbece/table-of-contents) (creational design patterns).
+
 ### 8
 - Pluralsight courses: [Advanced Git Techniques](https://app.pluralsight.com/library/courses/advanced-git-techniques/table-of-contents) (submodules, custom commands, hooks, `git bisect`); [Working with Git Branches](https://app.pluralsight.com/library/courses/working-git-branches/table-of-contents); [Rewriting Git History](https://app.pluralsight.com/library/courses/rewriting-git-history/table-of-contents); [Code School: Git Real 2](https://app.pluralsight.com/library/courses/code-school-git-real-2/table-of-contents); [Advanced Git Tips and Tricks](https://app.pluralsight.com/library/courses/git-advanced-tips-tricks/table-of-contents).
 - Using [all-contributors-bot](https://github.com/all-contributors/all-contributors-bot) on GitHub.
