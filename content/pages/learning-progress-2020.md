@@ -18,6 +18,12 @@ hope you may find some inspiration too.
 ---
 
 ## February
+### 10
+- University of London
+    - **Discrete mathematics**
+        - Review: definition of a set; elements of a set; cardinality of a set; listing method; set builder method; subsets of a set; power sets.
+- Pluralsight courses: [Working with JavaScript Modules](https://app.pluralsight.com/library/courses/working-javascript-modules/table-of-contents); [JavaScript Promises and Async Programming](https://app.pluralsight.com/library/courses/javascript-promises-async-programming/table-of-contents).
+
 ### 9
 - Pluralsight courses: [Advanced Git Tips and Tricks](https://app.pluralsight.com/library/courses/git-advanced-tips-tricks/table-of-contents) (rewriting history); [Increasing Productivity by Beating Procrastination](https://app.pluralsight.com/library/courses/increasing-productivity-beating-procrastination/table-of-contents); [Rapid ES6 Training](https://app.pluralsight.com/library/courses/rapid-es6-training/table-of-contents); [Practical Design Patterns in JavaScript](https://app.pluralsight.com/courses/a08f57bc-ff55-4f2d-b209-fb00e88dbece/table-of-contents) (creational design patterns).
 
