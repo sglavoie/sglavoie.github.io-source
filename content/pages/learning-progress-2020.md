@@ -18,6 +18,11 @@ hope you may find some inspiration too.
 ---
 
 ## February
+### 11
+- University of London
+    - **Discrete mathematics**
+        - Review: set operations; membership tables; Venn diagrams; the complement of a set; De Morgan's laws; set properties; definition of function; the domain and co-domain; the range; injection (one-to-one); surjection (onto); plotting functions.
+
 ### 10
 - University of London
     - **Discrete mathematics**
