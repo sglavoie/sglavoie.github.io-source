@@ -18,10 +18,17 @@ hope you may find some inspiration too.
 ---
 
 ## February
+### 12
+- University of London
+    - **Algorithms and Data Structures I**
+        - Review: dynamic arrays; stacks.
+    - **Discrete mathematics**
+        - Review: the domain and co-domain; the range; injection (one-to-one); surjection (onto); function composition; bijections; floor & ceiling functions.
+
 ### 11
 - University of London
     - **Discrete mathematics**
-        - Review: set operations; membership tables; Venn diagrams; the complement of a set; De Morgan's laws; set properties; definition of function; the domain and co-domain; the range; injection (one-to-one); surjection (onto); plotting functions.
+        - Review: set operations; membership tables; Venn diagrams; the complement of a set; De Morgan's laws; set properties; definition of function; the domain and co-domain; the range; injection (one-to-one); surjection (onto).
 
 ### 10
 - University of London
