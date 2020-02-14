@@ -18,6 +18,11 @@ hope you may find some inspiration too.
 ---
 
 ## February
+### 13
+- University of London
+    - **Discrete mathematics**
+        - Review: function composition; bijections; floor & ceiling functions; definition of a proposition; truth tables & truth sets; compound propositions; logical implication; converse, contrapositive & inverse; equivalence; laws of propositional logic; De Morgan's laws; precedence of logical operators.
+
 ### 12
 - University of London
     - **Algorithms and Data Structures I**
