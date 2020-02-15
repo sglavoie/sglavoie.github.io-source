@@ -18,6 +18,13 @@ hope you may find some inspiration too.
 ---
 
 ## February
+### 14
+- University of London
+    - **Discrete mathematics**
+        - Review: compound propositions; logical implication; converse, contrapositive & inverse; equivalence; laws of propositional logic (including De Morgan's laws); precedence of logical operators; definition of predicates; quantifiers; logical operators; nested quantifiers.
+    - **Algorithms and Data Structures I**
+        - Review: search algorithms (`quickSort`).
+
 ### 13
 - University of London
     - **Discrete mathematics**
