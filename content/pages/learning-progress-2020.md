@@ -10,14 +10,20 @@ primarily for the following practical reasons: to help me remember
 what I have supposedly been working on technology-wise and
 to help me practice a technique that is known as [spaced
 repetition](https://en.wikipedia.org/wiki/Spaced_repetition).
-This is really just a summary to motivate myself to keep on track and
-be reminded as often as possible to stay a bit more humble, as it
-becomes obvious that I don't know much in the end. In the process, I
-hope you may find some inspiration too.
+This is really just a summary to motivate myself to keep on track,
+to practice consistent self-reflection and to be reminded as often
+as possible to stay a bit more humble, as it becomes obvious that I
+don't know much in the end. In the process, I hope you may find some
+inspiration too.
 
 ---
 
 ## February
+### 15
+- University of London
+    - **Algorithms and Data Structures I**
+        - Review: Searching algorithms.
+
 ### 14
 - University of London
     - **Discrete mathematics**
