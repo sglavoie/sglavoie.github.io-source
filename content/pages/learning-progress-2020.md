@@ -19,10 +19,15 @@ inspiration too.
 ---
 
 ## February
+### 16
+- University of London
+    - **Discrete mathematics**
+        - Review: nested quantifiers; negating nested quantifiers; rules of inference.
+
 ### 15
 - University of London
     - **Algorithms and Data Structures I**
-        - Review: Searching algorithms.
+        - Review: searching algorithms.
 
 ### 14
 - University of London
