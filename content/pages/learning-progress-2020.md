@@ -19,6 +19,13 @@ inspiration too.
 ---
 
 ## February
+### 17
+- University of London
+    - **Discrete mathematics**
+        - Review: rules of inference; fallacies; rules of inference for quantified statements; definition of Boolean algebra.
+    - **Algorithms and Data Structures I**
+        - Review: binary search algorithm; linked lists; linear search.
+
 ### 16
 - University of London
     - **Discrete mathematics**
