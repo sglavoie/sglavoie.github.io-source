@@ -19,10 +19,18 @@ inspiration too.
 ---
 
 ## February
+### 18
+- University of London
+    - **Discrete mathematics**
+        - Review: Boolean identities; definition of Boolean algebra; functional completeness; logic gates; adders; minimization of circuits; Karnaugh maps; Quine–McCluskey method.
+    - **Algorithms and Data Structures I**
+        - Review: linear data structures.
+- Python review: built-in type gotchas.
+
 ### 17
 - University of London
     - **Discrete mathematics**
-        - Review: rules of inference; fallacies; rules of inference for quantified statements; definition of Boolean algebra.
+        - Review: rules of inference; fallacies; rules of inference for quantified statements; Boolean identities.
     - **Algorithms and Data Structures I**
         - Review: binary search algorithm; linked lists; linear search.
 
