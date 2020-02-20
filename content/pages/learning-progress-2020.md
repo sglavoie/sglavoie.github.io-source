@@ -19,20 +19,27 @@ inspiration too.
 ---
 
 ## February
+### 19
+- University of London
+    - **Algorithms and Data Structures I**
+        - Review: Binary search; recursive algorithms.
+    - **Discrete mathematics**
+        - Review: Boolean algebra; mathematical induction (proofs by contradiction, direct proofs, false proofs, well ordering principle).
+
 ### 18
 - University of London
-    - **Discrete mathematics**
-        - Review: Boolean identities; definition of Boolean algebra; functional completeness; logic gates; adders; minimization of circuits; Karnaugh maps; Quine–McCluskey method.
     - **Algorithms and Data Structures I**
         - Review: linear data structures.
+    - **Discrete mathematics**
+        - Review: Boolean identities; definition of Boolean algebra; functional completeness; logic gates; adders; minimization of circuits; Karnaugh maps; Quine–McCluskey method.
 - Python review: built-in type gotchas.
 
 ### 17
 - University of London
-    - **Discrete mathematics**
-        - Review: rules of inference; fallacies; rules of inference for quantified statements; Boolean identities.
     - **Algorithms and Data Structures I**
         - Review: binary search algorithm; linked lists; linear search.
+    - **Discrete mathematics**
+        - Review: rules of inference; fallacies; rules of inference for quantified statements; Boolean identities.
 
 ### 16
 - University of London
@@ -46,10 +53,10 @@ inspiration too.
 
 ### 14
 - University of London
-    - **Discrete mathematics**
-        - Review: compound propositions; logical implication; converse, contrapositive & inverse; equivalence; laws of propositional logic (including De Morgan's laws); precedence of logical operators; definition of predicates; quantifiers; logical operators; nested quantifiers.
     - **Algorithms and Data Structures I**
         - Review: search algorithms (`quickSort`).
+    - **Discrete mathematics**
+        - Review: compound propositions; logical implication; converse, contrapositive & inverse; equivalence; laws of propositional logic (including De Morgan's laws); precedence of logical operators; definition of predicates; quantifiers; logical operators; nested quantifiers.
 
 ### 13
 - University of London
@@ -106,20 +113,20 @@ inspiration too.
 
 ### 3
 - University of London
-    - **Discrete mathematics**
-        - Permutations, combinations, binomial theorem, Pascal's identity, divide & conquer recurrences.
     - **Algorithms and Data Structures I**
         - Review: queues; stacks.
+    - **Discrete mathematics**
+        - Permutations, combinations, binomial theorem, Pascal's identity, divide & conquer recurrences.
     - **Introduction to Programming II**
         - Working with hamburger menus.
 - Solve [problem 49](https://projecteuler.net/problem=49) on Project Euler: Prime permutations.
 
 ### 1
 - University of London
-    - **Discrete mathematics**
-        - Combinatorics: product rule; addition rule; combining sum & product rules; subtraction rule (principle of inclusion-exclusion); division rule; pigeonhole principle; permutations & combinations.
     - **Algorithms and Data Structures I**
         - Review: Heron's algorithm; discretisation & pseudocode; vectors.
+    - **Discrete mathematics**
+        - Combinatorics: product rule; addition rule; combining sum & product rules; subtraction rule (principle of inclusion-exclusion); division rule; pigeonhole principle; permutations & combinations.
 
 ---
 
@@ -131,17 +138,17 @@ inspiration too.
 
 ### 30
 - University of London
-    - **Discrete mathematics**
-        - Equivalence relations, equivalence classes, partial order, total order, n-ary relations, closures of relations.
     - **Algorithms and Data Structures I**
         - Computational complexity, NP problems and searching.
+    - **Discrete mathematics**
+        - Equivalence relations, equivalence classes, partial order, total order, n-ary relations, closures of relations.
 
 ### 29
 - University of London
-    - **Discrete mathematics**
-        - Strong & weak partial orders, total order, Hasse diagram, binary relations, surjective and injective relations, equivalence relations, partitions, transitive closure.
     - **Algorithms and Data Structures I**
         - Complexity classes, P vs EXP vs NP.
+    - **Discrete mathematics**
+        - Strong & weak partial orders, total order, Hasse diagram, binary relations, surjective and injective relations, equivalence relations, partitions, transitive closure.
 
 ### 28
 - University of London
@@ -166,10 +173,10 @@ inspiration too.
 
 ### 24
 - University of London
-    - **Discrete mathematics**
-        - Trees: Tree traversal; universal address system; traversal algorithms (preorder, inorder, postorder); spanning trees; depth-first search; breath-first search.
     - **Algorithms and Data Structures I**
         - Analysis of `quickSort`.
+    - **Discrete mathematics**
+        - Trees: Tree traversal; universal address system; traversal algorithms (preorder, inorder, postorder); spanning trees; depth-first search; breath-first search.
 - Using `git bisect` and `git bisect run`.
 
 ### 23
@@ -182,10 +189,10 @@ inspiration too.
 
 ### 22
 - University of London
-    - **Discrete mathematics**
-        - Graph theory: Dijkstra's algorithm; bipartite graphs; matching.
     - **Algorithms and Data Structures I**
         - Analysis of `quickSort`.
+    - **Discrete mathematics**
+        - Graph theory: Dijkstra's algorithm; bipartite graphs; matching.
 - Solve [problem 53](https://projecteuler.net/problem=53) on Project Euler: Combinatoric selections.
 
 ### 21
