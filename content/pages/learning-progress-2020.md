@@ -19,6 +19,13 @@ inspiration too.
 ---
 
 ## February
+### 20
+- University of London
+    - **Algorithms and Data Structures I**
+        - Review: Search algorithms and their JavaScript implementation; time complexity and big-O notation.
+    - **Discrete mathematics**
+        - Review: Circuits in Boolean algebra; mathematical induction; K-maps.
+
 ### 19
 - University of London
     - **Algorithms and Data Structures I**
