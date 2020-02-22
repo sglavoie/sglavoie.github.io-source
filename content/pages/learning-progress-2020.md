@@ -19,6 +19,13 @@ inspiration too.
 ---
 
 ## February
+### 21
+- University of London
+    - **Algorithms and Data Structures I**
+        - Review: Worst-case time complexity in search algorithms.
+    - **Discrete mathematics**
+        - Review: Sets operations; relations; propositional logic; functions; Boolean algebra; recursion.
+
 ### 20
 - University of London
     - **Algorithms and Data Structures I**
