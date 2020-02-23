@@ -19,6 +19,14 @@ inspiration too.
 ---
 
 ## February
+### 22
+- University of London
+    - **Algorithms and Data Structures I**
+        - Review: Arrays; vectors; stacks; queues; linked lists.
+    - **Discrete mathematics**
+        - Review: functions; induction; graph theory; trees; relations.
+- Creating a light/dark theme toggle with CSS and JavaScript.
+
 ### 21
 - University of London
     - **Algorithms and Data Structures I**
