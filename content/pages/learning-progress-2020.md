@@ -19,6 +19,11 @@ inspiration too.
 ---
 
 ## February
+### 23
+- University of London
+    - **Discrete mathematics**
+        - Review: Dijkstra's, Prim's & Kruskal's algorithms.
+
 ### 22
 - University of London
     - **Algorithms and Data Structures I**
