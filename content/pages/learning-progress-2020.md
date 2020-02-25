@@ -19,6 +19,13 @@ inspiration too.
 ---
 
 ## February
+### 24
+- University of London
+    - **Algorithms and Data Structures I**
+        - Review: Stacks; linked lists; arrays; Heron's method algorithm; vectors; queues; dynamic arrays; linear search algorithms.
+    - **Discrete mathematics**
+        - Review: graph theory; relations; trees; sets; logic & sequences.
+
 ### 23
 - University of London
     - **Discrete mathematics**
