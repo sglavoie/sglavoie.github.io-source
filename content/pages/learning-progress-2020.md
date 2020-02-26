@@ -19,10 +19,18 @@ inspiration too.
 ---
 
 ## February
+### 25
+- University of London
+    - **Algorithms and Data Structures I**
+        - Review: Bubble sort.
+    - **Discrete mathematics**
+        - Review: propositional logic; propositional equivalences; predicates & quantifiers; nested quantifiers; inference with quantifiers; direct proof; proof by contraposition; proof by contradiction; proof by cases.
+- Set up [XAMPP](https://www.apachefriends.org) with a [Laravel](https://laravel.com) project.
+
 ### 24
 - University of London
     - **Algorithms and Data Structures I**
-        - Review: Stacks; linked lists; arrays; Heron's method algorithm; vectors; queues; dynamic arrays; linear search algorithms.
+        - Review: stacks; linked lists; arrays; Heron's method algorithm; vectors; queues; dynamic arrays; linear search algorithms.
     - **Discrete mathematics**
         - Review: graph theory; relations; trees; sets; logic & sequences.
 
