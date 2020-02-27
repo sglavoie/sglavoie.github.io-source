@@ -19,6 +19,13 @@ inspiration too.
 ---
 
 ## February
+### 26
+- University of London
+    - **Algorithms and Data Structures I**
+        - Review: bubble sort; insertion sort; RAM model; growth of functions.
+    - **Discrete mathematics**
+        - Review: proofs of existence and uniqueness; sets; set operations; set identities; proving set identities; functions; sequences; recurrence relations; summations; matrices; optimization (greedy) algorithms.
+
 ### 25
 - University of London
     - **Algorithms and Data Structures I**
