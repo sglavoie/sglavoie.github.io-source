@@ -19,6 +19,11 @@ inspiration too.
 ---
 
 ## February
+### 27
+- University of London
+    - **Discrete mathematics**
+        - Review: mathematical induction; well ordering principle; strong induction; recursion; structural induction; permutations & combinations; binomial theorem; Pascal's identity.
+
 ### 26
 - University of London
     - **Algorithms and Data Structures I**
