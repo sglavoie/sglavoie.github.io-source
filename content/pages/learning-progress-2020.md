@@ -19,12 +19,17 @@ inspiration too.
 ---
 
 ## February
+### 29
+- University of London
+    - **Discrete mathematics**
+        - Review: equivalence relations; graphs; trees.
+
 ### 28
 - University of London
     - **Algorithms and Data Structures I**
-        - Review: Growth of functions; Big O notation; analysing algorithms; binary search.
+        - Review: growth of functions; Big O notation; analysing algorithms; binary search.
     - **Discrete mathematics**
-        - Review: Recurrence relations; inclusion-exclusion principle; relations & matrices; relations with digraphs; equivalence relations.
+        - Review: recurrence relations; inclusion-exclusion principle; relations & matrices; relations with digraphs; equivalence relations.
 
 ### 27
 - University of London
