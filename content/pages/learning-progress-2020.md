@@ -18,6 +18,14 @@ inspiration too.
 
 ---
 
+## March
+### 1
+- University of London
+    - **Discrete mathematics**
+        - Review: set theory; functions; propositional logic; predicate logic; rules of inference; Boolean algebra; logic gates; Karnaugh maps; mathematical induction.
+
+---
+
 ## February
 ### 29
 - University of London
