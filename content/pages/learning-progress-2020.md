@@ -19,6 +19,11 @@ inspiration too.
 ---
 
 ## March
+### 2
+- University of London
+    - **Discrete mathematics**
+        - Review: mathematical induction; strong induction; recursion; recurrence relations; graph theory; relations; equivalence relations; combinatorics.
+
 ### 1
 - University of London
     - **Discrete mathematics**
