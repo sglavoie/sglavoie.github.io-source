@@ -19,6 +19,11 @@ inspiration too.
 ---
 
 ## March
+### 3
+- University of London
+    - **Algorithms and Data Structures I**
+        - Review: general overview of past topics.
+
 ### 2
 - University of London
     - **Discrete mathematics**
