@@ -19,6 +19,9 @@ inspiration too.
 ---
 
 ## March
+### 6
+- CSS: floats; flexbox.
+
 ### 4
 - University of London
     - **Algorithms and Data Structures I**
