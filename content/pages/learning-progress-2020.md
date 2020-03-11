@@ -19,6 +19,12 @@ save_as: learning-progress-2020.html
 ---
 
 ## March
+
+### 10
+
+- CSS: flexbox re-ordering; responsive images; CSS grids.
+- JavaScript/TypeScript: type checking.
+
 ### 9
 
 - CSS: flexbox grid.
