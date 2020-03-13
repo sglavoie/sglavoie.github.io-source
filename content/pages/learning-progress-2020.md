@@ -20,6 +20,10 @@ save_as: learning-progress-2020.html
 
 ## March
 
+### 12
+
+- CSS: selectors; pseudo-elements; generated content.
+
 ### 11
 
 - CSS: grids; grid-area; grid offsets; grid fallbacks; selectors; levels; specificity.
