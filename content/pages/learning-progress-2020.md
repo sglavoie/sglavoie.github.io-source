@@ -20,6 +20,11 @@ save_as: learning-progress-2020.html
 
 ## March
 
+### 13
+
+- CSS: generated content; media queries; working with colors; flexbox; tables; grids.
+- Review: Emmet.
+
 ### 12
 
 - CSS: selectors; pseudo-elements; generated content.
