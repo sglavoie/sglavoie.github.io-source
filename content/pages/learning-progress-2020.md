@@ -20,6 +20,11 @@ save_as: learning-progress-2020.html
 
 ## March
 
+### 14
+
+- CSS: background and borders; gradients; transforms; transitions; animations; columns; SVG masking.
+- Sass: basics; variables; mixins; functions.
+
 ### 13
 
 - CSS: generated content; media queries; working with colors; flexbox; tables; grids.
