@@ -20,6 +20,12 @@ save_as: learning-progress-2020.html
 
 ## March
 
+### 15
+
+- Review Git: data storage model; areas & staging; stashing; references, commits & branches; merging & rebasing; history & diffs; fixing mistakes; rebase & amend.
+- Sass: functions; control flow; data structures (maps); BEM.
+- VS Code: code navigation & refactoring; type checking; debugging.
+
 ### 14
 
 - CSS: background and borders; gradients; transforms; transitions; animations; columns; SVG masking.
