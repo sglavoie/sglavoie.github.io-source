@@ -20,6 +20,12 @@ save_as: learning-progress-2020.html
 
 ## March
 
+### 16
+
+- JavaScript: types & coercion; scope; `this` & Prototypes.
+- Review Git: rebase & amend; forks & remote repos; destroy & recover.
+- Review JavaScript: events & listeners; event delegation; AJAX; `Node.js`.
+
 ### 15
 
 - Review Git: data storage model; areas & staging; stashing; references, commits & branches; merging & rebasing; history & diffs; fixing mistakes; rebase & amend.
