@@ -20,6 +20,12 @@ save_as: learning-progress-2020.html
 
 ## March
 
+### 17
+
+- JavaScript: objects & arrays; destructuring; scoping.
+- General overview of React, Angular & Vue.
+- Setting up Awesome window manager.
+
 ### 16
 
 - JavaScript: types & coercion; scope; `this` & Prototypes.
