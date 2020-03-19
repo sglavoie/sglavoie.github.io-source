@@ -20,6 +20,10 @@ save_as: learning-progress-2020.html
 
 ## March
 
+### 19
+
+- Chrome developer tools: auditing.
+
 ### 18
 
 - JavaScript: more on scope; callbacks.

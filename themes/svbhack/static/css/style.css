@@ -1,9 +1,22 @@
+@font-face {
+  font-family: 'PT Sans';
+  src: url(../fonts/PT_Sans/PTSans-Regular.ttf);
+}
+@font-face {
+  font-family: 'PT Serif';
+  src: url(../fonts/PT_Serif/PTSerif-Regular.ttf);
+}
+@font-face {
+  font-family: 'PT Mono';
+  src: url(../fonts/PT_Mono/PTMono-Regular.ttf);
+}
+
 body {
   margin: 0;
   padding: 0;
   background-color: #ffffff;
   color: #4d4d4d;
-  font-family: "PT Sans", sans-serif;
+  font-family: 'PT Sans', sans-serif;
   font-size: 18px;
 }
 a {
@@ -57,7 +70,7 @@ aside div#user_meta ul li a {
   border-radius: 15px;
   -moz-border-radius: 15px;
   -webkit-border-radius: 15px;
-  color: #999999;
+  color: #ffffff;
 }
 main header {
   padding: 40px;
@@ -66,7 +79,7 @@ main header {
 }
 main header p {
   font-weight: bold;
-  font-size: 0.6rem;
+  font-size: 0.8rem;
   text-transform: uppercase;
 }
 main article {
@@ -84,16 +97,16 @@ main article div.article_text code {
   padding: 0;
   color: #000000;
   font-size: 0.8rem;
-  font-family: "PT Mono", monospace;
+  font-family: 'PT Mono', monospace;
   background: #eeeeee;
 }
 main article div.article_text pre {
   margin: 22px 2px 22px 2px;
   padding: 2px;
   color: #000000;
-  border-left: 3px solid #0e94ec;
+  border-left: 3px solid #005790;
   font-size: 0.8rem;
-  font-family: "PT Mono", monospace;
+  font-family: 'PT Mono', monospace;
   background: #eeeeee;
   line-height: 1.125em;
   overflow-x: auto;
@@ -101,12 +114,12 @@ main article div.article_text pre {
 main article div.article_text blockquote {
   margin: 22px 2px 22px 2px;
   padding-left: 40px;
-  color: #999999;
+  color: #000864;
   font-style: italic;
 }
 main article div.article_text div.quoteblock {
   border-left: 5px solid #eeeeee;
-  color: #999999;
+  color: #000864;
   margin-bottom: 1.5em;
   margin-left: 1em;
   margin-right: 10%;
@@ -122,8 +135,8 @@ main article div.gist {
 }
 main article div.article_meta,
 div.article_readtime {
-  font-size: 0.7rem;
-  color: #999999;
+  font-size: 0.9rem;
+  color: #000;
 }
 main article div.article_text ul {
   padding: 0 1em 0.5em 2em;
@@ -134,21 +147,21 @@ main footer {
 }
 main footer a.button_accent {
   padding: 8px;
-  border: 2px solid #0e94ec;
+  border: 2px solid #005790;
   border-radius: 20px;
   -moz-border-radius: 20px;
   -webkit-border-radius: 20px;
   text-transform: uppercase;
-  color: #0e94ec;
+  color: #005790;
   font-size: 1rem;
 }
 main footer a.button_accent:hover {
   color: #ffffff;
-  background-color: #0e94ec;
+  background-color: #005790;
 }
 main footer a.button_accent:active {
   color: #ffffff;
-  background-color: #0e94ec;
+  background-color: #005790;
 }
 div.space-out {
   margin-top: 1.5em;
@@ -157,7 +170,7 @@ div.space-out {
 main div#ending_message {
   border-top: #eeeeee 1px solid;
   padding: 0 40px 0 40px;
-  color: #999999;
+  color: #000864;
   font-size: 0.6rem;
 }
 @media screen and (min-width: 600px) {

@@ -1,44 +1,80 @@
 <!DOCTYPE html>
 <html lang="{{ DEFAULT_LANG }}">
-
   <head>
-      <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/style.css">
-      <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/pygments.css">
-      <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=PT+Sans|PT+Serif|PT+Mono">
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="{{ SITEURL }}/theme/css/style.css"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="{{ SITEURL }}/theme/css/pygments.css"
+    />
 
-      <meta charset="utf-8" />
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <meta name="author" content="{{ AUTHOR }}">
-      <meta name="description" content="Posts and writings by {{ AUTHOR }}">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="{{ AUTHOR }}" />
+    <meta name="description" content="Posts and writings by {{ AUTHOR }}" />
 
-      {% if FEED_ALL_ATOM %}
-      <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom" />
-      {% endif %}
-      {% if FEED_ALL_RSS %}
-      <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS" />
-      {% endif %}
+    {% if FEED_ALL_ATOM %}
+    <link
+      href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}"
+      type="application/atom+xml"
+      rel="alternate"
+      title="{{ SITENAME }} Atom"
+    />
+    {% endif %} {% if FEED_ALL_RSS %}
+    <link
+      href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}"
+      type="application/rss+xml"
+      rel="alternate"
+      title="{{ SITENAME }} RSS"
+    />
+    {% endif %}
 
-      <!-- Favicon -->
-      <link rel="apple-touch-icon" sizes="180x180" href="/theme/favicon/apple-touch-icon.png">
-      <link rel="icon" type="image/png" sizes="32x32" href="/theme/favicon/favicon-32x32.png">
-      <link rel="icon" type="image/png" sizes="16x16" href="/theme/favicon/favicon-16x16.png">
-      <link rel="manifest" href="/theme/favicon/site.webmanifest">
-      <link rel="mask-icon" href="/theme/favicon/safari-pinned-tab.svg" color="#5bbad5">
-      <link rel="shortcut icon" href="/theme/favicon/favicon.ico">
-      <meta name="msapplication-TileColor" content="#2d89ef">
-      <meta name="msapplication-TileImage" content="/theme/favicon/mstile-144x144.png">
-      <meta name="msapplication-config" content="/theme/favicon/browserconfig.xml">
-      <meta name="theme-color" content="#000000">
-      <meta name="msapplication-config" content="/theme/favicon/browserconfig.xml">
-      <meta name="theme-color" content="#000000">
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" href="/theme/favicon/apple-touch-icon.png" />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="/theme/favicon/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="/theme/favicon/favicon-16x16.png"
+    />
+    <link rel="manifest" href="/theme/favicon/site.webmanifest" />
+    <link
+      rel="mask-icon"
+      href="/theme/favicon/safari-pinned-tab.svg"
+      color="#5bbad5"
+    />
+    <link rel="shortcut icon" href="/theme/favicon/favicon.ico" />
+    <meta name="msapplication-TileColor" content="#2d89ef" />
+    <meta
+      name="msapplication-TileImage"
+      content="/theme/favicon/mstile-144x144.png"
+    />
+    <meta
+      name="msapplication-config"
+      content="/theme/favicon/browserconfig.xml"
+    />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="msapplication-config"
+      content="/theme/favicon/browserconfig.xml"
+    />
+    <meta name="theme-color" content="#000000" />
 
-      {% block head %}
-      {% endblock %}
+    {% block head %} {% endblock %}
 
-      <title>
-        {{ SITENAME }}
-        {% block title %}{% endblock %}
-      </title>
+    <title>
+      {{ SITENAME }} {% block title %}{% endblock %}
+    </title>
   </head>
 
   <body>
@@ -47,10 +83,20 @@
         {% if not HIDE_USER_LOGO %}
         <a href="{{ SITEURL }}">
           {% if USER_LOGO_URL %}
-          <img src="{{ USER_LOGO_URL }}" alt="logo"
-                                         {%- if ROUND_USER_LOGO %} class="round-img"{% endif %}>
+          <img
+            src="{{ USER_LOGO_URL }}"
+            alt="logo"
+            {%-
+            if
+            ROUND_USER_LOGO
+            %}
+            class="round-img"
+            {%
+            endif
+            %}
+          />
           {% else %}
-          <img src="{{ SITEURL }}/theme/images/logo.png" alt="logo">
+          <img src="{{ SITEURL }}/theme/images/logo.png" alt="logo" />
           {% endif %}
         </a>
         {% endif %}
@@ -59,17 +105,14 @@
         <ul>
           {% for title, link in MENUITEMS %}
           <li><a href="{{ link }}">{{ title }}</a></li>
-          {% endfor %}
-          {% if DISPLAY_PAGES_ON_MENU %}{% for p in pages %}
+          {% endfor %} {% if DISPLAY_PAGES_ON_MENU %}{% for p in pages %}
           <li><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
-          {% endfor %}{% endif %}
-          {% if DISPLAY_CATEGORIES_ON_MENU %}{% for c, _ in categories %}
+          {% endfor %}{% endif %} {% if DISPLAY_CATEGORIES_ON_MENU %}{% for c, _
+          in categories %}
           <li><a href="{{ SITEURL }}/{{ c.url }}">{{ c }}</a></li>
-          {% endfor %}{% endif %}
-          {% for name, link in LINKS %}
+          {% endfor %}{% endif %} {% for name, link in LINKS %}
           <li><a href="{{ link }}" target="_blank">{{ name }}</a></li>
-          {% endfor %}
-          {% for name, link in SOCIAL %}
+          {% endfor %} {% for name, link in SOCIAL %}
           <li><a href="{{ link }}" target="_blank">{{ name }}</a></li>
           {% endfor %}
         </ul>
@@ -79,28 +122,45 @@
     <main>
       <header>
         <p>
-        <a href="{{ SITEURL }}">Index</a> &brvbar; <a href="{{ SITEURL }}/archives.html">Archives</a>
-        &brvbar; <a href="{{ SITEURL }}/tags.html">Tags</a>
-        &brvbar; <a href="{{ SITEURL }}/learning-progress-2020.html">Learning Progress</a>
-        {% if FEED_ALL_ATOM %}
-        &brvbar; <a href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}">Atom</a>
-        {% endif %}
-        {% if FEED_ALL_RSS %}
-        &brvbar; <a href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}">RSS</a>
-        {% endif %}
-        {% block header %}
-        {% endblock header %}
+          <a href="{{ SITEURL }}">Index</a> &brvbar;
+          <a href="{{ SITEURL }}/archives.html">Archives</a> &brvbar;
+          <a href="{{ SITEURL }}/tags.html">Tags</a> &brvbar;
+          <a href="{{ SITEURL }}/learning-progress-2020.html"
+            >Learning Progress</a
+          >
+          {% if FEED_ALL_ATOM %} &brvbar;
+          <a href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}">Atom</a> {% endif %}
+          {% if FEED_ALL_RSS %} &brvbar;
+          <a href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}">RSS</a>
+          {% endif %} {% block header %} {% endblock header %}
         </p>
       </header>
 
-      {% block content %}
-      {% endblock %}
-
-      {% block footer %}
-      {% endblock %}
+      {% block content %} {% endblock %} {% block footer %} {% endblock %}
 
       <div id="ending_message">
-        <p>&copy; {{ AUTHOR }}. Built in <a href="https://www.python.org/" target="_blank">Python</a> using <a href="http://getpelican.com" target="_blank">Pelican</a>. Theme adapted from Giulio Fidente on <a href="https://github.com/gfidente/pelican-svbhack" target="_blank">GitHub</a>.</p>
+        <p>
+          &copy; {{ AUTHOR }}. Built in
+          <a
+            href="https://www.python.org/"
+            target="_blank"
+            rel="noopener noreferrer"
+            >Python</a
+          >
+          using
+          <a
+            href="http://getpelican.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            >Pelican</a
+          >. Theme adapted from Giulio Fidente on
+          <a
+            href="https://github.com/gfidente/pelican-svbhack"
+            target="_blank"
+            rel="noopener noreferrer"
+            >GitHub</a
+          >.
+        </p>
       </div>
     </main>
   </body>
