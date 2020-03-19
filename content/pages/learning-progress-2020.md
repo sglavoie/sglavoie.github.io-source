@@ -20,6 +20,11 @@ save_as: learning-progress-2020.html
 
 ## March
 
+### 18
+
+- JavaScript: more on scope; callbacks.
+- Chrome developer tools: editing; DOM breakpoints; debugging; networking.
+
 ### 17
 
 - JavaScript: objects & arrays; destructuring; scoping.
