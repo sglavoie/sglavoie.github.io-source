@@ -23,6 +23,7 @@ save_as: learning-progress-2020.html
 ### 19
 
 - Chrome developer tools: auditing.
+- Review Bash: exit codes and logical operators.
 
 ### 18
 
