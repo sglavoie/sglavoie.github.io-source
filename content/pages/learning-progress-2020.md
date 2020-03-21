@@ -20,6 +20,11 @@ save_as: learning-progress-2020.html
 
 ## March
 
+### 20
+
+- Chrome developer tools: `Node.js` profiling; performance monitoring; image performance; page jank; memory leaks.
+- JavaScript: thread of execution; functions (higher order, arrow); call stack.
+
 ### 19
 
 - Chrome developer tools: auditing.
