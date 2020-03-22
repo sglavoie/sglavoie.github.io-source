@@ -20,6 +20,10 @@ save_as: learning-progress-2020.html
 
 ## March
 
+### 21
+
+- JavaScript: arrow functions; closures.
+
 ### 20
 
 - Chrome developer tools: `Node.js` profiling; performance monitoring; image performance; page jank; memory leaks.
