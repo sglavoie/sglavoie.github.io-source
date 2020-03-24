@@ -20,6 +20,11 @@ save_as: learning-progress-2020.html
 
 ## March
 
+### 23
+
+- JavaScript: closures.
+- Extending `st` terminal with patches.
+
 ### 21
 
 - JavaScript: arrow functions; closures.
