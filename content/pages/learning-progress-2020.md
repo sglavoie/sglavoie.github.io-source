@@ -20,6 +20,10 @@ save_as: learning-progress-2020.html
 
 ## March
 
+### 24
+
+- Python: data wrangling with `xlrd` Python module; tabular data packages.
+
 ### 23
 
 - JavaScript: closures.
