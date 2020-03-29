@@ -20,6 +20,24 @@ save_as: learning-progress-2020.html
 
 ## March
 
+### 28
+
+- JavaScript: factory functions; prototype chain; `hasOwnProperty`; `this`, `new` and `class` keywords.
+
+### 27
+
+- Desktop environments: Setting up `KDE Plasma 5.18` and `GNOME 3.36`.
+- JavaScript: classes & prototypes; object dot notation.
+
+### 26
+
+- Desktop environment: `XFCE`.
+- JavaScript: asynchronous features; web API; event loop; promises.
+
+### 25
+
+- Window manager: `bspwm`.
+
 ### 24
 
 - Python: data wrangling with `xlrd` Python module; tabular data packages.
