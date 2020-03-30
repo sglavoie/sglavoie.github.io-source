@@ -20,6 +20,11 @@ save_as: learning-progress-2020.html
 
 ## March
 
+### 29
+
+- Getting started with CI.
+- JavaScript review: primitive types; `typeof`, `NaN`, `isNaN`; type checking.
+
 ### 28
 
 - JavaScript: factory functions; prototype chain; `hasOwnProperty`; `this`, `new` and `class` keywords.
