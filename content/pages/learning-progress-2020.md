@@ -20,6 +20,11 @@ save_as: learning-progress-2020.html
 
 ## March
 
+### 30
+
+- JavaScript review: coercion.
+- Review regular expressions and SVG concepts.
+
 ### 29
 
 - Getting started with CI.
