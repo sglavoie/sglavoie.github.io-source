@@ -20,6 +20,10 @@ save_as: learning-progress-2020.html
 
 ## March
 
+### 31
+
+- JavaScript review: more on coercion; equality.
+
 ### 30
 
 - JavaScript review: coercion.
