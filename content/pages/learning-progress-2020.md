@@ -18,6 +18,15 @@ save_as: learning-progress-2020.html
 
 ---
 
+## April
+
+### 1
+
+- JavaScript review: more on equality.
+- Python review: basic data types (numbers, strings); lists; dictionaries; [Pandas Tutorial (Part 1): Getting Started with Data Analysis](https://www.youtube.com/watch?v=ZyhVh-qRZPA).
+
+---
+
 ## March
 
 ### 31
