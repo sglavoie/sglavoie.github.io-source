@@ -20,6 +20,13 @@ save_as: learning-progress-2020.html
 
 ## April
 
+### 2
+
+- [Python on Pluralsight](https://app.pluralsight.com/library/courses/advanced-python/table-of-contents)
+  - Advanced flow control: `loop-else` clauses [nobreak]; `try-else` clauses; emulating `switch` statements; dispatching on types (`singledispatch` decorator).
+  - Byte-oriented programming: bitwise operations on integers; byte-wise operations with integers; bytearray type; `struct` module.
+- Setting up Neo Vim plugin in VS Code.
+
 ### 1
 
 - JavaScript review: more on equality.
