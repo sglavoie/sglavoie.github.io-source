@@ -20,11 +20,17 @@ save_as: learning-progress-2020.html
 
 ## April
 
+### 3
+
+- [Python on Pluralsight](https://app.pluralsight.com/library/courses/advanced-python/table-of-contents)
+    - Byte-oriented programming: `memoryview` type; memory-mapped files.
+- Setting up `coc.nvim` autocompletion in Neovim.
+
 ### 2
 
 - [Python on Pluralsight](https://app.pluralsight.com/library/courses/advanced-python/table-of-contents)
-  - Advanced flow control: `loop-else` clauses [nobreak]; `try-else` clauses; emulating `switch` statements; dispatching on types (`singledispatch` decorator).
-  - Byte-oriented programming: bitwise operations on integers; byte-wise operations with integers; bytearray type; `struct` module.
+    - Advanced flow control: `loop-else` clauses [nobreak]; `try-else` clauses; emulating `switch` statements; dispatching on types (`singledispatch` decorator).
+    - Byte-oriented programming: bitwise operations on integers; byte-wise operations with integers; bytearray type; `struct` module.
 - Setting up Neo Vim plugin in VS Code.
 
 ### 1
@@ -150,8 +156,8 @@ save_as: learning-progress-2020.html
 ### 4
 
 - University of London
-  - **Algorithms and Data Structures I**
-    - Review: general overview of past topics.
+    - **Algorithms and Data Structures I**
+        - Review: general overview of past topics.
 
 ### 3
 
@@ -162,14 +168,14 @@ save_as: learning-progress-2020.html
 ### 2
 
 - University of London
-  - **Discrete mathematics**
-    - Review: mathematical induction; strong induction; recursion; recurrence relations; graph theory; relations; equivalence relations; combinatorics.
+    - **Discrete mathematics**
+        - Review: mathematical induction; strong induction; recursion; recurrence relations; graph theory; relations; equivalence relations; combinatorics.
 
 ### 1
 
 - University of London
-  - **Discrete mathematics**
-    - Review: set theory; functions; propositional logic; predicate logic; rules of inference; Boolean algebra; logic gates; Karnaugh maps; mathematical induction.
+    - **Discrete mathematics**
+        - Review: set theory; functions; propositional logic; predicate logic; rules of inference; Boolean algebra; logic gates; Karnaugh maps; mathematical induction.
 
 ---
 
@@ -178,30 +184,30 @@ save_as: learning-progress-2020.html
 ### 29
 
 - University of London
-  - **Discrete mathematics**
-    - Review: equivalence relations; graphs; trees.
+    - **Discrete mathematics**
+        - Review: equivalence relations; graphs; trees.
 
 ### 28
 
 - University of London
-  - **Algorithms and Data Structures I**
-    - Review: growth of functions; Big O notation; analysing algorithms; binary search.
-  - **Discrete mathematics**
-    - Review: recurrence relations; inclusion-exclusion principle; relations & matrices; relations with digraphs; equivalence relations.
+    - **Algorithms and Data Structures I**
+        - Review: growth of functions; Big O notation; analysing algorithms; binary search.
+    - **Discrete mathematics**
+        - Review: recurrence relations; inclusion-exclusion principle; relations & matrices; relations with digraphs; equivalence relations.
 
 ### 27
 
 - University of London
-  - **Discrete mathematics**
-    - Review: mathematical induction; well ordering principle; strong induction; recursion; structural induction; permutations & combinations; binomial theorem; Pascal's identity.
+    - **Discrete mathematics**
+        - Review: mathematical induction; well ordering principle; strong induction; recursion; structural induction; permutations & combinations; binomial theorem; Pascal's identity.
 
 ### 26
 
 - University of London
-  - **Algorithms and Data Structures I**
-    - Review: bubble sort; insertion sort; RAM model; growth of functions.
-  - **Discrete mathematics**
-    - Review: proofs of existence and uniqueness; sets; set operations; set identities; proving set identities; functions; sequences; recurrence relations; summations; matrices; optimization (greedy) algorithms.
+    - **Algorithms and Data Structures I**
+        - Review: bubble sort; insertion sort; RAM model; growth of functions.
+    - **Discrete mathematics**
+        - Review: proofs of existence and uniqueness; sets; set operations; set identities; proving set identities; functions; sequences; recurrence relations; summations; matrices; optimization (greedy) algorithms.
 
 ### 25
 
