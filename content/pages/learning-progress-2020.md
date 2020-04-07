@@ -19,6 +19,15 @@ save_as: learning-progress-2020.html
 ---
 
 ## April
+### 6
+- [Python on Pluralsight](https://app.pluralsight.com/library/courses/advanced-python/table-of-contents)
+    - Metaclasses: class allocation and initialisation; keyword arguments; `__prepare__`; `__new__`; `__init__`; inheritance.
+    - Class decorators: enforcing class invariant; wrapping properties; chaining class decorators.
+    - Abstract base classes basics.
+- [Best Practices for Code Quality](https://app.pluralsight.com/library/courses/python-best-practices-code-quality/table-of-contents): PEP8; Pylint; Pycodestyle; documenting a project with Sphinx and Apidoc; introduction to type checking.
+- [Managing Python Packages and Virtual Environments](https://app.pluralsight.com/library/courses/managing-python-packages-virtual-environments/table-of-contents): manage packages with `pip`; setting up virtual environments; short introduction to `tox`; `virtualenvwrapper`; `pipenv`; `poetry`.
+
+
 ### 5
 - [Python on Pluralsight](https://app.pluralsight.com/library/courses/advanced-python/table-of-contents)
     - Byte-oriented programming overview: Memory-mapped files.
