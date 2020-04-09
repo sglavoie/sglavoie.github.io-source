@@ -19,6 +19,19 @@ save_as: learning-progress-2020.html
 ---
 
 ## April
+### 8
+- Review: [Python: Beyond the Basics on Pluralsight](https://app.pluralsight.com/library/courses/python-beyond-basics/table-of-contents)
+    - Functions: extended argument syntax (`*args`, `**kwargs`); forwarding arguments.
+    - Closures & decorators: local functions; returning functions; function factories; `nonlocal` keyword; decorators; `functools.wrap()`; validating arguments.
+    - Properties & class methods: class attributes; `@staticmethod`; `@classmethod`; inheritance, `@property`.
+    - Strings and representations: `repr`; `str`; `format`; `reprlib`; `ascii`; `ord`; `chr`.
+    - Numeric and scalar types: `int`, `float`; `decimal`; `fraction`; `complex`.
+
+### 7
+- Review: [Python: Beyond the Basics on Pluralsight](https://app.pluralsight.com/library/courses/python-beyond-basics/table-of-contents)
+    - Organizing larger programs: packages; subpackages; imports; namespaces.
+    - Functions: callable objects; calling classes; lambdas; arguments.
+
 ### 6
 - [Python on Pluralsight](https://app.pluralsight.com/library/courses/advanced-python/table-of-contents)
     - Metaclasses: class allocation and initialisation; keyword arguments; `__prepare__`; `__new__`; `__init__`; inheritance.
