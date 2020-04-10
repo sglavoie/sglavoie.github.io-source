@@ -19,6 +19,12 @@ save_as: learning-progress-2020.html
 ---
 
 ## April
+### 9
+- Review: [Python: Beyond the Basics on Pluralsight](https://app.pluralsight.com/library/courses/python-beyond-basics/table-of-contents)
+- Numeric and scalar types: `complex`, `abs`; number base conversions; `datetime`; `time`; `timedelta`; time zones; computational geometry.
+- Iterables & iteration: list, dictionary, set & generator comprehensions; nested comprehensions; `map()`; `filter()`; `functools.reduce()`.
+- Inheritance and subtype polymorphism: `isinstance()`; `issubclass()`; multiple inheritance; `super()`; bound proxies.
+
 ### 8
 - Review: [Python: Beyond the Basics on Pluralsight](https://app.pluralsight.com/library/courses/python-beyond-basics/table-of-contents)
     - Functions: extended argument syntax (`*args`, `**kwargs`); forwarding arguments.
