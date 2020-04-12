@@ -20,53 +20,59 @@ save_as: learning-progress-2020.html
 
 ## April
 ### 11
-- Review: [Python: Beyond the Basics on Pluralsight](https://app.pluralsight.com/library/courses/python-beyond-basics/table-of-contents)
-- [Setting up multiple email addresses with Git](https://www.kevinkuszyk.com/2018/12/10/git-tips-6-using-git-with-multiple-email-addresses/).
+- **Datopian**
+    - Review: [Python: Beyond the Basics on Pluralsight](https://app.pluralsight.com/library/courses/python-beyond-basics/table-of-contents).
+    - [Setting up multiple email addresses with Git](https://www.kevinkuszyk.com/2018/12/10/git-tips-6-using-git-with-multiple-email-addresses/).
 
 ### 10
-- Review: [Python: Beyond the Basics on Pluralsight](https://app.pluralsight.com/library/courses/python-beyond-basics/table-of-contents)
-    - Inheritance and subtype polymorphism: `object` class.
-    - Implementing collections: collection construction; container protocol (`in`, `not in`, `__contains__()`); sized protocol (`len`, `__len__()`); iterable protocol (`iter()`, `__iter__()`); sequence protocol (dunder `add`, `mul`, `rmul`, `reversed`); set protocol ().
-    - Exceptions & errors: specifying exceptions; payloads; defining new exceptions; chaining exception; chaining exceptions; tracebacks; assertions.
-    - Defining context managers: protocol (`__enter__()`, `__exit__()`); `contextlib`.
-    - Introspection: object types; introspecting objects & scopes; `inspect` module.
-- Setting boot parameters to fix occasional screen tear (Debian boot option used: `intel_idle.max_cstate=4` in `/etc/default/grub` and `Option "TearFree" "true"` in `20-intel.conf`).
+- **Datopian**
+    - Review: [Python: Beyond the Basics on Pluralsight](https://app.pluralsight.com/library/courses/python-beyond-basics/table-of-contents).
+        - Inheritance and subtype polymorphism: `object` class.
+        - Implementing collections: collection construction; container protocol (`in`, `not in`, `__contains__()`); sized protocol (`len`, `__len__()`); iterable protocol (`iter()`, `__iter__()`); sequence protocol (dunder `add`, `mul`, `rmul`, `reversed`); set protocol ().
+        - Exceptions & errors: specifying exceptions; payloads; defining new exceptions; chaining exception; chaining exceptions; tracebacks; assertions.
+        - Defining context managers: protocol (`__enter__()`, `__exit__()`); `contextlib`.
+        - Introspection: object types; introspecting objects & scopes; `inspect` module.
+    - Setting boot parameters to fix occasional screen tear (Debian boot option used: `intel_idle.max_cstate=4` in `/etc/default/grub` and `Option "TearFree" "true"` in `20-intel.conf`).
 
 ### 9
-- Review: [Python: Beyond the Basics on Pluralsight](https://app.pluralsight.com/library/courses/python-beyond-basics/table-of-contents)
-    - Numeric and scalar types: `complex`, `abs`; number base conversions; `datetime`; `time`; `timedelta`; time zones; computational geometry.
-    - Iterables & iteration: list, dictionary, set & generator comprehensions; nested comprehensions; `map()`; `filter()`; `functools.reduce()`.
-    - Inheritance and subtype polymorphism: `isinstance()`; `issubclass()`; multiple inheritance; `super()`; bound proxies.
+- **Datopian**
+    - Review: [Python: Beyond the Basics on Pluralsight](https://app.pluralsight.com/library/courses/python-beyond-basics/table-of-contents).
+        - Numeric and scalar types: `complex`, `abs`; number base conversions; `datetime`; `time`; `timedelta`; time zones; computational geometry.
+        - Iterables & iteration: list, dictionary, set & generator comprehensions; nested comprehensions; `map()`; `filter()`; `functools.reduce()`.
+        - Inheritance and subtype polymorphism: `isinstance()`; `issubclass()`; multiple inheritance; `super()`; bound proxies.
 
 ### 8
-- Review: [Python: Beyond the Basics on Pluralsight](https://app.pluralsight.com/library/courses/python-beyond-basics/table-of-contents)
-    - Functions: extended argument syntax (`*args`, `**kwargs`); forwarding arguments.
-    - Closures & decorators: local functions; returning functions; function factories; `nonlocal` keyword; decorators; `functools.wrap()`; validating arguments.
-    - Properties & class methods: class attributes; `@staticmethod`; `@classmethod`; inheritance, `@property`.
-    - Strings and representations: `repr`; `str`; `format`; `reprlib`; `ascii`; `ord`; `chr`.
-    - Numeric and scalar types: `int`, `float`; `decimal`; `fraction`; `complex`.
+- **Datopian**
+    - Review: [Python: Beyond the Basics on Pluralsight](https://app.pluralsight.com/library/courses/python-beyond-basics/table-of-contents).
+        - Functions: extended argument syntax (`*args`, `**kwargs`); forwarding arguments.
+        - Closures & decorators: local functions; returning functions; function factories; `nonlocal` keyword; decorators; `functools.wrap()`; validating arguments.
+        - Properties & class methods: class attributes; `@staticmethod`; `@classmethod`; inheritance, `@property`.
+        - Strings and representations: `repr`; `str`; `format`; `reprlib`; `ascii`; `ord`; `chr`.
+        - Numeric and scalar types: `int`, `float`; `decimal`; `fraction`; `complex`.
 
 ### 7
-- Review: [Python: Beyond the Basics on Pluralsight](https://app.pluralsight.com/library/courses/python-beyond-basics/table-of-contents)
-    - Organizing larger programs: packages; subpackages; imports; namespaces.
-    - Functions: callable objects; calling classes; lambdas; arguments.
+- **Datopian**
+    - Review: [Python: Beyond the Basics on Pluralsight](https://app.pluralsight.com/library/courses/python-beyond-basics/table-of-contents).
+        - Organizing larger programs: packages; subpackages; imports; namespaces.
+        - Functions: callable objects; calling classes; lambdas; arguments.
 
 ### 6
-- [Python on Pluralsight](https://app.pluralsight.com/library/courses/advanced-python/table-of-contents)
-    - Metaclasses: class allocation and initialisation; keyword arguments; `__prepare__`; `__new__`; `__init__`; inheritance.
-    - Class decorators: enforcing class invariant; wrapping properties; chaining class decorators.
-    - Abstract base classes basics.
-- [Best Practices for Code Quality](https://app.pluralsight.com/library/courses/python-best-practices-code-quality/table-of-contents): PEP8; Pylint; Pycodestyle; documenting a project with Sphinx and Apidoc; introduction to type checking.
-- [Managing Python Packages and Virtual Environments](https://app.pluralsight.com/library/courses/managing-python-packages-virtual-environments/table-of-contents): manage packages with `pip`; setting up virtual environments; short introduction to `tox`; `virtualenvwrapper`; `pipenv`; `poetry`.
-
+- **Datopian**
+    - [Python on Pluralsight](https://app.pluralsight.com/library/courses/advanced-python/table-of-contents).
+        - Metaclasses: class allocation and initialisation; keyword arguments; `__prepare__`; `__new__`; `__init__`; inheritance.
+        - Class decorators: enforcing class invariant; wrapping properties; chaining class decorators.
+        - Abstract base classes basics.
+    - [Best Practices for Code Quality](https://app.pluralsight.com/library/courses/python-best-practices-code-quality/table-of-contents): PEP8; Pylint; Pycodestyle; documenting a project with Sphinx and Apidoc; introduction to type checking.
+    - [Managing Python Packages and Virtual Environments](https://app.pluralsight.com/library/courses/managing-python-packages-virtual-environments/table-of-contents): manage packages with `pip`; setting up virtual environments; short introduction to `tox`; `virtualenvwrapper`; `pipenv`; `poetry`.
 
 ### 5
-- [Python on Pluralsight](https://app.pluralsight.com/library/courses/advanced-python/table-of-contents)
-    - Byte-oriented programming overview: Memory-mapped files.
-    - Objects internals and custom attributes overview: `__dict__`; `__getattr__()`; `__hasattr__()`; `__delattr__()`; `__setattr__()`; attribute storage; `__getattribute__`.
-    - Descriptors overview: properties; implementation.
-    - Instance creation overview: allocation with `__new__()`.
-- Setting up virtual environments properly in Neovim.
+- **Datopian**
+    - [Python on Pluralsight](https://app.pluralsight.com/library/courses/advanced-python/table-of-contents).
+        - Byte-oriented programming overview: Memory-mapped files.
+        - Objects internals and custom attributes overview: `__dict__`; `__getattr__()`; `__hasattr__()`; `__delattr__()`; `__setattr__()`; attribute storage; `__getattribute__`.
+        - Descriptors overview: properties; implementation.
+        - Instance creation overview: allocation with `__new__()`.
+    - Setting up virtual environments properly in Neovim.
 
 ### 4
 - Configuring Markdown Preview in Neovim.
@@ -74,84 +80,102 @@ save_as: learning-progress-2020.html
 - Using Neovim as `difftool` with Git.
 
 ### 3
-- [Python on Pluralsight](https://app.pluralsight.com/library/courses/advanced-python/table-of-contents)
-    - Byte-oriented programming: `memoryview` type; memory-mapped files.
-- Setting up `coc.nvim` autocompletion in Neovim.
+- **Datopian**
+    - [Python on Pluralsight](https://app.pluralsight.com/library/courses/advanced-python/table-of-contents).
+        - Byte-oriented programming: `memoryview` type; memory-mapped files.
+    - Setting up `coc.nvim` autocompletion in Neovim.
 
 ### 2
-- [Python on Pluralsight](https://app.pluralsight.com/library/courses/advanced-python/table-of-contents)
-    - Advanced flow control: `loop-else` clauses [nobreak]; `try-else` clauses; emulating `switch` statements; dispatching on types (`singledispatch` decorator).
-    - Byte-oriented programming: bitwise operations on integers; byte-wise operations with integers; bytearray type; `struct` module.
+- **Datopian**
+    - [Python on Pluralsight](https://app.pluralsight.com/library/courses/advanced-python/table-of-contents)
+        - Advanced flow control: `loop-else` clauses [nobreak]; `try-else` clauses; emulating `switch` statements; dispatching on types (`singledispatch` decorator).
+        - Byte-oriented programming: bitwise operations on integers; byte-wise operations with integers; bytearray type; `struct` module.
 - Setting up Neo Vim plugin in VS Code.
 
 ### 1
-- JavaScript review: more on equality.
-- Python review: basic data types (numbers, strings); lists; dictionaries; [Pandas Tutorial (Part 1): Getting Started with Data Analysis](https://www.youtube.com/watch?v=ZyhVh-qRZPA).
+- **Datopian**
+    - JavaScript review: more on equality.
+    - Python review: basic data types (numbers, strings); lists; dictionaries; [Pandas Tutorial (Part 1): Getting Started with Data Analysis](https://www.youtube.com/watch?v=ZyhVh-qRZPA).
 
 ---
 
 ## March
 ### 31
-- JavaScript review: more on coercion; equality.
+- **Datopian**
+    - JavaScript review: more on coercion; equality.
 
 ### 30
-- JavaScript review: coercion.
-- Review regular expressions and SVG concepts.
+- **Datopian**
+    - JavaScript review: coercion.
+    - Review regular expressions and SVG concepts.
 
 ### 29
-- Getting started with CI.
-- JavaScript review: primitive types; `typeof`, `NaN`, `isNaN`; type checking.
+- **Datopian**
+    - Getting started with CI.
+    - JavaScript review: primitive types; `typeof`, `NaN`, `isNaN`; type checking.
 
 ### 28
-- JavaScript: factory functions; prototype chain; `hasOwnProperty`; `this`, `new` and `class` keywords.
+- **Datopian**
+    - JavaScript: factory functions; prototype chain; `hasOwnProperty`; `this`, `new` and `class` keywords.
 
 ### 27
+- **Datopian**
+    - JavaScript: classes & prototypes; object dot notation.
 - Desktop environments: Setting up `KDE Plasma 5.18` and `GNOME 3.36`.
-- JavaScript: classes & prototypes; object dot notation.
 
 ### 26
+- **Datopian**
+    - JavaScript: asynchronous features; web API; event loop; promises.
 - Desktop environment: `XFCE`.
-- JavaScript: asynchronous features; web API; event loop; promises.
 
 ### 25
 - Window manager: `bspwm`.
 
 ### 24
-- Python: data wrangling with `xlrd` Python module; tabular data packages.
+- **Datopian**
+    - Python: data wrangling with `xlrd` Python module; tabular data packages.
 
 ### 23
-- JavaScript: closures.
+- **Datopian**
+    - JavaScript: closures.
 - Extending `st` terminal with patches.
 
 ### 21
-- JavaScript: arrow functions; closures.
+- **Datopian**
+    - JavaScript: arrow functions; closures.
 
 ### 20
-- Chrome developer tools: `Node.js` profiling; performance monitoring; image performance; page jank; memory leaks.
-- JavaScript: thread of execution; functions (higher order, arrow); call stack.
+- **Datopian**
+    - Chrome developer tools: `Node.js` profiling; performance monitoring; image performance; page jank; memory leaks.
+    - JavaScript: thread of execution; functions (higher order, arrow); call stack.
 
 ### 19
-- Chrome developer tools: auditing.
-- Review Bash: exit codes and logical operators.
+- **Datopian**
+    - Chrome developer tools: auditing.
+    - Review Bash: exit codes and logical operators.
 
 ### 18
-- JavaScript: more on scope; callbacks.
-- Chrome developer tools: editing; DOM breakpoints; debugging; networking.
+- **Datopian**
+    - JavaScript: more on scope; callbacks.
+    - Chrome developer tools: editing; DOM breakpoints; debugging; networking.
 
 ### 17
-- JavaScript: objects & arrays; destructuring; scoping.
-- General overview of React, Angular & Vue.
+- **Datopian**
+    - JavaScript: objects & arrays; destructuring; scoping.
+    - General overview of React, Angular & Vue.
 - Setting up Awesome window manager.
 
 ### 16
-- JavaScript: types & coercion; scope; `this` & Prototypes.
-- Review Git: rebase & amend; forks & remote repos; destroy & recover.
-- Review JavaScript: events & listeners; event delegation; AJAX; `Node.js`.
+- **Datopian**
+    - JavaScript: types & coercion; scope; `this` & Prototypes.
+    - Review Git: rebase & amend; forks & remote repos; destroy & recover.
+    - Review JavaScript: events & listeners; event delegation; AJAX; `Node.js`.
 
 ### 15
-- Review Git: data storage model; areas & staging; stashing; references, commits & branches; merging & rebasing; history & diffs; fixing mistakes; rebase & amend.
-- Sass: functions; control flow; data structures (maps); BEM.
-- VS Code: code navigation & refactoring; type checking; debugging.
+- **Datopian**
+    - Review Git: data storage model; areas & staging; stashing; references, commits & branches; merging & rebasing; history & diffs; fixing mistakes; rebase & amend.
+    - Sass: functions; control flow; data structures (maps); BEM.
+    - VS Code: code navigation & refactoring; type checking; debugging.
 
 ### 14
 - CSS: background and borders; gradients; transforms; transitions; animations; columns; SVG masking.
