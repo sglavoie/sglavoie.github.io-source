@@ -19,6 +19,10 @@ save_as: learning-progress-2020.html
 ---
 
 ## April
+### 11
+- Review: [Python: Beyond the Basics on Pluralsight](https://app.pluralsight.com/library/courses/python-beyond-basics/table-of-contents)
+- [Setting up multiple email addresses with Git](https://www.kevinkuszyk.com/2018/12/10/git-tips-6-using-git-with-multiple-email-addresses/).
+
 ### 10
 - Review: [Python: Beyond the Basics on Pluralsight](https://app.pluralsight.com/library/courses/python-beyond-basics/table-of-contents)
     - Inheritance and subtype polymorphism: `object` class.
