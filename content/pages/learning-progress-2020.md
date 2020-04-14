@@ -19,6 +19,11 @@ save_as: learning-progress-2020.html
 ---
 
 ## April
+### 13
+- **Datopian**
+    - GitLab: maintaining various GPG/SSH keys for different accounts; working with merge requests.
+    - Creating functional timesheet with Google Sheets.
+
 ### 12
 - **Datopian**
     - Review GitLab ([from GitLab](https://docs.gitlab.com/ee/topics/gitlab_flow.html)): Git flow; GitHub flow; GitLab flow; merge requests; issue tracking; squashing; committing; testing commits; feature branches.
