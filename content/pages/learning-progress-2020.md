@@ -19,6 +19,13 @@ save_as: learning-progress-2020.html
 ---
 
 ## April
+### 14
+- **Datopian**
+    - Job stories; GTD methodology.
+    - Converting regex patterns in search & replace to uppercase in VS Code ([https://stackoverflow.com/a/50467298/8787680](https://stackoverflow.com/a/50467298/8787680)).
+    - Fixing launch error with Yarn ([https://stackoverflow.com/a/60752997/8787680](https://stackoverflow.com/a/60752997/8787680)).
+    - How to properly rebase a branch ([https://jeffkreeftmeijer.com/git-rebase/](https://jeffkreeftmeijer.com/git-rebase/)).
+
 ### 13
 - **Datopian**
     - GitLab: maintaining various GPG/SSH keys for different accounts; working with merge requests.
