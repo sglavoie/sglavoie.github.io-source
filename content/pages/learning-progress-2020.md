@@ -19,6 +19,14 @@ save_as: learning-progress-2020.html
 ---
 
 ## April
+### 16
+- **Datopian**
+    - Publishing to DataHub.io with `data-cli`; learning about CKAN, trying a local instance, getting to know the API and building an extension.
+
+### 15
+- **Datopian**
+    - Job stories and Data Packages; updating NodeJS as part of the package manager on Debian.
+
 ### 14
 - **Datopian**
     - Job stories; GTD methodology.
