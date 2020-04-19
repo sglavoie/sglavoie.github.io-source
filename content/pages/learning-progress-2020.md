@@ -19,6 +19,13 @@ save_as: learning-progress-2020.html
 ---
 
 ## April
+### 18
+- Pandas: updating rows and columns; add/remove rows and columns; sorting; grouping and aggregating, cleaning data.
+
+### 17
+- Pandas: unpivot data; creating dataframes from CSV files; set, reset, and use indexes; using conditionals to filter rows and columns; updating rows and columns.
+- Use and configure [spectrwm](https://github.com/conformal/spectrwm).
+
 ### 16
 - **Datopian**
     - Publishing to DataHub.io with `data-cli`; learning about CKAN, trying a local instance, getting to know the API and building an extension.
@@ -42,12 +49,12 @@ save_as: learning-progress-2020.html
 ### 12
 - **Datopian**
     - Review GitLab ([from GitLab](https://docs.gitlab.com/ee/topics/gitlab_flow.html)): Git flow; GitHub flow; GitLab flow; merge requests; issue tracking; squashing; committing; testing commits; feature branches.
-    - Read [Git team workflows: merge or rebase?](https://www.atlassian.com/blog/git/git-team-workflows-merge-or-rebase) from Atlassian.
-    - Review [A Note About Git Commit Messages](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html) from Tim Pope.
     - Read [Style Guides](https://playbook.datopian.com/style-guide/#style-guides).
     - [Importing Data: Python Data Playbook](https://app.pluralsight.com/library/courses/python-importing-data-playbook).
         - Importing text with NumPy.
         - Importing CSV with `csv` module and Pandas.
+- Read [Git team workflows: merge or rebase?](https://www.atlassian.com/blog/git/git-team-workflows-merge-or-rebase) from Atlassian.
+- Review [A Note About Git Commit Messages](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html) from Tim Pope.
 - Review [Linux Command Line Pipes and Redirection](https://www.youtube.com/watch?v=mV_8GbzwZMM).
 
 ### 11
