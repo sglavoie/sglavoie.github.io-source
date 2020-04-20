@@ -19,6 +19,9 @@ save_as: learning-progress-2020.html
 ---
 
 ## April
+### 19
+- Pandas: working with dates and time series data, reading/writing data to different sources - Excel, JSON, SQL.
+
 ### 18
 - Pandas: updating rows and columns; add/remove rows and columns; sorting; grouping and aggregating, cleaning data.
 
