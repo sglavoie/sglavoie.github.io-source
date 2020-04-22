@@ -19,6 +19,15 @@ save_as: learning-progress-2020.html
 ---
 
 ## April
+### 20
+- Datopian
+    - Review Vim regular expressions.
+- University of London
+    - **Algorithms and Data Structures II**
+        - Introduction to the analysis of algorithms; growth of functions.
+    - **Object-Oriented Programming**
+        - Introduction to C++; extraction operator.
+
 ### 19
 - Pandas: working with dates and time series data, reading/writing data to different sources - Excel, JSON, SQL.
 
@@ -30,27 +39,27 @@ save_as: learning-progress-2020.html
 - Use and configure [spectrwm](https://github.com/conformal/spectrwm).
 
 ### 16
-- **Datopian**
+- Datopian
     - Publishing to DataHub.io with `data-cli`; learning about CKAN, trying a local instance, getting to know the API and building an extension.
 
 ### 15
-- **Datopian**
+- Datopian
     - Job stories and Data Packages; updating NodeJS as part of the package manager on Debian.
 
 ### 14
-- **Datopian**
+- Datopian
     - Job stories; GTD methodology.
     - Converting regex patterns in search & replace to uppercase in VS Code ([https://stackoverflow.com/a/50467298/8787680](https://stackoverflow.com/a/50467298/8787680)).
     - Fixing launch error with Yarn ([https://stackoverflow.com/a/60752997/8787680](https://stackoverflow.com/a/60752997/8787680)).
     - How to properly rebase a branch ([https://jeffkreeftmeijer.com/git-rebase/](https://jeffkreeftmeijer.com/git-rebase/)).
 
 ### 13
-- **Datopian**
+- Datopian
     - GitLab: maintaining various GPG/SSH keys for different accounts; working with merge requests.
     - Creating functional timesheet with Google Sheets.
 
 ### 12
-- **Datopian**
+- Datopian
     - Review GitLab ([from GitLab](https://docs.gitlab.com/ee/topics/gitlab_flow.html)): Git flow; GitHub flow; GitLab flow; merge requests; issue tracking; squashing; committing; testing commits; feature branches.
     - Read [Style Guides](https://playbook.datopian.com/style-guide/#style-guides).
     - [Importing Data: Python Data Playbook](https://app.pluralsight.com/library/courses/python-importing-data-playbook).
@@ -61,12 +70,12 @@ save_as: learning-progress-2020.html
 - Review [Linux Command Line Pipes and Redirection](https://www.youtube.com/watch?v=mV_8GbzwZMM).
 
 ### 11
-- **Datopian**
+- Datopian
     - Review: [Python: Beyond the Basics on Pluralsight](https://app.pluralsight.com/library/courses/python-beyond-basics/table-of-contents).
     - [Setting up multiple email addresses with Git](https://www.kevinkuszyk.com/2018/12/10/git-tips-6-using-git-with-multiple-email-addresses/).
 
 ### 10
-- **Datopian**
+- Datopian
     - Review: [Python: Beyond the Basics on Pluralsight](https://app.pluralsight.com/library/courses/python-beyond-basics/table-of-contents).
         - Inheritance and subtype polymorphism: `object` class.
         - Implementing collections: collection construction; container protocol (`in`, `not in`, `__contains__()`); sized protocol (`len`, `__len__()`); iterable protocol (`iter()`, `__iter__()`); sequence protocol (dunder `add`, `mul`, `rmul`, `reversed`); set protocol ().
@@ -76,14 +85,14 @@ save_as: learning-progress-2020.html
     - Setting boot parameters to fix occasional screen tear (Debian boot option used: `intel_idle.max_cstate=4` in `/etc/default/grub` and `Option "TearFree" "true"` in `20-intel.conf`).
 
 ### 9
-- **Datopian**
+- Datopian
     - Review: [Python: Beyond the Basics on Pluralsight](https://app.pluralsight.com/library/courses/python-beyond-basics/table-of-contents).
         - Numeric and scalar types: `complex`, `abs`; number base conversions; `datetime`; `time`; `timedelta`; time zones; computational geometry.
         - Iterables & iteration: list, dictionary, set & generator comprehensions; nested comprehensions; `map()`; `filter()`; `functools.reduce()`.
         - Inheritance and subtype polymorphism: `isinstance()`; `issubclass()`; multiple inheritance; `super()`; bound proxies.
 
 ### 8
-- **Datopian**
+- Datopian
     - Review: [Python: Beyond the Basics on Pluralsight](https://app.pluralsight.com/library/courses/python-beyond-basics/table-of-contents).
         - Functions: extended argument syntax (`*args`, `**kwargs`); forwarding arguments.
         - Closures & decorators: local functions; returning functions; function factories; `nonlocal` keyword; decorators; `functools.wrap()`; validating arguments.
@@ -92,13 +101,13 @@ save_as: learning-progress-2020.html
         - Numeric and scalar types: `int`, `float`; `decimal`; `fraction`; `complex`.
 
 ### 7
-- **Datopian**
+- Datopian
     - Review: [Python: Beyond the Basics on Pluralsight](https://app.pluralsight.com/library/courses/python-beyond-basics/table-of-contents).
         - Organizing larger programs: packages; subpackages; imports; namespaces.
         - Functions: callable objects; calling classes; lambdas; arguments.
 
 ### 6
-- **Datopian**
+- Datopian
     - [Python on Pluralsight](https://app.pluralsight.com/library/courses/advanced-python/table-of-contents).
         - Metaclasses: class allocation and initialisation; keyword arguments; `__prepare__`; `__new__`; `__init__`; inheritance.
         - Class decorators: enforcing class invariant; wrapping properties; chaining class decorators.
@@ -107,7 +116,7 @@ save_as: learning-progress-2020.html
     - [Managing Python Packages and Virtual Environments](https://app.pluralsight.com/library/courses/managing-python-packages-virtual-environments/table-of-contents): manage packages with `pip`; setting up virtual environments; short introduction to `tox`; `virtualenvwrapper`; `pipenv`; `poetry`.
 
 ### 5
-- **Datopian**
+- Datopian
     - [Python on Pluralsight](https://app.pluralsight.com/library/courses/advanced-python/table-of-contents).
         - Byte-oriented programming overview: Memory-mapped files.
         - Objects internals and custom attributes overview: `__dict__`; `__getattr__()`; `__hasattr__()`; `__delattr__()`; `__setattr__()`; attribute storage; `__getattribute__`.
@@ -121,20 +130,20 @@ save_as: learning-progress-2020.html
 - Using Neovim as `difftool` with Git.
 
 ### 3
-- **Datopian**
+- Datopian
     - [Python on Pluralsight](https://app.pluralsight.com/library/courses/advanced-python/table-of-contents).
         - Byte-oriented programming: `memoryview` type; memory-mapped files.
     - Setting up `coc.nvim` autocompletion in Neovim.
 
 ### 2
-- **Datopian**
+- Datopian
     - [Python on Pluralsight](https://app.pluralsight.com/library/courses/advanced-python/table-of-contents)
         - Advanced flow control: `loop-else` clauses [nobreak]; `try-else` clauses; emulating `switch` statements; dispatching on types (`singledispatch` decorator).
         - Byte-oriented programming: bitwise operations on integers; byte-wise operations with integers; bytearray type; `struct` module.
 - Setting up Neo Vim plugin in VS Code.
 
 ### 1
-- **Datopian**
+- Datopian
     - JavaScript review: more on equality.
     - Python review: basic data types (numbers, strings); lists; dictionaries; [Pandas Tutorial (Part 1): Getting Started with Data Analysis](https://www.youtube.com/watch?v=ZyhVh-qRZPA).
 
@@ -142,30 +151,30 @@ save_as: learning-progress-2020.html
 
 ## March
 ### 31
-- **Datopian**
+- Datopian
     - JavaScript review: more on coercion; equality.
 
 ### 30
-- **Datopian**
+- Datopian
     - JavaScript review: coercion.
     - Review regular expressions and SVG concepts.
 
 ### 29
-- **Datopian**
+- Datopian
     - Getting started with CI.
     - JavaScript review: primitive types; `typeof`, `NaN`, `isNaN`; type checking.
 
 ### 28
-- **Datopian**
+- Datopian
     - JavaScript: factory functions; prototype chain; `hasOwnProperty`; `this`, `new` and `class` keywords.
 
 ### 27
-- **Datopian**
+- Datopian
     - JavaScript: classes & prototypes; object dot notation.
 - Desktop environments: Setting up `KDE Plasma 5.18` and `GNOME 3.36`.
 
 ### 26
-- **Datopian**
+- Datopian
     - JavaScript: asynchronous features; web API; event loop; promises.
 - Desktop environment: `XFCE`.
 
@@ -173,47 +182,47 @@ save_as: learning-progress-2020.html
 - Window manager: `bspwm`.
 
 ### 24
-- **Datopian**
+- Datopian
     - Python: data wrangling with `xlrd` Python module; tabular data packages.
 
 ### 23
-- **Datopian**
+- Datopian
     - JavaScript: closures.
 - Extending `st` terminal with patches.
 
 ### 21
-- **Datopian**
+- Datopian
     - JavaScript: arrow functions; closures.
 
 ### 20
-- **Datopian**
+- Datopian
     - Chrome developer tools: `Node.js` profiling; performance monitoring; image performance; page jank; memory leaks.
     - JavaScript: thread of execution; functions (higher order, arrow); call stack.
 
 ### 19
-- **Datopian**
+- Datopian
     - Chrome developer tools: auditing.
     - Review Bash: exit codes and logical operators.
 
 ### 18
-- **Datopian**
+- Datopian
     - JavaScript: more on scope; callbacks.
     - Chrome developer tools: editing; DOM breakpoints; debugging; networking.
 
 ### 17
-- **Datopian**
+- Datopian
     - JavaScript: objects & arrays; destructuring; scoping.
     - General overview of React, Angular & Vue.
 - Setting up Awesome window manager.
 
 ### 16
-- **Datopian**
+- Datopian
     - JavaScript: types & coercion; scope; `this` & Prototypes.
     - Review Git: rebase & amend; forks & remote repos; destroy & recover.
     - Review JavaScript: events & listeners; event delegation; AJAX; `Node.js`.
 
 ### 15
-- **Datopian**
+- Datopian
     - Review Git: data storage model; areas & staging; stashing; references, commits & branches; merging & rebasing; history & diffs; fixing mistakes; rebase & amend.
     - Sass: functions; control flow; data structures (maps); BEM.
     - VS Code: code navigation & refactoring; type checking; debugging.
