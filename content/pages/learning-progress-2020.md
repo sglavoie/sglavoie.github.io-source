@@ -19,6 +19,18 @@ save_as: learning-progress-2020.html
 ---
 
 ## April
+### 21
+- Datopian
+    - Review Vim regular expressions.
+- University of London
+    - **Algorithms and Data Structures II**
+        - Growth of functions.
+    - **Fundamentals of Computer Science**
+        - Propositional logic; tautology.
+    - **Object-Oriented Programming**
+        - Text-based programs; more on functions.
+
+
 ### 20
 - Datopian
     - Review Vim regular expressions.
