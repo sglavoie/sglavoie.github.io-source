@@ -19,6 +19,13 @@ save_as: learning-progress-2020.html
 ---
 
 ## April
+### 22
+- Datopian
+    - Working with `dataflows`.
+- University of London
+    - **Algorithms and Data Structures II**
+        - Worst and best case analysis; introduction to asymptotic analysis.
+
 ### 21
 - Datopian
     - Review Vim regular expressions.
@@ -29,7 +36,6 @@ save_as: learning-progress-2020.html
         - Propositional logic; tautology.
     - **Object-Oriented Programming**
         - Text-based programs; more on functions.
-
 
 ### 20
 - Datopian
