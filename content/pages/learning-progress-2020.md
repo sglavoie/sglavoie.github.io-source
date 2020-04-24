@@ -19,6 +19,15 @@ save_as: learning-progress-2020.html
 ---
 
 ## April
+### 23
+- Datopian
+    - Deploying to Heroku; customize CKAN frontend.
+- University of London
+    - **Algorithms and Data Structures II**
+        - Introduction to asymptotic analysis.
+    - **Fundamentals of Computer Science**
+        - First-order logic; propositional equivalences.
+
 ### 22
 - Datopian
     - Working with `dataflows`.
