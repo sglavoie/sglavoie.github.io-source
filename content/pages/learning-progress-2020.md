@@ -19,6 +19,13 @@ save_as: learning-progress-2020.html
 ---
 
 ## April
+### 24
+- Datopian
+    - Parsing files in Python with regular expressions & exporting to CSV.
+- University of London
+    - **Object-Oriented Programming**
+        - Types; floating point.
+
 ### 23
 - Datopian
     - Deploying to Heroku; customize CKAN frontend.
