@@ -19,6 +19,13 @@ save_as: learning-progress-2020.html
 ---
 
 ## April
+### 25
+- University of London
+    - **Fundamentals of Computer Science**
+        - Logical equivalences.
+    - **Object-Oriented Programming**
+        - Variables; data types: strings, enum class, vectors, numbers; introduction to classes: constructors.
+
 ### 24
 - Datopian
     - Parsing files in Python with regular expressions & exporting to CSV.
