@@ -19,6 +19,11 @@ save_as: learning-progress-2020.html
 ---
 
 ## April
+### 26
+- University of London
+    - **Fundamentals of Computer Science**
+        - Predicates and quantifiers; nested quantifiers; First-order logic; introduction to proofs.
+
 ### 25
 - University of London
     - **Fundamentals of Computer Science**
