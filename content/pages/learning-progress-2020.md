@@ -19,6 +19,14 @@ save_as: learning-progress-2020.html
 ---
 
 ## April
+### 27
+- University of London
+    - **Algorithms and Data Structures II**
+        - Structure of recursive algorithms.
+    - **Object-Oriented Programming**
+        - Floating-point numbers.
+- Vim: `mksession`.
+
 ### 26
 - University of London
     - **Fundamentals of Computer Science**
@@ -36,7 +44,7 @@ save_as: learning-progress-2020.html
     - Parsing files in Python with regular expressions & exporting to CSV.
 - University of London
     - **Object-Oriented Programming**
-        - Types; floating point.
+        - Types; floating-point numbers.
 
 ### 23
 - Datopian
