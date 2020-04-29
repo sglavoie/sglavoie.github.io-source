@@ -19,6 +19,13 @@ save_as: learning-progress-2020.html
 ---
 
 ## April
+### 28
+- University of London
+    - **Algorithms and Data Structures II**
+        - Structure of recursive algorithms; writing recursive algorithms.
+    - **Fundamentals of Computer Science**
+        - Formal proof.
+
 ### 27
 - University of London
     - **Algorithms and Data Structures II**
