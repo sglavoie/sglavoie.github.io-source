@@ -19,6 +19,13 @@ save_as: learning-progress-2020.html
 ---
 
 ## April
+### 29
+- University of London
+    - **Fundamentals of Computer Science**
+        - Proof by contradiction.
+    - **Object-Oriented Programming**
+        - Using header files and making a class with functions.
+
 ### 28
 - University of London
     - **Algorithms and Data Structures II**
