@@ -19,6 +19,11 @@ save_as: learning-progress-2020.html
 ---
 
 ## April
+### 30
+- University of London
+    - **Object-Oriented Programming**
+        - Using header files and making a class with functions.
+
 ### 29
 - University of London
     - **Fundamentals of Computer Science**
