@@ -16,6 +16,14 @@ save_as: learning-progress-2020.html
 > don't know much in the end. In the process, I hope you may find some
 > inspiration too.
 
+## May
+### 1
+- University of London
+    - **Object-Oriented Programming**
+        - Creating classes.
+- Git: using submodules and Git LFS; [move files from one repo to another while preserving history](https://medium.com/@ayushya/move-directory-from-one-repository-to-another-preserving-git-history-d210fa049d4b).
+- Vim review: text motions; tags; jump list; change list.
+
 ---
 
 ## April
