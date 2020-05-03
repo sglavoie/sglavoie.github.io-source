@@ -17,6 +17,11 @@ save_as: learning-progress-2020.html
 > inspiration too.
 
 ## May
+### 2
+- University of London
+    - **Object-Oriented Programming**
+        - Creating classes.
+
 ### 1
 - University of London
     - **Object-Oriented Programming**
