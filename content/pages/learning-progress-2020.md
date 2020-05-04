@@ -17,6 +17,14 @@ save_as: learning-progress-2020.html
 > inspiration too.
 
 ## May
+### 3
+- [Managing dotfiles with bare Git repository](https://www.youtube.com/watch?v=tBoLDpTWVOM).
+
+### 2
+- University of London
+    - **Object-Oriented Programming**
+        - Creating classes.
+
 ### 2
 - University of London
     - **Object-Oriented Programming**
