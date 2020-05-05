@@ -17,6 +17,12 @@ save_as: learning-progress-2020.html
 > inspiration too.
 
 ## May
+### 4
+- University of London
+    - **Object-Oriented Programming**
+        - Classes and functions.
+- [Downgrading packages by date with `aptitude`](https://unix.stackexchange.com/a/236711/319677).
+
 ### 3
 - [Managing dotfiles with bare Git repository](https://www.youtube.com/watch?v=tBoLDpTWVOM).
 
