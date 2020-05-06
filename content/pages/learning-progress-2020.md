@@ -17,6 +17,11 @@ save_as: learning-progress-2020.html
 > inspiration too.
 
 ## May
+### 5
+- University of London
+    - **Algorithms and Data Structures II**
+        - Analysis of recursive algorithms.
+
 ### 4
 - University of London
     - **Object-Oriented Programming**
