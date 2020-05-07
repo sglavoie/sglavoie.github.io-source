@@ -17,6 +17,11 @@ save_as: learning-progress-2020.html
 > inspiration too.
 
 ## May
+### 6
+- University of London
+    - **Algorithms and Data Structures II**
+        - Master theorem; recurrence relations.
+
 ### 5
 - University of London
     - **Algorithms and Data Structures II**
