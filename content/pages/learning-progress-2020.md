@@ -17,6 +17,12 @@ save_as: learning-progress-2020.html
 > inspiration too.
 
 ## May
+### 9
+- University of London
+    - **Algorithms and Data Structures II**
+        - Recurrence relations, Strassen's algorithm.
+- Configure FZF, COC.nvim and UltiSnips with Neovim.
+
 ### 7
 - University of London
     - **Algorithms and Data Structures II**
