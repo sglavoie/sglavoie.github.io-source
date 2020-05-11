@@ -17,6 +17,11 @@ save_as: learning-progress-2020.html
 > inspiration too.
 
 ## May
+### 10
+- University of London
+    - **Object-Oriented Programming**
+        - Implementing a tokenise function.
+
 ### 9
 - University of London
     - **Algorithms and Data Structures II**
