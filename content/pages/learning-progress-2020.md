@@ -17,6 +17,13 @@ save_as: learning-progress-2020.html
 > inspiration too.
 
 ## May
+### 11
+- University of London
+    - **Algorithms and Data Structures II**
+        - Solving recurrences: substitution method; recursion-tree method; master method.
+    - **Fundamentals of Computer Science**
+        - Inductive proof.
+
 ### 10
 - University of London
     - **Object-Oriented Programming**
