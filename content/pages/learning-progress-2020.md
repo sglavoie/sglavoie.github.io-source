@@ -17,6 +17,12 @@ save_as: learning-progress-2020.html
 > inspiration too.
 
 ## May
+### 12
+- University of London
+    - **Fundamentals of Computer Science**
+        - Proofs: direct; by contraposition; by contradiction.
+        - Propositional logic; predicate logic.
+
 ### 11
 - University of London
     - **Algorithms and Data Structures II**
