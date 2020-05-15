@@ -17,6 +17,13 @@ save_as: learning-progress-2020.html
 > inspiration too.
 
 ## May
+### 14
+- University of London
+    - **Algorithms and Data Structures II**
+        - Recurrence relations; master theorem.
+    - **Object-Oriented Programming**
+        - Implementing a tokenise function.
+
 ### 13
 - University of London
     - **Algorithms and Data Structures II**
