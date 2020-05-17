@@ -17,6 +17,13 @@ save_as: learning-progress-2020.html
 > inspiration too.
 
 ## May
+### 16
+- University of London
+    - **Object-Oriented Programming**
+        - Tokenise output; exception handling.
+- Learn about Deno (Node.js replacement).
+- TDD: Read Python Testing with pytest (getting started; marking test functions).
+
 ### 14
 - University of London
     - **Algorithms and Data Structures II**
