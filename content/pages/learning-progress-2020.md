@@ -17,6 +17,11 @@ save_as: learning-progress-2020.html
 > inspiration too.
 
 ## May
+### 17
+- University of London
+    - **Object-Oriented Programming**
+        - Linking header files.
+
 ### 16
 - University of London
     - **Object-Oriented Programming**
