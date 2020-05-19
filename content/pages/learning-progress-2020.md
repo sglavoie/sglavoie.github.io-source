@@ -17,6 +17,13 @@ save_as: learning-progress-2020.html
 > inspiration too.
 
 ## May
+### 18
+- University of London
+    - **Object-Oriented Programming**
+        - File parsing functions.
+    - **Fundamentals of Computer Science**
+        - Combinatorial principles, pigeonhole principle.
+
 ### 17
 - University of London
     - **Object-Oriented Programming**
