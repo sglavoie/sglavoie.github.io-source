@@ -17,6 +17,16 @@ save_as: learning-progress-2020.html
 > inspiration too.
 
 ## May
+### 20
+- University of London
+    - **Algorithms and Data Structures II**
+        - Insertion sort; analyzing algorithms.
+
+### 19
+- University of London
+    - **Algorithms and Data Structures II**
+        - Overview of sorting algorithms and bubble sort.
+
 ### 18
 - University of London
     - **Object-Oriented Programming**
