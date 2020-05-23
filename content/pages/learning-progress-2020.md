@@ -17,7 +17,10 @@ save_as: learning-progress-2020.html
 > inspiration too.
 
 ## May
-### 20
+### 22
+- TDD: Read Python Testing with pytest (markers; fixtures; running subset of tests).
+
+### 21
 - University of London
     - **Algorithms and Data Structures II**
         - Insertion sort; analyzing algorithms.
