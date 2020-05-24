@@ -17,6 +17,12 @@ save_as: learning-progress-2020.html
 > inspiration too.
 
 ## May
+### 23
+- University of London
+    - **Algorithms and Data Structures II**
+        - Analysis of insertion sort; selection sort; quicksort; performance of quicksort; mergesort.
+- TDD: Read Python Testing with pytest (parametrize tests; fixtures; fixture scope; parametrize fixtures).
+
 ### 22
 - TDD: Read Python Testing with pytest (markers; fixtures; running subset of tests).
 
