@@ -17,6 +17,12 @@ save_as: learning-progress-2020.html
 > inspiration too.
 
 ## May
+### 24
+- University of London
+    - **Algorithms and Data Structures II**
+        - Merge sort.
+- TDD: Read Python Testing with pytest (builtin fixtures [`tmpdir`, `pytestconfig`, `cache`, `capsys`, `monkeypatch`, `doctest_namespace`, `recwarn`]).
+
 ### 23
 - University of London
     - **Algorithms and Data Structures II**
