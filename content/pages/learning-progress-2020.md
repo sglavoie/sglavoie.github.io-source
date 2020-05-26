@@ -17,6 +17,11 @@ save_as: learning-progress-2020.html
 > inspiration too.
 
 ## May
+### 25
+- University of London
+    - **Algorithms and Data Structures II**
+        - Analyzing divide-and-conquer algorithms.
+
 ### 24
 - University of London
     - **Algorithms and Data Structures II**
