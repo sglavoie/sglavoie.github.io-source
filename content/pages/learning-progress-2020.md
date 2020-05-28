@@ -17,6 +17,21 @@ save_as: learning-progress-2020.html
 > inspiration too.
 
 ## May
+### 27
+- University of London
+    - **Fundamentals of Computer Science**
+        - Combinations; basic counting principles (product rule, sum rule).
+- TDD: Mocking instances of a class.
+
+### 26
+- University of London
+    - **Algorithms and Data Structures II**
+        - Review of comparison sorting algorithms.
+    - **Fundamentals of Computer Science**
+        - Permutations, combinations.
+- How to save patch from Git stash with `git stash show -p > patch`.
+- TDD: Read Python Testing with pytest (plugins).
+
 ### 25
 - University of London
     - **Algorithms and Data Structures II**
