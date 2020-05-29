@@ -17,6 +17,11 @@ save_as: learning-progress-2020.html
 > inspiration too.
 
 ## May
+### 28
+- University of London
+    - **Fundamentals of Computer Science**
+        - Counting: subtraction rule; division rule; pigeonhole principle; permutations & combinations.
+
 ### 27
 - University of London
     - **Fundamentals of Computer Science**
