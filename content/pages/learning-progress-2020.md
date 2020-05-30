@@ -17,6 +17,9 @@ save_as: learning-progress-2020.html
 > inspiration too.
 
 ## May
+### 29
+- TDD: [Agile in Practice](https://www.youtube.com/watch?v=uGaNkTahrIw&feature=youtu.be); [Testing your Python Code with PyTest | Scipy 2019 Tutorial](https://www.youtube.com/watch?v=LX2ksGYXJ80&feature=youtu.be).
+
 ### 28
 - University of London
     - **Fundamentals of Computer Science**
