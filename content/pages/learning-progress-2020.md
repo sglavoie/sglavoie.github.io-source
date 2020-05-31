@@ -17,6 +17,10 @@ save_as: learning-progress-2020.html
 > inspiration too.
 
 ## May
+### 30
+- More on Git grep.
+- TDD: Unit Tests (from _Clean Code_, by Robert C. Martin); [Unit Tests in Python](https://www.youtube.com/watch?v=1Lfv5tUGsn8) (Socratica); review parametrization, fixtures, setup/teardown.
+
 ### 29
 - TDD: [Agile in Practice](https://www.youtube.com/watch?v=uGaNkTahrIw&feature=youtu.be); [Testing your Python Code with PyTest | Scipy 2019 Tutorial](https://www.youtube.com/watch?v=LX2ksGYXJ80&feature=youtu.be).
 
