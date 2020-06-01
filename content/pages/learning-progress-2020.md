@@ -17,6 +17,15 @@ save_as: learning-progress-2020.html
 > inspiration too.
 
 ## May
+### 31
+- University of London
+    - **Fundamentals of Computer Science**
+        - Combinations & permutations.
+    - **Object-Oriented Programming**
+        - Modularizing program, constructor functions.
+- Vim: Jumps (`'"`, `''`, <code>``</code>) & other movements.
+- [Agile Manifesto Principles](https://agilemanifesto.org/principles.html).
+
 ### 30
 - More on Git grep.
 - TDD: Unit Tests (from _Clean Code_, by Robert C. Martin); [Unit Tests in Python](https://www.youtube.com/watch?v=1Lfv5tUGsn8) (Socratica); review parametrization, fixtures, setup/teardown.
