@@ -16,6 +16,13 @@ save_as: learning-progress-2020.html
 > don't know much in the end. In the process, I hope you may find some
 > inspiration too.
 
+## June
+### 1
+- University of London
+    - **Object-Oriented Programming**
+        - Implementing basic statistical functions; operator overloading.
+- Scripting with Rofi.
+
 ## May
 ### 31
 - University of London
