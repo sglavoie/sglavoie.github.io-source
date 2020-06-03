@@ -17,6 +17,14 @@ save_as: learning-progress-2020.html
 > inspiration too.
 
 ## June
+### 2
+- University of London
+    - **Algorithms and Data Structures II**
+        - The limits of comparison sorts; lower bounds for comparison sorts; sorting in linear time; counting sort; radix sort.
+    - **Object-Oriented Programming**
+        - Iterating over vectors and memory.
+- TDD: Pytest configuration; test discovery; use with `pdb`.
+
 ### 1
 - University of London
     - **Object-Oriented Programming**
