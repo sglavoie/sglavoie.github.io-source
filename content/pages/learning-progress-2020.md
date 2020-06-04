@@ -17,6 +17,12 @@ save_as: learning-progress-2020.html
 > inspiration too.
 
 ## June
+### 3
+- University of London
+    - **Algorithms and Data Structures II**
+        - Radix sort; bucket sort.
+- TDD: Debugging with `pdb` using pytest; using `Coverage.py`; raising errors in parametrized tests.
+
 ### 2
 - University of London
     - **Algorithms and Data Structures II**
