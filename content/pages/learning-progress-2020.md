@@ -17,6 +17,14 @@ save_as: learning-progress-2020.html
 > inspiration too.
 
 ## June
+### 4
+- University of London
+    - **Algorithms and Data Structures II**
+        - Bucket sort.
+    - **Fundamentals of Computer Science**
+        - Permutations; combinations.
+- Manage multiple SSH keys at once. Configuration with IPv6.
+
 ### 3
 - University of London
     - **Algorithms and Data Structures II**
