@@ -17,6 +17,12 @@ save_as: learning-progress-2020.html
 > inspiration too.
 
 ## June
+### 6
+- University of London
+    - **Fundamentals of Computer Science**
+        - Combinations & permutations.
+- C fundamentals: Strings & function pointers.
+
 ### 4
 - University of London
     - **Algorithms and Data Structures II**
