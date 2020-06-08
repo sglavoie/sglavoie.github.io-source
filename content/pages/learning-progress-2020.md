@@ -17,6 +17,12 @@ save_as: learning-progress-2020.html
 > inspiration too.
 
 ## June
+### 7
+- University of London
+    - **Fundamentals of Computer Science**
+        - Combinations & permutations.
+- TDD: pytest patterns and examples.
+
 ### 6
 - University of London
     - **Fundamentals of Computer Science**
