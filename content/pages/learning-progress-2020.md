@@ -17,6 +17,9 @@ save_as: learning-progress-2020.html
 > inspiration too.
 
 ## June
+### 8
+- Managing various Git and SSH identities.
+
 ### 7
 - University of London
     - **Fundamentals of Computer Science**
