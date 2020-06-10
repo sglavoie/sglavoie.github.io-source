@@ -17,6 +17,11 @@ save_as: learning-progress-2020.html
 > inspiration too.
 
 ## June
+### 9
+- University of London
+    - **Fundamentals of Computer Science**
+        - Combinatorial principles; automata theory (finite automata).
+
 ### 8
 - Managing various Git and SSH identities.
 
