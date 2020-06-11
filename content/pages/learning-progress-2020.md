@@ -17,6 +17,11 @@ save_as: learning-progress-2020.html
 > inspiration too.
 
 ## June
+### 10
+- University of London
+    - **Fundamentals of Computer Science**
+        - Automata theory (finite automata, designing them).
+
 ### 9
 - University of London
     - **Fundamentals of Computer Science**
