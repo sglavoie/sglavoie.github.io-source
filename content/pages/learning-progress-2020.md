@@ -18,6 +18,12 @@ save_as: learning-progress-2020.html
 
 ## June
 
+### 14
+
+- University of London
+  - **Algorithms and Data Structures II**
+    - Hash tables, collisions in hash tables (extend & re-hash, linear probing, separate chaining).
+
 ### 13
 
 - University of London
