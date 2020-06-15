@@ -8,11 +8,13 @@ Summary: If remembering dozens of keyboard shortcuts isn't your forte, let [dmen
 Description: If remembering dozens of keyboard shortcuts isn't your forte, let dmenu come to the rescue! With this awesome tool, you will be able to create menus from plain text files swiftly and effortlessly (almost).
 
 # Introduction
+
 [dmenu](https://tools.suckless.org/dmenu) is one of those tools that look a little unimpressive at first but can accomplish so much! It's a program that you can use to receive any output redirected from other programs (through pipes in the terminal, the symbol `|`) and treat that output so that it can pop up within a simple menu to make it available for execution. If you want to know more about other fantastic tools from [suckless.org](https://suckless.org), I [went over some of them before](https://www.sglavoie.com/posts/2019/05/12/suckless-minimalist-tools-that-work-great), such as the `st` terminal and `slock`, a dead simple screen locker.
 
 ---
 
 # Any Simple Example?
+
 You bet! Before diving in with how to install it and some more concrete examples, you could give `dmenu` a go with a simple command such as the following (assuming the program is installed on your machine).
 
 ```bash
@@ -38,6 +40,7 @@ ls | dmenu -l 5 | xargs -I {} pcmanfm "{}"
 This is now a fully functional example, albeit its practicality is debatable. What will happen, exactly?
 
 First, `ls` will output a list of directories in the current working directory. That is, the following would be printed in the terminal without any piping:
+
 ```text
 Desktop    Downloads  Learning  Pictures     Public   Templates  virtualbox_vms
 Documents  Dropbox    Music     Programming  SortOut  Videos
@@ -58,6 +61,7 @@ echo "file1.txt file2.txt\nfile3.txt file4.txt" | dmenu -l 2 | xargs cat
 ```
 
 The part before the first pipe character will print to the terminal those two lines:
+
 ```text
 file1.txt file2.txt
 file3.txt file4.txt
@@ -74,14 +78,17 @@ Now that we got our feet wet with what `dmenu` does (_displays a menu_), we migh
 ---
 
 # How do You Install It?
+
 In Manjaro Linux, it comes with `i3` if you use that flavor of the distribution and can be opened by pressing the modifier key (either `Super/Windows` key or `Alt` key) along with the letter `d`, as in the shortcut `mod + d`, or by typing `dmenu_run` in a terminal, which will present a list of installed applications to launch. Otherwise:
 
 ## Debian-based (such as Ubuntu)
+
 ```bash
 sudo apt install dmenu
 ```
 
 ## Arch-based (such as Manjaro)
+
 ```bash
 pacman -Syu dmenu
 ```
@@ -91,39 +98,45 @@ You can also install it from your distribution's package manager if available or
 ---
 
 # Useful Real-World Examples
+
 Here are a couple of ways I like to use `dmenu` to open a menu with a list of:
 
-- cheat sheets;
-- filesystem paths;
-- most used documents;
-- documents & books I read at the university;
-- custom scripts I want to run in the background.
+-   cheat sheets;
+-   filesystem paths;
+-   most used documents;
+-   documents & books I read at the university;
+-   custom scripts I want to run in the background.
 
 Here are a few screenshots of how it currently looks like in my daily usage so you get a better idea.
 
 ## Cheat sheets
+
 <a href="{static}/images/posts/0018_using-dmenu-to-optimize-common-tasks/dmenu_cheat_sheets.png"><img src="{static}/images/posts/0018_using-dmenu-to-optimize-common-tasks/dmenu_cheat_sheets.png" alt="dmenu_cheat_sheets" class="max-size-img-post"></a>
 
 ## University shortcuts
+
 <a href="{static}/images/posts/0018_using-dmenu-to-optimize-common-tasks/dmenu_university_shortcuts.png"><img src="{static}/images/posts/0018_using-dmenu-to-optimize-common-tasks/dmenu_university_shortcuts.png" alt="dmenu_university_shortcuts" class="max-size-img-post"></a>
 
 ## File manager shortcuts
+
 <a href="{static}/images/posts/0018_using-dmenu-to-optimize-common-tasks/dmenu_file_manager_shortcuts.png"><img src="{static}/images/posts/0018_using-dmenu-to-optimize-common-tasks/dmenu_file_manager_shortcuts.png" alt="dmenu_file_manager_shortcuts" class="max-size-img-post"></a>
 
 So, how does that all work? As a starting point, all of those menus are launched through a specific keyboard shortcut that uses a mnemonic for each one (`mod` being the "modifier" key on **i3**, which is set to `Super/Windows`):
 
-- `mod + Alt + c`: **c**heat sheets;
-- `mod + Alt + d`: **d**ocuments;
-- `mod + Alt + f`: **f**ile manager;
-- `mod + Alt + s`: **s**cripts;
-- `mod + Alt + u`: **u**niversity.
+-   `mod + Alt + c`: **c**heat sheets;
+-   `mod + Alt + d`: **d**ocuments;
+-   `mod + Alt + f`: **f**ile manager;
+-   `mod + Alt + s`: **s**cripts;
+-   `mod + Alt + u`: **u**niversity.
 
 Let's take the cheat sheets example, which is a bit more interesting since it launches different applications.
 
 ---
 
 ## Setting Up a Custom Command
+
 ### Configuration for i3 (bind a keyboard shortcut)
+
 Here, I'm using [i3](https://i3wm.org) to set a keyboard shortcut to run a specific command, but this will be a similar experience on other window managers and desktop environments.
 
 ```bash
@@ -151,7 +164,9 @@ cat path/to/cheatsheets.conf \
 As far as **i3** is concerned, that's all you need to do. You would need to reload the configuration file (by default: _i3config_) where the previous `bindsym` command has been set up to apply the changes (default shortcut to reload: `mod + Shift + c`).
 
 ### Configuration for cheatsheets.conf
+
 The content of this file is literally what will be shown when **dmenu** opens it. An excerpt:
+
 ```text
 #---------- Cheat Sheets -------------------------------------------------------
 bash         st -e nvim path/to/bash.sh
@@ -160,17 +175,20 @@ vimwiki      firefox path/to/vimwiki.html
 ```
 
 Here, we have set a maximum of **30** lines to be displayed (`-l 30`). What follows after an element has been selected with **dmenu** allows us to parse the content of the line and retrieve only the command we are interested in with `sed` before passing that filtered content around to `sh` to execute it as a shell command. With more complex commands requiring multiples arguments to be received, we could add one more pipe between `sed` and `sh` like this (or with `xargs -I {}` to avoid problems with spaces):
+
 ```bash
 cat path/to/cheatsheets.conf \
 | dmenu -l 30 | sed 's/.*    \+//' | xargs -r | sh
 ```
 
 If the line we want to run only includes a path to a file as in:
+
 ```text
 myshortcut      path/to/file.pdf
 ```
 
 We could instead pipe it into an external command of choice if the same program applies to all items presented in the menu, say Firefox:
+
 ```bash
 cat path/to/file.conf \
 | dmenu -l 30 | sed 's/.*    \+//' | xargs -I {} firefox "{}"
@@ -179,12 +197,14 @@ cat path/to/file.conf \
 What's nice with the way pipes work in a Unix-like system is that we can chain harmless commands until the very end so they will simply be printed to the terminal. In this example, if we want to see how to filter our lines before running a command, we can do so as follow.
 
 #### Pipe 1
+
 ```bash
 cat path/to/cheatsheets.conf \
 | dmenu -l 30
 ```
 
 If you remember from the menu we saw earlier, there's a shortcut to open a cheat sheet for Git. Let's say we selected that one with **dmenu**. Because our command isn't doing anything with the result, it will be outputted to the terminal like so (just like in the excerpt of `cheatsheets.conf`):
+
 ```bash
 git      zathura path/to/github.pdf
 ```
@@ -193,26 +213,29 @@ What `sed` does here is to cut everything from the beginning of the line up to w
 
 \* <sub>We could have used other tools to parse the string like `awk`, `grep`, `cut`, etc.</sub>
 
-
 #### Pipe 2
+
 ```bash
 cat path/to/cheatsheets.conf \
 | dmenu -l 30 | sed 's/.*    \+//'
 ```
+
 If we select the same item as before with **dmenu** to illustrate more clearly what this new addition does, we will get this output:
+
 ```bash
 zathura path/to/github.pdf
 ```
 
 If we were to type this in the terminal (assuming the file exists and **zathura** is installed!), that would do the trick and it would open with the specified document viewer. **Pipe 2** and subsequent pipes before we execute something is where the filtering magic happen. In short:
 
-- Everything **before** `| dmenu` is how our input will look like when we run `dmenu`;
-- Everything **after** `| dmenu [options here] |` is what we need to do to our input so that it is converted into a working shell command;
-- Finally, what comes **after the last pipe** (either `xargs`, `sh` or a combination of both) is our way to redirect our string to the shell so it can be executed.
+-   Everything **before** `| dmenu` is how our input will look like when we run `dmenu`;
+-   Everything **after** `| dmenu [options here] |` is what we need to do to our input so that it is converted into a working shell command;
+-   Finally, what comes **after the last pipe** (either `xargs`, `sh` or a combination of both) is our way to redirect our string to the shell so it can be executed.
 
 Once we are visually satisfied with how our command is supposed to look like (it has to be something that works when typed directly in the terminal), the next step is to pipe it again so it can be executed.
 
 #### Pipe 3
+
 ```bash
 cat path/to/cheatsheets.conf \
 | dmenu -l 30 | sed 's/.*    \+//' | sh
@@ -223,12 +246,15 @@ There we go, the command is launched. If we keep the same simple syntax in all o
 ---
 
 ## Running a Custom Script
+
 If we want to run custom scripts, we need to indicate a command that would work in the terminal, such as `python myscrypt.py` or `./myscript.sh`. When it comes to shell scripts, we have to make sure they are executable. We can do so through a file manager or within the terminal like this:
+
 ```bash
 chmod +x path/to/script.sh
 ```
 
 This will add the necessary permissions for the user to execute the script. As we already know, we would then need to add a keyboard shortcut to launch our custom menu and store our command in a file like `scripts.conf` that would contain the following:
+
 ```text
 #---------- scripts.conf -------------------------------------------------------
 myscript      script.sh
@@ -239,7 +265,9 @@ And that's all there is to know to get piping with `dmenu`! You may also find [t
 ---
 
 # Customize the Look of dmenu
+
 As they say, _"beauty is in the eye of the beholder"_. If you would rather make some changes to how dmenu look, you can. **dmenu** will be searching for the configuration file located at `~/.dmenurc`, which could contain something as put below (with this configuration, it will look like the screenshots shown previously):
+
 ```bash
 #
 # ~/.dmenurc
@@ -270,6 +298,7 @@ DMENU_OPTIONS="-fn $DMENU_FN -nb $DMENU_NB -nf $DMENU_NF -sf $DMENU_SF -sb $DMEN
 ---
 
 # Conclusion
+
 Hopefully this introduction to what **dmenu** has to offer gave you some ideas. I hope you'll find many ways to adapt the examples so you can benefit from this amazing tool. You can find more configuration details in my [dotfiles on GitHub](https://github.com/sglavoie/dotfiles/tree/master/config) for anything related to **i3**, **dmenu**, **zathura**, **st**, **slock** and many more useful programs.
 
 Have a good time automating your digital life!

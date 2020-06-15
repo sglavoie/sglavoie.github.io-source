@@ -14,7 +14,6 @@ a way that makes it easy to add features and functionality thanks to
 [Click](https://github.com/pallets/click), a wonderful _"command line
 interface toolkit"_.
 
-
 ### Python to the rescue
 
 The following script uses [Click](https://github.com/pallets/click)
@@ -23,13 +22,13 @@ traditional tools like `argparse`. You will also need
 [requests](https://github.com/kennethreitz/requests) to peek inside the
 API. Both can be obtained as follow in a terminal:
 
-~~~~{.bash}
+```{.bash}
 $ pip install click requests
-~~~~
+```
 
 And now, the _pièce de résistance_.
 
-~~~~{.python}
+```{.python}
 """
 Simple script that will take advantage of haveibeenpwned.com's API to
 find out if your password has been breached.
@@ -151,12 +150,11 @@ def check(password):
 
 if __name__ == '__main__':
     hibp()
-~~~~
+```
 
 #### Example usage
 
 <a href="{static}/images/posts/0011_have-i-been-pwned/have_i_been_pwned_script.png"><img src="{static}/images/posts/0011_have-i-been-pwned/have_i_been_pwned_script.png" alt="have_i_been_pwned_script" class="max-size-img-post"></a>
-
 
 ## Conclusion
 

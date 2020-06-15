@@ -13,7 +13,7 @@ Description: I was striving to improve my productivity as one of my New Year's r
 better, it's good to situate what desktop environments are in the first
 place.
 
-----
+---
 
 ### What are desktop environments?
 
@@ -25,38 +25,38 @@ more are available (you can see [this article on
 Wikipedia](https://en.wikipedia.org/wiki/Desktop_environment)
 for an extended selection)! The classic Graphical User Interface
 (GUI) on Windows XP was known as
-[Luna](https://en.wikipedia.org/wiki/Luna_(theme)) and is now
+[Luna](<https://en.wikipedia.org/wiki/Luna_(theme)>) and is now
 called Modern on Windows 10.
-[Aqua](https://en.wikipedia.org/wiki/Aqua_(user_interface)) is the
+[Aqua](<https://en.wikipedia.org/wiki/Aqua_(user_interface)>) is the
 name of the GUI on MacOS. Well, every desktop environment comes with
 a window manager, the main component that makes interactions with
 windows possible, like moving, resizing, minimizing or closing them.
 
 Desktop environments are very useful in many ways:
 
-- They are usually very easy to set up as they come fully functional out
-of the box. Like opening a user session on MacOS or Windows.
-- They are sometimes quite customizable, but you don't have to change
-anything to get them to work, as they normally set default applications
-to open with certain file types.
-- They automatically integrate services such as WiFi network detection,
-automatic mounting of drives when you plug them in, etc.
-- You can enable [virtual
-desktops](https://en.wikipedia.org/wiki/Virtual_desktop)
- to split your work
-across different spaces. This concept can grow to
-_[Activities](https://docs.kde.org/trunk5/en/kde-workspace/plasma-deskto
-p/activities-interface.html)_, which is a feature implemented in KDE
-that allows you to use virtual spaces literally for different activities
-by having settings that are specific to each activity (like launching
-one application or keeping widgets in determined positions), plus the
-ability to use multiple virtual desktops inside each _activity_.
-- They integrate with applications that are specifically designed to
-take advantage of the desktop environment in question by adapting
-colors and themes perfectly to match the general look of the system and
-arranging settings in a common location for all applications.
+-   They are usually very easy to set up as they come fully functional out
+    of the box. Like opening a user session on MacOS or Windows.
+-   They are sometimes quite customizable, but you don't have to change
+    anything to get them to work, as they normally set default applications
+    to open with certain file types.
+-   They automatically integrate services such as WiFi network detection,
+    automatic mounting of drives when you plug them in, etc.
+-   You can enable [virtual
+    desktops](https://en.wikipedia.org/wiki/Virtual_desktop)
+    to split your work
+    across different spaces. This concept can grow to
+    _[Activities](https://docs.kde.org/trunk5/en/kde-workspace/plasma-deskto
+    p/activities-interface.html)_, which is a feature implemented in KDE
+    that allows you to use virtual spaces literally for different activities
+    by having settings that are specific to each activity (like launching
+    one application or keeping widgets in determined positions), plus the
+    ability to use multiple virtual desktops inside each _activity_.
+-   They integrate with applications that are specifically designed to
+    take advantage of the desktop environment in question by adapting
+    colors and themes perfectly to match the general look of the system and
+    arranging settings in a common location for all applications.
 
-----
+---
 
 ### Why use a window manager like i3?
 
@@ -157,41 +157,41 @@ is how I currently have my workspaces set up:
 
 1. **Programming** — Exclusively for programming purposes.
 2. **Terminals** — For working in the terminal, opening another
-instance of a terminal text editor, etc.
+   instance of a terminal text editor, etc.
 3. **Web** — Just for Internet. Always full screen unless I open
-some website that requires to open new windows (like banking), which
-conveniently split the windows. The web browser automatically launches
-in the background when opening a session in `i3`.
+   some website that requires to open new windows (like banking), which
+   conveniently split the windows. The web browser automatically launches
+   in the background when opening a session in `i3`.
 4. **Multimedia** — Editing photos or watching videos.
 5. **Music** — [ncmpcpp](https://github.com/arybczak/ncmpcpp)
-(terminal music player) automatically launches in the background when
-opening a session.
+   (terminal music player) automatically launches in the background when
+   opening a session.
 6. **Experiments** — I use this workspace when trying to understand
-some programming concepts with an interactive IPython console or for
-breaking the system in one way or another because I don't know what I'm
-doing.
+   some programming concepts with an interactive IPython console or for
+   breaking the system in one way or another because I don't know what I'm
+   doing.
 7. **Fix** — After realizing that sometimes experiments need to be
-cleaned up a bit, I now use this workspace exclusively to run tools
-in the background, such as [BleachBit](https://www.bleachbit.org) for
-cleaning files or [glances](https://nicolargo.github.io/glances/)
-(similar to the `top` command) for watching how the system is doing.
+   cleaned up a bit, I now use this workspace exclusively to run tools
+   in the background, such as [BleachBit](https://www.bleachbit.org) for
+   cleaning files or [glances](https://nicolargo.github.io/glances/)
+   (similar to the `top` command) for watching how the system is doing.
 8. **Words** — I use that workspace for reading e-books
-or for writing, either in [Neovim](https://neovim.io/) or
-[LibreOffice](https://www.libreoffice.org/) depending on the task.
+   or for writing, either in [Neovim](https://neovim.io/) or
+   [LibreOffice](https://www.libreoffice.org/) depending on the task.
 9. **Tools** — This workspace is reserved for anything that I
-might want to have access to once in a while, like a calendar or
-[KeepassXC](https://keepassxc.org/) for accessing a password database.
+   might want to have access to once in a while, like a calendar or
+   [KeepassXC](https://keepassxc.org/) for accessing a password database.
 10. **sg** — I mainly use that workspace to update this very
-website, but I also use it for setting up local web servers for
-making personal projects in [Flask](http://flask.pocoo.org/) and
-[Django](https://www.djangoproject.com/) or even just a temporary server
-with `python -m http.server` to share files with other devices on the
-local network.
+    website, but I also use it for setting up local web servers for
+    making personal projects in [Flask](http://flask.pocoo.org/) and
+    [Django](https://www.djangoproject.com/) or even just a temporary server
+    with `python -m http.server` to share files with other devices on the
+    local network.
 
 Only workspaces that contain windows will appear on the screen at any
 given time and are automatically created when you access and use them.
 
-----
+---
 
 ## What does it look like in action?
 
@@ -218,12 +218,12 @@ the shortcut `$mod + s` in each workspace or, to provide that behavior
 by default, the following can be added to i3's configuration file
 (defaults in `~/.config/i3/config`):
 
-~~~~{.bash}
+```{.bash}
 # Set default container layout
 workspace_layout stacking
-~~~~
+```
 
-----
+---
 
 ## Conclusion
 
@@ -242,6 +242,6 @@ I have found the following screencasts on YouTube to be quite useful in
 learning how to configure `i3` (apart from the official documentation
 which is very comprehensive):
 
-- [i3wm: Jump Start (1/3)](https://www.youtube.com/watch?v=j1I63wGcvU4)
-- [i3wm: Configuration (2/3)](https://www.youtube.com/watch?v=8-S0cWnLBKg)
-- [i3wm: How To "Rice" Your Desktop (3/3)](https://www.youtube.com/watch?v=ARKIwOlazKI)
+-   [i3wm: Jump Start (1/3)](https://www.youtube.com/watch?v=j1I63wGcvU4)
+-   [i3wm: Configuration (2/3)](https://www.youtube.com/watch?v=8-S0cWnLBKg)
+-   [i3wm: How To "Rice" Your Desktop (3/3)](https://www.youtube.com/watch?v=ARKIwOlazKI)

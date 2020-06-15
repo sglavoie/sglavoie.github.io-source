@@ -12,11 +12,11 @@ Description: I recently started using this software as my main web browser and, 
 great use of **Vim** commands to navigate. From its website:
 
 > qutebrowser is a keyboard-focused browser with a minimal GUI. It’s
-based on Python and PyQt5 and free software, licensed under the GPL.
+> based on Python and PyQt5 and free software, licensed under the GPL.
 > It was inspired by other browsers/addons like dwb and
-Vimperator/Pentadactyl.
+> Vimperator/Pentadactyl.
 
-----
+---
 
 ### Why use it?
 
@@ -92,7 +92,6 @@ out, really.
 
 <a href="{static}/images/posts/0007_surfing-with-qutebrowser/qutebrowser_hints.png"><img src="{static}/images/posts/0007_surfing-with-qutebrowser/qutebrowser_hints.png" alt="qutebrowser-hints" class="max-size-img-post"></a>
 
-
 Well, **qutebrowser** takes those features and make them even greater!
 There is, for example, a _rapid hinting mode_ you can access by typing
 `f` followed by `Ctrl + r` and it will open links in the background
@@ -102,7 +101,7 @@ page. This is especially useful when doing some research to avoid
 breaking the rhythm on the current reading while preparing more
 resources to be available.
 
-----
+---
 
 ### What's the best place to start learning about it?
 
@@ -113,18 +112,17 @@ appearance:
 
 1. [Quickstart Guide](https://qutebrowser.org/doc/quickstart.html).
 2. [Key bindings
-cheatsheet](https://raw.githubusercontent.com/qutebrowser/qutebrowser/ma
-ster/doc/img/cheatsheet-big.png).
+   cheatsheet](https://raw.githubusercontent.com/qutebrowser/qutebrowser/ma
+   ster/doc/img/cheatsheet-big.png).
 3. [FAQ](https://qutebrowser.org/doc/faq.html), which is interesting
-but not indispensable. It did help me take a step forward in trying out
-**qutebrowser** though.
+   but not indispensable. It did help me take a step forward in trying out
+   **qutebrowser** though.
 4. _Open inside qutebrowser_: [default
-keybindings](qute://help/settings.html#bindings.default).
+   keybindings](qute://help/settings.html#bindings.default).
 5. _Open inside qutebrowser_: [settings page](qute://settings/).
 6. [List of commands](https://qutebrowser.org/doc/help/commands.html).
 
-
-----
+---
 
 ## Conclusion
 

@@ -15,9 +15,10 @@ local setup! Here is how I currently like to set it up.
 ---
 
 ### Configuration file:
+
 ##### `~/.tmux.conf`
 
-~~~~{.bash}
+```{.bash}
 # split panes using | and -
 bind | split-window -h
 bind - split-window -v
@@ -35,8 +36,7 @@ bind -n M-Down select-pane -D
 set -g mouse on
 
 source-file "${HOME}/.tmux-themepack/blue.tmuxtheme"
-~~~~
-
+```
 
 This is all very self-explanatory. [Many themes can be found
 here](https://github.com/jimeh/tmux-themepack).
@@ -44,12 +44,14 @@ here](https://github.com/jimeh/tmux-themepack).
 ---
 
 ### Automating the launch of a default session:
+
 ##### `~/.tmux_default_session.sh`
+
 This is a small Bash script that I like to have for automatic set up
 of a development environment with tmux and Vim/Neovim. As my current
 workflow, I enjoy the following:
 
-~~~~{.bash}
+```{.bash}
 #!bash
 # var for session name (to avoid repeated occurences)
 sn=dev
@@ -85,16 +87,18 @@ tmux send-keys -t "$sn:9" 'clear' Enter
 # Select window #0 and attach to the session
 tmux select-window -t "$sn:0"
 tmux -2 attach-session -t "$sn"
-~~~~
+```
 
 ---
 
 ### Aliases to make use of:
+
 ##### `.tmux_default_session.sh`
+
 I add the following aliases in `~/.bash_aliases` to automate a chunk of
 the workflow:
 
-~~~~{.bash}
+```{.bash}
 # This will launch tmux with the desired configuration
 alias dev='bash ~/.tmux_default_session.sh'
 
@@ -107,7 +111,7 @@ alias kdev='pkill tmux'
 # I use the following alias to quickly reattach to the default session
 # named `dev` in that example.
 alias adev='tmux attach-session -t dev'
-~~~~
+```
 
 ---
 

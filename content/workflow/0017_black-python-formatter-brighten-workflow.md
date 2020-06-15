@@ -4,7 +4,7 @@ Tags: neovim, plugin, productivity, terminal, vim
 Slug: black-a-python-formatter-to-brighten-your-workflow
 Authors: Sébastien Lavoie
 Summary: Meet [Black](https://github.com/python/black), a superb Python code formatter that will automatically reformat your code in accordance to PEP-8 standards.
-Description:  Meet Black, a superb Python code formatter that will automatically reformat your code in accordance to PEP-8 standards.
+Description: Meet Black, a superb Python code formatter that will automatically reformat your code in accordance to PEP-8 standards.
 
 ## What is Black?
 
@@ -14,27 +14,27 @@ From its [GitHub repository](https://github.com/python/black):
 
 **Black** will take less than ideal code and will automatically reformat it according to the [PEP-8 style guide](https://www.python.org/dev/peps/pep-0008/). It will take care of many things, including the following (taken in that order from `README.md` in **Black**'s repo):
 
-- Wrapping lines properly by shortening as much as possible single statements;
-- Break long lines;
-- Remove superfluous empty lines;
-- Take care of adding trailing commas where necessary;
-- Convert single quotes (`'`) to double quotes (`"`);
-- Convert numeric literals to lowercase (`0XAB` to `0xAB`);
-- Superfluous parentheses are removed;
-- Split call chains on different lines;
-- Works from the terminal and support many code editor integrations (Emacs, Vim, VS Code, Sublime, etc.).
+-   Wrapping lines properly by shortening as much as possible single statements;
+-   Break long lines;
+-   Remove superfluous empty lines;
+-   Take care of adding trailing commas where necessary;
+-   Convert single quotes (`'`) to double quotes (`"`);
+-   Convert numeric literals to lowercase (`0XAB` to `0xAB`);
+-   Superfluous parentheses are removed;
+-   Split call chains on different lines;
+-   Works from the terminal and support many code editor integrations (Emacs, Vim, VS Code, Sublime, etc.).
 
-Now that it's clear *why* it can be a good idea to use it, let's see how it works with Vim and the terminal.
+Now that it's clear _why_ it can be a good idea to use it, let's see how it works with Vim and the terminal.
 
-----
+---
 
 ## How to use it?
 
 First, we need to install it using Python 3.6.0+:
 
-~~~~{.bash}
+```{.bash}
 $ pip install black
-~~~~
+```
 
 That's it!
 
@@ -42,16 +42,15 @@ That's it!
 
 In its simplest invocation, we can use **Black** by specifying a file or a directory by typing:
 
-~~~~{.bash}
+```{.bash}
 $ black path_to_file_or_directory
-~~~~
+```
 
 It doesn't come with many options as its goal is to automatically format code consistently, but you can find out more about this tool in the following way:
 
-~~~~{.bash}
+```{.bash}
 $ black --help
-~~~~
-
+```
 
 ### Use it with Vim
 
@@ -61,46 +60,45 @@ Integrating **Black** with Vim or Neovim is quick and painless, adding a simple 
 
 With [vim-plug](https://github.com/junegunn/vim-plug):
 
-~~~~{.vim}
+```{.vim}
 Plug 'python/black'
-~~~~
-
+```
 
 With [Vundle](https://github.com/VundleVim/Vundle.vim):
 
-~~~~{.vim}
+```{.vim}
 Plugin 'python/black'
-~~~~
+```
 
 Once the plugin is installed, it may well be convenient to automatically format Python files when saving the buffer, which can be accomplished by adding the following line to the configuration file:
 
-~~~~{.vim}
+```{.vim}
 autocmd BufWritePre *.py execute ':Black'
-~~~~
+```
 
 By default, **Black** works surprisingly well on its own. I only went ahead and changed the default line length from 88 to 79 characters by also adding this line:
 
-~~~~{.vim}
+```{.vim}
 let g:black_linelength = 79  " default is 88
-~~~~
+```
 
 Finally, it's worth noting you can update **Black** at any point from the terminal with `pip` and you can also do it directly from within Vim/Neovim with this command:
 
-~~~~{.vim}
+```{.vim}
 :BlackUpgrade
-~~~~
+```
 
 Vim will then output something along those lines:
+
 > Upgrading Black with pip...
 
 > DONE! You are all set, thanks for waiting
-
 
 ## Any example?
 
 Taking a random Python 3.6+ code sample, we could originally have something like this (hopefully not):
 
-~~~~{.python}
+```{.python}
     for source in  data_sources :
 
 
@@ -128,11 +126,11 @@ Taking a random Python 3.6+ code sample, we could originally have something like
                 else : continue
         print( 'Exiting script...' )
         sys. exit(0)
-~~~~
+```
 
 Running **Black**, we will get something that's quite a bit more palatable:
 
-~~~~{.python}
+```{.python}
     for source in data_sources:
 
         # Retrieve a list of all matching log files in `source`
@@ -158,9 +156,9 @@ Running **Black**, we will get something that's quite a bit more palatable:
                 continue
         print("Exiting script...")
         sys.exit(0)
-~~~~
+```
 
-----
+---
 
 ## Conclusion
 

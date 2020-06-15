@@ -3,9 +3,8 @@ Date: 2019-02-18 21:30
 Tags: computer science, mathematics, python, script
 Slug: binary-to-decimal-decimal-to-binary-converter
 Authors: Sébastien Lavoie
-Summary: As part of a [course on the mathematics of Computer Science](https://www.coursera.org/learn/mathematics-for-computer-science/), I had to come up with algorithms to convert binary numbers to decimal numbers and vice versa. 
-Description: As part of a course on the mathematics of Computer Science, I had to come up with algorithms to convert binary numbers to decimal numbers and vice versa. 
-
+Summary: As part of a [course on the mathematics of Computer Science](https://www.coursera.org/learn/mathematics-for-computer-science/), I had to come up with algorithms to convert binary numbers to decimal numbers and vice versa.
+Description: As part of a course on the mathematics of Computer Science, I had to come up with algorithms to convert binary numbers to decimal numbers and vice versa.
 
 There is nothing new here in terms of algorithms, but it was interesting
 to figure out how to apply those concepts with Python. This works for
@@ -13,7 +12,7 @@ integer numbers, but can be easily adapted to convert fractions.
 
 ### Binary to Decimal
 
-~~~~{.python}
+```{.python}
 """
 Converts a binary number to a decimal number.
 """
@@ -49,12 +48,11 @@ if __name__ == '__main__':
 
     # print the solution to the console
     print(RESULT)
-~~~~
-
+```
 
 ### Decimal to Binary
 
-~~~~{.python}
+```{.python}
 """
 Converts a decimal number to a binary number.
 """
@@ -100,8 +98,7 @@ if __name__ == '__main__':
 
     # print the solution to the console
     print(RESULT)
-~~~~
-
+```
 
 ## Conclusion
 

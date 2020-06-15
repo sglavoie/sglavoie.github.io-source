@@ -11,8 +11,8 @@ Description: I have been using a few different tools from suckless.org for a whi
 From the [official website](https://suckless.org/):
 
 > Home of [dwm](https://dwm.suckless.org/),
-[dmenu](https://tools.suckless.org/dmenu) and other quality software
-with a focus on simplicity, clarity, and frugality.
+> [dmenu](https://tools.suckless.org/dmenu) and other quality software
+> with a focus on simplicity, clarity, and frugality.
 
 There are also other incredible pieces of software that are worth
 mentioning, including [st](https://st.suckless.org/).
@@ -20,7 +20,7 @@ mentioning, including [st](https://st.suckless.org/).
 Here, I will only go over the tools I use frequently, but keep in mind
 that everything from Suckless... Sucks less.
 
-----
+---
 
 ## st — Simple Terminal
 
@@ -32,7 +32,7 @@ I have experienced rendering issues when scaling the text with other terminals (
 
 I didn't have to adapt the configuration file very much. I ended up changing mainly the following lines:
 
-~~~~{.cpp}
+```{.cpp}
 static char *font = "Consolas:pixelsize=18:antialias=true:autohint=true";
 
 static char *shell = "/bin/zsh";
@@ -97,7 +97,7 @@ static unsigned int cursorshape = 2;
 
 static unsigned int cols = 80;
 static unsigned int rows = 24;
-~~~~
+```
 
 ## dmenu
 
@@ -107,7 +107,7 @@ static unsigned int rows = 24;
 
 This one is very easy to configure and doesn't really require any attention at all besides defining where you want it to appear on the screen and what colors you prefer. Here are some smalls changes I made to the configuration in `config.h` before compiling it:
 
-~~~~{.cpp}
+```{.cpp}
 static int topbar = 1;                      /* -b  option; if 0, dmenu appears at bottom     */
 /* -fn option overrides fonts[0]; default X11 font or font set */
 static const char *fonts[] = {
@@ -128,16 +128,17 @@ static unsigned int lines      = 0;
  * for example: " /?\"&[]"
  */
 static const char worddelimiters[] = " ";
-~~~~
+```
 
 ## slock
 
 What can be said about slock? It just works and never gets in your way. Set it and really forget it. From the official page:
+
 > This is the simplest X screen locker we are aware of.
 
 Again, its simplicity is charming and nothing really needs to be changed in `config.h` apart from colors and setting the correct username and group name to lock and unlock the screen.
 
-----
+---
 
 ## Conclusion
 

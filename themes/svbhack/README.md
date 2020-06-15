@@ -10,16 +10,16 @@ You can see the [theme in action](http://www.giuliofidente.com/).
 
 ## FEATURES
 
-- responsive
-- syntax highlighting for pre blocks
-- supports google analytics (removed from theme)
-- custom list of links
-- supports the [readtime](https://github.com/getpelican/pelican-plugins/tree/master/readtime) plugin
+-   responsive
+-   syntax highlighting for pre blocks
+-   supports google analytics (removed from theme)
+-   custom list of links
+-   supports the [readtime](https://github.com/getpelican/pelican-plugins/tree/master/readtime) plugin
 
 ## KNOWN ISSUES
 
-- no IE testing
-- no custom menu
+-   no IE testing
+-   no custom menu
 
 ## INSTALL
 
@@ -29,26 +29,26 @@ Clone the [repository](https://github.com/gfidente/pelican-svbhack), edit your `
 
 Supports a number of common global variables but patches are welcomed if you need better support.
 
-- ~~`GOOGLE_ANALYTICS` to use Google Analytics, set this var to your UA-XYZ code~~ (removed from theme)
+-   ~~`GOOGLE_ANALYTICS` to use Google Analytics, set this var to your UA-XYZ code~~ (removed from theme)
 
-- `USER_LOGO_URL` to replace the logo placeholder, put your logo in content/images/your_logo.png and make this var point to `SITEURL + '/static/images/your_logo.png'`
+-   `USER_LOGO_URL` to replace the logo placeholder, put your logo in content/images/your_logo.png and make this var point to `SITEURL + '/static/images/your_logo.png'`
 
-- `ROUND_USER_LOGO` set this to `True` to crop your logo to a circle and add a black border
+-   `ROUND_USER_LOGO` set this to `True` to crop your logo to a circle and add a black border
 
-- `HIDE_USER_LOGO` set this to `True` to hide the placeholder without adding your logo
+-   `HIDE_USER_LOGO` set this to `True` to hide the placeholder without adding your logo
 
-- `DISQUS_SITENAME` set this to your Disqus sitename to enable disqus comments in articles
+-   `DISQUS_SITENAME` set this to your Disqus sitename to enable disqus comments in articles
 
-- `TAGLINE` some text rendered right below the logo
+-   `TAGLINE` some text rendered right below the logo
 
-- ~~`INTERNET_DEFENSE_LEAGUE` set this to `True` if you want to enable the [Internet Defense League](http://internetdefenseleague.org) code~~ (removed from theme)
+-   ~~`INTERNET_DEFENSE_LEAGUE` set this to `True` if you want to enable the [Internet Defense League](http://internetdefenseleague.org) code~~ (removed from theme)
 
 When developing locally, you may want to set the following variable: `SITEURL = http://localhost:8000`
 
 ## MODIFICATIONS
 
-- Accent color can be changed by editing `@accent` in `./static/css/style.less`.
-- A different Pygmentize theme can be used by editing `./Makefile` and running `make pygments`.
+-   Accent color can be changed by editing `@accent` in `./static/css/style.less`.
+-   A different Pygmentize theme can be used by editing `./Makefile` and running `make pygments`.
 
 ## AUTHOR
 

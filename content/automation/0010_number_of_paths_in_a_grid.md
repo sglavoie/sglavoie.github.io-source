@@ -24,11 +24,11 @@ are aspects of it that can be solved more easily than previously
 thought when we use the right tools.
 Knowing that this particular situation corresponds to values from
 [Pascal's Triangle](https://en.wikipedia.org/wiki/Pascal%27s_triangle)
- might help, but it sure is more fun
+might help, but it sure is more fun
 to come up with a different solution. Here is how it occurred to me in
 Python:
 
-~~~~{.python}
+```{.python}
 '''
 This approach consists in getting the number of possible paths for each
 position where we stop in a grid. We know that once we reach the bottom
@@ -115,7 +115,7 @@ def num_paths(grid_size):
 
 if __name__ == '__main__':
     print(num_paths(GRID_SIZE))
-~~~~
+```
 
 In the end, the idea was to find the number of possible paths that
 correspond to each possible move, starting from the destination and
@@ -135,7 +135,8 @@ hourly outcomes.
 This goes hand in hand with the advice found in [Atomic
 Habits](https://amzn.to/2Y0QGis), an excellent book written by James
 Clear:
-> A 1% daily improvement leads to a version of yourself that's *37* times better in one year.
+
+> A 1% daily improvement leads to a version of yourself that's _37_ times better in one year.
 
 If that's not motivating enough to start taking little steps with
 consistency towards your dreams, I don't know what is.

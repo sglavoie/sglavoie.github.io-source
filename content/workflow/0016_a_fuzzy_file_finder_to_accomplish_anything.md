@@ -15,11 +15,11 @@ from `fzf`.
 From the [official GitHub page](https://github.com/junegunn/fzf):
 
 > fzf is a general-purpose command-line fuzzy finder. It's an
-interactive Unix filter for command-line that can be used with any list;
-files, command history, processes, hostnames, bookmarks, git commits,
-etc.
+> interactive Unix filter for command-line that can be used with any list;
+> files, command history, processes, hostnames, bookmarks, git commits,
+> etc.
 
-----
+---
 
 ## Terminal aliases
 
@@ -28,7 +28,7 @@ to use, it can be combined with all kinds of commands with the help
 of pipes (`|`) to bend it to your desires. Here are some aliases I am
 currently using that undoubtedly improve my terminal workflow.
 
-~~~~{.bash}
+```{.bash}
 ##### Functions
 
 # Select a configuration file with fzf and open it with Neovim
@@ -39,7 +39,7 @@ se() { du -a ./* | awk '{print $2}' | fzf | xargs -r nvim ;}
 
 # Select a file recursively from university folder with fzf and open it with default app
 sc() { du -a ~/Dropbox/university/* | awk '{print $2}' | fzf | xargs -r xdg-open ;}
-~~~~
+```
 
 The first alias, `conf` (short for _configuration_), allows to search
 only within the two folders specified for configuration files, which
@@ -47,8 +47,7 @@ makes it pop almost instantaneously since it doesn't have to scan files
 scattered anywhere else. You can then type anything that partially
 matches a file path and even include slashes (`/`) in your match if you
 know in which directories to look. You can then type `Enter` to open the
-file with your favorite text editor (here set to `nvim`) or type `CTRL +
-c` to abort the command.
+file with your favorite text editor (here set to `nvim`) or type `CTRL + c` to abort the command.
 
 The other aliases work in a similar fashion. `se` (short for _search_)
 will simply search recursively for any kind of files in the current
@@ -59,7 +58,7 @@ _school_), it will also search recursively for any kind of file in the
 `university` folder and will open it with the default application set to
 open that kind of file (video, image, text, PDF, etc.).
 
-----
+---
 
 ## Vim/Neovim integration
 
@@ -71,7 +70,7 @@ to integrate fzf in Vim and optionally, we may configure more options so
 that `fzf` can be used more optimally, which can be found on the [GitHub
 plugin page](https://github.com/junegunn/fzf.vim).
 
-~~~~{.vim}
+```{.vim}
 Plug 'junegunn/fzf', { 'dir': $HOME . '/.fzf', 'do': './install --all' }
 Plug 'junegunn/fzf.vim'
 
@@ -97,7 +96,7 @@ inoremap <expr> <c-x><c-k> fzf#vim#complete#word({'left': '20%'})
 " Make use of fzf command instead of CtrlP
 map <C-p> :FZF<cr>
 """ [ / FZF ]
-~~~~
+```
 
 ### Working with Neovim
 
@@ -110,28 +109,27 @@ you are looking for.
 
 From the above configuration, for instance:
 
-~~~~{.vim}
+```{.vim}
 nmap <leader><tab> <plug>(fzf-maps-n)
-~~~~
+```
 
 This allows to search for existing mappings and commands, which can be
 faster than diving in the help pages when looking for a quick reference.
 
 This one in insert mode is very handy:
 
-~~~~{.vim}
+```{.vim}
 imap <c-x><c-k> <plug>(fzf-complete-word)
-~~~~
+```
 
 Without affecting keyword completion with `CTRL + n` and `CTRL + p`
 (unless you have `set complete+=k` in your configuration file), you can
-complete words from a custom dictionary of your choice with `CTRL + x
-CTRL + k`. The window that appears can be moved and resized, which is
+complete words from a custom dictionary of your choice with `CTRL + x CTRL + k`. The window that appears can be moved and resized, which is
 what is happening here:
 
-~~~~{.vim}
+```{.vim}
 inoremap <expr> <c-x><c-k> fzf#vim#complete#word({'left': '20%'})
-~~~~
+```
 
 In the same way, file paths can be completed from the current working
 directory `CTRL + x CTRL + f` and existing lines can be quickly inserted
@@ -143,7 +141,7 @@ Finally, I use `fzf` to open any file quickly from the working directory
 inside Neovim with the mapping `CTRL + p`, which replaces the CtrlP
 plugin and can work much faster on larger codebases.
 
-----
+---
 
 ## Conclusion
 
@@ -158,4 +156,3 @@ superb piece of software!
 combining `fzf` with [dmenu](https://tools.suckless.org/dmenu/), a tool
 that I described succinctly in
 [a previous article](https://www.sglavoie.com/posts/2019/05/12/suckless-minimalist-tools-that-work-great/).
-

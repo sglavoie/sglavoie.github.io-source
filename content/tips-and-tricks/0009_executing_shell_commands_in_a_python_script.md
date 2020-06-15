@@ -15,10 +15,9 @@ either to retrieve its output or to perform some work in the background.
 I have wanted to do both when building this website, so here is one way
 to accomplish this!
 
-
 ### Retrieve the output
 
-~~~~{.python}
+```{.python}
 def read_tree():
     '''Execute `tree` command and store the output in
     `tree.txt`.'''
@@ -29,13 +28,13 @@ def read_tree():
 
 
 read_tree()
-~~~~
+```
 
 In this example, the structure from the current directory is printed
 when executing the code and it is later stored in a file. The output
 could look something like the following:
 
-~~~~{.txt}
+```{.txt}
 .
 ├── database_example
 │   ├── example.sqlite
@@ -57,9 +56,7 @@ could look something like the following:
 └── test.sql
 
 3 directories, 15 files
-~~~~
-
-
+```
 
 ### Execute a command in the background
 
@@ -68,7 +65,7 @@ from the terminal inside a Python script. This website, for example,
 currently exports daily Git statistics in the `output/` folder. This
 looks like this:
 
-~~~~{.python}
+```{.python}
 def daily_stats():
     '''Execute `Gitstats` once a day based on the date found in
     `stats_counter.txt`. Very simple with a caveat: it won't check if
@@ -84,12 +81,11 @@ def daily_stats():
         subprocess.run(cmd)
         with open('stats_counter.txt', 'w') as f:
             f.write(today)
-~~~~
+```
 
 This is an automated process, which is something Python is easy to use
 for. However, it won't be necessary to program everything: it all gets
 generated on demand!
-
 
 ## Conclusion
 

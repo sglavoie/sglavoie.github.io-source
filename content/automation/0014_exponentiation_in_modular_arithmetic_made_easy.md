@@ -8,7 +8,7 @@ Description: While playing around in the Python interpreter to validate answers 
 
 The following Python script will by no means provide any useful idea to
 compete against the
- [RSA algorithm](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
+[RSA algorithm](<https://en.wikipedia.org/wiki/RSA_(cryptosystem)>)
 , but it does give you an idea of how
 a simple technique about reducing the size of an exponent in modular
 arithmetic can bring you closer to using much larger numbers than the
@@ -16,7 +16,7 @@ ones you could normally use in the Python interpreter.
 
 ## The script in action
 
-~~~~{.python}
+```{.python}
 """Compute the result of a^b (mod k) by using the exponentiation technique.
 The goal here is not efficiency, even though the program is actually pretty
 fast: the algorithm is applied manually for demonstration purposes.
@@ -125,8 +125,7 @@ if __name__ == '__main__':
     FINAL_RESULT = compute_congruence(NUM_A, NUM_B, NUM_K)
     print(FINAL_RESULT)
 
-~~~~
-
+```
 
 ## Conclusion
 
@@ -137,4 +136,4 @@ a basic approach like the one shown above can quickly churn out the
 results for seemingly quite large numbers.
 
 As always, this code is
- [available on GitHub](https://github.com/sglavoie/code-snippets/blob/master/python/mathematics/modular_arithmetic/exponentiation_mod_k.py).
+[available on GitHub](https://github.com/sglavoie/code-snippets/blob/master/python/mathematics/modular_arithmetic/exponentiation_mod_k.py).
