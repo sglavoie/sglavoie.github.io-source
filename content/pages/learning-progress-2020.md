@@ -18,6 +18,12 @@ save_as: learning-progress-2020.html
 
 ## June
 
+### 16
+
+-   University of London
+    -   **Algorithms and Data Structures II**
+        -   Hash functions (division method, multiplication method), open addressing (linear probing, quadratic probing, double hashing).
+
 ### 15
 
 -   University of London
