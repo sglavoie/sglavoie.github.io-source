@@ -18,6 +18,14 @@ save_as: learning-progress-2020.html
 
 ## June
 
+### 17
+
+-   University of London
+    -   **Algorithms and Data Structures II**
+        -   Open addressing.
+    -   **Object-Oriented Programming**
+        -   C++: Reading user input; exception handling.
+
 ### 16
 
 -   University of London
