@@ -18,6 +18,17 @@ save_as: learning-progress-2020.html
 
 ## June
 
+### 20
+
+-   University of London
+    -   **Object-Oriented Programming**
+        -   Implementing matching algorithm for cryptocurrency trading; testing the matching algorithm; implementing "wallet" functionality.
+-   Review absolute vs relative imports in Python; property-based testing with Hypothesis; Mocking and Patching Pitfalls.
+
+### 19
+
+-   Python with `pytest`: Mocking; fixtures; monkeypatching.
+
 ### 18
 
 -   University of London
