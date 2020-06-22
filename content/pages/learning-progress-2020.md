@@ -18,6 +18,16 @@ save_as: learning-progress-2020.html
 
 ## June
 
+### 21
+
+-   University of London
+    -   **Fundamentals of Computer Science**
+        -   Regular expressions.
+    -   **Object-Oriented Programming**
+        -   Matching algorithm: implementing print and remove functions in wallet; static and non-static functions.
+-   Setting up Python language server with `coc.nvim`.
+-   Tip: Opening file in Neovim from CLI with `nvim **`, then `<TAB>` to fuzzy search.
+
 ### 20
 
 -   University of London
