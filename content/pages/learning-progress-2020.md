@@ -18,6 +18,12 @@ save_as: learning-progress-2020.html
 
 ## June
 
+### 22
+
+-   University of London
+    -   **Fundamentals of Computer Science**
+        -   Regular expressions & finite automata, regular & non-regular languages; pumping lemma.
+
 ### 21
 
 -   University of London
