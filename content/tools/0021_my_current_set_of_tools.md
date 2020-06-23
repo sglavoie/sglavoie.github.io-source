@@ -80,7 +80,7 @@ Description: I like to keep track of the tools I use and see the shifts that occ
 | terminal shell                  | zsh                  | bash                 |
 | terminal system monitor         | glances              | htop                 |
 | terminal youtube downloader     | youtube-dl           |                      |
-| text editor                     | neovim               | vim                  |
+| text editor                     | neovim               | vim, vs code         |
 | text formatter                  | par                  |                      |
 | torrent                         | transmission         | deluge               |
 | version control stats           | gitstats             |                      |
