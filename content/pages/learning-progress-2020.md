@@ -18,6 +18,14 @@ save_as: learning-progress-2020.html
 
 ## June
 
+### 23
+
+-   University of London
+    -   **Algorithms and Data Structures II**
+        -   Hashing algorithm.
+    -   **Fundamentals of Computer Science**
+        -   Non-regular languages & pumping lemma.
+
 ### 22
 
 -   University of London
