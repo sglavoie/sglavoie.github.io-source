@@ -18,6 +18,12 @@ save_as: learning-progress-2020.html
 
 ## June
 
+### 24
+
+-   University of London
+    -   **Object-Oriented Programming**
+        -   Refactoring C++ application.
+
 ### 23
 
 -   University of London
