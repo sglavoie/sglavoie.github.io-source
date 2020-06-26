@@ -18,6 +18,13 @@ save_as: learning-progress-2020.html
 
 ## June
 
+### 25
+
+-   University of London
+    -   **Object-Oriented Programming**
+        -   Refactoring C++ application.
+- [How to Publish an Open-Source Python Package to PyPI](https://realpython.com/pypi-publish-python-package/).
+
 ### 24
 
 -   University of London
