@@ -11,3 +11,4 @@ tree.txt
 tree_content.html
 utils/
 .vscode/
+.venv/
