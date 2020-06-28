@@ -17,7 +17,6 @@ Description: I like to keep track of the tools I use and see the shifts that occ
 | code completion                 | coc.nvim             | ale                  |
 | code snippets                   | github gists         | gitlab snippets      |
 | cursor hider                    | unclutter            |                      |
-| design                          | draw.io              |                      |
 | desktop environment             | xfce                 | gnome                |
 | dotfiles management             | git bare repo        |                      |
 | dynamic menu                    | dmenu                | rofi                 |
@@ -25,24 +24,26 @@ Description: I like to keep track of the tools I use and see the shifts that occ
 | encrypted paste bin             | paste.sh             |                      |
 | file manager                    | thunar               | pcmanfm, nautilus    |
 | file renamer                    | pyrenamer            | thunar bulk rename   |
+| flowchart design                | draw.io              |                      |
 | fonts monospace                 | jetbrains mono       | iosevka              |
 | fonts monospace                 | source code pro      | inconsolata          |
 | fonts sansserif                 | lato                 | dejavu               |
 | image editing (raster)          | gimp                 |                      |
 | image editing (vector)          | inkscape             |                      |
-| irc chat                        | hexchat              |                      |
-| linux distribution              | manjaro              | debian, ubuntu       |
+| irc chat                        | hexchat              | pidgin               |
+| linux distribution              | xubuntu              | debian, manjaro      |
 | memorizing                      | anki                 |                      |
 | mind mapping                    | freeplane            | draw.io              |
 | music player                    | clementine           | audacious            |
 | note-taking                     | vimwiki              |                      |
-| notifications                   | dunst                |                      |
+| notifications                   | xfce                 | dunst                |
 | office suite                    | libreoffice          |                      |
 | operating system                | gnu/linux            |                      |
+| paragraph formatter             | par                  |                      |
 | partition manager               | gparted              |                      |
 | password manager                | keepassxc            |                      |
 | pdf editing (minimal)           | pdfarranger          |                      |
-| pdf viewer                      | zathura              | evince               |
+| pdf viewer                      | zathura              | atril, evince        |
 | publishing                      | scribus              |                      |
 | python documentation            | sphinx               |                      |
 | python formatter                | black                |                      |
@@ -81,7 +82,6 @@ Description: I like to keep track of the tools I use and see the shifts that occ
 | terminal system monitor         | glances              | htop                 |
 | terminal youtube downloader     | youtube-dl           |                      |
 | text editor                     | neovim               | vim, vs code         |
-| text formatter                  | par                  |                      |
 | torrent                         | transmission         | deluge               |
 | version control stats           | gitstats             |                      |
 | version control system          | git                  |                      |
