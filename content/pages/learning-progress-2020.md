@@ -18,6 +18,12 @@ save_as: learning-progress-2020.html
 
 ## June
 
+### 27
+
+-   University of London
+    -   **Fundamentals of Computer Science**
+        -   Review: propositional logic; proof by contrapositive; combinations & permutations; finite automata; regular expressions.
+
 ### 25
 
 -   University of London
