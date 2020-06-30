@@ -18,6 +18,12 @@ save_as: learning-progress-2020.html
 
 ## June
 
+### 29
+
+-   University of London
+    -   **Algorithms and Data Structures II**
+        -   Growth of functions; Asymptotic notation; time complexity.
+
 ### 28
 
 -   University of London
