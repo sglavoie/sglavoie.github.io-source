@@ -16,7 +16,22 @@ save_as: learning-progress-2020.html
 > don't know much in the end. In the process, I hope you may find some
 > inspiration too.
 
+
+## July
+
+### 1
+
+-   University of London
+    -   **Algorithms and Data Structures II**
+        -   Growth of functions; Asymptotic notation; time complexity.
+
 ## June
+
+### 30
+
+-   University of London
+    -   **Algorithms and Data Structures II**
+        -   Growth of functions; Asymptotic notation; time complexity.
 
 ### 29
 
