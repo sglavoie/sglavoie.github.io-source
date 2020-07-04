@@ -1,6 +1,6 @@
 Title: My Current Set of Tools and Customizations
 Date: 2020-06-06 10:41
-Modified: 2020-06-13 13:50
+Modified: 2020-07-03 21:19
 Slug: my-current-set-of-tools-and-customizations
 Tags: customization, software
 Authors: Sébastien Lavoie
@@ -60,6 +60,7 @@ Description: I like to keep track of the tools I use and see the shifts that occ
 | sql client                      | dbeaver              |                      |
 | sql viewer                      | sqlitebrowser        |                      |
 | static website generator        | pelican              |                      |
+| task management                 | clickup              | todoist              |
 | terminal calculator             | bc                   | wcalc, galculator    |
 | terminal clipboard              | xclip                |                      |
 | terminal coursera downloader    | coursera-dl          |                      |
