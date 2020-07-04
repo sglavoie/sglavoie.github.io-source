@@ -19,6 +19,10 @@ save_as: learning-progress-2020.html
 
 ## July
 
+### 3
+
+-   Publishing a package to PyPi through continuous integration.
+
 ### 1
 
 -   University of London
