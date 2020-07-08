@@ -19,6 +19,19 @@ save_as: learning-progress-2020.html
 
 ## July
 
+### 5
+
+-   University of London
+    -   **Algorithms and Data Structures II**
+        -   Review hashing algorithms.
+-   [Continuous Integration Testing: Basics + What to Test](https://www.semicolonandsons.com/episode/continuous-integration-testing-basics-and-what-to-test).
+
+### 4
+
+-   University of London
+    -   **Algorithms and Data Structures II**
+        -   Growth of functions; Asymptotic notation; time complexity.
+
 ### 3
 
 -   Publishing a package to PyPi through continuous integration.
