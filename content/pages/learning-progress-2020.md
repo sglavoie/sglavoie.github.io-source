@@ -19,6 +19,18 @@ save_as: learning-progress-2020.html
 
 ## July
 
+### 7
+
+-   University of London
+    -   **Algorithms and Data Structures II**
+        -   Review hashing algorithms.
+
+### 6
+
+-   University of London
+    -   **Algorithms and Data Structures II**
+        -   Review hashing algorithms.
+
 ### 5
 
 -   University of London
