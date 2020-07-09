@@ -19,6 +19,12 @@ save_as: learning-progress-2020.html
 
 ## July
 
+### 8
+
+-   University of London
+    -   **Object-Oriented Programming**
+        -   Integrating new classes into skeleton project; functions and user input.
+
 ### 7
 
 -   University of London
