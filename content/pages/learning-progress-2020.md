@@ -19,6 +19,12 @@ save_as: learning-progress-2020.html
 
 ## July
 
+### 9
+
+-   University of London
+    -   **Object-Oriented Programming**
+        -   Control flow, setting up projects with Makefiles.
+
 ### 8
 
 -   University of London
