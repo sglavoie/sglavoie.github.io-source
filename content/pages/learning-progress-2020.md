@@ -19,6 +19,12 @@ save_as: learning-progress-2020.html
 
 ## July
 
+### 10
+
+-   University of London
+    -   **Object-Oriented Programming**
+        -   C++: How the compiler works; how linking works; variables; functions; loops; pointers; references; classes; structs; static vs local static; enums; constructors; destructors; inheritance; virtual functions; interfaces; visibility; arrays; strings; string literals; `const` keyword; `mutable` keyword; ternary operators; instantiate objects; `new` keyword; implicit conversion; `explicit` keyword; operator overloading.
+
 ### 9
 
 -   University of London
