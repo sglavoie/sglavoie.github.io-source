@@ -19,6 +19,12 @@ save_as: learning-progress-2020.html
 
 ## July
 
+### 11
+
+-   University of London
+    -   **Object-Oriented Programming**
+        -    C++: `this` keyword; stack & scope lifetime; arrow operator; optimizing usage of `std::vector`; `auto` keyword; casting; logging.
+
 ### 10
 
 -   University of London
