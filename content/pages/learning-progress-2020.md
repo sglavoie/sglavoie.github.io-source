@@ -19,6 +19,19 @@ save_as: learning-progress-2020.html
 
 ## July
 
+### 13
+
+-   University of London
+    -   **Object-Oriented Programming**
+        -    C++: Getting started with JUCE framework.
+- Helm package manager.
+
+### 12
+
+-   University of London
+    -   **Object-Oriented Programming**
+        -    C++: Arrays; implementing an Exponential Moving Average (EMA) algorithm; using `std::chrono`; maps.
+
 ### 11
 
 -   University of London
