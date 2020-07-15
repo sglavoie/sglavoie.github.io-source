@@ -19,6 +19,12 @@ save_as: learning-progress-2020.html
 
 ## July
 
+### 14
+
+-   University of London
+    -   **Object-Oriented Programming**
+        -    C++: Getting started with JUCE framework; adding a GUI widget; inheritance; arrays; `for` loops.
+
 ### 13
 
 -   University of London
