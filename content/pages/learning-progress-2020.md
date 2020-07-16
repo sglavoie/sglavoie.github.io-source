@@ -19,6 +19,12 @@ save_as: learning-progress-2020.html
 
 ## July
 
+### 15
+
+-   University of London
+    -   **Object-Oriented Programming**
+        -    C++: JUCE application and macros; event listener pattern; implement a slider listener; pure virtual functions.
+
 ### 14
 
 -   University of London
