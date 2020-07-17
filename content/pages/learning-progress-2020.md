@@ -19,6 +19,13 @@ save_as: learning-progress-2020.html
 
 ## July
 
+### 16
+
+-   University of London
+    -   **Algorithms and Data Structures II**
+        -   Introduction to data structures; linked lists; stacks.
+
+
 ### 15
 
 -   University of London
