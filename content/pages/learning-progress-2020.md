@@ -19,6 +19,13 @@ save_as: learning-progress-2020.html
 
 ## July
 
+### 18
+
+-   University of London
+    -   **Fundamentals of Computer Science**
+        -   Review: propositional logic; formal proofs; permutations & combinations; automata theory; regular expressions; pumping lemma.
+        -   Context-free grammar.
+
 ### 17
 
 -   University of London
