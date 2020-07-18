@@ -19,6 +19,12 @@ save_as: learning-progress-2020.html
 
 ## July
 
+### 17
+
+-   University of London
+    -   **Fundamentals of Computer Science**
+        -   Context-free grammar.
+
 ### 16
 
 -   University of London
