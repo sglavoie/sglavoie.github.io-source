@@ -19,6 +19,14 @@ save_as: learning-progress-2020.html
 
 ## July
 
+### 19
+
+-   University of London
+    -   **Algorithms and Data Structures II**
+        -   Stacks; queues.
+    -   **Object-Oriented Programming**
+        -    C++: Inheritance and virtual functions; audio play back & basic synthesis; sound synthesis in JUCE; play back of files; module coupling; module cohesion; pointers & references.
+
 ### 18
 
 -   University of London
