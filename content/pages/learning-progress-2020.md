@@ -19,6 +19,12 @@ save_as: learning-progress-2020.html
 
 ## July
 
+### 20
+
+-   University of London
+    -   **Fundamentals of Computer Science**
+        -   Grammar, regular languages.
+
 ### 19
 
 -   University of London
