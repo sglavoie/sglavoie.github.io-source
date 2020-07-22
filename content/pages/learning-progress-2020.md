@@ -19,6 +19,12 @@ save_as: learning-progress-2020.html
 
 ## July
 
+### 21
+
+-   University of London
+    -   **Fundamentals of Computer Science**
+        -   Regular languages; context-free grammar; Chomsky Normal Form.
+
 ### 20
 
 -   University of London
