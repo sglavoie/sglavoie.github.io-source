@@ -19,6 +19,12 @@ save_as: learning-progress-2020.html
 
 ## July
 
+### 22
+
+-   University of London
+    -   **Algorithms and Data Structures II**
+        -   Trees and their implementation; binary search trees.
+
 ### 21
 
 -   University of London
