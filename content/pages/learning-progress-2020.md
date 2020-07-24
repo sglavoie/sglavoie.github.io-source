@@ -19,6 +19,12 @@ save_as: learning-progress-2020.html
 
 ## July
 
+### 23
+
+-   University of London
+    -   **Object-Oriented Programming**
+        -    C++: pointers & references; audio playback with the [JUCE framework](https://juce.com).
+
 ### 22
 
 -   University of London
