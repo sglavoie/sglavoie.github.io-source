@@ -19,6 +19,10 @@ save_as: learning-progress-2020.html
 
 ## July
 
+### 24
+
+-    Creating a Chrome extension.
+
 ### 23
 
 -   University of London
