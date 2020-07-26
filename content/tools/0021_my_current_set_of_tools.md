@@ -13,7 +13,7 @@ Description: I like to keep track of the tools I use and see the shifts that occ
 | audio editing                   | audacity             |                      |
 | backup (script)                 | rsync                |                      |
 | clipboard manager               | copyq                | clipman              |
-| cloud                           | dropbox-cli          |                      |
+| cloud                           | dropbox-cli          | google drive         |
 | code completion                 | coc.nvim             | ale                  |
 | code snippets                   | github gists         | gitlab snippets      |
 | cursor hider                    | unclutter            |                      |

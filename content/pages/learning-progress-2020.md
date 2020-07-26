@@ -19,6 +19,12 @@ save_as: learning-progress-2020.html
 
 ## July
 
+### 25
+
+-   University of London
+    -   **Fundamentals of Computer Science**
+        -   Context-free grammar & languages; parse trees; ambiguity in grammars & languages; Chomsky Normal Form.
+
 ### 24
 
 -    Creating a Chrome extension.
