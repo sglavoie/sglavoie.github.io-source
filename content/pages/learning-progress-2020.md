@@ -19,6 +19,14 @@ save_as: learning-progress-2020.html
 
 ## July
 
+### 26
+
+-   University of London
+    -   **Fundamentals of Computer Science**
+        -   Review: Chomsky Normal Form.
+        -   Turing machines, review of simple algorithms for sorting.
+-   [How To Make Less Dumb Mistakes When Programming](https://www.semicolonandsons.com/episode/how-to-make-less-mistakes-when-programming).
+
 ### 25
 
 -   University of London
