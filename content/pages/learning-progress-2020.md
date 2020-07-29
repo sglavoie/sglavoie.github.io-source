@@ -19,6 +19,12 @@ save_as: learning-progress-2020.html
 
 ## July
 
+### 28
+
+-   University of London
+    -   **Object-Oriented Programming**
+        -    C++: Virtual functions; polymorphism; creating a new GUI component class for audio player control; implementing drag and drop.
+
 ### 27
 
 -   University of London
