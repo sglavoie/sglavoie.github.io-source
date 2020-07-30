@@ -19,6 +19,12 @@ save_as: learning-progress-2020.html
 
 ## July
 
+### 29
+
+-   University of London
+    -   **Fundamentals of Computer Science**
+        -   Review of simple algorithms for sorting.
+
 ### 28
 
 -   University of London
