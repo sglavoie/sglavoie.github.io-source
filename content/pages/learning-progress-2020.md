@@ -19,6 +19,12 @@ save_as: learning-progress-2020.html
 
 ## July
 
+### 31
+
+-   University of London
+    -   **Object-Oriented Programming**
+        -    C++: Member initializer lists; implement a waveform display (JUCE framework).
+
 ### 30
 
 -   University of London
