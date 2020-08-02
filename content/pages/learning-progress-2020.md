@@ -17,6 +17,16 @@ save_as: learning-progress-2020.html
 > inspiration too.
 
 
+## August
+
+### 1
+
+-   University of London
+    -   **Object-Oriented Programming**
+        -    C++: implement a waveform display (JUCE framework).
+- [21 JavaScript tricks](https://www.youtube.com/watch?v=3vLCthTptY0) with Aaron Jack.
+- Using VS Code debugger.
+
 ## July
 
 ### 31
