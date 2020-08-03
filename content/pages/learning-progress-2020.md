@@ -19,13 +19,20 @@ save_as: learning-progress-2020.html
 
 ## August
 
+### 2
+
+-   University of London
+    -   **Fundamentals of Computer Science**
+        -   Greedy algorithms, halting problem, binary search, heap sort, recursion, quick sort, merge sort.
+-   [How to Avoid Dumb Code Mistakes Part II](https://www.youtube.com/watch?v=rP04uAx5A28)
+
 ### 1
 
 -   University of London
     -   **Object-Oriented Programming**
         -    C++: implement a waveform display (JUCE framework).
-- [21 JavaScript tricks](https://www.youtube.com/watch?v=3vLCthTptY0) with Aaron Jack.
-- Using VS Code debugger.
+-   [21 JavaScript tricks](https://www.youtube.com/watch?v=3vLCthTptY0) with Aaron Jack.
+-   Using VS Code debugger.
 
 ## July
 
