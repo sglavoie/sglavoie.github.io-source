@@ -19,6 +19,12 @@ save_as: learning-progress-2020.html
 
 ## August
 
+### 3
+
+-   University of London
+    -   **Algorithms and Data Structures II**
+        -   Binary search trees; heaps.
+
 ### 2
 
 -   University of London
