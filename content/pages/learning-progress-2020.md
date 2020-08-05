@@ -19,6 +19,12 @@ save_as: learning-progress-2020.html
 
 ## August
 
+### 4
+
+-   University of London
+    -   **Object-Oriented Programming**
+        -    C++: implement a moveable playhead (JUCE framework).
+
 ### 3
 
 -   University of London
