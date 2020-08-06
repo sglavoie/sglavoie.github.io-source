@@ -19,11 +19,17 @@ save_as: learning-progress-2020.html
 
 ## August
 
+### 5
+
+-   University of London
+    -   **Object-Oriented Programming**
+        -    C++: implement a moveable play head with a timer (JUCE framework); threads; add a playlist component with a table; implement a play button.
+
 ### 4
 
 -   University of London
     -   **Object-Oriented Programming**
-        -    C++: implement a moveable playhead (JUCE framework).
+        -    C++: implement a moveable play head (JUCE framework).
 
 ### 3
 
