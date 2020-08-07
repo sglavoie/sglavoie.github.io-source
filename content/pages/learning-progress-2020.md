@@ -19,6 +19,12 @@ save_as: learning-progress-2020.html
 
 ## August
 
+### 6
+
+-   University of London
+    -   **Fundamentals of Computer Science**
+        -   Recursive algorithms; recursion & iteration.
+
 ### 5
 
 -   University of London
