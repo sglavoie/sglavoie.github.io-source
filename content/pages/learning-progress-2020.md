@@ -19,6 +19,12 @@ save_as: learning-progress-2020.html
 
 ## August
 
+### 8
+
+-   University of London
+    -   **Fundamentals of Computer Science**
+        -   Review merge sort; the algorithm of happiness (Lloyd Shapley); review time complexity of algorithms & Big O notation; recursion.
+
 ### 6
 
 -   University of London
