@@ -19,6 +19,14 @@ save_as: learning-progress-2020.html
 
 ## August
 
+### 9
+
+-   University of London
+    -   **Algorithms and Data Structures II**
+        -   Operations in heaps.
+    -   **Object-Oriented Programming**
+        -    C++: work with a table component (JUCE framework).
+
 ### 8
 
 -   University of London
