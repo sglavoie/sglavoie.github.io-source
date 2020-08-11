@@ -19,6 +19,15 @@ save_as: learning-progress-2020.html
 
 ## August
 
+### 10
+
+-   University of London
+    -   **Algorithms and Data Structures II**
+        -   Review merge sort; divide & conquer; recurrence relations; master theorem.
+    -   **Fundamentals of Computer Science**
+        -   Review searching: sequential search; binary search; comparison trees; Fibonacci search.
+        -   Review sorting: selection sort; insertion sort; bubble sort; quick sort; heap sort; merge sort; shell sort; radix sort.
+
 ### 9
 
 -   University of London
