@@ -19,6 +19,12 @@ save_as: learning-progress-2020.html
 
 ## August
 
+### 11
+
+-   University of London
+    -   **Algorithms and Data Structures II**
+        -   Review recurrence relations; master theorem.
+
 ### 10
 
 -   University of London
