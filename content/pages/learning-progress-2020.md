@@ -19,6 +19,13 @@ save_as: learning-progress-2020.html
 
 ## August
 
+### 12
+
+-   University of London
+    -   **Algorithms and Data Structures II**
+        -   Review heaps.
+        -   Heapsort & its time complexity.
+
 ### 11
 
 -   University of London
