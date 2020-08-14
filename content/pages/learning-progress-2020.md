@@ -19,6 +19,12 @@ save_as: learning-progress-2020.html
 
 ## August
 
+### 13
+
+-   University of London
+    -   **Algorithms and Data Structures II**
+        -   Heaps, heapsort and priority queues.
+
 ### 12
 
 -   University of London
