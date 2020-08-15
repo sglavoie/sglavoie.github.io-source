@@ -119,6 +119,7 @@ main article div.article_text code {
 	font-size: 0.8rem;
 	font-family: 'PT Mono', monospace;
 	background: #eeeeee;
+	line-height: 1.2;
 }
 
 main article div.article_text pre {
