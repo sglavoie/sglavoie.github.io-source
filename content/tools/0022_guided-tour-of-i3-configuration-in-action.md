@@ -1,5 +1,6 @@
 Title: A Guided Tour of an i3 Configuration
 Date: 2020-08-15 10:51
+Modified: 2020-08-15 21:47
 Slug: a-guided-tour-of-an-i3-configuration
 Tags: i3, window-manager
 Authors: Sébastien Lavoie
@@ -8,11 +9,13 @@ Description: This article will go over my dear i3 configuration file, which cont
 
 # Introduction
 
-In [Using i3 as a Window Manager for Increased Productivity](https://www.sglavoie.com/posts/2019/01/08/using-i3-as-a-window-manager-for-increased-productivity/), a number of reasons were given to get going with this fantastic tiling window manager. Now, it's time to jump in and explore how to actually use i3! If you're looking for an in-depth guide, the [official i3 documentation](https://i3wm.org/docs/userguide.html) or the [i3 page on the Arch Wiki](https://wiki.archlinux.org/index.php/i3) are awesome resources to dive deep. Here, we'll focus on day-to-day usage based on my current configuration file which I have used and refined over the past two years or so in the hope that you'll be able to quickly glean useful tips and tricks to apply to your own use case.
+In [Using i3 as a Window Manager for Increased Productivity](https://www.sglavoie.com/posts/2019/01/08/using-i3-as-a-window-manager-for-increased-productivity/), a number of reasons were given to get going with this fantastic tiling window manager. Now, it's time to jump in and explore how to actually use i3! If you're looking for an in-depth guide, the [official i3 documentation](https://i3wm.org/docs/userguide.html) or the [i3 page on the Arch Wiki](https://wiki.archlinux.org/index.php/i3) are awesome resources to dive deeper. Here, we'll focus on day-to-day usage based on my current configuration file which I have used and refined over the past two years or so. I hope that you'll be able to glean useful tips and tricks to apply to your own use case.
 
 ---
 
 ## The Configuration File
+
+To set keybindings, it _may_ be handy to know the keycodes and their respective names. To get a full list, you can use `xmodmap -pk` in the terminal. If you're not sure of the name of the key you want to press (is it "PageDown", "PageDwn" or "Next"?), you can retrieve it by executing the `xev` command, which will open two windows: one for capturing the actual key press and the other one to display the relevant details for that key. For example, if you press the backspace key, the output will contain something like `keycode 22 (keysym 0xff08, BackSpace)`. From there, you will know that a mapping would be of the form `mod+BackSpace`, where `mod` is the modifier of your choice that is usually specified at the top of the configuration file. Now we can start!
 
 ### General settings
 
@@ -336,7 +339,7 @@ bindsym $mod+n    border normal
 
 A few notes on the **Borders** section:
 
-- I just **love** knowing which container is active, so I set thick, bright borders with a nice kind of "electric blue" color that's as easy to spot on a light or dark background (colors are set in a separate section).
+- I just **love** knowing which container is active, so I set thick, bright borders with a nice kind of "electric blue" color that's easy to spot on a light or dark background (colors are set below in the section **Colors & theming**).
 - I also **love** saving space whenever possible to see more stuff on the screen, so I avoid gaps altogether (if you like them, have a look at [i3-gaps](https://github.com/Airblader/i3)). In that spirit, I also set the option `hide_edge_borders smart` so that borders don't show up when I have only one tiled container covering the whole space.
 - This also shows that you can have a different border size for floating windows if you find the thickness distracting. Personally, I just find it helps me know which container is active when I toggle from foreground to background window with `mod+space`.
 
@@ -348,7 +351,7 @@ A few notes on the **Borders** section:
 
 ### dmenu
 
-`dmenu` is so useful that it also got its own section. By default, you usually launch applications with `mod+d`: I kept the same behavior here. I added a few custom launchers that I use all the time to open files based on a topic, using mnemonics that work (for me, at least). If you want to know more about setting these kinds of shortcuts, you may well be interested in reading [Using dmenu to Optimize Common Tasks](https://www.sglavoie.com/posts/2019/11/10/using-dmenu-to-optimize-common-tasks/) ;).
+`dmenu` is so useful that it also got its own section. By default, you usually launch applications with `mod+d`: I kept the same behavior here. I added a few custom launchers that I use all the time to open files based on a topic, using mnemonics that work (for me, at least). If you want to know more about setting these kinds of shortcuts, you may be interested in reading [Using dmenu to Optimize Common Tasks](https://www.sglavoie.com/posts/2019/11/10/using-dmenu-to-optimize-common-tasks/) ;).
 
 ```{.bash}
 bindsym $mod+Mod1+c    exec --no-startup-id ~/Dropbox/.custom/dmenu/cheatsheets.sh
@@ -384,7 +387,7 @@ A few notes on the **Shortcuts** mini-section:
 - In i3, you don't really make use of icons on the desktop. I like the absence of visual clutter it provides, but I sometimes like to access a specific folder in which I drop a few shortcuts/symlinks to access other files from there.
 - `bc` is a nice minimalist calculator.
 - Focusing applications is also a very cool use of shortcuts. In this case, I just leave Todoist running on a workspace and can quickly go back to it.
-- Working remotely with many teammates from around the world is sometimes confusing time-wise, so I have a simple script that outputs the current time in the places I'm interested in monitoring.
+- _An idea for customization_: working remotely with many teammates from around the world is sometimes confusing timewise, so I have a simple script that outputs the current time in the places I'm interested in monitoring.
 
 <figure>
     <a href="{static}/images/posts/0022_guided-tour-i3/timezones.png"><img src="{static}/images/posts/0022_guided-tour-i3/timezones.png" alt="timezones_dmenu" class="max-size-img-post"></a>
@@ -422,13 +425,13 @@ bindsym XF86MonBrightnessUp      exec "light -A 5"
 bindsym $mod+Control+b    exec --no-startup-id ~/.local/bin/toggle_laptop_brightness
 ```
 
-To control the screen brightness, I use [`light`](https://github.com/haikarainen/light). I also like to just toggle the brightness of my laptop at night when I just read something on my external monitor, so I use a [`toggle_laptop_brightness`](https://github.com/sglavoie/dotfiles/blob/master/.local/bin/toggle_laptop_brightness) script that I found somewhere online and adapted slightly.
+To control the screen brightness, I use [`light`](https://github.com/haikarainen/light). I also like to just toggle the brightness of my laptop at night when I read something on my external monitor, so I use a [`toggle_laptop_brightness`](https://github.com/sglavoie/dotfiles/blob/master/.local/bin/toggle_laptop_brightness) script that I found somewhere online and adapted slightly.
 
 ### Applications
 
-This section will heavily depend on the software you use, but that will give an idea. I like to have a shortcut for [bashtop](https://github.com/aristocratos/bashtop) to quickly monitor system resources ([glances](https://github.com/nicolargo/glances) is also quite nice). Besides that, I like to have applications automatically appear on specific workspaces and be switched to in some instances.
+This section will heavily depend on the software you use of course, but there's the gist of it. I like to have a shortcut for [bashtop](https://github.com/aristocratos/bashtop) to quickly monitor system resources ([glances](https://github.com/nicolargo/glances) is also quite nice). Besides that, I like to have applications automatically appear on specific workspaces and be switched to in some instances.
 
-Controlling which application opens in floating mode is also useful as some just don't play that well with tiling. To find information about an application, you can open a new terminal window and launch `xprop`, click on the window you need information about and voilà, a couple of strings will be displayed like so (output truncated a bit):
+Controlling which application opens in floating mode is also useful as some just don't play that well with tiling. To find information about an application, you can open a new terminal window and launch `xprop`, click on the window you need information about and _voilà_, a couple of strings will be displayed like so (output truncated a bit):
 
 ```
 	Icon (16 x 16):
@@ -457,7 +460,7 @@ WM_ICON_NAME(STRING) = "47. David Bowie - Best Of Bowie - Heroes (3:36) - Audaci
 WM_NAME(STRING) = "47. David Bowie - Best Of Bowie - Heroes (3:36) - Audacious"
 ```
 
-You may need to switch to tiling windows or make the terminal window which will launch `xprop` a floating window to be able to click on the correct window. Here, we get an output for the Audacious music player. You usually need the second string from `WM_CLASS(STRING)` but if you don't want to mess with letter casing being upper vs lowercase, you can prefix with `(?i)` for "insensitive" as shown below and that will match any window containing that pattern.
+You may need to switch to tiling windows or make the terminal window that launches `xprop` a floating window to be able to click on the desired window. Here, we get an output for the Audacious music player. You usually need the second string from `WM_CLASS(STRING)` but if you don't want to mess with letter casing being upper vs lowercase, you can prefix with `(?i)` for "insensitive" as shown below and that will match any window containing that pattern. Sometimes, you're just after matching a "title" (like it's done with LibreOffice in the snippet of code below) and you can get that one by showing the container's border. With this config file, the `mod+n` keybinding will show the border you want at the top and `mod+y` will make it disappear again.
 
 ```{.bash}
 # Start
@@ -544,7 +547,7 @@ I like to set those options in my config file as they can be modified on the fly
 
 ### Colors & theming
 
-Of high interest in this section, apart from the actual colors, is where you will set your i3bar on the screen (top vs bottom) and on which monitor your tray will be displayed if you have more than one. In this case, the bar displays at the top of the screen _à la Mac_ or GNOME with `position top` and reveals information about system resources with `i3status` (you can find how it can be configured in [my dotfiles](https://github.com/sglavoie/dotfiles/blob/master/.config/i3status/config) or on the [i3status repo](https://github.com/i3/i3status) on GitHub).
+Of interest in this section, apart from the actual colors, is where you will set your i3bar on the screen (top vs bottom) and on which monitor your tray (the space with little icons to show the volume, WiFi connectivity and so on) will be displayed if you have more than one monitor. In this case, the bar displays at the top of the screen _à la Mac_ or GNOME with `position top` and reveals information about system resources with `i3status` (you can find how it can be configured in [my dotfiles](https://github.com/sglavoie/dotfiles/blob/master/.config/i3status/config) or on the [i3status repo](https://github.com/i3/i3status) on GitHub).
 
 ```{.bash}
 # Start i3bar to display a workspace bar (plus the system information i3status if available)
@@ -580,13 +583,13 @@ bar {
   client.background #061229
 ```
 
-Theming i3 can be tedious, but thankfully there are tools to automate the process! One such tool is [i3-style](https://github.com/altdesktop/i3-style), which allows you to quickly switch in place your theme without having to log out or modify manually your `i3/config` file. To go the manual route or to tweak an existing theme, you can always use a website like [HTML Color Codes](https://htmlcolorcodes.com). You can also use [terminal.sexy](https://terminal.sexy) to come up with nice looking themes, which can be exported for other applications you may be using.
+Theming i3 can be tedious, but thankfully there are tools to automate the process! One such tool is [i3-style](https://github.com/altdesktop/i3-style), which allows you to quickly switch in place your theme without having to log out or modify manually your i3 `config` file. To go the manual route or to tweak an existing theme, you can always use a website like [HTML Color Codes](https://htmlcolorcodes.com) to find an exact hexadecimal value. You can also use [terminal.sexy](https://terminal.sexy) to come up with nice looking themes, which can be exported for other applications you may be using.
 
 ---
 
 # Conclusion
 
-You can find the [complete `config` file in my dotfiles on GitHub](https://github.com/sglavoie/dotfiles/blob/master/.config/i3/config). If you liked this article, you may also enjoy reading those:
+You can find the [complete `config` file in my dotfiles on GitHub](https://github.com/sglavoie/dotfiles/blob/master/.config/i3/config). If you liked this article, you may also enjoy reading the following ones:
 
 - [Suckless: Minimalist Tools That Work Great](https://www.sglavoie.com/posts/2019/05/12/suckless-minimalist-tools-that-work-great/)
 - [Using dmenu to Optimize Common Tasks](https://www.sglavoie.com/posts/2019/11/10/using-dmenu-to-optimize-common-tasks/)
