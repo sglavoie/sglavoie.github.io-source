@@ -19,6 +19,12 @@ save_as: learning-progress-2020.html
 
 ## August
 
+### 15
+
+-   University of London
+    -   **Object-Oriented Programming**
+        -    C++: Reviewing how to set up a project with the JUCE framework.
+
 ### 13
 
 -   University of London
