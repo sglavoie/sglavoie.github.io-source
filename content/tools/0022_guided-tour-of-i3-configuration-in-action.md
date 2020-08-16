@@ -1,6 +1,6 @@
 Title: A Guided Tour of an i3 Configuration
 Date: 2020-08-15 10:51
-Modified: 2020-08-15 21:47
+Modified: 2020-08-16 15:05
 Slug: a-guided-tour-of-an-i3-configuration
 Tags: i3, window-manager
 Authors: Sébastien Lavoie
@@ -105,6 +105,7 @@ A few notes on the **General settings**:
 
 - I use `Alt` in a few applications and reserve `Super` for the window manager only.
 - Find the font name you need with `fc-list`. For instance, to use JetBrains' font: `fc-list | grep Jet`.
+- Resizing and moving floating windows with the mouse also works great: `mod+LeftClick` to move around and `mod+RightClick` to resize. This way, it's also possible to move windows to other screens.
 
 ### Navigation
 
