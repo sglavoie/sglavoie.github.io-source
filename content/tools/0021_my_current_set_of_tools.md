@@ -1,6 +1,6 @@
 Title: My Current Set of Tools and Customizations
 Date: 2020-06-06 10:41
-Modified: 2020-07-03 21:19
+Modified: 2020-08-16 19:11
 Slug: my-current-set-of-tools-and-customizations
 Tags: customization, software
 Authors: Sébastien Lavoie
@@ -34,7 +34,7 @@ Description: I like to keep track of the tools I use and see the shifts that occ
 | linux distribution              | xubuntu              | debian, manjaro      |
 | memorizing                      | anki                 |                      |
 | mind mapping                    | freeplane            | draw.io              |
-| music player                    | clementine           | audacious            |
+| music player                    | audacious            | clementine           |
 | note-taking                     | vimwiki              |                      |
 | notifications                   | xfce                 | dunst                |
 | office suite                    | libreoffice          |                      |
@@ -50,7 +50,7 @@ Description: I like to keep track of the tools I use and see the shifts that occ
 | python ide                      | pycharm              |                      |
 | python linter                   | pylint               |                      |
 | python test suite               | pytest               |                      |
-| python virtualenv manager       | virtualenvwrapper.sh |                      |
+| python virtualenv manager       | venv module          | virtualenvwrapper.sh |
 | screen locker                   | slock                | xflock4              |
 | screen recorder                 | obs studio           | simplescreenrecorder |
 | screenshot software             | flameshot            | xfce4-screenshooter  |
@@ -60,7 +60,7 @@ Description: I like to keep track of the tools I use and see the shifts that occ
 | sql client                      | dbeaver              |                      |
 | sql viewer                      | sqlitebrowser        |                      |
 | static website generator        | pelican              |                      |
-| task management                 | clickup              | todoist              |
+| task management                 | todoist              | clickup              |
 | terminal calculator             | bc                   | wcalc, galculator    |
 | terminal clipboard              | xclip                |                      |
 | terminal coursera downloader    | coursera-dl          |                      |
@@ -71,13 +71,13 @@ Description: I like to keep track of the tools I use and see the shifts that occ
 | terminal file lister tree-style | tree                 |                      |
 | terminal file manager           | vifm                 | nnn                  |
 | terminal file manager (minimal) | lf                   |                      |
-| terminal file viewer            | bat                  |                      |
+| terminal file viewer            | bat                  | cat                  |
 | terminal fuzzy finder           | fzf                  |                      |
 | terminal markup converter       | pandoc               |                      |
 | terminal network downloader     | wget                 |                      |
 | terminal network tool           | curl                 |                      |
 | terminal partition manager      | parted               |                      |
-| terminal search tool            | the silver searcher  |                      |
+| terminal search tool            | the silver searcher  | locate               |
 | terminal session recorder       | asciinema            |                      |
 | terminal shell                  | zsh                  | bash                 |
 | terminal system monitor         | glances              | htop                 |
@@ -86,10 +86,10 @@ Description: I like to keep track of the tools I use and see the shifts that occ
 | torrent                         | transmission         | deluge               |
 | version control stats           | gitstats             |                      |
 | version control system          | git                  |                      |
-| video player                    | vlc                  |                      |
+| video player                    | vlc                  | smplayer             |
 | visual plotting                 | geogebra             |                      |
 | wallpaper browser/setter        | nitrogen             | feh                  |
-| web browser                     | brave                | firefox              |
+| web browser                     | brave, chromium      | firefox              |
 | window manager                  | i3                   | dwm                  |
 | window manager status bar       | i3status             |                      |
 
