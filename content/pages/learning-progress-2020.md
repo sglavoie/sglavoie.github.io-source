@@ -19,6 +19,12 @@ save_as: learning-progress-2020.html
 
 ## August
 
+### 16
+
+-   University of London
+    -   **Object-Oriented Programming**
+        -    C++: Refactoring a project with the JUCE framework.
+
 ### 15
 
 -   University of London
