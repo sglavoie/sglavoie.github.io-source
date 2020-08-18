@@ -19,6 +19,12 @@ save_as: learning-progress-2020.html
 
 ## August
 
+### 17
+
+-   University of London
+    -   **Fundamentals of Computer Science**
+        -   Review: finite automata; regular expressions.
+
 ### 16
 
 -   University of London
