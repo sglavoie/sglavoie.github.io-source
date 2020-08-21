@@ -18,6 +18,12 @@ save_as: learning-progress-2020.html
 
 ## August
 
+### 20
+
+-   University of London
+    -   **Algorithms and Data Structures II**
+        -   Minimum spanning trees (Prim's algorithm, Kruskal's algorithm).
+
 ### 19
 
 -   University of London
