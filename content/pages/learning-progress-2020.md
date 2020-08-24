@@ -18,6 +18,12 @@ save_as: learning-progress-2020.html
 
 ## August
 
+### 23
+
+-   University of London
+    -   **Object-Oriented Programming**
+        -   C++ (JUCE framework): Customize labels and components.
+
 ### 20
 
 -   University of London
