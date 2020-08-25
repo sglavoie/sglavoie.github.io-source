@@ -18,6 +18,12 @@ save_as: learning-progress-2020.html
 
 ## August
 
+### 24
+
+-   University of London
+    -   **Fundamentals of Computer Science**
+        -   Review: Regular expressions.
+
 ### 23
 
 -   University of London
