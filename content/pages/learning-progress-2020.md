@@ -18,6 +18,20 @@ save_as: learning-progress-2020.html
 
 ## August
 
+### 26
+
+-   University of London
+    -   **Fundamentals of Computer Science**
+        -   Review: context-free grammar and languages.
+
+### 25
+
+-   University of London
+    -   **Algorithms and Data Structures II**
+        -   Minimum spanning trees (Kruskal's algorithm); Dijkstra's algorithm.
+    -   **Fundamentals of Computer Science**
+        -   Review: GNFA; regular expressions; nonregular languages; pumping lemma.
+
 ### 24
 
 -   University of London
