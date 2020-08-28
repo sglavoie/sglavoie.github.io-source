@@ -18,6 +18,12 @@ save_as: learning-progress-2020.html
 
 ## August
 
+### 27
+
+-   University of London
+    -   **Algorithms and Data Structures II**
+        -   Dijkstra's algorithm; minimum spanning trees.
+
 ### 26
 
 -   University of London
