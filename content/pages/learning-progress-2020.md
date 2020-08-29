@@ -18,6 +18,12 @@ save_as: learning-progress-2020.html
 
 ## August
 
+### 28
+
+-   University of London
+    -   **Object-Oriented Programming**
+        -   C++ (JUCE framework): Customize layout and buttons.
+
 ### 27
 
 -   University of London
