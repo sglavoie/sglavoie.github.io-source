@@ -18,6 +18,22 @@ save_as: learning-progress-2020.html
 
 ## August
 
+### 30
+
+-   University of London
+    -   **Algorithms and Data Structures II**
+        -   Review: Prim's and Kruskal's algorithms.
+    -   **Object-Oriented Programming**
+        -   C++ (JUCE framework): Customize layout and buttons.
+- [Production Logs: How To Get The Most Out Of Them](https://www.youtube.com/watch?v=9lhU9zG8c44) - Semicolon&Sons
+- Review Python: OOP paradigm; polymorphism; classes; class properties.
+
+### 29
+
+-   University of London
+    -   **Object-Oriented Programming**
+        -   C++ (JUCE framework): Customize layout and buttons.
+
 ### 28
 
 -   University of London
