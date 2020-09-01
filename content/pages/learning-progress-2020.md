@@ -18,6 +18,12 @@ save_as: learning-progress-2020.html
 
 ## August
 
+### 31
+
+-   University of London
+    -   **Fundamentals of Computer Science**
+        -   Review: context-free grammar and languages.
+
 ### 30
 
 -   University of London
