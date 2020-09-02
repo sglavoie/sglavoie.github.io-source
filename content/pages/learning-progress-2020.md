@@ -16,6 +16,16 @@ save_as: learning-progress-2020.html
 > don't know much in the end. In the process, I hope you may find some
 > inspiration too.
 
+## September
+
+### 1
+
+-   University of London
+    -   **Algorithms and Data Structures II**
+        -   Review: Minimum spanning trees; Dijkstra's algorithm.
+- Review: basics of Node.js.
+- [Docker to Serverless](https://www.youtube.com/watch?v=3OP-q55hOUI).
+
 ## August
 
 ### 31
