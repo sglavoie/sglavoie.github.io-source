@@ -22,6 +22,12 @@ save_as: learning-progress-2020.html
 
 -   University of London
     -   **Algorithms and Data Structures II**
+        -   Review: sorting algorithms; hash table collisions with linear probing; binary search tree.
+
+### 1
+
+-   University of London
+    -   **Algorithms and Data Structures II**
         -   Review: Minimum spanning trees; Dijkstra's algorithm.
 - Review: basics of Node.js.
 - [Docker to Serverless](https://www.youtube.com/watch?v=3OP-q55hOUI).
