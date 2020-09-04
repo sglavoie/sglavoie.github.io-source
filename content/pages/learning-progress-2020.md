@@ -18,7 +18,13 @@ save_as: learning-progress-2020.html
 
 ## September
 
-### 1
+### 3
+
+-   University of London
+    -   **Algorithms and Data Structures II**
+        -   Review: building heaps in place; augmented binary search trees.
+
+### 2
 
 -   University of London
     -   **Algorithms and Data Structures II**
