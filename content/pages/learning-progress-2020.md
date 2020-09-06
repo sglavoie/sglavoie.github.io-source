@@ -18,6 +18,13 @@ save_as: learning-progress-2020.html
 
 ## September
 
+### 5
+
+-   University of London
+    -   **Object-Oriented Programming**
+        -   C++ (JUCE framework): Refactor code into separate components; customize layout and buttons.
+  -   Career Planning micro-module.
+
 ### 3
 
 -   University of London
