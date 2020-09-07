@@ -18,6 +18,15 @@ save_as: learning-progress-2020.html
 
 ## September
 
+### 6
+
+-   University of London
+    -   **Object-Oriented Programming**
+        -   C++ (JUCE framework): Add features to speed component, adjusting playback.
+-   [Hosting a website from home](https://www.youtube.com/watch?v=zdVgBhze1JI).
+-   [Node’s Streams](https://jscomplete.com/learn/node-beyond-basics/node-streams).
+-   [Event loop in JavaScript](https://www.youtube.com/watch?v=8aGhZQkoFbQ).
+
 ### 5
 
 -   University of London
@@ -910,9 +919,9 @@ save_as: learning-progress-2020.html
 
 -   Datopian
     -   Job stories; GTD methodology.
-    -   Converting regex patterns in search & replace to uppercase in VS Code ([https://stackoverflow.com/a/50467298/8787680](https://stackoverflow.com/a/50467298/8787680)).
-    -   Fixing launch error with Yarn ([https://stackoverflow.com/a/60752997/8787680](https://stackoverflow.com/a/60752997/8787680)).
-    -   How to properly rebase a branch ([https://jeffkreeftmeijer.com/git-rebase/](https://jeffkreeftmeijer.com/git-rebase/)).
+    -   Converting regex patterns in search & replace to uppercase in VS Code ([stackoverflow answer](https://stackoverflow.com/a/50467298/8787680)).
+    -   Fixing launch error with Yarn ([stackoverflow answer](https://stackoverflow.com/a/60752997/8787680)).
+    -   How to properly rebase a branch ([jeffkreeftmeijer.com](https://jeffkreeftmeijer.com/git-rebase/)).
 
 ### 13
 
