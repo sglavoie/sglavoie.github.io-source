@@ -18,6 +18,12 @@ save_as: learning-progress-2020.html
 
 ## September
 
+### 7
+
+-   University of London
+    -   **Algorithms and Data Structures II**
+        -   Review: Augmented BST; time & space complexity.
+
 ### 6
 
 -   University of London
