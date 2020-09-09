@@ -18,6 +18,13 @@ save_as: learning-progress-2020.html
 
 ## September
 
+### 8
+
+-   University of London
+    -   **Algorithms and Data Structures II**
+        -   Review: Growth of functions; worst and best cases; asymptotic analysis.
+- Vim: Review Using `:argdo` to change multiple files - [Vimcasts](http://vimcasts.org/episodes/using-argdo-to-change-multiple-files/).
+
 ### 7
 
 -   University of London
