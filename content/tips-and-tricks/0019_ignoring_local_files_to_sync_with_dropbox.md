@@ -6,6 +6,10 @@ Authors: Sébastien Lavoie
 Summary: To make the most of Dropbox, it can make sense to backup the files you care the most about and skip the ones that simply take too long to upload and eat up all your space. Such candidates could be hidden `.git/` folders and `node_modules/`, but how do you exclude them locally? Let's find out.
 Description: To make the most of Dropbox, it can make sense to backup the files you care the most about and skip the ones that simply take too long to upload and eat up all your space. Such candidates could be hidden .git/ folders and node_modules/, but how do you exclude them locally? Let's find out.
 
+[TOC]
+
+---
+
 # Introduction
 
 [Dropbox](https://www.dropbox.com) is an awesome company which has been until recently the working home of none other than [Guido van Rossum](https://gvanrossum.github.io), the creator of the [Python](https://www.python.org) programming language. It works like a charm out of the box on Linux and can be installed easily enough through the package manager that comes with your chosen distribution.

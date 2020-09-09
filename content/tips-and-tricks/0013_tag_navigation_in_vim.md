@@ -6,15 +6,15 @@ Authors: Sébastien Lavoie
 Summary: A quick introduction to tag navigation in Vim/Neovim.
 Description: A quick introduction to tag navigation in Vim/Neovim.
 
-Let's jump right in.
+[TOC]
 
-## Navigate to definitions and tags
+---
 
-### Navigate inside the current buffer
+## Navigate inside the current buffer
 
 There is a command `gd` that stands for **Goto local Declaration**. It is quite useful when looking for a variable inside the current buffer as it allows to jump to where it is declared when the variable is under the cursor. Using that command, you can also find where a function is declared and it will find the first occurrence in the current function. If looking for the first occurrence in the buffer, `gD` (**Goto global Declaration**) will do the trick. You can jump back and forth to where you were with the commands `Ctrl + O` (older position) and `Ctrl + I` (newer position) in normal mode.
 
-### Navigate inside all buffers within the current project
+## Navigate inside all buffers within the current project
 
 To be able to jump between buffers and go back to the origin of a declaration when it is imported in the current module, generating tags comes in very handy as it allows you to use the command `Ctrl + ]` to jump to a tag, just like when using the help pages in **Vim**.
 
@@ -22,7 +22,7 @@ To make this work, we can conveniently use `ctags`. First, we need to make sure 
 
 ---
 
-#### Debian/Ubuntu
+### Debian/Ubuntu
 
 ```bash
 sudo apt-get install ctags
@@ -34,7 +34,7 @@ or
 sudo apt-get install exuberant-ctags
 ```
 
-#### OS X
+### OS X
 
 ```bash
 brew install ctags

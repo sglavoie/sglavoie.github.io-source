@@ -7,6 +7,12 @@ Authors: Sébastien Lavoie
 Summary: If you ever wanted to automatically clean your Bash history file, here is a working solution written in Python that uses regular expressions to set any kind of pattern you might be looking for.
 Description: If you ever wanted to automatically clean your Bash history file, here is a working solution written in Python that uses regular expressions to set any kind of pattern you might be looking for.
 
+[TOC]
+
+---
+
+# Introduction
+
 This is a Python 3.6+ script that helps to clean the file containing
 the Bash history commands. It will remove any line matching a specified
 regular expression and can also remove any line starting with an alias.
@@ -29,7 +35,7 @@ The idea behind this small utility was simple:
 
 ---
 
-## Make history in a big way
+# Make history in a big way
 
 I took advantage of the fact that the history can be cleaned with the
 script you are about to see and set up what is known as an _eternal
@@ -55,7 +61,7 @@ PROMPT_COMMAND="history -a; $PROMPT_COMMAND"
 
 ---
 
-## Bash History Cleaner
+# Bash History Cleaner
 
 And here is the script in question \*. It comes in two files that need to be in the same directory:
 
@@ -69,7 +75,7 @@ href="https://github.com/sglavoie/python-utilities/tree/master/bash_hist
 ory_cleaner">Github</a>. To keep this
 article a bit more readable, the original version is shown.</sub>
 
-##### `bash_history_cleaner.py`
+## `bash_history_cleaner.py`
 
 ```{.python}
 '''
@@ -298,7 +304,7 @@ if __name__ == '__main__':
     launch_cleanup(SETTINGS, HISTORY_FILE, ALIASES_FILE)
 ```
 
-##### `settings.json`
+## `settings.json`
 
 ```{.json}
 {
@@ -362,7 +368,7 @@ if __name__ == '__main__':
 
 ---
 
-## Anecdotal evidence of satisfying performances
+# Anecdotal evidence of satisfying performances
 
 Performance-wise, this scans ~8,300 lines per second on my modest Intel
 Core i5 laptop with files of over 200,000 lines long. Not that I type so
@@ -370,12 +376,10 @@ much stuff in the terminal: I just duplicated many lines.
 
 ---
 
-## Conclusion
+# Conclusion
 
 This is a simple solution to an nonexistent problem, but it was
 in the end very instructive to me nonetheless. You may even find
 a use for it! Otherwise, you might use the same functions for
 other files such as logs! If you would like to take a closer look
-at the source in a more convenient way, you can find the code <a
-href="https://github.com/sglavoie/python-utilities/tree/master/bash_hist
-ory_cleaner">available on Github</a>.
+at the source in a more convenient way, you can find the code <a href="https://github.com/sglavoie/python-utilities/tree/master/bash_history_cleaner">available on Github</a>.

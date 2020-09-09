@@ -6,6 +6,10 @@ Authors: Sébastien Lavoie
 Summary: Because every pixel counts, this neat trick will allow to use terminals inside Neovim and maximize the screen estate for a flawless integration with one of the best text editor available.
 Description: Because every pixel counts, this neat trick will allow to use terminals inside Neovim and maximize the screen estate for a flawless integration with one of the best text editor available.
 
+[TOC]
+
+---
+
 ## Terminals & Neovim
 
 Terminal buffers are a built-in feature of `Neovim`. This means that

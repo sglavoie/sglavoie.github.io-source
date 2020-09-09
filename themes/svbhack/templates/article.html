@@ -20,6 +20,11 @@
     <p>Estimated read time: {{article.readtime.minutes}} minutes</p>
   </div>
   {% endif %}
+  {% if article.toc %}
+    <nav class="toc">
+    {{ article.toc }}
+    </nav>
+  {% endif %}
   <div class="article_text">
     {{ article.content }}
   </div>

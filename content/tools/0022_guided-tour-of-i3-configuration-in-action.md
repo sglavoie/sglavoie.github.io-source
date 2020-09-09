@@ -7,17 +7,21 @@ Authors: Sébastien Lavoie
 Summary: This article will go over my dear i3 configuration file, which contains quite a few sections I hope I had stumbled upon right from the start when I got introduced to the tiling window manager world. It would probably have been less scary and intimidating. May you find the shortcut you needed!
 Description: This article will go over my dear i3 configuration file, which contains quite a few sections I hope I had stumbled upon right from the start when I got introduced to the tiling window manager world. It would probably have been less scary and intimidating. May you find the shortcut you needed!
 
+[TOC]
+
+---
+
 # Introduction
 
 In [Using i3 as a Window Manager for Increased Productivity](https://www.sglavoie.com/posts/2019/01/08/using-i3-as-a-window-manager-for-increased-productivity/), a number of reasons were given to get going with this fantastic tiling window manager. Now, it's time to jump in and explore how to actually use i3! If you're looking for an in-depth guide, the [official i3 documentation](https://i3wm.org/docs/userguide.html) or the [i3 page on the Arch Wiki](https://wiki.archlinux.org/index.php/i3) are awesome resources to dive deeper. Here, we'll focus on day-to-day usage based on my current configuration file which I have used and refined over the past two years or so. I hope that you'll be able to glean useful tips and tricks to apply to your own use case.
 
 ---
 
-## The Configuration File
+# The Configuration File
 
 To set keybindings, it _may_ be handy to know the keycodes and their respective names. To get a full list, you can use `xmodmap -pk` in the terminal. If you're not sure of the name of the key you want to press (is it "PageDown", "PageDwn" or "Next"?), you can retrieve it by executing the `xev` command, which will open two windows: one for capturing the actual key press and the other one to display the relevant details for that key. For example, if you press the backspace key, the output will contain something like `keycode 22 (keysym 0xff08, BackSpace)`. From there, you will know that a mapping would be of the form `mod+BackSpace`, where `mod` is the modifier of your choice that is usually specified at the top of the configuration file. Now we can start!
 
-### General settings
+## General settings
 
 ```{.bash}
 # set mod key (Mod1=Alt, Mod4=Super)
@@ -107,7 +111,7 @@ A few notes on the **General settings**:
 - Find the font name you need with `fc-list`. For instance, to use JetBrains' font: `fc-list | grep Jet`.
 - Resizing and moving floating windows with the mouse also works great: `mod+LeftClick` to move around and `mod+RightClick` to resize. This way, it's also possible to move windows to other screens.
 
-### Navigation
+## Navigation
 
 _Note_: I rely on Vim keybindings to move between containers and workspaces as I find the position of those keys on the home row really comfortable to apply to the main window actions one would want to execute.
 
@@ -250,7 +254,7 @@ A few notes on the **Navigation** section:
 - Those keybindings make it really easy to navigate between workspaces on one particular screen. Even though I like to work with a monitor being higher than the laptop located in front of it to avoid working in a twisted position at all times, this would work fantastically well in the horizontal direction too.
 - If for whatever reason the main screen is disconnected (power outage or unplugged), I can still use the laptop screen without needing to modify the config file, although with a slightly more limited amount of workspaces. _Tip_: even if you don't see a workspace from a temporarily disconnected screen, you can still interact with it and bring windows back to workspaces that you can see without changing the config file.
 
-### Layout
+## Layout
 
 ```{.bash}
 # set default desktop layout (default is tiling), <stacking|tabbed>
@@ -301,7 +305,7 @@ A few notes on the **Layout** section:
 - I don't use the "grouping" feature with `mod+a` and `mod+c` very often, but when I need to move a few windows to another workspace for instance, that's quite handy!
 - A floating window in "sticky mode" will follow you on all your workspaces and remember that this mode is enabled even if you put in back in a tiling window and then to a floating   window again.
 
-### Scratchpad
+## Scratchpad
 
 The scratchpad is sometimes so useful that it deserves its own section! When you send a window to the "scratchpad", it disappears. Then, with a keybinding, you can bring in back in floating mode on top of any other window on any active workspace you happen to be in. The same keybinding will toggle on/off the display of that scratchpad and if you happen to have sent multiple windows to the scratchpad, activating the same keybinding again will cycle through all the "scratchpads".
 
@@ -321,7 +325,7 @@ A note on the **Scratchpad** section:
 
 - In my setup, I have two screens with the same resolution of 1920x1080, so the same "resize" command works on both screens. You might want to use two different keybindings if you want to bring a scratchpad back to a screen with a different resolution.
 
-### Borders
+## Borders
 
 ```{.bash}
 # Configure border style <normal|1pixel|pixel xx|none|pixel>
@@ -350,7 +354,7 @@ A few notes on the **Borders** section:
 </figure>
 
 
-### dmenu
+## dmenu
 
 `dmenu` is so useful that it also got its own section. By default, you usually launch applications with `mod+d`: I kept the same behavior here. I added a few custom launchers that I use all the time to open files based on a topic, using mnemonics that work (for me, at least). If you want to know more about setting these kinds of shortcuts, you may be interested in reading [Using dmenu to Optimize Common Tasks](https://www.sglavoie.com/posts/2019/11/10/using-dmenu-to-optimize-common-tasks/) ;).
 
@@ -368,7 +372,7 @@ bindsym $mod+Shift+u   exec --no-startup-id ~/Dropbox/.custom/dmenu/university_l
 bindsym $mod+d         exec --no-startup-id ~/Dropbox/.custom/dmenu/software.sh
 ```
 
-### Shortcuts
+## Shortcuts
 
 ```{.bash}
 bindsym $mod+control+r    exec --no-startup-id thunar ~/Desktop
@@ -395,7 +399,7 @@ A few notes on the **Shortcuts** mini-section:
     <figcaption>Simple pop-up with a list of timezones.</figcaption>
 </figure>
 
-### Sound
+## Sound
 
 ```{.bash}
 set $volumepath ~/.config/i3-volume/volume
@@ -415,7 +419,7 @@ bindsym XF86AudioMicMute        exec pactl set-source-mute alsa_input.pci-0000_0
 
 This section will depend on the hardware being used, but it gives an idea of how to do things. I use [`i3-volume`](https://github.com/hastinbe/i3-volume) to get nice notifications when changing the volume and all the options being set here use `i3-volume`. Toggling the mic output was not super obvious at first, but it's obviously doable and it's good to know there's an `XF86Audio` property for that purpose!
 
-### Brightness
+## Brightness
 
 ```{.bash}
 # Control brightness more precisely through software `light`
@@ -428,7 +432,7 @@ bindsym $mod+Control+b    exec --no-startup-id ~/.local/bin/toggle_laptop_bright
 
 To control the screen brightness, I use [`light`](https://github.com/haikarainen/light). I also like to just toggle the brightness of my laptop at night when I read something on my external monitor, so I use a [`toggle_laptop_brightness`](https://github.com/sglavoie/dotfiles/blob/master/.local/bin/toggle_laptop_brightness) script that I found somewhere online and adapted slightly.
 
-### Applications
+## Applications
 
 This section will heavily depend on the software you use of course, but there's the gist of it. I like to have a shortcut for [bashtop](https://github.com/aristocratos/bashtop) to quickly monitor system resources ([glances](https://github.com/nicolargo/glances) is also quite nice). Besides that, I like to have applications automatically appear on specific workspaces and be switched to in some instances.
 
@@ -534,7 +538,7 @@ exec --no-startup-id    compton -CG --config /dev/null
 ```
 This last section on **Autostart applications** is the list of applications that launch when you open your X session with i3.
 
-### Keyboard & mouse
+## Keyboard & mouse
 
 ```{.bash}
 # Set compose key to Right Ctrl
@@ -546,7 +550,7 @@ exec_always --no-startup-id    xset r rate 250 60
 
 I like to set those options in my config file as they can be modified on the fly if you reload i3. This is thanks to the `exec_always --no-startup-id` directive which will always run the invoked command when relaunching, not just when logging in to a session.
 
-### Colors & theming
+## Colors & theming
 
 Of interest in this section, apart from the actual colors, is where you will set your i3bar on the screen (top vs bottom) and on which monitor your tray (the space with little icons to show the volume, WiFi connectivity and so on) will be displayed if you have more than one monitor. In this case, the bar displays at the top of the screen _à la Mac_ or GNOME with `position top` and reveals information about system resources with `i3status` (you can find how it can be configured in [my dotfiles](https://github.com/sglavoie/dotfiles/blob/master/.config/i3status/config) or on the [i3status repo](https://github.com/i3/i3status) on GitHub).
 

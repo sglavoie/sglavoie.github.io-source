@@ -6,6 +6,12 @@ Authors: Sébastien Lavoie
 Summary: Have you ever received spam to your email address? Unless you are extremely lucky or are actually disconnected from the Internet and thus most probably not reading this, chances are you might have had an offer or two to receive gold from a Nigerian prince in the past. Before those princes and princesses generously start giving away their cryptocurrency in the near future in exchange for a trip to Western Union, get prepared and hide away your precious address!
 Description: Have you ever received spam to your email address? Unless you are extremely lucky or are actually disconnected from the Internet and thus most probably not reading this, chances are you might have had an offer or two to receive gold from a Nigerian prince in the past. Before those princes and princesses generously start giving away their cryptocurrency in the near future in exchange for a trip to Western Union, get prepared and hide away your precious address!
 
+[TOC]
+
+---
+
+# Introduction
+
 If your privacy matters to you even just a little, read on, if you dare.
 There are easy solutions you can apply right now to filter those fools
 out of your digital life.
@@ -42,7 +48,7 @@ the shear joy of it.
 
 So what shall we do about it?
 
-## Solution \#1: Use a temporary email
+# Solution \#1: Use a temporary email
 
 This one is quick and easy. You can use a variety of services,
 including [Temp Mail Address](https://www.tempmailaddress.com/),
@@ -56,7 +62,7 @@ access to a specific page that asks for an email and a _real_ name. You
 simply give a fake but working email address and you're good to go.
 Don't even set it and forget it.
 
-## Solution \#2: Use a more controlled approach
+# Solution \#2: Use a more controlled approach
 
 There is one particular service that I have been using for almost
 a decade now that eats your spam away on demand. That service is
@@ -65,7 +71,7 @@ work? Here are my personal stats:
 
 > Your message stats: 805 forwarded, 14,191 eaten. You have 245 spamgourmet address(es).
 
-### Does it really work?
+## Does it really work?
 
 Oh yes! From the above stats, you can see that from a total of
 **14,996** messages being sent to me, I have not received almost **95%**
@@ -73,7 +79,7 @@ of it thanks to Spamgourmet working on auto-pilot all the time... And
 it's important to mention that **the other 5%, I actually wanted to
 receive it**.
 
-### How does it work?
+## How does it work?
 
 You can create as many email addresses as you require to login to most
 websites that you do not intend to use regularly and create a label
@@ -87,7 +93,7 @@ Spamgourmet, remove the ones you don't want anymore, reset how many
 emails can be received (increase/decrease that number), etc. You can
 find out exactly how it works on the main page of Spamgourmet.
 
-### Why consider this approach instead of solution \#1?
+## Why consider this approach instead of solution \#1?
 
 This approach has the advantage that you can know exactly where your
 spam is coming from and exactly when, as your email may be used quite a
@@ -119,7 +125,7 @@ real address, except if you added it in your signature.
 
 <a href="{static}/images/posts/0012_dispose-of-spam/spamgourmet_getting_through.png"><img src="{static}/images/posts/0012_dispose-of-spam/spamgourmet_getting_through.png" alt="spamgourmet_getting_through" class="max-size-img-post"></a>
 
-## Solution #3: Using filters
+# Solution #3: Using filters
 
 Gmail is one email service that allows you to create filters as you
 wish: let's take advantage of that. What you could do is delete only
@@ -157,7 +163,7 @@ and quickly at your convenience.
 For a list of available search operators, you can refer to
 this [Gmail help page — Search operators you can use with Gmail](https://support.google.com/mail/answer/7190?hl=en&topic=1668965&ctx=topic).
 
-## Solution \#4: Use the `+` symbol in your email
+# Solution \#4: Use the `+` symbol in your email
 
 Gmail lets you add a `+` symbol in your email address. For
 example, you can set up your `ServiceNameHere` email to be
@@ -169,7 +175,7 @@ you can then set up filters for individual services. This doesn't work
 for all websites as sometimes the `+` symbol isn't allowed. In that
 scenario, there is another way...
 
-## Solution \#5: Forward secondary emails to your main email
+# Solution \#5: Forward secondary emails to your main email
 
 This is pretty straightforward and even though you initially have to do
 more work to set things up, this can work very well for various reasons:
@@ -182,7 +188,7 @@ more work to set things up, this can work very well for various reasons:
 
 4. You can even set up your main account so that you are able to send messages from your main account as if it were coming from any of your secondary accounts. No more account switching: you get something sent to `my.second.email@gmail.com` in your main account and you can have it set up so that when you reply to that email, it is automatically sent from that secondary email instead of the main one.
 
-## Conclusion
+# Conclusion
 
 I hope you found something useful in this rambling about spam.
 I don't like spam myself, so if you have any tips or tricks you

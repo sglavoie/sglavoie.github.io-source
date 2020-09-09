@@ -7,6 +7,10 @@ Authors: Sébastien Lavoie
 Summary: Desperate times call for the best Linux experience possible... And in my experience so far, the [Debian](https://www.debian.org/) distribution with the [Xfce desktop environment](https://www.xfce.org/) or with the even lighter alternative [i3 tiling window manager](https://i3wm.org/) makes for a very smooth ride.
 Description: Desperate times call for the best Linux experience possible... And in my experience so far, the Debian distribution with the Xfce desktop environment or the even lighter alternative i3 tiling window manager makes for a very smooth ride.
 
+[TOC]
+
+---
+
 # Introduction
 
 I'm familiar with Linux distribution hopping, having tried out many options over the years, starting around the time Mandrake 9.2 was popular back in 2003, then switching to a few others including Ubuntu, KNOPPIX, Fedora, Xubuntu, openSUSE, Kubuntu, Mint, Manjaro, Mandriva... And of course Debian along the way, which undoubtedly used to be relatively harder to get started with.
@@ -17,17 +21,17 @@ I haven't tried everything that's out there (XMonad being one such _esoteric_ po
 
 ---
 
-## Why Debian?
+# Why Debian?
 
-### Stability and Reliability
+## Stability and Reliability
 
 Debian has always been to me the father figure of stability in the Linux world. Countless servers have run on Debian and continue to do so for good reason: it just works once it is properly set up. I have had some bad luck with other Debian-based distributions like Ubuntu and Linux Mint which strive to be easier to use but remain easier to break, being a bit more bleeding edge and sometimes bloated too with tons of software I don't really need. Fedora, although I like its philosophy and style very much, has always lead to hardware issues on my apparently less-than-ideal machines. Manjaro has been pleasant and easy to use, but Arch feels like the _right_ choice if one is to build a custom system from scratch. It does take a good amount of time to get things going on such a distribution and usually a good dose of maintenance too, which brought me to seek less time-consuming options. For stability and reliability, Debian is hard to beat in my experience.
 
-### Marvelous Package Manager
+## Marvelous Package Manager
 
 I have always found the package manager on Debian (and derivatives) to be easier to use than alternatives like `yum`, `DNF` or `urpmi` for RPM packages. The `pacman` package manager available on Arch-based systems is truly excellent and powerful, but I simply find `apt` to be more intuitive after using it for a lot longer.
 
-### It Just Won't Break
+## It Just Won't Break
 
 Sitting on the bleeding edge is fun and sometimes even rewarding when things finally work as expected, but I have seen that it doesn't stay that way forever. Big updates, sometimes relatively frequent ones, can leave the system in an unusable state. It's often a minor annoyance to fix, but that just doesn't happen on Debian, where packages are vetted mainly for their legendary stability before releasing them. They are indeed quite a bit older than what can be found on other distributions. It's the price to pay, but I came to the conclusion that it's worth it if you're looking to get things done in the long run.
 
@@ -36,19 +40,19 @@ Sitting on the bleeding edge is fun and sometimes even rewarding when things fin
     <figcaption>Debian Xfce in its glorious simplicity.</figcaption>
 </figure>
 
-### Xfce Is Minimalist Enough and Hassle-Free
+## Xfce Is Minimalist Enough and Hassle-Free
 
 It's also about the combination of **Debian + Xfce**: while Debian makes sure the system remains functional as a whole, Xfce is the solution for interacting with applications and windows without glitches in a "_floating mode_" where all windows can be grabbed and moved around easily. Debian itself keeps old packages around by choice and Xfce has a _very_ slow release cycle yet also provides stability out of the box. This means that installing Xfce on Debian **has** to work because bugs have been evened out over **years** of effort from both teams. This is an easy yet very satisfying solution.
 
-#### Xfce vs KDE
+### Xfce vs KDE
 
 One of the main appeals of desktop environments like KDE and GNOME is that they have more features and add them more often. They do use more resources and even though they have gone through substantial optimizations over the years, they still feel less snappy on older systems compared to simpler window managers or even Xfce. Recently, KDE caught up with Xfce in terms of resources utilization, but there's one major reason I just can't rely on it on a production machine: in every single release I have tried (from KDE 2.x in the early 2000s to Plasma 5.x), I was confronted with numerous bugs within minutes of delving into it. I have always been faced with some minor troubles on GNOME too (versions 2 and 3), but it's never been as severe as with KDE. KDE has plenty of cool ideas and is fully customizable, but that's to a fault in my view.
 
-#### Xfce vs GNOME
+### Xfce vs GNOME
 
 On the other hand, GNOME does consume at least twice as much RAM and CPU compared with Xfce even with no extensions enabled on GNOME and a couple of plugins activated on Xfce. I enjoy how GNOME deals with virtual desktops and think this can be a great productivity enhancement, but once I've configured Xfce to be mainly keyboard-driven, I prefer keeping it simpler with less transition effects and other nice visual additions. On the graphical side of things, GNOME with Wayland has never worked as well for me as with Xorg, so that's something else to watch for.
 
-#### Xfce vs i3
+### Xfce vs i3
 
 Well, `i3` is a different beast in its own right and has taken a special place in my heart. It uses less memory and CPU than any desktop environment out there and can be used with minimalistic software, like the `st` terminal and the dynamic menu `dmenu` (read the article about [suckless tools](https://www.sglavoie.com/posts/2019/05/12/suckless-minimalist-tools-that-work-great/) if that resonates with your style!). There are still a few things that I didn't like very much about it, such as the way windows are managed in fullscreen mode, the default lack of a convenient master/slave tiling layout (similar to `dwm` and `bspwm`) and the way one interacts with external monitor(s), where workspaces use the same numbering across multiple screens. But i3 with Debian feels more mature and is (again) a bit older than what you might find elsewhere. There is [a comprehensive section in the i3 User's Guide](https://i3wm.org/docs/userguide.html#multi_monitor) that explains how to work around some issues.
 
@@ -63,15 +67,15 @@ In the department of customization, i3 is very good, but having to edit a config
 
 I find that installing Debian with an Xfce base leads to having enough useful software pre-installed compared to a barebone installation and installing i3 afterwards only makes the transition easier.
 
-#### Xfce vs Other Window Managers
+### Xfce vs Other Window Managers
 
 Now, there is an endless stream of other options to explore and I don't know enough about many of those to dare to comment. But from those I tried, I can certainly say that I preferred the ease of use of Xfce over other more minimalistic approaches like Openbox, Enlightenment and Fluxbox. Xfce offers all you need out of the box, but not much more, which is what I'm looking for at this moment. On the other hand, making `dwm` work in one precise way can be tricky and requires many tweaks before the configuration can remain untouched for a while. I do not like the necessity of recompiling the source code every single time a tiny change is made which led me to discard it as a convenient option in the long run. I like making small visual adjustments to my system from time to time and I want this to be as frictionless as possible.
 
 Otherwise, `dwm` and `bspwm` might be some very decent options if one is inclined to be tweaking everything from scratch (it's not really a facultative step anyways!), but Xfce integrates everything one might need under very few different packages and has been extremely reliable for me from the beginning. On any kind of modern machine, the extra system resources used up by Xfce compared to those lighter alternatives really don't mean much in the end because it is compensated with the presence of useful applets and tools which definitely make one's life easier.
 
-### It's Ideal for Developers
+## It's Ideal for Developers
 
-#### Resources Efficiency & Effectiveness
+### Resources Efficiency & Effectiveness
 
 Debian with a light working environment is resource-efficient and comes with much less software out of the box compared to the KDE or GNOME editions: instead, more resources are available for hungry applications like heavy IDEs. Installing applications specific to those desktop environments work flawlessly too. Not only does Debian consume less resources (especially while running Xfce/i3 on top), it does so extremely well and offers great performance.
 
@@ -80,11 +84,11 @@ Debian with a light working environment is resource-efficient and comes with muc
     <figcaption>Debian Xfce mostly at rest.</figcaption>
 </figure>
 
-#### Rock-Solid Stability (Again, Big Selling Point!)
+### Rock-Solid Stability (Again, Big Selling Point!)
 
 Since it's so stable, any release of Debian is currently supported for at least 3 years and up to 5 years for LTS (Long Term Support) releases, which means one doesn't have to worry about constantly upgrading the system. For a start, upgrading packages on the stable branch of Debian very rarely leads to a broken system, unlike on more bleeding edge distros like Fedora or Manjaro where downloading a few months old release almost guarantees some unexpected challenges.
 
-#### Packages Availability
+### Packages Availability
 
 With currently close to 58,000 packages offered on Debian, there's a very good chance that anything one might need will be available. Working with up-to-date, proprietary applications like Google Chrome, Zoom or Slack is also pain-free: most companies, when they do consider Linux, opt for sharing a classic `deb` package, the format used on Debian and Debian-based systems. Some of those packages can also be found or added directly to the sources managed by the package manager, allowing for easy, automatic updates.
 
@@ -93,13 +97,13 @@ With currently close to 58,000 packages offered on Debian, there's a very good c
     <figcaption>Synaptic, the legendary package manager.</figcaption>
 </figure>
 
-#### Large Community with Freedom in Mind
+### Large Community with Freedom in Mind
 
 Because no company backs Debian directly, it relies on a community effort to keep going and it has done so for a long time, having now hundreds of distributions being based on it. This means that it's easy to find a ton of documentation and tutorials giving solutions taking into account Debian-based systems. One will be able to fix any issue cropping up thanks to the [Debian User Forums](http://forums.debian.net/) and of course thanks to the immense popularity of Ubuntu, which contributes tremendously to making answers available in [its forums](https://ubuntuforums.org/) and in the [Stack Exchange](https://askubuntu.com/) network.
 
 ---
 
-## Resources to Get Started
+# Resources to Get Started
 
 -   [Debian Documentation](https://www.debian.org/doc/)
 -   [Debian User Forums](http://forums.debian.net/)

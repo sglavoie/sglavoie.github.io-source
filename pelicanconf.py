@@ -39,7 +39,7 @@ USER_LOGO_URL = SITEURL + "/theme/images/logo.png"
 
 # Plugins
 PLUGIN_PATHS = ["plugins"]
-PLUGINS = ["readtime"]
+PLUGINS = ["readtime", "extract_toc"]
 
 # `fenced_code` enables the following syntax for code blocks and make it
 # possible to use special symbols, among other things:
@@ -52,6 +52,7 @@ MARKDOWN = {
         "markdown.extensions.fenced_code": {},
         "markdown.extensions.extra": {},
         "markdown.extensions.meta": {},
+        "markdown.extensions.toc": {},
     },
     "output_format": "html5",
 }

@@ -6,6 +6,12 @@ Authors: Sébastien Lavoie
 Summary: Has your password been leaked in a major breach? You can find out thanks to [Have I Been Pwned?](https://haveibeenpwned.com/)... Or you can use their API and stop worrying about your password being sent through your Web browser!
 Description: Has your password been leaked in a major breach? You can find out thanks to Have I Been Pwned?... Or you can use their API and stop worrying about your password being sent through your Web browser!
 
+[TOC]
+
+---
+
+# Introduction
+
 [Have I Been Pwned?](https://haveibeenpwned.com/) has a very simple and
 accessible API that's perfect to work with as a beginner. There are
 different ways to retrieve information and the script below is only
@@ -14,7 +20,7 @@ a way that makes it easy to add features and functionality thanks to
 [Click](https://github.com/pallets/click), a wonderful _"command line
 interface toolkit"_.
 
-### Python to the rescue
+# Python to the rescue
 
 The following script uses [Click](https://github.com/pallets/click)
 to build a tiny command-line interface instead of more
@@ -152,11 +158,11 @@ if __name__ == '__main__':
     hibp()
 ```
 
-#### Example usage
+## Example usage
 
 <a href="{static}/images/posts/0011_have-i-been-pwned/have_i_been_pwned_script.png"><img src="{static}/images/posts/0011_have-i-been-pwned/have_i_been_pwned_script.png" alt="have_i_been_pwned_script" class="max-size-img-post"></a>
 
-## Conclusion
+# Conclusion
 
 If you are familiar with Python,
 you can easily make sense of how this little tool works by

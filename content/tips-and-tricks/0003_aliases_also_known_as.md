@@ -6,6 +6,10 @@ Authors: Sébastien Lavoie
 Summary: Here are presented a few terminal aliases that I find myself using regularly.
 Description: Here are presented a few terminal aliases that I find myself using regularly.
 
+[TOC]
+
+---
+
 ## Some aliases that I find useful
 
 ---

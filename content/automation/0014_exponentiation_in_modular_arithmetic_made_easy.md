@@ -6,6 +6,12 @@ Authors: Sébastien Lavoie
 Summary: While playing around in the Python interpreter to validate answers to mathematical questions, I quickly found out that very large exponents are dealt with very inefficiently by default as they are simply evaluated as is. That's where Python came to its own rescue.
 Description: While playing around in the Python interpreter to validate answers to mathematical questions, I quickly found out that very large exponents are dealt with very inefficiently by default as they are simply evaluated as is. That's where Python came to its own rescue.
 
+[TOC]
+
+---
+
+# Introduction
+
 The following Python script will by no means provide any useful idea to
 compete against the
 [RSA algorithm](<https://en.wikipedia.org/wiki/RSA_(cryptosystem)>)
@@ -14,7 +20,7 @@ a simple technique about reducing the size of an exponent in modular
 arithmetic can bring you closer to using much larger numbers than the
 ones you could normally use in the Python interpreter.
 
-## The script in action
+# The script in action
 
 ```{.python}
 """Compute the result of a^b (mod k) by using the exponentiation technique.
@@ -127,7 +133,7 @@ if __name__ == '__main__':
 
 ```
 
-## Conclusion
+# Conclusion
 
 It was very interesting to see how a technique that's applied manually
 will work wonders with such large numbers. The Python interpreter can

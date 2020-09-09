@@ -7,6 +7,10 @@ Authors: Sébastien Lavoie
 Summary: This short article explains why Vimwiki felt like the right solution to organize my notes.
 Description: This short article explains why Vimwiki felt like the right solution to organize my notes.
 
+[TOC]
+
+---
+
 ## What is Vimwiki?
 
 From the [official website](https://vimwiki.github.io/):

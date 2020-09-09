@@ -6,6 +6,10 @@ Authors: Sébastien Lavoie
 Summary: I recently started using this software as my main web browser and, as a Vim (Neovim) user, I must say I am finding the adventure quite compelling!
 Description: I recently started using this software as my main web browser and, as a Vim (Neovim) user, I must say I am finding the adventure quite compelling!
 
+[TOC]
+
+---
+
 ## What is qutebrowser?
 
 [qutebrowser](https://qutebrowser.org/) is a web browser that makes

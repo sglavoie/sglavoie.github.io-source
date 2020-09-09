@@ -7,6 +7,10 @@ Authors: Sébastien Lavoie
 Summary: I was striving to improve my productivity as one of my New Year's resolutions and finally found the courage to take the time to try out i3, a fantastic window manager.
 Description: I was striving to improve my productivity as one of my New Year's resolutions and finally found the courage to take the time to try out i3, a fantastic window manager.
 
+[TOC]
+
+---
+
 ## What is i3?
 
 [i3](https://i3wm.org/) is a tiling window manager. To get to know `i3`

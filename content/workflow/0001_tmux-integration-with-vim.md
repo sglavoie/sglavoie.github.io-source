@@ -6,6 +6,10 @@ Authors: Sébastien Lavoie
 Summary: This is a short introduction that shows a possible workflow with tmux and Vim/Neovim.
 Description: This is a short introduction that shows a possible workflow with tmux and Vim/Neovim.
 
+[TOC]
+
+---
+
 ## tmux integration
 
 [tmux](https://github.com/tmux/tmux) offers many advantages in the

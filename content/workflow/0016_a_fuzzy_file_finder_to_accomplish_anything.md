@@ -6,11 +6,17 @@ Authors: Sébastien Lavoie
 Summary: Search and, most importantly, finally find what you are looking for on your machine. If you rely on the terminal a lot, **fzf** may well be capable of speeding up your productivity!
 Description: Search and, most importantly, finally find what you are looking for on your machine. If you rely on the terminal a lot, fzf may well be capable of speeding up your productivity!
 
+[TOC]
+
+---
+
+# Introduction
+
 I know people who make such a mess when _not_ organizing their files and
 directories appropriately on their system, they would benefit greatly
 from `fzf`.
 
-## What is fzf?
+# What is fzf?
 
 From the [official GitHub page](https://github.com/junegunn/fzf):
 
@@ -21,7 +27,7 @@ From the [official GitHub page](https://github.com/junegunn/fzf):
 
 ---
 
-## Terminal aliases
+# Terminal aliases
 
 One of the main uses of `fzf` is from the terminal. Being so flexible
 to use, it can be combined with all kinds of commands with the help
@@ -60,7 +66,7 @@ open that kind of file (video, image, text, PDF, etc.).
 
 ---
 
-## Vim/Neovim integration
+# Vim/Neovim integration
 
 Using [Vim-Plug](https://github.com/junegunn/vim-plug) from the same
 author as `fzf` is as easy as adding the following to Vim/Neovim's
@@ -98,7 +104,7 @@ map <C-p> :FZF<cr>
 """ [ / FZF ]
 ```
 
-### Working with Neovim
+## Working with Neovim
 
 `fzf` really shines when used with Neovim as it is extremely fast,
 especially when configured with
@@ -143,7 +149,7 @@ plugin and can work much faster on larger codebases.
 
 ---
 
-## Conclusion
+# Conclusion
 
 There is much more that can be done with it and I am barely scratching
 the surface here. Luke Smith shared
