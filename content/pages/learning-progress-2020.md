@@ -18,6 +18,13 @@ save_as: learning-progress-2020.html
 
 ## September
 
+### 9
+
+-   University of London
+    -   **Algorithms and Data Structures II**
+        -   Review: structure of recursive algorithms; time complexity of recursive algorithms; recurrence equations.
+- Vim: Review Fugitive.vim - working with the git index - [Vimcasts](http://vimcasts.org/episodes/fugitive-vim-working-with-the-git-index/).
+
 ### 8
 
 -   University of London
