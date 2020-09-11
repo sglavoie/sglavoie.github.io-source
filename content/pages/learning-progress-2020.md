@@ -18,6 +18,13 @@ save_as: learning-progress-2020.html
 
 ## September
 
+### 10
+
+-   University of London
+    -   **Algorithms and Data Structures II**
+        -   Review: Recurrence equations; master theorem.
+- Vim: review `dot` command.
+
 ### 9
 
 -   University of London
