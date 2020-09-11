@@ -22,7 +22,7 @@ save_as: learning-progress-2020.html
 
 -   University of London
     -   **Algorithms and Data Structures II**
-        -   Review: structure of recursive algorithms; time complexity of recursive algorithms; recurrence equations.
+        -   Review: Structure of recursive algorithms; time complexity of recursive algorithms; recurrence equations.
 - Vim: Review Fugitive.vim - working with the git index - [Vimcasts](http://vimcasts.org/episodes/fugitive-vim-working-with-the-git-index/).
 
 ### 8
@@ -58,13 +58,13 @@ save_as: learning-progress-2020.html
 
 -   University of London
     -   **Algorithms and Data Structures II**
-        -   Review: building heaps in place; augmented binary search trees.
+        -   Review: Building heaps in place; augmented binary search trees.
 
 ### 2
 
 -   University of London
     -   **Algorithms and Data Structures II**
-        -   Review: sorting algorithms; hash table collisions with linear probing; binary search tree.
+        -   Review: Sorting algorithms; hash table collisions with linear probing; binary search tree.
 
 ### 1
 
@@ -80,7 +80,7 @@ save_as: learning-progress-2020.html
 
 -   University of London
     -   **Fundamentals of Computer Science**
-        -   Review: context-free grammar and languages.
+        -   Review: Context-free grammar and languages.
 
 ### 30
 
@@ -114,7 +114,7 @@ save_as: learning-progress-2020.html
 
 -   University of London
     -   **Fundamentals of Computer Science**
-        -   Review: context-free grammar and languages.
+        -   Review: Context-free grammar and languages.
 
 ### 25
 
@@ -146,7 +146,7 @@ save_as: learning-progress-2020.html
 
 -   University of London
     -   **Fundamentals of Computer Science**
-        -   Review: context-free languages; regular languages.
+        -   Review: Context-free languages; regular languages.
 
 ### 18
 
@@ -158,7 +158,7 @@ save_as: learning-progress-2020.html
 
 -   University of London
     -   **Fundamentals of Computer Science**
-        -   Review: finite automata; regular expressions.
+        -   Review: Finite automata; regular expressions.
 
 ### 16
 
@@ -182,23 +182,23 @@ save_as: learning-progress-2020.html
 
 -   University of London
     -   **Algorithms and Data Structures II**
-        -   Review heaps.
+        -   Review: Heaps.
         -   Heapsort & its time complexity.
 
 ### 11
 
 -   University of London
     -   **Algorithms and Data Structures II**
-        -   Review recurrence relations; master theorem.
+        -   Review: Recurrence relations; master theorem.
 
 ### 10
 
 -   University of London
     -   **Algorithms and Data Structures II**
-        -   Review merge sort; divide & conquer; recurrence relations; master theorem.
+        -   Review: Merge sort; divide & conquer; recurrence relations; master theorem.
     -   **Fundamentals of Computer Science**
-        -   Review searching: sequential search; binary search; comparison trees; Fibonacci search.
-        -   Review sorting: selection sort; insertion sort; bubble sort; quick sort; heap sort; merge sort; shell sort; radix sort.
+        -   Review: Searching: sequential search; binary search; comparison trees; Fibonacci search.
+        -   Review: Sorting: selection sort; insertion sort; bubble sort; quick sort; heap sort; merge sort; shell sort; radix sort.
 
 ### 9
 
@@ -212,7 +212,7 @@ save_as: learning-progress-2020.html
 
 -   University of London
     -   **Fundamentals of Computer Science**
-        -   Review merge sort; the algorithm of happiness (Lloyd Shapley); review time complexity of algorithms & Big O notation; recursion.
+        -   Review: Merge sort; the algorithm of happiness (Lloyd Shapley); review time complexity of algorithms & Big O notation; recursion.
 
 ### 6
 
@@ -271,7 +271,7 @@ save_as: learning-progress-2020.html
 
 -   University of London
     -   **Fundamentals of Computer Science**
-        -   Review of simple algorithms for sorting.
+        -   Review: Of simple algorithms for sorting.
 
 ### 28
 
@@ -339,7 +339,7 @@ save_as: learning-progress-2020.html
 
 -   University of London
     -   **Fundamentals of Computer Science**
-        -   Review: propositional logic; formal proofs; permutations & combinations; automata theory; regular expressions; pumping lemma.
+        -   Review: Propositional logic; formal proofs; permutations & combinations; automata theory; regular expressions; pumping lemma.
         -   Context-free grammar.
 
 ### 17
@@ -407,19 +407,19 @@ save_as: learning-progress-2020.html
 
 -   University of London
     -   **Algorithms and Data Structures II**
-        -   Review hashing algorithms.
+        -   Review: Hashing algorithms.
 
 ### 6
 
 -   University of London
     -   **Algorithms and Data Structures II**
-        -   Review hashing algorithms.
+        -   Review: Hashing algorithms.
 
 ### 5
 
 -   University of London
     -   **Algorithms and Data Structures II**
-        -   Review hashing algorithms.
+        -   Review: Hashing algorithms.
 -   [Continuous Integration Testing: Basics + What to Test](https://www.semicolonandsons.com/episode/continuous-integration-testing-basics-and-what-to-test).
 
 ### 4
@@ -462,7 +462,7 @@ save_as: learning-progress-2020.html
 
 -   University of London
     -   **Fundamentals of Computer Science**
-        -   Review: propositional logic; proof by contrapositive; combinations & permutations; finite automata; regular expressions.
+        -   Review: Propositional logic; proof by contrapositive; combinations & permutations; finite automata; regular expressions.
 
 ### 25
 
@@ -506,7 +506,7 @@ save_as: learning-progress-2020.html
 -   University of London
     -   **Object-Oriented Programming**
         -   Implementing matching algorithm for cryptocurrency trading; testing the matching algorithm; implementing "wallet" functionality.
--   Review absolute vs relative imports in Python; property-based testing with Hypothesis; Mocking and Patching Pitfalls.
+-   Review: Absolute vs relative imports in Python; property-based testing with Hypothesis; Mocking and Patching Pitfalls.
 
 ### 19
 
@@ -660,7 +660,7 @@ save_as: learning-progress-2020.html
 
 -   University of London
     -   **Algorithms and Data Structures II**
-        -   Review of comparison sorting algorithms.
+        -   Review: Of comparison sorting algorithms.
     -   **Fundamentals of Computer Science**
         -   Permutations, combinations.
 -   How to save patch from Git stash with `git stash show -p > patch`.
@@ -893,7 +893,7 @@ save_as: learning-progress-2020.html
 ### 21
 
 -   Datopian
-    -   Review Vim regular expressions.
+    -   Review: Vim regular expressions.
 -   University of London
     -   **Algorithms and Data Structures II**
         -   Growth of functions.
@@ -905,7 +905,7 @@ save_as: learning-progress-2020.html
 ### 20
 
 -   Datopian
-    -   Review Vim regular expressions.
+    -   Review: Vim regular expressions.
 -   University of London
     -   **Algorithms and Data Structures II**
         -   Introduction to the analysis of algorithms; growth of functions.
@@ -952,14 +952,14 @@ save_as: learning-progress-2020.html
 ### 12
 
 -   Datopian
-    -   Review GitLab ([from GitLab](https://docs.gitlab.com/ee/topics/gitlab_flow.html)): Git flow; GitHub flow; GitLab flow; merge requests; issue tracking; squashing; committing; testing commits; feature branches.
+    -   Review: GitLab ([from GitLab](https://docs.gitlab.com/ee/topics/gitlab_flow.html)): Git flow; GitHub flow; GitLab flow; merge requests; issue tracking; squashing; committing; testing commits; feature branches.
     -   Read [Style Guides](https://playbook.datopian.com/style-guide/#style-guides).
     -   [Importing Data: Python Data Playbook](https://app.pluralsight.com/library/courses/python-importing-data-playbook).
         -   Importing text with NumPy.
         -   Importing CSV with `csv` module and Pandas.
 -   Read [Git team workflows: merge or rebase?](https://www.atlassian.com/blog/git/git-team-workflows-merge-or-rebase) from Atlassian.
--   Review [A Note About Git Commit Messages](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html) from Tim Pope.
--   Review [Linux Command Line Pipes and Redirection](https://www.youtube.com/watch?v=mV_8GbzwZMM).
+-   Review: [A Note About Git Commit Messages](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html) from Tim Pope.
+-   Review: [Linux Command Line Pipes and Redirection](https://www.youtube.com/watch?v=mV_8GbzwZMM).
 
 ### 11
 
@@ -1063,7 +1063,7 @@ save_as: learning-progress-2020.html
 
 -   Datopian
     -   JavaScript review: coercion.
-    -   Review regular expressions and SVG concepts.
+    -   Review: Regular expressions and SVG concepts.
 
 ### 29
 
@@ -1118,7 +1118,7 @@ save_as: learning-progress-2020.html
 
 -   Datopian
     -   Chrome developer tools: auditing.
-    -   Review Bash: exit codes and logical operators.
+    -   Review: Bash: exit codes and logical operators.
 
 ### 18
 
@@ -1137,13 +1137,13 @@ save_as: learning-progress-2020.html
 
 -   Datopian
     -   JavaScript: types & coercion; scope; `this` & Prototypes.
-    -   Review Git: rebase & amend; forks & remote repos; destroy & recover.
-    -   Review JavaScript: events & listeners; event delegation; AJAX; `Node.js`.
+    -   Review: Git: rebase & amend; forks & remote repos; destroy & recover.
+    -   Review: JavaScript: events & listeners; event delegation; AJAX; `Node.js`.
 
 ### 15
 
 -   Datopian
-    -   Review Git: data storage model; areas & staging; stashing; references, commits & branches; merging & rebasing; history & diffs; fixing mistakes; rebase & amend.
+    -   Review: Git: data storage model; areas & staging; stashing; references, commits & branches; merging & rebasing; history & diffs; fixing mistakes; rebase & amend.
     -   Sass: functions; control flow; data structures (maps); BEM.
     -   VS Code: code navigation & refactoring; type checking; debugging.
 
@@ -1184,25 +1184,25 @@ save_as: learning-progress-2020.html
 
 -   University of London
     -   **Algorithms and Data Structures I**
-        -   Review: general overview of past topics.
+        -   Review: General overview of past topics.
 
 ### 3
 
 -   University of London
     -   **Algorithms and Data Structures I**
-        -   Review: general overview of past topics.
+        -   Review: General overview of past topics.
 
 ### 2
 
 -   University of London
     -   **Discrete mathematics**
-        -   Review: mathematical induction; strong induction; recursion; recurrence relations; graph theory; relations; equivalence relations; combinatorics.
+        -   Review: Mathematical induction; strong induction; recursion; recurrence relations; graph theory; relations; equivalence relations; combinatorics.
 
 ### 1
 
 -   University of London
     -   **Discrete mathematics**
-        -   Review: set theory; functions; propositional logic; predicate logic; rules of inference; Boolean algebra; logic gates; Karnaugh maps; mathematical induction.
+        -   Review: Set theory; functions; propositional logic; predicate logic; rules of inference; Boolean algebra; logic gates; Karnaugh maps; mathematical induction.
 
 ---
 
@@ -1212,29 +1212,29 @@ save_as: learning-progress-2020.html
 
 -   University of London
     -   **Discrete mathematics**
-        -   Review: equivalence relations; graphs; trees.
+        -   Review: Equivalence relations; graphs; trees.
 
 ### 28
 
 -   University of London
     -   **Algorithms and Data Structures I**
-        -   Review: growth of functions; Big O notation; analysing algorithms; binary search.
+        -   Review: Growth of functions; Big O notation; analysing algorithms; binary search.
     -   **Discrete mathematics**
-        -   Review: recurrence relations; inclusion-exclusion principle; relations & matrices; relations with digraphs; equivalence relations.
+        -   Review: Recurrence relations; inclusion-exclusion principle; relations & matrices; relations with digraphs; equivalence relations.
 
 ### 27
 
 -   University of London
     -   **Discrete mathematics**
-        -   Review: mathematical induction; well ordering principle; strong induction; recursion; structural induction; permutations & combinations; binomial theorem; Pascal's identity.
+        -   Review: Mathematical induction; well ordering principle; strong induction; recursion; structural induction; permutations & combinations; binomial theorem; Pascal's identity.
 
 ### 26
 
 -   University of London
     -   **Algorithms and Data Structures I**
-        -   Review: bubble sort; insertion sort; RAM model; growth of functions.
+        -   Review: Bubble sort; insertion sort; RAM model; growth of functions.
     -   **Discrete mathematics**
-        -   Review: proofs of existence and uniqueness; sets; set operations; set identities; proving set identities; functions; sequences; recurrence relations; summations; matrices; optimization (greedy) algorithms.
+        -   Review: Proofs of existence and uniqueness; sets; set operations; set identities; proving set identities; functions; sequences; recurrence relations; summations; matrices; optimization (greedy) algorithms.
 
 ### 25
 
@@ -1242,16 +1242,16 @@ save_as: learning-progress-2020.html
     -   **Algorithms and Data Structures I**
         -   Review: Bubble sort.
     -   **Discrete mathematics**
-        -   Review: propositional logic; propositional equivalences; predicates & quantifiers; nested quantifiers; inference with quantifiers; direct proof; proof by contraposition; proof by contradiction; proof by cases.
+        -   Review: Propositional logic; propositional equivalences; predicates & quantifiers; nested quantifiers; inference with quantifiers; direct proof; proof by contraposition; proof by contradiction; proof by cases.
 -   Set up [XAMPP](https://www.apachefriends.org) with a [Laravel](https://laravel.com) project.
 
 ### 24
 
 -   University of London
     -   **Algorithms and Data Structures I**
-        -   Review: stacks; linked lists; arrays; Heron's method algorithm; vectors; queues; dynamic arrays; linear search algorithms.
+        -   Review: Stacks; linked lists; arrays; Heron's method algorithm; vectors; queues; dynamic arrays; linear search algorithms.
     -   **Discrete mathematics**
-        -   Review: graph theory; relations; trees; sets; logic & sequences.
+        -   Review: Graph theory; relations; trees; sets; logic & sequences.
 
 ### 23
 
@@ -1265,7 +1265,7 @@ save_as: learning-progress-2020.html
     -   **Algorithms and Data Structures I**
         -   Review: Arrays; vectors; stacks; queues; linked lists.
     -   **Discrete mathematics**
-        -   Review: functions; induction; graph theory; trees; relations.
+        -   Review: Functions; induction; graph theory; trees; relations.
 -   Creating a light/dark theme toggle with CSS and JavaScript.
 
 ### 21
@@ -1296,7 +1296,7 @@ save_as: learning-progress-2020.html
 
 -   University of London
     -   **Algorithms and Data Structures I**
-        -   Review: linear data structures.
+        -   Review: Linear data structures.
     -   **Discrete mathematics**
         -   Review: Boolean identities; definition of Boolean algebra; functional completeness; logic gates; adders; minimization of circuits; Karnaugh maps; Quine–McCluskey method.
 -   Python review: built-in type gotchas.
@@ -1305,55 +1305,55 @@ save_as: learning-progress-2020.html
 
 -   University of London
     -   **Algorithms and Data Structures I**
-        -   Review: binary search algorithm; linked lists; linear search.
+        -   Review: Binary search algorithm; linked lists; linear search.
     -   **Discrete mathematics**
-        -   Review: rules of inference; fallacies; rules of inference for quantified statements; Boolean identities.
+        -   Review: Rules of inference; fallacies; rules of inference for quantified statements; Boolean identities.
 
 ### 16
 
 -   University of London
     -   **Discrete mathematics**
-        -   Review: nested quantifiers; negating nested quantifiers; rules of inference.
+        -   Review: Nested quantifiers; negating nested quantifiers; rules of inference.
 
 ### 15
 
 -   University of London
     -   **Algorithms and Data Structures I**
-        -   Review: searching algorithms.
+        -   Review: Searching algorithms.
 
 ### 14
 
 -   University of London
     -   **Algorithms and Data Structures I**
-        -   Review: search algorithms (`quickSort`).
+        -   Review: Search algorithms (`quickSort`).
     -   **Discrete mathematics**
-        -   Review: compound propositions; logical implication; converse, contrapositive & inverse; equivalence; laws of propositional logic (including De Morgan's laws); precedence of logical operators; definition of predicates; quantifiers; logical operators; nested quantifiers.
+        -   Review: Compound propositions; logical implication; converse, contrapositive & inverse; equivalence; laws of propositional logic (including De Morgan's laws); precedence of logical operators; definition of predicates; quantifiers; logical operators; nested quantifiers.
 
 ### 13
 
 -   University of London
     -   **Discrete mathematics**
-        -   Review: function composition; bijections; floor & ceiling functions; definition of a proposition; truth tables & truth sets; compound propositions; logical implication; converse, contrapositive & inverse; equivalence; laws of propositional logic; De Morgan's laws; precedence of logical operators.
+        -   Review: Function composition; bijections; floor & ceiling functions; definition of a proposition; truth tables & truth sets; compound propositions; logical implication; converse, contrapositive & inverse; equivalence; laws of propositional logic; De Morgan's laws; precedence of logical operators.
 
 ### 12
 
 -   University of London
     -   **Algorithms and Data Structures I**
-        -   Review: dynamic arrays; stacks.
+        -   Review: Dynamic arrays; stacks.
     -   **Discrete mathematics**
-        -   Review: the domain and co-domain; the range; injection (one-to-one); surjection (onto); function composition; bijections; floor & ceiling functions.
+        -   Review: The domain and co-domain; the range; injection (one-to-one); surjection (onto); function composition; bijections; floor & ceiling functions.
 
 ### 11
 
 -   University of London
     -   **Discrete mathematics**
-        -   Review: set operations; membership tables; Venn diagrams; the complement of a set; De Morgan's laws; set properties; definition of function; the domain and co-domain; the range; injection (one-to-one); surjection (onto).
+        -   Review: Set operations; membership tables; Venn diagrams; the complement of a set; De Morgan's laws; set properties; definition of function; the domain and co-domain; the range; injection (one-to-one); surjection (onto).
 
 ### 10
 
 -   University of London
     -   **Discrete mathematics**
-        -   Review: definition of a set; elements of a set; cardinality of a set; listing method; set builder method; subsets of a set; power sets.
+        -   Review: Definition of a set; elements of a set; cardinality of a set; listing method; set builder method; subsets of a set; power sets.
 -   Pluralsight courses: [Working with JavaScript Modules](https://app.pluralsight.com/library/courses/working-javascript-modules/table-of-contents); [JavaScript Promises and Async Programming](https://app.pluralsight.com/library/courses/javascript-promises-async-programming/table-of-contents).
 
 ### 9
@@ -1379,8 +1379,8 @@ save_as: learning-progress-2020.html
 
 -   University of London
     -   **Discrete mathematics**
-        -   Review of counting rules: Inclusion-exclusion of sets; Pascal's identity.
-        -   Review of probability: sample space & outcomes; probability space; probability trees; conditional probability.
+        -   Review: Of counting rules: Inclusion-exclusion of sets; Pascal's identity.
+        -   Review: Of probability: sample space & outcomes; probability space; probability trees; conditional probability.
     -   **Introduction to Programming II**
         -   Showing and hiding DOM elements in `p5.js` based on events.
 
@@ -1390,13 +1390,13 @@ save_as: learning-progress-2020.html
     -   **Discrete mathematics**
         -   Review: Lexicographic ordering; Hasse diagrams; linear recurrences; sequences; permutations; functions (surjective, bijective, injective); mapping rule; generalized pigeonhole principle; division rule; product rule; product of sets; sum rule.
     -   **Introduction to Programming II**
-        -   Review: working with DOM elements with `p5.js`.
+        -   Review: Working with DOM elements with `p5.js`.
 
 ### 3
 
 -   University of London
     -   **Algorithms and Data Structures I**
-        -   Review: queues; stacks.
+        -   Review: Queues; stacks.
     -   **Discrete mathematics**
         -   Permutations, combinations, binomial theorem, Pascal's identity, divide & conquer recurrences.
     -   **Introduction to Programming II**
@@ -1554,7 +1554,7 @@ save_as: learning-progress-2020.html
 -   University of London
     -   **Algorithms and Data Structures I**
         -   Decrease & conquer, recursive Euclidean algorithm, recursive searching and sorting, permutations, recursive binary search.
-        -   Review: insertion sort; bubble sort.
+        -   Review: Insertion sort; bubble sort.
     -   **Discrete mathematics**
         -   Isomorphic graphs, bipartite graphs, Hopcroft-Karp algorithm, introduction to proofs.
     -   **Introduction to Programming II**
@@ -1572,15 +1572,15 @@ save_as: learning-progress-2020.html
 
 -   University of London
     -   **Discrete mathematics**
-        -   Review graph theory: special types of graphs; simple graphs; bipartite graphs & matchings; complete bipartite graphs.
+        -   Review: Graph theory: special types of graphs; simple graphs; bipartite graphs & matchings; complete bipartite graphs.
 -   Git: Read article [Trunk-based development](https://dzone.com/articles/why-i-prefer-trunk-based-development-over-feature).
 
 ### 10
 
 -   University of London
     -   **Discrete mathematics**
-        -   Review graph theory: terminology; special types of graphs.
--   Review walrus operator in Python 3.8.
+        -   Review: Graph theory: terminology; special types of graphs.
+-   Review: Walrus operator in Python 3.8.
 
 ### 8
 
@@ -1590,19 +1590,19 @@ save_as: learning-progress-2020.html
 
 -   University of London
     -   **Discrete mathematics**
-        -   Review again some propositional logic, predicate logic, Boolean algebra, set theory, functions.
+        -   Review: Again some propositional logic, predicate logic, Boolean algebra, set theory, functions.
 
 ### 6
 
 -   University of London
     -   **Discrete mathematics**
-        -   Review propositional logic, predicate logic, Boolean algebra, set theory, functions.
+        -   Review: Propositional logic, predicate logic, Boolean algebra, set theory, functions.
 
 ### 5
 
 -   University of London
     -   **Discrete mathematics**
-        -   Review predicate logic and Boolean algebra.
+        -   Review: Predicate logic and Boolean algebra.
 
 ### 4
 
