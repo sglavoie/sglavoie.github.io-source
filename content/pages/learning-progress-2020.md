@@ -18,6 +18,12 @@ save_as: learning-progress-2020.html
 
 ## September
 
+### 11
+
+-   University of London
+    -   **Algorithms and Data Structures II**
+        -   Review: Comparison and non-comparison sorting algorithms.
+
 ### 10
 
 -   University of London
