@@ -18,6 +18,13 @@ save_as: learning-progress-2020.html
 
 ## September
 
+### 12
+
+-   University of London
+    -   **Algorithms and Data Structures II**
+        -   Review: Comparison and non-comparison sorting algorithms (selection sort, quicksort, mergesort, counting sort, radix sort, bucket sort); hashing; collisions in hash tables; linked lists.
+- Using a backslash to bypass Bash aliases on the command-line.
+
 ### 11
 
 -   University of London
