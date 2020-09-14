@@ -18,6 +18,15 @@ save_as: learning-progress-2020.html
 
 ## September
 
+### 13
+
+-   University of London
+    -   **Algorithms and Data Structures II**
+        -   Review: linked lists; stacks; queues; trees; depth-first traversal; binary search trees; heaps; heapsort; graphs; minimum spanning trees; Dijkstra's algorithm.
+- [Getting started with Nvim + LSP](https://www.youtube.com/watch?v=tOjVHXaUrzo).
+- [Configuring Passwordless Server Login Using SSH](https://www.youtube.com/watch?v=tRJBC9rWH3A).
+
+
 ### 12
 
 -   University of London
