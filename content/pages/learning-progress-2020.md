@@ -18,6 +18,13 @@ save_as: learning-progress-2020.html
 
 ## September
 
+### 14
+
+-   University of London
+    -   **Algorithms and Data Structures II**
+        -   Review: trees; binary search trees; heaps; graphs; recurrence relations.
+- Theming with CKAN.
+
 ### 13
 
 -   University of London
