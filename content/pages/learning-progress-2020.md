@@ -18,6 +18,12 @@ save_as: learning-progress-2020.html
 
 ## September
 
+### 15
+
+-   University of London
+    -   **Object-Oriented Programming**
+        -   C++ (JUCE framework): Working with XML and loading files.
+
 ### 14
 
 -   University of London
