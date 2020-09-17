@@ -18,6 +18,15 @@ save_as: learning-progress-2020.html
 
 ## September
 
+### 16
+
+-   University of London
+    -   **Fundamentals of Computer Science**
+        -   Review: Negating formulae; Turing machines.
+    -   **Object-Oriented Programming**
+        -   C++ (JUCE framework): Working with XML and loading files.
+
+
 ### 15
 
 -   University of London
