@@ -18,6 +18,12 @@ save_as: learning-progress-2020.html
 
 ## September
 
+### 18
+
+-   University of London
+    -   **Object-Oriented Programming**
+        -   C++ (JUCE framework): Working with XML and playlist library.
+
 ### 17
 
 -   University of London
