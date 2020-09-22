@@ -18,6 +18,20 @@ save_as: learning-progress-2020.html
 
 ## September
 
+### 21
+
+-   University of London
+    -   **Fundamentals of Computer Science**
+        -   Review: Propositional logic; tautology; De Morgan's law; quantifiers; direct proof; proof by contradiction.
+
+
+### 20
+
+-   University of London
+    -   **Object-Oriented Programming**
+        -   C++ (JUCE framework): Working with XML and playlist library.
+
+
 ### 19
 
 -   University of London
