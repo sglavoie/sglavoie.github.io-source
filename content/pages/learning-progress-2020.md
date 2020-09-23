@@ -18,6 +18,12 @@ save_as: learning-progress-2020.html
 
 ## September
 
+### 22
+
+-   University of London
+    -   **Fundamentals of Computer Science**
+        -   Review: proof by contradiction; counting; Chomsky Normal Form; finite state machines; regular expressions; Turing machines; pigeonhole principle; permutations; combinations.
+
 ### 21
 
 -   University of London
