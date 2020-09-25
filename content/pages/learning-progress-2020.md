@@ -18,6 +18,10 @@ save_as: learning-progress-2020.html
 
 ## September
 
+### 24
+
+-   NumPy Fundamentals.
+
 ### 22
 
 -   University of London
