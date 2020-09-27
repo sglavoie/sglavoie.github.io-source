@@ -18,6 +18,11 @@ save_as: learning-progress-2020.html
 
 ## September
 
+### 26
+
+-   [Foundations of Data Science: K-Means Clustering](https://www.coursera.org/learn/data-science-k-means-clustering-python/). Clustering with K-Means; supervised vs unsupervised learning; mean, variance & standard deviation; Jupyter Notebooks; multidimensional data (matrices); covariance; normalization.
+- Book Python for Data Analysis: Review basics of Python.
+
 ### 25
 
 -   [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/), i18n JavaScript library.
