@@ -18,10 +18,15 @@ save_as: learning-progress-2020.html
 
 ## September
 
+### 28
+
+-   [Foundations of Data Science: K-Means Clustering](https://www.coursera.org/learn/data-science-k-means-clustering-python/): using the Pandas library to read, sort and filter data; plotting and labelling data; interpreting data; organizing the work.
+- Book Python for Data Analysis: built-in data structures; currying; files and the operating system; bytes and Unicode with files; NumPy basics arrays and vectorized computation.
+
 ### 27
 
--   [Foundations of Data Science: K-Means Clustering](https://www.coursera.org/learn/data-science-k-means-clustering-python/): Working with Multidimensional Data in Python; using the Pandas Library to Read, Sort and Filter Data.
-- Book Python for Data Analysis: Review basics of Python; built-in Data Structures.
+-   [Foundations of Data Science: K-Means Clustering](https://www.coursera.org/learn/data-science-k-means-clustering-python/): Working with multidimensional data in Python; using the Pandas library to read, sort and filter data.
+- Book Python for Data Analysis: Review basics of Python; built-in data structures.
 
 
 ### 26
