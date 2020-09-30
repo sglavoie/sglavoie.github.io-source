@@ -18,6 +18,11 @@ save_as: learning-progress-2020.html
 
 ## September
 
+### 29
+
+- Book Python for Data Analysis: NumPy basics arrays and vectorized computation; array-oriented programming with arrays.
+- Book JavaScript Definitive Guide: Introduction to JavaScript; lexical structure.
+
 ### 28
 
 -   [Foundations of Data Science: K-Means Clustering](https://www.coursera.org/learn/data-science-k-means-clustering-python/): using the Pandas library to read, sort and filter data; plotting and labelling data; interpreting data; organizing the work.
