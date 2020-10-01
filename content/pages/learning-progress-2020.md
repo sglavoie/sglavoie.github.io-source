@@ -18,6 +18,11 @@ save_as: learning-progress-2020.html
 
 ## September
 
+### 30
+
+- Book Python for Data Analysis: file input and output with arrays; linear algebra; introduction to pandas.
+- Book JavaScript Definitive Guide: lexical structure.
+
 ### 29
 
 - Book Python for Data Analysis: NumPy basics arrays and vectorized computation; array-oriented programming with arrays.
