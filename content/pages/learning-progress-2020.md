@@ -16,6 +16,13 @@ save_as: learning-progress-2020.html
 > don't know much in the end. In the process, I hope you may find some
 > inspiration too.
 
+## October
+
+### 1
+
+- Book JavaScript Definitive Guide: lexical structure; types, values, and variables.
+- Book Python for Data Analysis: introduction to pandas.
+
 ## September
 
 ### 30
