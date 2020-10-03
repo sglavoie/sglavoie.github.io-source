@@ -62,7 +62,8 @@ $ chmod 600 ~/.ssh/config
 ```
 
 Let's add some content in there, assuming we deal with GitHub and GitLab, both with a personal account and a work account:
-```{.txt}
+
+```{.bash}
 AddKeysToAgent yes
 Host github
    HostName github.com
@@ -172,7 +173,7 @@ gpg --list-secret-keys --keyid-format LONG
 
 You might get an output similar to the following (this one is showing only one key):
 
-```{.txt}
+```{.bash}
 sec   rsa3072/A343702EBE11E0C2 2020-10-03 [SC] [expires: 2022-10-03]
       EF731EFC008D47D176C05910A343702EBE11E0C2
 uid                 [ultimate] Sébastien Lavoie <email@work.com>
