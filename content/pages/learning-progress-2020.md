@@ -1,4 +1,6 @@
-Title: Learning Progress 2020 Date: 2020-01-01 16:25 Slug: learning-progress-2020
+Title: Learning Progress 2020
+Date: 2020-01-01 16:25
+Slug: learning-progress-2020
 Authors: Sébastien Lavoie
 URL: learning-progress-2020.html
 save_as: learning-progress-2020.html
