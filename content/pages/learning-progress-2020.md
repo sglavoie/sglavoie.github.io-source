@@ -18,6 +18,11 @@ save_as: learning-progress-2020.html
 
 ## October
 
+### 3
+
+- [S.O.L.I.D. principles, Digital Ocean](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design).
+- Book Python for Data Analysis: introduction to pandas.
+
 ### 2
 
 - Book JavaScript Definitive Guide: template literals; pattern matching; `null` & `undefined`; symbols; global object; conversions and equality.
