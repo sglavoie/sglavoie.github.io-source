@@ -18,6 +18,11 @@ save_as: learning-progress-2020.html
 
 ## October
 
+### 4
+
+- Book Python for Data Analysis: introduction to pandas; correlation & covariance; data loading, storage, and file formats; binary data formats; interacting with web APIs; interacting with databases; data cleaning and preparation; data transformation; string manipulation.
+- Book JavaScript Definitive Guide: type conversions; variable & constant scope and declaration; destructuring assignment; expressions and operators.
+
 ### 3
 
 - [S.O.L.I.D. principles, Digital Ocean](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design).
