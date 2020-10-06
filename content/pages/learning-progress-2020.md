@@ -18,6 +18,12 @@ save_as: learning-progress-2020.html
 
 ## October
 
+### 5
+
+- C: structures and unions.
+- Book Python for Data Analysis: string manipulation; data wrangling (join, combine, and reshape); reshaping and pivoting.
+- Book JavaScript Definitive Guide: expressions and operators.
+
 ### 4
 
 - Book Python for Data Analysis: introduction to pandas; correlation & covariance; data loading, storage, and file formats; binary data formats; interacting with web APIs; interacting with databases; data cleaning and preparation; data transformation; string manipulation.
