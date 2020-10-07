@@ -18,6 +18,12 @@ save_as: learning-progress-2020.html
 
 ## October
 
+### 6
+
+- Book JavaScript Definitive Guide: expressions and operators.
+- Book Python for Data Analysis: pivoting data; plotting and visualization.
+
+
 ### 5
 
 - C: structures and unions.
