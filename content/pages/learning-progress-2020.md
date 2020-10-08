@@ -18,6 +18,11 @@ save_as: learning-progress-2020.html
 
 ## October
 
+### 7
+
+- Book Python for Data Analysis: figures and subplots.
+- Book JavaScript Definitive Guide: unary arithmetic operators; bitwise operators.
+
 ### 6
 
 - Book JavaScript Definitive Guide: expressions and operators.
