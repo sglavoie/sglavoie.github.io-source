@@ -18,6 +18,11 @@ save_as: learning-progress-2020.html
 
 ## October
 
+### 8
+
+- Book Python for Data Analysis: introduction to `matplotlib`; plotting with `pandas` and `seaborn`; data aggregation and group operations.
+- Book JavaScript Definitive Guide: relational expressions.
+
 ### 7
 
 - Book Python for Data Analysis: figures and subplots.
