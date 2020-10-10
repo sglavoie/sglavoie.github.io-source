@@ -18,6 +18,10 @@ save_as: learning-progress-2020.html
 
 ## October
 
+### 9
+
+- Python Fire package.
+
 ### 8
 
 - Book Python for Data Analysis: introduction to `matplotlib`; plotting with `pandas` and `seaborn`; data aggregation and group operations.
