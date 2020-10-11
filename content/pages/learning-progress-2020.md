@@ -18,6 +18,11 @@ save_as: learning-progress-2020.html
 
 ## October
 
+### 10
+
+- Book JavaScript Definitive Guide: `in` operator; `instanceof` operator; logical expressions (`&&`, `||`, `!`); assignment expressions; evaluation expressions with `eval()`; conditional operator (`?:`); first-defined operator (`??`); `typeof` operator; `delete` operator; `await` operator.
+- Book Python for Data Analysis: pandas' groupby.
+
 ### 9
 
 - Python Fire package.
