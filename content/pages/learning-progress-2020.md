@@ -18,6 +18,10 @@ save_as: learning-progress-2020.html
 
 ## October
 
+### 11
+
+- Book Python for Data Analysis: data aggregation; groupby's `apply` method; quantile and bucket analysis; pivot tables and cross-tabulation; time series.
+
 ### 10
 
 - Book JavaScript Definitive Guide: `in` operator; `instanceof` operator; logical expressions (`&&`, `||`, `!`); assignment expressions; evaluation expressions with `eval()`; conditional operator (`?:`); first-defined operator (`??`); `typeof` operator; `delete` operator; `await` operator.
