@@ -18,6 +18,16 @@ save_as: learning-progress-2020.html
 
 ## October
 
+### 12
+
+-   University of London
+    -   **Programming With Data**
+        -   Introduction to development environments in Python; Jupyter Notebook.
+    -   **Agile Software Projects**
+        -   Basics of interaction design; user experience.
+    -   **Graphics Programming**
+        -   `p5.js`: 2D transformations.
+
 ### 11
 
 - Book Python for Data Analysis: data aggregation; groupby's `apply` method; quantile and bucket analysis; pivot tables and cross-tabulation; time series.
