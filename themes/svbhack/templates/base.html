@@ -104,8 +104,6 @@
                 </div>
         </a>
         {% endif %}
-        <h2><a href="{{ SITEURL }}">{{ SITENAME }}</a></h2>
-        <p>{{ TAGLINE }}</p>
         <ul>
           {% for title, link in MENUITEMS %}
           <li><a href="{{ link }}">{{ title }}</a></li>
@@ -145,25 +143,12 @@
       <div id="ending_message">
         <p>
           &copy; {{ AUTHOR }}. Built in
-          <a
-            href="https://www.python.org/"
-            target="_blank"
-            rel="noopener noreferrer"
-            >Python</a
-          >
+          <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer" >Python</a>
           using
-          <a
-            href="http://getpelican.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            >Pelican</a
-          >. Theme adapted from Giulio Fidente on
-          <a
-            href="https://github.com/gfidente/pelican-svbhack"
-            target="_blank"
-            rel="noopener noreferrer"
-            >GitHub</a
-          >.
+          <a href="http://getpelican.com" target="_blank" rel="noopener noreferrer" >Pelican</a>.
+          Theme adapted from Giulio Fidente on
+          <a href="https://github.com/gfidente/pelican-svbhack" target="_blank"
+             rel="noopener noreferrer">GitHub</a>.
         </p>
       </div>
     </main>
