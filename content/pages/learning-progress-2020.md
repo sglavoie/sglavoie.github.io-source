@@ -18,6 +18,16 @@ save_as: learning-progress-2020.html
 
 ## October
 
+### 13
+
+-   University of London
+    -   **Programming With Data**
+        -   Python: conditional logic; lists, loops & iterations; functions libraries and dependencies.
+    -   **Agile Software Projects**
+        -   User experience; accessibility, usability.
+    -   **Graphics Programming**
+        -   `p5.js`: 2D transformations.
+
 ### 12
 
 -   University of London
