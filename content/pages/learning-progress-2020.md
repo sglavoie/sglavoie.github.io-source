@@ -22,6 +22,16 @@ save_as: learning-progress-2020.html
 
 -   University of London
     -   **Programming With Data**
+        -   Python: data structures and sequences.
+    -   **Agile Software Projects**
+        -   Design principles; user experience.
+    -   **Graphics Programming**
+        -   Object Oriented Programming in Javascript (OOP); vectors.
+
+### 13
+
+-   University of London
+    -   **Programming With Data**
         -   Python: conditional logic; lists, loops & iterations; functions libraries and dependencies.
     -   **Agile Software Projects**
         -   User experience; accessibility, usability.
