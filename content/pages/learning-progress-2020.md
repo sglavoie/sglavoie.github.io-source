@@ -18,7 +18,17 @@ save_as: learning-progress-2020.html
 
 ## October
 
-### 13
+### 15
+
+-   University of London
+    -   **Programming With Data**
+        -   Python: currying (partial argument application); generators; `itertools` module; errors and exception handling; working with files.
+    -   **Graphics Programming**
+        -   Review 2D transformations.
+    -   **Agile Software Projects**
+        -   Project management; tracking progress, Gantt charts; managing resources and time; version control systems.
+
+### 14
 
 -   University of London
     -   **Programming With Data**
