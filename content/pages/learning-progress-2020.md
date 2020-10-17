@@ -18,6 +18,13 @@ save_as: learning-progress-2020.html
 
 ## October
 
+### 16
+
+-   University of London
+    -   **Programming With Data**
+        -   Python: natural language processing with NLTK.
+- Pluralsight: [Docker and Kubernetes: The Big Picture](https://app.pluralsight.com/library/courses/docker-kubernetes-big-picture/table-of-contents); [The Future of Technology Careers](https://app.pluralsight.com/library/courses/future-technology-careers/table-of-contents); [Learning Technology in the Information Age](https://app.pluralsight.com/library/courses/learning-technology-information-age/table-of-contents); [Prioritizing Tasks and Managing Time for Greater Productivity](https://app.pluralsight.com/library/courses/prioritizing-tasks-managing-time-greater-productivity/table-of-contents).
+
 ### 15
 
 -   University of London
