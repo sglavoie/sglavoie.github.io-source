@@ -18,6 +18,17 @@ save_as: learning-progress-2020.html
 
 ## October
 
+### 17
+
+-   University of London
+    -   **Programming With Data**
+        -   Regular expressions; data handling with dictionaries.
+    -   **Graphics Programming**
+        -   2D transformations.
+    -   **Agile Software Projects**
+        -   Requirements and specification; requirements gathering.
+- Pluralsight: [Prioritizing Tasks and Managing Time for Greater Productivity](https://app.pluralsight.com/library/courses/prioritizing-tasks-managing-time-greater-productivity/table-of-contents); [So You Want to Be an Entrepreneur?](https://app.pluralsight.com/library/courses/want-to-be-entrepreneur/table-of-contents).
+
 ### 16
 
 -   University of London
