@@ -18,6 +18,17 @@ save_as: learning-progress-2020.html
 
 ## October
 
+### 18
+
+-   University of London
+    -   **Programming With Data**
+        -   Python: inverse document frequency, accessing text corpora and lexical resources with NLTK.
+    -   **Graphics Programming**
+        -   Vector arithmetic.
+    -   **Agile Software Projects**
+        -   Requirements and specification; requirements gathering.
+- Pluralsight: [So You Want to Be an Entrepreneur?](https://app.pluralsight.com/library/courses/want-to-be-entrepreneur/table-of-contents); [Unit Testing with Python](https://app.pluralsight.com/library/courses/using-unit-testing-python/table-of-contents).
+
 ### 17
 
 -   University of London
