@@ -18,6 +18,14 @@ save_as: learning-progress-2020.html
 
 ## October
 
+### 19
+
+-   University of London
+    -   **Graphics Programming**
+        -   2D transformations, basics of physics engine.
+    -   **Agile Software Projects**
+        -   Requirements gathering; creating personas; scenarios; design fiction.
+
 ### 18
 
 -   University of London
