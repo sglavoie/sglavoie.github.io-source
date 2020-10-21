@@ -18,6 +18,12 @@ save_as: learning-progress-2020.html
 
 ## October
 
+### 20
+
+-   University of London
+    -   **Graphics Programming**
+        -   Basics of physics engine: forces; gravity & friction.
+
 ### 19
 
 -   University of London
