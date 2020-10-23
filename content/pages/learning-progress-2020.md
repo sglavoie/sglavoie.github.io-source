@@ -18,6 +18,12 @@ save_as: learning-progress-2020.html
 
 ## October
 
+### 22
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Capturing interaction with use cases; modelling requirements; user-centred design; quantitative and qualitative research.
+
 ### 20
 
 -   University of London
