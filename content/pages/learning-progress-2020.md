@@ -18,6 +18,14 @@ save_as: learning-progress-2020.html
 
 ## October
 
+### 24
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Introduction to research methods.
+    -   **Graphics Programming**
+        -   Basics of physics engine: collision detection.
+
 ### 23
 
 -   University of London
