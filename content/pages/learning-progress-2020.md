@@ -18,6 +18,17 @@ save_as: learning-progress-2020.html
 
 ## October
 
+### 25
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Introduction to research methods.
+    -   **Graphics Programming**
+        -   Basics of physics engine: collision detection.
+    -   **Programming With Data**
+        -   Python: accessing text corpora and lexical resources with NLTK, `matplotlib` heatmaps; working with data.
+- Review: `@property` in Python.
+
 ### 24
 
 -   University of London
