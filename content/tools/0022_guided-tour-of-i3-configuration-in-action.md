@@ -307,19 +307,30 @@ A few notes on the **Layout** section:
 
 ## Scratchpad
 
-The scratchpad is sometimes so useful that it deserves its own section! When you send a window to the "scratchpad", it disappears. Then, with a keybinding, you can bring in back in floating mode on top of any other window on any active workspace you happen to be in. The same keybinding will toggle on/off the display of that scratchpad and if you happen to have sent multiple windows to the scratchpad, activating the same keybinding again will cycle through all the "scratchpads".
+The scratchpad is sometimes so useful that it deserves its own section! When you send a window to the "scratchpad", it disappears. Then, with a keybinding, you can bring in back in floating mode on top of any other window on any active workspace you happen to be in. The same keybinding will toggle on/off the display of that scratchpad and if you happen to have sent multiple windows to the scratchpad, activating the same keybinding again will cycle through all the scratchpads as we set a custom mode called `Scratchpad` in this example.
 
-I often use that for an audio player I leave running in the background and instead of using a whole workspace to leave that window opened, I send it to the scratchpad, which means it doesn't take any space and I can quickly bring it back in focus whenever I want. I find that having more than two windows in the list of scratchpads becomes cumbersome as you cycle through them, so I keep the scratchpad for specific, infrequent uses for applications that require less attention.
+I often use that for an audio player I leave running in the background and instead of using a whole workspace to leave that window opened, I send it to the scratchpad, which means it doesn't take any space and I can quickly bring it back in focus whenever I want, in any workspace. I find that having more than three windows in the list of scratchpads becomes cumbersome as you cycle through them, so I keep the scratchpad for specific, infrequent uses for applications that require less attention.
 
 If you want to convert a scratchpad back to a regular tiled container, it's as easy as triggering "toggle tiling / floating" (in this config file, it happens with `mod+Shift+space`).
 
 ```{.bash}
-# Move the currently focused window to the scratchpad
-bindsym $mod+minus    move scratchpad
+# Move the currently focused window to the scratchpad.
+# First, we toggle floating mode and we resize and position the window to make sure
+# it will appear correctly when showing it for the first time.
+bindsym $mod+minus    floating toggle; resize set 1900 1000, move position center; move scratchpad
 
 # Show the next scratchpad window or hide the focused scratchpad window.
 # If there are multiple scratchpad windows, this command cycles through them.
-bindsym $mod+plus    scratchpad show, resize set 1900 1000, move position center
+# There is an additional keybinding to allow a floating window to be toggled
+# (recovered as a normal window).
+bindsym $mod+Escape mode "Scratchpad"; scratchpad show, resize set 1900 1000, move position center
+mode "Scratchpad"{
+  bindsym $mod+Escape       scratchpad show, resize set 1900 1000, move position center; \
+                            scratchpad show, resize set 1900 1000, move position center
+  bindsym $mod+Shift+space  floating toggle; mode "default"
+  bindsym Return            scratchpad show; mode "default"
+  bindsym Escape            scratchpad show; mode "default"
+}
 ```
 A note on the **Scratchpad** section:
 
