@@ -18,6 +18,14 @@ save_as: learning-progress-2020.html
 
 ## October
 
+### 26
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Introduction to research methods.
+    -   **Programming With Data**
+        -   Python: working with CSV with `pandas`.
+
 ### 25
 
 -   University of London
