@@ -18,6 +18,17 @@ save_as: learning-progress-2020.html
 
 ## October
 
+### 28
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Data analysis, interpretation & presentation.
+    -   **Graphics Programming**
+        -  `p5.js`: particle systems.
+    -   **Programming With Data**
+        -   Python: working with different file formats in `pandas`.
+
+
 ### 27
 
 -   University of London
