@@ -18,6 +18,16 @@ save_as: learning-progress-2020.html
 
 ## October
 
+### 30
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Data analysis, interpretation & presentation; planning for research; analysing the competition; SWOT analysis.
+    -   **Graphics Programming**
+        -  Introduction to `matter.js`.
+    -   **Programming With Data**
+        -   Python: Working with CSV; data processing libraries; working with JSON; retrieving data from the web; walrus operator (assignment expression).
+
 ### 29
 
 -   University of London
