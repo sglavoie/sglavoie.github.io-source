@@ -18,6 +18,12 @@ save_as: learning-progress-2020.html
 
 ## October
 
+### 31
+
+-   University of London
+    -   **Graphics Programming**
+        -  Introduction to `matter.js`; constraints.
+
 ### 30
 
 -   University of London
