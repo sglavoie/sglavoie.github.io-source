@@ -16,6 +16,18 @@ save_as: learning-progress-2020.html
 > don't know much in the end. In the process, I hope you may find some
 > inspiration too.
 
+## November
+
+### 1
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Competitor analysis; alternative models to SWOT/STEEPLE.
+    -   **Graphics Programming**
+        -  `matter.js`: Static objects and composites.
+    -   **Programming With Data**
+        -   Introduction to HTML, DOM, web scraping, HTTP, file formats on the web; regular expressions; introduction to databases.
+
 ## October
 
 ### 31
