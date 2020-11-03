@@ -18,6 +18,16 @@ save_as: learning-progress-2020.html
 
 ## November
 
+### 2
+
+-   University of London
+    -   **Agile Software Projects**
+        -   User-centred design in a nutshell.
+    -   **Graphics Programming**
+        -  `matter.js`: Static objects and composites.
+    -   **Programming With Data**
+        -   Introduction to SQL.
+
 ### 1
 
 -   University of London
