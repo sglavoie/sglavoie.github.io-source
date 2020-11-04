@@ -18,6 +18,16 @@ save_as: learning-progress-2020.html
 
 ## November
 
+### 3
+
+-   University of London
+    -   **Agile Software Projects**
+        -   User-centred design in a nutshell; design, prototyping, and construction.
+    -   **Graphics Programming**
+        -  `matter.js`: Constraints.
+    -   **Programming With Data**
+        -   SQL and connection handling in Python.
+
 ### 2
 
 -   University of London
