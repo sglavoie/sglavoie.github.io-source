@@ -18,6 +18,25 @@ save_as: learning-progress-2020.html
 
 ## November
 
+### 4
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Design, prototyping, and construction.
+    -   **Graphics Programming**
+        -  `matter.js`: Constraints.
+    -   **Programming With Data**
+        -   Python: Retrieving data from databases using query languages; getting to grips with the basics, working with missing data in Pandas, asserts and exceptions.
+
+### 3
+
+-   University of London
+    -   **Agile Software Projects**
+        -   User-centred design in a nutshell; design, prototyping, and construction.
+    -   **Graphics Programming**
+        -  `matter.js`: Constraints.
+    -   **Programming With Data**
+        -   SQL and connection handling in Python.
 ### 3
 
 -   University of London
