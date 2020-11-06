@@ -18,6 +18,12 @@ save_as: learning-progress-2020.html
 
 ## November
 
+### 5
+
+-   University of London
+    -   **Graphics Programming**
+        -  `matter.js`: Working with time and progress bars.
+
 ### 4
 
 -   University of London
