@@ -18,6 +18,20 @@ save_as: learning-progress-2020.html
 
 ## November
 
+### 7
+
+-   University of London
+    -   **Graphics Programming**
+        -  `matter.js`: Working with time and progress bars.
+
+### 6
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Design, prototyping, and construction.
+    -   **Graphics Programming**
+        -  `matter.js`: Working with time and progress bars.
+
 ### 5
 
 -   University of London
