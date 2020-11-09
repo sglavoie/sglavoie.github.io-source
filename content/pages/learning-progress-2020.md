@@ -18,6 +18,16 @@ save_as: learning-progress-2020.html
 
 ## November
 
+### 8
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Market analysis.
+    -   **Graphics Programming**
+        -  `matter.js`: Working with time and progress bars; generative art.
+    -   **Programming With Data**
+        -   Python: Cleaning and restructuring data.
+
 ### 7
 
 -   University of London
