@@ -18,6 +18,16 @@ save_as: learning-progress-2020.html
 
 ## November
 
+### 9
+
+-   University of London
+    -   **Agile Software Projects**
+        -   .
+    -   **Graphics Programming**
+        -  `matter.js`: Perlin noise; 2D noise; 3D noise.
+    -   **Programming With Data**
+        -   Python: .
+
 ### 8
 
 -   University of London
