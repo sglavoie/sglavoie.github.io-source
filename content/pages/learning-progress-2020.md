@@ -18,6 +18,16 @@ save_as: learning-progress-2020.html
 
 ## November
 
+### 11
+
+-   University of London
+    -   **Agile Software Projects**
+        -   User stories.
+    -   **Graphics Programming**
+        -  `matter.js`: Perlin noise; 2D noise; 3D noise.
+    -   **Programming With Data**
+        -   Python: Errors and exceptions; exploring the problem space of cleaning data.
+
 ### 10
 
 -   University of London
@@ -27,7 +37,6 @@ save_as: learning-progress-2020.html
         -  `matter.js`: Perlin noise; 2D noise; 3D noise.
     -   **Programming With Data**
         -   Python: Working with missing data in `pandas`, `assert`, errors and exceptions.
-
 
 ### 9
 
