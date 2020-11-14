@@ -18,6 +18,15 @@ save_as: learning-progress-2020.html
 
 ## November
 
+### 13
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Department for Education [Realising the potential of technology in education: A strategy for education providers and the technology industry](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/791931/DfE-Education_Technology_Strategy.pdf).
+    -   **Graphics Programming**
+        -  `matter.js`: Oscillation; additive syntesis.
+- Review the [`grep` command](https://www.youtube.com/watch?v=VGgTmxXp7xQ) and the [`find` command](https://www.youtube.com/watch?v=KCVaNb_zOuw) with Corey Schafer.
+
 ### 12
 
 -   University of London
