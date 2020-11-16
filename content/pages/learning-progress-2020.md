@@ -18,6 +18,16 @@ save_as: learning-progress-2020.html
 
 ## November
 
+### 15
+
+-   University of London
+    -   **Agile Software Projects**
+        -   User stories, choosing a tech stack.
+    -   **Programming With Data**
+        -   Python: data cleaning and preparation.
+    -   **Graphics Programming**
+        -  `matter.js`: Graphics in video games; graphics in films and art; introduction to 3D graphics with materials and lights; camera and perspective; texture.
+
 ### 14
 
 -   University of London
