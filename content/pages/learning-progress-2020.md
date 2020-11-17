@@ -18,6 +18,14 @@ save_as: learning-progress-2020.html
 
 ## November
 
+### 16
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Research questions.
+    -   **Graphics Programming**
+        -  `p5.js`: 3D and WebGL.
+
 ### 15
 
 -   University of London
