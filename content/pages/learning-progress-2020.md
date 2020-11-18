@@ -18,6 +18,10 @@ save_as: learning-progress-2020.html
 
 ## November
 
+### 17
+
+- Web scraping and crawling in Python.
+
 ### 16
 
 -   University of London
