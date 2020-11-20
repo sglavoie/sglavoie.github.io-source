@@ -18,6 +18,12 @@ save_as: learning-progress-2020.html
 
 ## November
 
+### 19
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Research questions.
+
 ### 17
 
 - Web scraping and crawling in Python.
