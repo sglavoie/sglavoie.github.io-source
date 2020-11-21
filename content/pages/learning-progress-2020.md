@@ -18,6 +18,14 @@ save_as: learning-progress-2020.html
 
 ## November
 
+### 20
+
+-   University of London
+    -   **Graphics Programming**
+        -  `p5.js`: 3D and WebGL.
+    -   **Programming With Data**
+        -   Python: data cleaning and preparation.
+
 ### 19
 
 -   University of London
