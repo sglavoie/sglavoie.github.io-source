@@ -18,6 +18,16 @@ save_as: learning-progress-2020.html
 
 ## November
 
+### 21
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Research questions.
+    -   **Graphics Programming**
+        -  `p5.js`: 3D and WebGL; colour harmony; working with images; pixels.
+    -   **Programming With Data**
+        -   Python: data cleaning and preparation; SQL injections.
+
 ### 20
 
 -   University of London
