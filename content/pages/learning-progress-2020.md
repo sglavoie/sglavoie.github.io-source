@@ -18,6 +18,14 @@ save_as: learning-progress-2020.html
 
 ## November
 
+### 22
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Introduction to user centred design; interaction design in practice.
+    -   **Graphics Programming**
+        -  `p5.js`: working with images; pixels.
+
 ### 21
 
 -   University of London
