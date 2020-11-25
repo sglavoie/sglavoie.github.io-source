@@ -18,6 +18,15 @@ save_as: learning-progress-2020.html
 
 ## November
 
+### 24
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Requirements gathering, market analysis.
+    -   **Graphics Programming**
+        -  `p5.js`: working with images; pixels; averaging images.
+- Review how to undo actions in Git.
+
 ### 23
 
 -   University of London
