@@ -18,6 +18,13 @@ save_as: learning-progress-2020.html
 
 ## November
 
+### 25
+
+-   University of London
+    -   **Graphics Programming**
+        -  `p5.js`: working with images; pixels; averaging images.
+- Mocking in Python.
+
 ### 24
 
 -   University of London
