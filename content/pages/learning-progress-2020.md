@@ -18,6 +18,16 @@ save_as: learning-progress-2020.html
 
 ## November
 
+### 26
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Market analysis.
+    -   **Graphics Programming**
+        -  `p5.js`: Digital image processing; filters (invert, grayscale, threshold, blur); convolution.
+- Figma: vectors; variants; constraints; shapes; gradients; auto layout; styles; guides; components; masks.
+- Very brief intro to TypeScript.
+
 ### 25
 
 -   University of London
