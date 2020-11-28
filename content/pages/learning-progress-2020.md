@@ -18,6 +18,15 @@ save_as: learning-progress-2020.html
 
 ## November
 
+### 27
+
+-   University of London
+    -   **Graphics Programming**
+        -  `p5.js`: filters (edge detection, sharpen, in GIMP).
+    -   **Programming With Data**
+        -   Python: Reshaping and pivot tables.
+- Figma: review shapes and tools; Bézier tool; masks; text; layers; components; variants.
+
 ### 26
 
 -   University of London
