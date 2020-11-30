@@ -18,6 +18,24 @@ save_as: learning-progress-2020.html
 
 ## November
 
+### 29
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Introduction to user-centred design.
+    -   **Graphics Programming**
+        -  `p5.js`: Instagram filter.
+
+### 28
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Introduction to user-centred design; agileUX; design patterns.
+    -   **Graphics Programming**
+        -  `p5.js`: Instagram filter.
+    -   **Programming With Data**
+        -   Python: Reshaping and pivot tables.
+
 ### 27
 
 -   University of London
