@@ -18,6 +18,15 @@ save_as: learning-progress-2020.html
 
 ## November
 
+### 30
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Design patterns; open source resources; tools for interaction design.
+    -   **Graphics Programming**
+        -  `p5.js`: Instagram filter.
+- Figma: layout grids; scrollable content on mobile; building a navigation menu with components.
+
 ### 29
 
 -   University of London
