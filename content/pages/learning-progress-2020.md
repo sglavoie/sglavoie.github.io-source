@@ -16,6 +16,12 @@ save_as: learning-progress-2020.html
 > don't know much in the end. In the process, I hope you may find some
 > inspiration too.
 
+## December
+
+### 1
+
+- Figma: Building a navigation menu with components; constraints; layout grids; auto layout.
+
 ## November
 
 ### 30
