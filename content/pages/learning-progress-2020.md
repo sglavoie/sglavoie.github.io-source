@@ -18,6 +18,15 @@ save_as: learning-progress-2020.html
 
 ## December
 
+### 3
+
+- Python: quick review of `re` module.
+- Presenting and exporting prototypes in Figma.
+
+### 2
+
+- Read about [YAML specifications](https://yaml.org/spec/1.2/spec.pdf).
+
 ### 1
 
 - Figma: Building a navigation menu with components; constraints; layout grids; auto layout.
