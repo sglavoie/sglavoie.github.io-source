@@ -18,6 +18,15 @@ save_as: learning-progress-2020.html
 
 ## December
 
+### 4
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Testing in projects; heuristic evaluation.
+    -   **Graphics Programming**
+        -  `p5.js`: Instagram filter.
+- Python: quick review of packing and unpacking.
+
 ### 3
 
 - Python: quick review of `re` module.
