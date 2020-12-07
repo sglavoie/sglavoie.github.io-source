@@ -18,11 +18,19 @@ save_as: learning-progress-2020.html
 
 ## December
 
-### 4
+### 6
 
 -   University of London
     -   **Agile Software Projects**
-        -   heuristic evaluation; walk-throughs; analytics and A/B testing.
+        -   A/B testing; predictive models.
+    -   **Graphics Programming**
+        -  `p5.js`: Instagram filter.
+
+### 5
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Heuristic evaluation; walk-throughs; analytics and A/B testing.
     -   **Graphics Programming**
         -  `p5.js`: Instagram filter.
 - Python: quick review of packing and unpacking.
