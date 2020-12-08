@@ -18,6 +18,14 @@ save_as: learning-progress-2020.html
 
 ## December
 
+### 7
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Predictive models; prototyping.
+    -   **Programming With Data**
+        -   Python: Reshaping and pivot tables.
+
 ### 6
 
 -   University of London
