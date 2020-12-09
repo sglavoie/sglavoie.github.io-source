@@ -18,6 +18,14 @@ save_as: learning-progress-2020.html
 
 ## December
 
+### 8
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Defining Agile, software proposal.
+    -   **Graphics Programming**
+        -  `p5.js`: Computer vision and its applications; brightness tracking; colour tracking.
+
 ### 7
 
 -   University of London
