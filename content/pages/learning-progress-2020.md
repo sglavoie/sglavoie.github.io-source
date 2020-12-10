@@ -18,6 +18,15 @@ save_as: learning-progress-2020.html
 
 ## December
 
+### 9
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Software proposal.
+    -   **Graphics Programming**
+        -  `p5.js`: Background subtraction; frame differencing.
+- Vim: [Project-wide search & replace](http://vimcasts.org/episodes/project-wide-find-and-replace/).
+
 ### 8
 
 -   University of London
