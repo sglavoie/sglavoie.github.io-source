@@ -18,6 +18,19 @@ save_as: learning-progress-2020.html
 
 ## December
 
+### 10
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Agile in practice, lean approach, Kanban basics, Scrum and sprints, software proposal.
+    -   **Graphics Programming**
+        -  `p5.js`: Optical flow; face detection.
+    -   **Programming With Data**
+        -   Python, `pandas`: Pivot tables; cross tabulation.
+- Figma: Scroll between elements in prototypes.
+- Vim: Repeating and reversing operations.
+- tmux: Keybindings.
+
 ### 9
 
 -   University of London
@@ -41,7 +54,7 @@ save_as: learning-progress-2020.html
     -   **Agile Software Projects**
         -   Predictive models; prototyping.
     -   **Programming With Data**
-        -   Python: Reshaping and pivot tables.
+        -   Python, `pandas`: Reshaping and pivot tables.
 
 ### 6
 
@@ -100,7 +113,7 @@ save_as: learning-progress-2020.html
     -   **Graphics Programming**
         -  `p5.js`: Instagram filter.
     -   **Programming With Data**
-        -   Python: Reshaping and pivot tables.
+        -   Python, `pandas`: Reshaping and pivot tables.
 
 ### 27
 
@@ -108,7 +121,7 @@ save_as: learning-progress-2020.html
     -   **Graphics Programming**
         -  `p5.js`: filters (edge detection, sharpen, in GIMP).
     -   **Programming With Data**
-        -   Python: Reshaping and pivot tables.
+        -   Python, `pandas`: Reshaping and pivot tables.
 - Figma: review shapes and tools; Bézier tool; masks; text; layers; components; variants.
 
 ### 26
