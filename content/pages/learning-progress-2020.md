@@ -18,6 +18,14 @@ save_as: learning-progress-2020.html
 
 ## December
 
+### 12
+
+-   University of London
+    -   **Graphics Programming**
+        -  `p5.js`: Interview with Memo Atken (computer vision).
+- Vim: Find and replace by hand; using the "dot" command; chunking undos.
+- tmux: Keybindings.
+
 ### 10
 
 -   University of London
