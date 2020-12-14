@@ -18,6 +18,18 @@ save_as: learning-progress-2020.html
 
 ## December
 
+### 13
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Introduction to testing, evaluation methods, unit tests, software proposal.
+    -   **Programming With Data**
+        -   Python, `pandas`: dummy variables; exploding values; merge; join; concatenate; compare.
+        -   Python: `unittest` module.
+- Vim: Comparing buffers with `vimdiff`; updating config on the fly; compose repeatable changes.
+- tmux: Managing sessions.
+- i3: Review how containers are stored and managed with trees.
+
 ### 12
 
 -   University of London
