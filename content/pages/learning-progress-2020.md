@@ -18,13 +18,24 @@ save_as: learning-progress-2020.html
 
 ## December
 
+### 14
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Creating a user survey.
+    -   **Programming With Data**
+        -   Python, `pandas`: concatenate; merge; compare.
+        -   Python: Data visualisation principles, `seaborn`.
+        -   Git.
+- Vim: use counts to do simple arithmetic and repeat commands.
+
 ### 13
 
 -   University of London
     -   **Agile Software Projects**
         -   Introduction to testing, evaluation methods, unit tests, software proposal.
     -   **Programming With Data**
-        -   Python, `pandas`: dummy variables; exploding values; merge; join; concatenate; compare.
+        -   Python, `pandas`: dummy variables; exploding values; merge; join; concatenate.
         -   Python: `unittest` module.
 - Vim: Comparing buffers with `vimdiff`; updating config on the fly; compose repeatable changes.
 - tmux: Managing sessions.
