@@ -18,6 +18,14 @@ save_as: learning-progress-2020.html
 
 ## December
 
+### 15
+
+-   University of London
+    -   **Agile Software Projects**
+        -   [Project] Researching state of worldwide broadband access.
+    -   **Programming With Data**
+        -   Python: VCS with Jupyter Notebooks using Jupytext.
+
 ### 14
 
 -   University of London
