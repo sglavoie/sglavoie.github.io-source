@@ -18,6 +18,14 @@ save_as: learning-progress-2020.html
 
 ## December
 
+### 16
+
+-   University of London
+    -   **Agile Software Projects**
+        -   [Project] Researching state of worldwide broadband access.
+    -   **Programming With Data**
+        -   Python: Integrating Jupytext with pre-commit hook.
+
 ### 15
 
 -   University of London
