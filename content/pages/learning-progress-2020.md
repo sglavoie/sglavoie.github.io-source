@@ -18,6 +18,14 @@ save_as: learning-progress-2020.html
 
 ## December
 
+### 17
+
+-   University of London
+    -   **Agile Software Projects**
+        -   [Project] Researching state of worldwide broadband access.
+    -   **Programming With Data**
+        -   Python: Scraping data.
+
 ### 16
 
 -   University of London
