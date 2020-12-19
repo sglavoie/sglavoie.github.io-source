@@ -18,6 +18,12 @@ save_as: learning-progress-2020.html
 
 ## December
 
+### 18
+
+-   University of London
+    -   **Programming With Data**
+        -   Python: Scraping data.
+
 ### 17
 
 -   University of London
