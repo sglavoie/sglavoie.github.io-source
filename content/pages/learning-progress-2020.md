@@ -18,6 +18,18 @@ save_as: learning-progress-2020.html
 
 ## December
 
+### 19
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Requirements gathering/elicitation.
+    -   **Programming With Data**
+        -   Python: Scraping data.
+- Basics of command handlers with Discord bot.
+- Configuring basic Docker images.
+- Vim: Operator-pending mode.
+- tmux: Managing sessions.
+
 ### 18
 
 -   University of London
