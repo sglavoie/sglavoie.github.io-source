@@ -18,6 +18,17 @@ save_as: learning-progress-2020.html
 
 ## December
 
+### 20
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Market research, user survey.
+    -   **Programming With Data**
+        -   Python: Scraping data.
+- Vim: Make corrections instantly from Insert mode; paste from a register without leaving insert mode.
+- tmux: Configuration; layout & navigation.
+- How to set up live streaming on YouTube with OBS.
+
 ### 19
 
 -   University of London
