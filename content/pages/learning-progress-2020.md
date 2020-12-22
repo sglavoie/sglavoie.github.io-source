@@ -18,6 +18,15 @@ save_as: learning-progress-2020.html
 
 ## December
 
+### 21
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Market research; testing in context, types of tests; measuring aims and objectives.
+- Vim: Inserting unusual characters by character code and digraph; overwriting existing text in Replace mode.
+- tmux: Vim integration.
+- Setting up `cloud_sql_proxy` inside Docker.
+
 ### 20
 
 -   University of London
