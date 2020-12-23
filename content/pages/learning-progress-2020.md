@@ -18,6 +18,16 @@ save_as: learning-progress-2020.html
 
 ## December
 
+### 22
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Market research.
+    -   **Programming With Data**
+        -   Python: Defensive programming with error handling.
+- Vim: More on Visual mode.
+- tmux: Advanced workflows.
+
 ### 21
 
 -   University of London
