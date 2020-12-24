@@ -18,6 +18,17 @@ save_as: learning-progress-2020.html
 
 ## December
 
+### 23
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Market research.
+    -   **Programming With Data**
+        -   Python: Cleaning data.
+- Vim: Editing tabular data with visual block mode.
+- tmux: `man` page, commands, keybindings.
+- [Mastering the shell](https://thoughtbot.com/upcase/videos/mastering-the-shell-overview): `man` page, commands, keybindings.
+
 ### 22
 
 -   University of London
