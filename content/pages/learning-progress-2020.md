@@ -18,6 +18,11 @@ save_as: learning-progress-2020.html
 
 ## December
 
+### 25
+
+- Vim: Command-line mode; differences with Vi, Ex commands.
+- [Mastering the shell](https://thoughtbot.com/upcase/videos/mastering-the-shell-overview): slice and dice with `grep` and `sed`.
+
 ### 23
 
 -   University of London
