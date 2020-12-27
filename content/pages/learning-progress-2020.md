@@ -18,6 +18,15 @@ save_as: learning-progress-2020.html
 
 ## December
 
+### 26
+
+-   University of London
+    -   **Programming With Data**
+        -   Python: Cleaning data.
+- Vim: Duplicating and moving lines with `:t` and `:m`.
+- [Mastering the shell](https://thoughtbot.com/upcase/videos/mastering-the-shell-overview): Pipes; inputs; outputs.
+- [betaveros on Advent of Code](https://blog.vero.site/post/advent-leaderboard).
+
 ### 25
 
 - Vim: Command-line mode; differences with Vi, Ex commands.
