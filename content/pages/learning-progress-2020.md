@@ -18,6 +18,16 @@ save_as: learning-progress-2020.html
 
 ## December
 
+### 27
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Market research.
+    -   **Programming With Data**
+        -   Python: Error handling; plotting in Matplotlib.
+- Vim: Running normal commands across a range.
+- [Mastering the shell](https://thoughtbot.com/upcase/videos/mastering-the-shell-overview): Shell scripting.
+
 ### 26
 
 -   University of London
