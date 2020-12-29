@@ -18,6 +18,14 @@ save_as: learning-progress-2020.html
 
 ## December
 
+### 28
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Use case diagrams.
+- Vim: Tab-complete Ex commands; insert word under the cursor in command mode; recall commands from history.
+- [Mastering the shell](https://thoughtbot.com/upcase/videos/mastering-the-shell-overview): configure the shell.
+
 ### 27
 
 -   University of London
