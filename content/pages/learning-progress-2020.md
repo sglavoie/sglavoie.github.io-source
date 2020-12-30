@@ -18,6 +18,14 @@ save_as: learning-progress-2020.html
 
 ## December
 
+### 29
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Converting user stories to use case diagrams.
+- Vim: Running commands in the shell.
+- [Fundamentals of TDD](https://thoughtbot.com/upcase/videos/fundamentals-of-tdd-overview): Overview.
+
 ### 28
 
 -   University of London
