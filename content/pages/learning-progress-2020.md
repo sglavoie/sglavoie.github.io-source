@@ -18,6 +18,14 @@ save_as: learning-progress-2020.html
 
 ## December
 
+### 30
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Converting user stories to use case diagrams.
+- Vim: Run multiple Ex Commands as a batch.
+- [Fundamentals of TDD](https://thoughtbot.com/upcase/videos/fundamentals-of-tdd-overview): Red-Green-Refactor by Example.
+
 ### 29
 
 -   University of London
