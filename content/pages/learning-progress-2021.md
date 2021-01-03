@@ -18,6 +18,16 @@ save_as: learning-progress-2021.html
 
 ## January
 
+### 2
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Gantt chart; validation techniques; measuring success; sampling and heuristic evaluation.
+    -   **Programming with Data**
+        -   Pandas, Matplotlib, JupyterLab.
+- Vim: Managing hidden files; divide the workspace into split windows.
+- [Fundamentals of TDD](https://thoughtbot.com/upcase/videos/fundamentals-of-tdd-overview): Introducing the Unit Converter (example application).
+
 ### 1
 
 -   University of London
