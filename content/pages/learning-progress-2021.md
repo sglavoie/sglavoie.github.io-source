@@ -18,6 +18,15 @@ save_as: learning-progress-2021.html
 
 ## January
 
+### 3
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Software proposal.
+    -   **Programming with Data**
+        -   Pandas, Matplotlib, JupyterLab.
+- Vim: organize window layouts with tab pages.
+
 ### 2
 
 -   University of London
