@@ -18,6 +18,15 @@ save_as: learning-progress-2021.html
 
 ## January
 
+### 4
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Software proposal.
+    -   **Programming with Data**
+        -   Pandas, Matplotlib, JupyterLab.
+- Vim: open a file by its filepath using `:edit` and `:find`.
+
 ### 3
 
 -   University of London
