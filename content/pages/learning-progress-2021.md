@@ -18,6 +18,14 @@ save_as: learning-progress-2021.html
 
 ## January
 
+### 5
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Software proposal.
+    -   **Programming with Data**
+        -   Pandas, Matplotlib, JupyterLab.
+
 ### 4
 
 -   University of London
