@@ -18,6 +18,15 @@ save_as: learning-progress-2021.html
 
 ## January
 
+### 7
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Software proposal.
+    -   **Programming with Data**
+        -   Pandas, Matplotlib, JupyterLab.
+- Using `tailwindcss` with `Next.js`.
+
 ### 6
 
 -   University of London
