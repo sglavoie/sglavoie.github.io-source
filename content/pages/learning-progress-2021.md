@@ -18,6 +18,17 @@ save_as: learning-progress-2021.html
 
 ## January
 
+### 8
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Software proposal.
+    -   **Graphics Programming**
+        -   Integrating a particle system in `p5.js`.
+    -   **Programming with Data**
+        -   Pandas, Matplotlib, JupyterLab.
+- Using `tailwindcss` with `Next.js`.
+
 ### 7
 
 -   University of London
