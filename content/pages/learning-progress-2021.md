@@ -18,6 +18,13 @@ save_as: learning-progress-2021.html
 
 ## January
 
+### 11
+
+-   University of London
+    -   **Programming with Data**
+        -   Pandas, Dask.
+- Using `tailwindcss` with `Next.js`.
+
 ### 10
 
 -   University of London
