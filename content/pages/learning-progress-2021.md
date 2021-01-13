@@ -18,6 +18,14 @@ save_as: learning-progress-2021.html
 
 ## January
 
+### 12
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Evaluation studies, emotional interaction.
+    -   **Graphics Programming**
+        -   Making a "webcam piano".
+
 ### 11
 
 -   University of London
