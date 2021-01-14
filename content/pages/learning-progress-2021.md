@@ -18,6 +18,15 @@ save_as: learning-progress-2021.html
 
 ## January
 
+### 13
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Emotional interaction; interfaces in interaction design.
+    -   **Graphics Programming**
+        -   Making a "webcam piano".
+- Setting up multiple bars in `i3wm`.
+
 ### 12
 
 -   University of London
