@@ -18,6 +18,13 @@ save_as: learning-progress-2021.html
 
 ## January
 
+### 14
+
+-   University of London
+    -   **Graphics Programming**
+        -   Making a "webcam piano".
+- Vim: Explore the File System with `netrw`.
+
 ### 13
 
 -   University of London
