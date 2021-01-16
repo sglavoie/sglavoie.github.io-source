@@ -18,6 +18,15 @@ save_as: learning-progress-2021.html
 
 ## January
 
+### 15
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Interfaces in interaction design; data at scale; cognitive aspects.
+    -   **Graphics Programming**
+        -   Making a "webcam piano".
+- Vim: save files to nonexistent directories; save a file as the super user.
+
 ### 14
 
 -   University of London
