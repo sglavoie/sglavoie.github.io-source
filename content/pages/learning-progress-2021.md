@@ -18,6 +18,13 @@ save_as: learning-progress-2021.html
 
 ## January
 
+### 16
+
+-   University of London
+    -   **Graphics Programming**
+        -   Making a "webcam piano".
+- Vim: difference between wrapped real lines and display lines; moving word-wise.
+
 ### 15
 
 -   University of London
