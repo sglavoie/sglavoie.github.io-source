@@ -18,6 +18,13 @@ save_as: learning-progress-2021.html
 
 ## January
 
+### 17
+
+-   University of London
+    -   **Graphics Programming**
+        -   Making a "webcam piano".
+- Vim: find by character; search to navigate.
+
 ### 16
 
 -   University of London
