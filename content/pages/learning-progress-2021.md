@@ -18,6 +18,12 @@ save_as: learning-progress-2021.html
 
 ## January
 
+### 18
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Introduction to React, creating a React component.
+
 ### 17
 
 -   University of London
