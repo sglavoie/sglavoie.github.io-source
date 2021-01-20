@@ -18,6 +18,14 @@ save_as: learning-progress-2021.html
 
 ## January
 
+### 19
+
+-   University of London
+    -   **Agile Software Projects**
+        -   React: Introduction to React; creating a React component.
+        -   Next.js: Create a Next.js application; navigating between pages; assets, metadata, and CSS.
+- Vim: trace your selection with precision text objects; delete around and change inside selections.
+
 ### 18
 
 -   University of London
