@@ -18,6 +18,12 @@ save_as: learning-progress-2021.html
 
 ## January
 
+### 20
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Next.js: pre-rendering and data fetching.
+
 ### 19
 
 -   University of London
