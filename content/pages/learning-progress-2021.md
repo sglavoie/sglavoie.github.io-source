@@ -18,6 +18,12 @@ save_as: learning-progress-2021.html
 
 ## January
 
+### 21
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Next.js: Adding a responsive navbar.
+
 ### 20
 
 -   University of London
