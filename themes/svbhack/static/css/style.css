@@ -158,6 +158,16 @@ main article div.article_text div.quoteblock > div.attribution {
     text-align: right;
 }
 
+main article div.article_text dt {
+  font-weight: bold;
+  margin-bottom: 0.25em;
+}
+
+main article div.article_text dd {
+  margin-inline-start: 15px;
+  margin-bottom: 2em;
+}
+
 main article div.gist {
     line-height: 0.875em;
 }
