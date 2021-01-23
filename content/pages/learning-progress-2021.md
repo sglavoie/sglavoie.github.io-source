@@ -18,6 +18,10 @@ save_as: learning-progress-2021.html
 
 ## January
 
+### 22
+
+- Regexes in Python.
+
 ### 21
 
 -   University of London
