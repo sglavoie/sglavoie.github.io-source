@@ -3,6 +3,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+from pelican import __version__
+
+PELICAN_VERSION = __version__
 
 # Pelican-specific settings
 PATH = "content"
