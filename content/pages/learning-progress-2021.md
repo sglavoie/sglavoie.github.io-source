@@ -18,6 +18,12 @@ save_as: learning-progress-2021.html
 
 ## January
 
+### 23
+
+-   University of London
+    -   **Graphics Programming**
+        -   Making a "webcam piano".
+
 ### 22
 
 - Regexes in Python.
