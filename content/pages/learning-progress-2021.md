@@ -18,6 +18,13 @@ save_as: learning-progress-2021.html
 
 ## January
 
+### 24
+
+-   University of London
+    -   **Graphics Programming**
+        -   Making an Instagram filter.
+- Vim: mark your place and snap back to it; jump between matching parentheses; traverse the jump list.
+
 ### 23
 
 -   University of London
