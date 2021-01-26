@@ -18,6 +18,12 @@ save_as: learning-progress-2021.html
 
 ## January
 
+### 25
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Researching React frameworks to use to style Next.js application.
+
 ### 24
 
 -   University of London
