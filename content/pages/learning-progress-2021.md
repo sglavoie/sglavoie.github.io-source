@@ -18,6 +18,12 @@ save_as: learning-progress-2021.html
 
 ## January
 
+### 26
+
+-   University of London
+    -   **Graphics Programming**
+        -   Making an Instagram filter.
+
 ### 25
 
 -   University of London
