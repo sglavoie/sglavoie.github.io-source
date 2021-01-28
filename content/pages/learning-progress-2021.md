@@ -21,8 +21,8 @@ save_as: learning-progress-2021.html
 ### 26
 
 -   University of London
-    -   **Graphics Programming**
-        -   Making an Instagram filter.
+    -   **Agile Software Projects**
+        -   Researching React frameworks to use to style Next.js application: stick with Material UI.
 
 ### 25
 
