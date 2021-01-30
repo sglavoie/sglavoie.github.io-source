@@ -18,6 +18,10 @@ save_as: learning-progress-2021.html
 
 ## January
 
+### 29
+
+- Hackerrank: solve [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem) and [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem).
+
 ### 28
 
 -   University of London
@@ -33,8 +37,8 @@ save_as: learning-progress-2021.html
 ### 26
 
 -   University of London
--    -   **Graphics Programming**
--        -   Making an Instagram filter.
+    -   **Graphics Programming**
+        -   Making an Instagram filter.
 
 ### 25
 
