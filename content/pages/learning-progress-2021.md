@@ -18,6 +18,10 @@ save_as: learning-progress-2021.html
 
 ## January
 
+### 30
+
+- Vim: traverse the change list; jump to filename under the cursor.
+
 ### 29
 
 - Hackerrank: solve [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem) and [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem).
