@@ -18,6 +18,15 @@ save_as: learning-progress-2021.html
 
 ## January
 
+### 31
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Integrating Material-UI within a React application.
+    -   **Graphics Programming**
+        -   Making a "webcam piano" with [howler.js](https://howlerjs.com/).
+- Vim: snap between files using global marks.
+
 ### 30
 
 - Vim: traverse the change list; jump to filename under the cursor.
