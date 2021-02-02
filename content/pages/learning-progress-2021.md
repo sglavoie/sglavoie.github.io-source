@@ -16,6 +16,16 @@ save_as: learning-progress-2021.html
 > don't know much in the end. In the process, I hope you may find some
 > inspiration too.
 
+## February
+
+### 1
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Integrating Material-UI within a React application.
+- Clean Code: Concurrency programming.
+- Using [Kitty](https://github.com/kovidgoyal/kitty) terminal.
+
 ## January
 
 ### 31
