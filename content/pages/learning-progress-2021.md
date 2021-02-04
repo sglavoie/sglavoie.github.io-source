@@ -18,6 +18,12 @@ save_as: learning-progress-2021.html
 
 ## February
 
+### 3
+
+-   University of London
+    -   **Agile Software Projects**
+        -   Integrating Material-UI within a React application; `makeStyles`.
+
 ### 2
 
 -   University of London
