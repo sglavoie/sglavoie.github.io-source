@@ -18,6 +18,12 @@ save_as: learning-progress-2021.html
 
 ## February
 
+### 7
+
+-   University of London
+    -   **Graphics Programming**
+        -   Making a "webcam piano" with [howler.js](https://howlerjs.com/).
+
 ### 6
 
 -   University of London
