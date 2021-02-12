@@ -18,6 +18,12 @@ save_as: learning-progress-2021.html
 
 ## February
 
+### 11
+
+-   University of London
+    -   **Agile Software Projects**
+        -   [SSR with Next.js, styled-components and Material UI](https://medium.com/javascript-in-plain-english/ssr-with-next-js-styled-components-and-material-ui-b1e88ac11dfa).
+
 ### 9
 
 -   University of London
