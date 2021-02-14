@@ -5,15 +5,14 @@ Authors: Sébastien Lavoie
 URL: learning-progress-2021.html
 save_as: learning-progress-2021.html
 
-> Learning is an eternal path. I wanted to share my own adventure
-> primarily for the following practical reasons: to help me remember
-> what I have supposedly been working on technology-wise and
-> to help me practice a technique that is known as [spaced
-> repetition](https://en.wikipedia.org/wiki/Spaced_repetition).
-> This is really just a summary to motivate myself to keep on track,
-> to practice consistent self-reflection and to be reminded as often
-> as possible to stay a bit more humble, as it becomes obvious that I
-> don't know much in the end. In the process, I hope you may find some
+> Learning is an eternal path. I wanted to share my own
+> adventure primarily for the following practical reasons: to
+> help me remember what I have been working on technology-wise
+> and to help me practice a technique known as [spaced
+> repetition](https://en.wikipedia.org/wiki/Spaced_repetition). This
+> is a summary to motivate myself to keep on track, to practice
+> consistent self-reflection and to be reminded as often as possible
+> to stay a bit more humble. In the process, I hope you may find some
 > inspiration too.
 
 ## February
