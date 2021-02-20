@@ -17,6 +17,13 @@ save_as: learning-progress-2021.html
 
 ## February
 
+### 19
+
+-   University of London
+    -   **Graphics Programming**
+        -   Making a "webcam piano" with [howler.js](https://howlerjs.com/).
+- [How to Publish an Open-Source Python Package to PyPI](https://realpython.com/pypi-publish-python-package/).
+
 ### 18
 
 -   University of London
