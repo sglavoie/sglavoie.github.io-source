@@ -17,6 +17,13 @@ save_as: learning-progress-2021.html
 
 ## February
 
+### 22
+
+-   University of London
+    -   **Graphics Programming**
+        -   Making a "webcam piano" with [howler.js](https://howlerjs.com/).
+        -   Customize 3D sine game.
+
 ### 21
 
 -   University of London
