@@ -29,10 +29,9 @@ save_as: learning-progress-2021.html
         -   Making a "webcam piano" with [howler.js](https://howlerjs.com/).
         -   Customize 3D sine game.
         -   Working on an "average face" sketch, combining different images.
-
-- [How to Publish an Open-Source Python Package to PyPI](https://realpython.com/pypi-publish-python-package/).
-- Read Clean Code: Concurrency programming.
-- Using [Kitty](https://github.com/kovidgoyal/kitty) terminal.
+-   [How to Publish an Open-Source Python Package to PyPI](https://realpython.com/pypi-publish-python-package/).
+-   Read Clean Code: Concurrency programming.
+-   Using [Kitty](https://github.com/kovidgoyal/kitty) terminal.
 
 ## January
 
@@ -54,12 +53,11 @@ save_as: learning-progress-2021.html
     -   **Programming with Data**
         -   Pandas, Matplotlib, JupyterLab.
         -   Data cleaning.
-
-- Regexes in Python.
-- Hackerrank: solve [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem) and [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem).
-- Setting up multiple bars in `i3wm`.
-- Using `tailwindcss` with `Next.js`.
-- [Fundamentals of TDD](https://thoughtbot.com/upcase/videos/fundamentals-of-tdd-overview): Introducing the Unit Converter (example application); phases of testing.
+-   Regexes in Python.
+-   Hackerrank: solve [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem) and [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem).
+-   Setting up multiple bars in `i3wm`.
+-   Using `tailwindcss` with `Next.js`.
+-   [Fundamentals of TDD](https://thoughtbot.com/upcase/videos/fundamentals-of-tdd-overview): Introducing the Unit Converter (example application); phases of testing.
 -   Vim:
     -   Track open files with the buffer list; group buffers into a collection with the argument list.
     -   Managing hidden files; divide the workspace into split windows.
