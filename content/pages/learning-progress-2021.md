@@ -31,6 +31,7 @@ save_as: learning-progress-2021.html
         -   Working on an "average face" sketch, combining different images.
 -   [How to Publish an Open-Source Python Package to PyPI](https://realpython.com/pypi-publish-python-package/).
 -   Read Clean Code: Concurrency programming.
+-   Using [Click](https://click.palletsprojects.com) to build command-line tools.
 -   Using [Kitty](https://github.com/kovidgoyal/kitty) terminal.
 
 ## January
