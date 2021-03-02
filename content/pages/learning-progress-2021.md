@@ -25,6 +25,7 @@ save_as: learning-progress-2021.html
         -   [SSR with Next.js, styled-components and Material UI](https://medium.com/javascript-in-plain-english/ssr-with-next-js-styled-components-and-material-ui-b1e88ac11dfa).
         -   Integrating Next.js Commerce template.
         -   Writing a software proposal report.
+        -   Writing a problem analysis.
     -   **Graphics Programming**
         -   Making a "webcam piano" with [howler.js](https://howlerjs.com/).
         -   Customize 3D sine game.
