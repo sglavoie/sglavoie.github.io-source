@@ -1,6 +1,6 @@
 Title: My Current Set of Tools and Customizations
 Date: 2020-06-06 10:41
-Modified: 2020-08-16 19:11
+Modified: 2021-03-04 14:15
 Slug: my-current-set-of-tools-and-customizations
 Tags: customization, software
 Authors: Sébastien Lavoie
@@ -18,6 +18,7 @@ Description: I like to keep track of the tools I use and see the shifts that occ
 | code snippets                   | github gists         | gitlab snippets      |
 | cursor hider                    | unclutter            |                      |
 | desktop environment             | xfce                 | gnome                |
+| diagram generation              | plantuml             | mermaid-js           |
 | dotfiles management             | git bare repo        |                      |
 | dynamic menu                    | dmenu                | rofi                 |
 | ebook manager                   | calibre              |                      |
@@ -28,8 +29,10 @@ Description: I like to keep track of the tools I use and see the shifts that occ
 | fonts monospace                 | jetbrains mono       | iosevka              |
 | fonts monospace                 | source code pro      | inconsolata          |
 | fonts sansserif                 | lato                 | dejavu               |
+| gif screen recorder             | peek                 |                      |
 | image editing (raster)          | gimp                 |                      |
 | image editing (vector)          | inkscape             |                      |
+| interface design                | figma                |                      |
 | irc chat                        | hexchat              | pidgin               |
 | linux distribution              | xubuntu              | debian, manjaro      |
 | memorizing                      | anki                 |                      |
@@ -49,6 +52,7 @@ Description: I like to keep track of the tools I use and see the shifts that occ
 | python formatter                | black                |                      |
 | python ide                      | pycharm              |                      |
 | python linter                   | pylint               |                      |
+| python refactoring              | rope                 |                      |
 | python test suite               | pytest               |                      |
 | python virtualenv manager       | venv module          | virtualenvwrapper.sh |
 | screen locker                   | slock                | xflock4              |
@@ -65,7 +69,7 @@ Description: I like to keep track of the tools I use and see the shifts that occ
 | terminal clipboard              | xclip                |                      |
 | terminal coursera downloader    | coursera-dl          |                      |
 | terminal disk usage             | ncdu                 |                      |
-| terminal emulator               | alacritty            | st, xfce4-terminal   |
+| terminal emulator               | kitty                | st, xfce4-terminal   |
 | terminal file archiver          | p7zip                |                      |
 | terminal file lister            | exa                  |                      |
 | terminal file lister tree-style | tree                 |                      |
