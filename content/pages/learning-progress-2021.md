@@ -34,6 +34,7 @@ save_as: learning-progress-2021.html
 -   Read Clean Code: Concurrency programming.
 -   Using [Click](https://click.palletsprojects.com) to build command-line tools.
 -   Using [Kitty](https://github.com/kovidgoyal/kitty) terminal.
+-   Taking screenshots with Chrome developer tools.
 
 ## January
 
