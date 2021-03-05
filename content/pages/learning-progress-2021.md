@@ -35,6 +35,7 @@ save_as: learning-progress-2021.html
 -   Using [Click](https://click.palletsprojects.com) to build command-line tools.
 -   Using [Kitty](https://github.com/kovidgoyal/kitty) terminal.
 -   Taking screenshots with Chrome developer tools.
+-   Learning how to use [Hasura](https://hasura.io/).
 
 ## January
 
