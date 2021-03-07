@@ -30,6 +30,7 @@ save_as: learning-progress-2021.html
         -   Making a "webcam piano" with [howler.js](https://howlerjs.com/).
         -   Customize 3D sine game.
         -   Working on an "average face" sketch, combining different images.
+-   Basics of blockchain technology.
 -   [How to Publish an Open-Source Python Package to PyPI](https://realpython.com/pypi-publish-python-package/).
 -   Read Clean Code: smells and heuristics; refactoring; systems; classes; unit tests; error handling; formatting; comments; functions; names; concurrency programming.
 -   Read Clean Coder: Professionalism; saying no; saying yes; coding; test driven development; practicing.
