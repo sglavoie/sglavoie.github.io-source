@@ -31,13 +31,15 @@ save_as: learning-progress-2021.html
         -   Customize 3D sine game.
         -   Working on an "average face" sketch, combining different images.
 -   Basics of blockchain technology.
--   [How to Publish an Open-Source Python Package to PyPI](https://realpython.com/pypi-publish-python-package/).
+-   [Introduction to convolution](https://www.khanacademy.org/math/differential-equations/laplace-transform/convolution-integral/v/introduction-to-the-convolution).
+-   Learning how to use [Hasura](https://hasura.io/).
 -   Read Clean Code: smells and heuristics; refactoring; systems; classes; unit tests; error handling; formatting; comments; functions; names; concurrency programming.
 -   Read Clean Coder: Professionalism; saying no; saying yes; coding; test driven development; practicing.
+-   Review promises in JavaScript.
+-   Taking screenshots with Chrome developer tools.
 -   Using [Click](https://click.palletsprojects.com) to build command-line tools.
 -   Using [Kitty](https://github.com/kovidgoyal/kitty) terminal.
--   Taking screenshots with Chrome developer tools.
--   Learning how to use [Hasura](https://hasura.io/).
+-   [How to Publish an Open-Source Python Package to PyPI](https://realpython.com/pypi-publish-python-package/).
 
 ## January
 
