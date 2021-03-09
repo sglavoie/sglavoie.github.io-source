@@ -27,7 +27,7 @@ save_as: learning-progress-2021.html
         -   Writing a software proposal report.
         -   Writing a problem analysis.
     -   **Graphics Programming**
-        -   Making a "webcam piano" with [howler.js](https://howlerjs.com/).
+        -   Making a "webcam piano" with [howler.js](https://howlerjs.com/); integrating a music player with playlist.
         -   Customize 3D sine game.
         -   Working on an "average face" sketch, combining different images.
 -   Basics of blockchain technology.
