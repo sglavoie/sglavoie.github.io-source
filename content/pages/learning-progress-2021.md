@@ -34,8 +34,9 @@ save_as: learning-progress-2021.html
 -   [Introduction to convolution](https://www.khanacademy.org/math/differential-equations/laplace-transform/convolution-integral/v/introduction-to-the-convolution).
 -   Learning how to use [Hasura](https://hasura.io/).
 -   Read Clean Code: smells and heuristics; refactoring; systems; classes; unit tests; error handling; formatting; comments; functions; names; concurrency programming.
--   Read Clean Coder: Professionalism; saying no; saying yes; coding; test driven development; practicing.
+-   Read Clean Coder: Professionalism; saying no; saying yes; coding; test driven development; practicing; acceptance test.
 -   Review promises in JavaScript.
+-   Model checker: Alloy, ["Finding bugs without running or even looking at code"](https://www.youtube.com/watch?v=FvNRlE4E9QQ).
 -   Taking screenshots with Chrome developer tools.
 -   Using [Click](https://click.palletsprojects.com) to build command-line tools.
 -   Using [Kitty](https://github.com/kovidgoyal/kitty) terminal.
