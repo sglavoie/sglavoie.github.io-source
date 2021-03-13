@@ -23,11 +23,15 @@ save_as: learning-progress-2021.html
     -   **Graphics Programming**
         -   Making a "webcam piano" with [howler.js](https://howlerjs.com/); integrating a music player with playlist.
         -   Working on an "average face" sketch, combining different images.
--   Basics of blockchain technology.
--   Learning how to use [Hasura](https://hasura.io/).
--   Read Clean Coder: Professionalism; saying no; saying yes; coding; test driven development; practicing; acceptance test.
--   Review promises in JavaScript.
--   Model checker: Alloy, ["Finding bugs without running or even looking at code"](https://www.youtube.com/watch?v=FvNRlE4E9QQ).
+-   Misc:
+    -   Basics of blockchain technology.
+    -   Learning how to use [Hasura](https://hasura.io/).
+    -   Read Clean Coder: Professionalism; saying no; saying yes; coding; test driven development; practicing; acceptance test.
+    -   Model checker: Alloy, ["Finding bugs without running or even looking at code"](https://www.youtube.com/watch?v=FvNRlE4E9QQ).
+-   JavaScript:
+    -   Review promises.
+-   Python:
+    -   Passing context as decorators with [Click](https://click.palletsprojects.com/).
 
 ## February
 
