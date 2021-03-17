@@ -25,9 +25,10 @@ save_as: learning-progress-2021.html
         -   Working on an "average face" sketch, combining different images.
 -   Misc:
     -   Basics of blockchain technology.
+    -   Learning how to use [Docusaurus](https://v2.docusaurus.io/).
     -   Learning how to use [Hasura](https://hasura.io/).
-    -   Read Clean Coder: Professionalism; saying no; saying yes; coding; test driven development; practicing; acceptance test.
     -   Model checker: Alloy, ["Finding bugs without running or even looking at code"](https://www.youtube.com/watch?v=FvNRlE4E9QQ).
+    -   Read Clean Coder: Professionalism; saying no; saying yes; coding; test driven development; practicing; acceptance test.
 -   JavaScript:
     -   Review promises.
 -   Python:
