@@ -33,7 +33,7 @@ save_as: learning-progress-2021.html
 -   JavaScript:
     -   Review promises.
 -   Python:
-    -   Passing context as decorators with [Click](https://click.palletsprojects.com/).
+    -   Passing context as decorators with [Click](https://click.palletsprojects.com/); review decorators.
 
 ## February
 
