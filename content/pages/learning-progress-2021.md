@@ -15,6 +15,16 @@ save_as: learning-progress-2021.html
 > to stay a bit more humble. In the process, I hope you may find some
 > inspiration too.
 
+## April
+
+-   Misc:
+    -   Interactive components in Figma.
+    -   Learn about [Prefect](https://www.prefect.io).
+    -   Read Clean Coder: collaboration.
+    -   Software architecture: [designing a system](https://www.youtube.com/watch?v=FLtqAi7WNBY); [implementing a design](https://www.youtube.com/watch?v=6thjSbJcoUc); [class diagrams](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-class-diagram/).
+-   Python:
+    -   Passing context as decorators with [Click](https://click.palletsprojects.com/); review decorators.
+
 ## March
 
 -   University of London
@@ -28,12 +38,9 @@ save_as: learning-progress-2021.html
     -   Learning how to use [Docusaurus](https://v2.docusaurus.io/).
     -   Learning how to use [Hasura](https://hasura.io/).
     -   Model checker: Alloy, ["Finding bugs without running or even looking at code"](https://www.youtube.com/watch?v=FvNRlE4E9QQ).
-    -   Read Clean Coder: Professionalism; saying no; saying yes; coding; test driven development; practicing; acceptance test; testing strategies; time management; estimation; pressure; collaboration.
-    -   Interactive components in Figma.
+    -   Read Clean Coder: Professionalism; saying no; saying yes; coding; test driven development; practicing; acceptance test; testing strategies; time management; estimation; pressure.
 -   JavaScript:
     -   Review promises.
--   Python:
-    -   Passing context as decorators with [Click](https://click.palletsprojects.com/); review decorators.
 
 ## February
 
