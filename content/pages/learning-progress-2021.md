@@ -24,6 +24,8 @@ save_as: learning-progress-2021.html
     -   Software architecture: [designing a system](https://www.youtube.com/watch?v=FLtqAi7WNBY); [implementing a design](https://www.youtube.com/watch?v=6thjSbJcoUc); [class diagrams](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-class-diagram/).
 -   Python:
     -   Passing context as decorators with [Click](https://click.palletsprojects.com/); review decorators.
+    -   [functools `cache`](https://docs.python.org/3/library/functools.html) function.
+    -   [Dataclasses](https://www.youtube.com/watch?v=vBH6GRJ1REM).
 
 ## March
 
