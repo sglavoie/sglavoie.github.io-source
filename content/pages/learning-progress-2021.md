@@ -17,6 +17,13 @@ save_as: learning-progress-2021.html
 
 ## April
 
+-   University of London
+    -   **Computer Security**
+        -   Ethics in information security, security threats, types of malicious software, malware analysis and techniques.
+    -   **Databases, Networks and the Web**
+        -   Web application, web requests, three-tier web application architecture.
+    -   **Software Design and Development**
+        -   Introduction to modules, module coupling, cohesion and complexity (structural complexity, McCabe complexity measure, criteria for the evaluation of implemented architectures, sustainability evaluation of software architectures).
 -   Misc:
     -   Interactive components in Figma.
     -   Learn about [Prefect](https://www.prefect.io).
