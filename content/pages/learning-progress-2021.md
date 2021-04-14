@@ -19,9 +19,9 @@ save_as: learning-progress-2021.html
 
 -   University of London
     -   **Computer Security**
-        -   Ethics in information security, security threats, types of malicious software, malware analysis and techniques.
+        -   Ethics in information security, security threats, types of malicious software, malware analysis and techniques, passwords, social engineering; CIA (confidentiality, integrity, accessibility), attack surface and denial of service attack, DDOS, botnets, Mirai.
     -   **Databases, Networks and the Web**
-        -   Web application, web requests, three-tier web application architecture.
+        -   Web application, web requests, three-tier web application architecture, introduction to Node.js and Express, simple web servers.
     -   **Software Design and Development**
         -   Introduction to modules, module coupling, cohesion and complexity (structural complexity, McCabe complexity measure, criteria for the evaluation of implemented architectures, sustainability evaluation of software architectures).
 -   Misc:
