@@ -19,15 +19,15 @@ save_as: learning-progress-2021.html
 
 -   University of London
     -   **Computer Security**
-        -   Ethics in information security, security threats, types of malicious software, malware analysis and techniques, passwords, social engineering; CIA (confidentiality, integrity, accessibility), attack surface and denial of service attack, DDOS, botnets, Mirai.
+        -   Ethics in information security, security threats, types of malicious software, malware analysis and techniques, passwords, social engineering; CIA (confidentiality, integrity, accessibility), attack surface and denial of service attack, DDOS, botnets, Mirai, WiFi attack vectors, firewalls, intrusion detection systems, operating systems.
     -   **Databases, Networks and the Web**
-        -   Web application, web requests, three-tier web application architecture, introduction to Node.js and Express, simple web servers.
+        -   Web application, web requests, three-tier web application architecture, introduction to Node.js and Express, simple web servers, web hosting.
     -   **Software Design and Development**
         -   Introduction to modules, module coupling, cohesion and complexity (structural complexity, McCabe complexity measure, criteria for the evaluation of implemented architectures, sustainability evaluation of software architectures).
 -   Misc:
     -   Interactive components in Figma.
     -   Learn about [Prefect](https://www.prefect.io).
-    -   Read Clean Coder: collaboration.
+    -   Read Clean Coder: collaboration; teams and projects; mentoring.
     -   Software architecture: [designing a system](https://www.youtube.com/watch?v=FLtqAi7WNBY); [implementing a design](https://www.youtube.com/watch?v=6thjSbJcoUc); [class diagrams](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-class-diagram/).
 -   Python:
     -   Passing context as decorators with [Click](https://click.palletsprojects.com/); review decorators.
