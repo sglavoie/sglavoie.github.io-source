@@ -23,7 +23,7 @@ save_as: learning-progress-2021.html
     -   **Databases, Networks and the Web**
         -   Web application, web requests, three-tier web application architecture, introduction to Node.js and Express, simple web servers, web hosting.
     -   **Software Design and Development**
-        -   Introduction to modules, module coupling, cohesion and complexity (structural complexity, McCabe complexity measure, criteria for the evaluation of implemented architectures, sustainability evaluation of software architectures), JavaScript (scope, const).
+        -   Introduction to modules, module coupling, cohesion and complexity (structural complexity, McCabe complexity measure, criteria for the evaluation of implemented architectures, sustainability evaluation of software architectures), JavaScript (scope, const), unit testing workflow with Python's `unittest`.
 -   Misc:
     -   Git worktrees.
     -   Interactive components in Figma.
