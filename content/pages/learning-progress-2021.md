@@ -23,13 +23,14 @@ save_as: learning-progress-2021.html
     -   **Databases, Networks and the Web**
         -   Web application, web requests, three-tier web application architecture, introduction to Node.js and Express, simple web servers, web hosting, separation of concerns, templating engines.
     -   **Software Design and Development**
-        -   Introduction to modules, module coupling, cohesion and complexity (structural complexity, McCabe complexity measure, criteria for the evaluation of implemented architectures, sustainability evaluation of software architectures), JavaScript (scope, const), unit testing workflow with Python's `unittest`, C++ primer, intro to `cppunit`, physics engine, intro to [Mocha](https://mochajs.org/).
+        -   Introduction to modules, module coupling, cohesion and complexity (structural complexity, McCabe complexity measure, criteria for the evaluation of implemented architectures, sustainability evaluation of software architectures), JavaScript (scope, const), unit testing workflow with Python's `unittest`, C++ primer, intro to `cppunit`, physics engine, intro to [Mocha](https://mochajs.org/), RESTful web APIs, assertions.
 -   Misc:
-    -   [Database paradigms](https://www.youtube.com/watch?v=W2Z7fbCLSTw).
-    -   How to use [Read the Docs](https://readthedocs.org/).
+    -   Getting started with LaTeX in [Overleaf](https://www.overleaf.com).
     -   Git worktrees.
+    -   How to use [Read the Docs](https://readthedocs.org/).
     -   Interactive components in Figma.
     -   Learn about [Prefect](https://www.prefect.io).
+    -   [Database paradigms](https://www.youtube.com/watch?v=W2Z7fbCLSTw).
     -   Read Clean Coder: collaboration; teams and projects; mentoring.
     -   Software architecture: [designing a system](https://www.youtube.com/watch?v=FLtqAi7WNBY); [implementing a design](https://www.youtube.com/watch?v=6thjSbJcoUc); [class diagrams](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-class-diagram/).
 -   Python:
