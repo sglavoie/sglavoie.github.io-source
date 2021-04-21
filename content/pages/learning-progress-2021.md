@@ -19,11 +19,14 @@ save_as: learning-progress-2021.html
 
 -   University of London
     -   **Computer Security**
-        -   Ethics in information security, security threats, types of malicious software, malware analysis and techniques, passwords, social engineering; CIA (confidentiality, integrity, accessibility), attack surface and denial of service attack, DDOS, botnets, Mirai, WiFi attack vectors, firewalls, intrusion detection systems, operating systems, file system and directory structure, Windows security, hardening Linux systems, Android attack surface, virtualised and containerised operating systems, intro to cryptography (symmetric, asymmetric, basic encryption techniques, transposition cipher, Playfair substitution, Vigenere), intro to RSA, modular arithmetic.
+        -   Ethics in information security, security threats, types of malicious software, malware analysis and techniques, passwords, social engineering, CIA (confidentiality, integrity, accessibility), attack surface and denial of service attack, DDOS, botnets, Mirai, WiFi attack vectors, firewalls, intrusion detection systems;
+        -   Operating systems, file system and directory structure, Windows security, hardening Linux systems, Android attack surface, virtualised and containerised operating systems;
+        -   Intro to cryptography (symmetric, asymmetric, basic encryption techniques, transposition cipher, Playfair substitution, Vigenere), intro to RSA (including Fermat's last theorem, Fermat's little theorem), modular arithmetic.
     -   **Databases, Networks and the Web**
         -   Web application, web requests, three-tier web application architecture, introduction to Node.js and Express, simple web servers, web hosting, separation of concerns, templating engines.
     -   **Software Design and Development**
-        -   Introduction to modules, module coupling, cohesion and complexity (structural complexity, McCabe complexity measure, criteria for the evaluation of implemented architectures, sustainability evaluation of software architectures), JavaScript (scope, const), unit testing workflow with Python's `unittest`, C++ primer, intro to `cppunit`, physics engine, intro to [Mocha](https://mochajs.org/), RESTful web APIs, assertions.
+        -   Introduction to modules, module coupling, cohesion and complexity (structural complexity, McCabe complexity measure, criteria for the evaluation of implemented architectures, sustainability evaluation of software architectures), JavaScript (scope, const);
+        -   Unit testing workflow with Python's `unittest`, C++ primer, intro to `cppunit`, physics engine, intro to [Mocha](https://mochajs.org/), RESTful web APIs, assertions, secure programming.
 -   Misc:
     -   Getting started with LaTeX in [Overleaf](https://www.overleaf.com).
     -   Git worktrees.
@@ -32,6 +35,7 @@ save_as: learning-progress-2021.html
     -   Learn about [Prefect](https://www.prefect.io).
     -   [Database paradigms](https://www.youtube.com/watch?v=W2Z7fbCLSTw).
     -   Read Clean Coder: collaboration; teams and projects; mentoring.
+    -   Read Code Complete: Metaphors for a Richer Understanding of Software Development.
     -   Software architecture: [designing a system](https://www.youtube.com/watch?v=FLtqAi7WNBY); [implementing a design](https://www.youtube.com/watch?v=6thjSbJcoUc); [class diagrams](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-class-diagram/).
 -   Python:
     -   Passing context as decorators with [Click](https://click.palletsprojects.com/); review decorators.
