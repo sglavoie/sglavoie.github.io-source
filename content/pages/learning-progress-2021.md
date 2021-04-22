@@ -23,7 +23,7 @@ save_as: learning-progress-2021.html
         -   Operating systems, file system and directory structure, Windows security, hardening Linux systems, Android attack surface, virtualised and containerised operating systems;
         -   Intro to cryptography (symmetric, asymmetric, basic encryption techniques, transposition cipher, Playfair substitution, Vigenere), intro to RSA (including Fermat's last theorem, Fermat's little theorem), modular arithmetic.
     -   **Databases, Networks and the Web**
-        -   Web application, web requests, three-tier web application architecture, introduction to Node.js and Express, simple web servers, web hosting, separation of concerns, templating engines.
+        -   Web application, web requests, three-tier web application architecture, introduction to Node.js and Express, simple web servers, web hosting, separation of concerns, templating engines, GET and POST request methods.
     -   **Software Design and Development**
         -   Introduction to modules, module coupling, cohesion and complexity (structural complexity, McCabe complexity measure, criteria for the evaluation of implemented architectures, sustainability evaluation of software architectures), JavaScript (scope, const);
         -   Unit testing workflow with Python's `unittest`, C++ primer, intro to `cppunit`, physics engine, intro to [Mocha](https://mochajs.org/), RESTful web APIs, assertions, secure programming.
@@ -36,6 +36,7 @@ save_as: learning-progress-2021.html
     -   [Database paradigms](https://www.youtube.com/watch?v=W2Z7fbCLSTw).
     -   Read Clean Coder: collaboration; teams and projects; mentoring.
     -   Read Code Complete: Metaphors for a Richer Understanding of Software Development.
+    -   Review [SQL concepts](https://www.youtube.com/watch?v=HXV3zeQKqGY), [SQL tutorial](https://www.sqltutorial.org).
     -   Software architecture: [designing a system](https://www.youtube.com/watch?v=FLtqAi7WNBY); [implementing a design](https://www.youtube.com/watch?v=6thjSbJcoUc); [class diagrams](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-class-diagram/).
 -   Python:
     -   Passing context as decorators with [Click](https://click.palletsprojects.com/); review decorators.
