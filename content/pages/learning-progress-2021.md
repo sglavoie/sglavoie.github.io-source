@@ -39,6 +39,8 @@ save_as: learning-progress-2021.html
     -   Read Code Complete: Metaphors for a Richer Understanding of Software Development.
     -   Review [SQL concepts](https://www.youtube.com/watch?v=HXV3zeQKqGY), [SQL tutorial](https://www.sqltutorial.org).
     -   Software architecture: [designing a system](https://www.youtube.com/watch?v=FLtqAi7WNBY); [implementing a design](https://www.youtube.com/watch?v=6thjSbJcoUc); [class diagrams](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-class-diagram/).
+-   JavaScript:
+    -   Query selectors.
 -   Python:
     -   Passing context as decorators with [Click](https://click.palletsprojects.com/); review decorators.
     -   [functools `cache`](https://docs.python.org/3/library/functools.html) function.
