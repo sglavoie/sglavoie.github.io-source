@@ -23,14 +23,15 @@ save_as: learning-progress-2021.html
         -   Operating systems, file system and directory structure, Windows security, hardening Linux systems, Android attack surface, virtualised and containerised operating systems;
         -   Intro to cryptography (symmetric, asymmetric, basic encryption techniques, transposition cipher, Playfair substitution, Vigenere), intro to RSA (including Fermat's last theorem, Fermat's little theorem), modular arithmetic.
         -   Hashing, hash tables, cryptographic hash functions.
-        -   Intro to Bitcoin.
+        -   Intro to Bitcoin; blockchain protocol; double spending problem; immutability of the blockchain.
     -   **Databases, Networks and the Web**
         -   Web application, web requests, three-tier web application architecture, introduction to Node.js and Express, simple web servers, web hosting, separation of concerns, templating engines, GET and POST request methods.
+        -   Introduction to databases; lists of data; intro to relational databases.
     -   **Software Design and Development**
         -   Introduction to modules, module coupling, cohesion and complexity (structural complexity, McCabe complexity measure, criteria for the evaluation of implemented architectures, sustainability evaluation of software architectures), JavaScript (scope, const);
         -   Unit testing workflow with Python's `unittest`, C++ primer, intro to `cppunit`, physics engine, intro to [Mocha](https://mochajs.org/), RESTful web APIs, assertions.
-        -   Secure programming; Bandit static analysis in Python, exception handling.
-        -   Debuggers.
+        -   Secure programming; Bandit static analysis in Python; exception handling; debuggers.
+        -   Requirements techniques (natural language, UML, simplified technical English, Z mathematical language); EARS (Easy Approach to Requirements Syntax); black box and white box testing.
 -   Misc:
     -   Getting started with LaTeX in [Overleaf](https://www.overleaf.com).
     -   Git worktrees.
