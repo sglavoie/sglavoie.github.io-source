@@ -24,7 +24,7 @@ save_as: learning-progress-2021.html
         -   Intro to cryptography (symmetric, asymmetric, basic encryption techniques, transposition cipher, Playfair substitution, Vigenere), intro to RSA (including Fermat's last theorem, Fermat's little theorem), modular arithmetic.
         -   Hashing, hash tables, cryptographic hash functions.
         -   Intro to Bitcoin; blockchain protocol; double spending problem; immutability of the blockchain; data on the blockchain; introduction to Ethereum; IPFS; Filecoin.
-        -   Security policies & military security policy; Clark-Wilson security policy; Chinese Wall security policy.
+        -   Security policies & military security policy; Clark-Wilson security policy; Chinese Wall security policy; BellLa Padula model; Biba model; Graham Denning model.
     -   **Databases, Networks and the Web**
         -   Web application, web requests, three-tier web application architecture, introduction to Node.js and Express, simple web servers, web hosting, separation of concerns, templating engines, GET and POST request methods.
         -   Introduction to databases; lists of data; intro to relational databases; MySQL databases; basic SQL; primary keys.
@@ -34,6 +34,9 @@ save_as: learning-progress-2021.html
         -   Secure programming; Bandit static analysis in Python; exception handling; debuggers.
         -   Requirements techniques (natural language, UML, simplified technical English, Z mathematical language); EARS (Easy Approach to Requirements Syntax); black box and white box testing; test procedure specification; automated black box testing; usability testing; usability metrics; usability principles; accessibility testing.
         -   Git: design goals; basic operations; branching and merging; git log; ungit.
+-   Articles:
+    -   [Why You Shouldn’t Use “Markdown” for Documentation](https://www.ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs/).
+    -   [reStructuredText Primer](https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html).
 -   Misc:
     -   Getting started with LaTeX in [Overleaf](https://www.overleaf.com).
     -   Git worktrees.
