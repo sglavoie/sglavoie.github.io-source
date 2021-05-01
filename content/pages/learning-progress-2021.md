@@ -54,6 +54,7 @@ save_as: learning-progress-2021.html
     -   Passing context as decorators with [Click](https://click.palletsprojects.com/); review decorators.
     -   [functools `cache`](https://docs.python.org/3/library/functools.html) function.
     -   [Dataclasses](https://www.youtube.com/watch?v=vBH6GRJ1REM).
+-   [UML Diagrams](https://www.youtube.com/watch?v=WnMQ8HlmeXc).
 
 ## March
 
