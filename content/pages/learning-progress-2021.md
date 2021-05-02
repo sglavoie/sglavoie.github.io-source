@@ -15,6 +15,14 @@ save_as: learning-progress-2021.html
 > to stay a bit more humble. In the process, I hope you may find some
 > inspiration too.
 
+## May
+
+-   Misc:
+    -   Read Code Complete: Upstream Prerequisites.
+-   YouTube:
+    -   [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+    -   [UML Diagrams](https://www.youtube.com/watch?v=WnMQ8HlmeXc).
+
 ## April
 
 -   University of London
@@ -45,7 +53,7 @@ save_as: learning-progress-2021.html
     -   Learn about [Prefect](https://www.prefect.io).
     -   [Database paradigms](https://www.youtube.com/watch?v=W2Z7fbCLSTw).
     -   Read Clean Coder: collaboration; teams and projects; mentoring.
-    -   Read Code Complete: Metaphors for a Richer Understanding of Software Development.
+    -   Read Code Complete: Metaphors for a Richer Understanding of Software Development; Upstream Prerequisites.
     -   Review [SQL concepts](https://www.youtube.com/watch?v=HXV3zeQKqGY), [SQL tutorial](https://www.sqltutorial.org).
     -   Software architecture: [designing a system](https://www.youtube.com/watch?v=FLtqAi7WNBY); [implementing a design](https://www.youtube.com/watch?v=6thjSbJcoUc); [class diagrams](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-class-diagram/).
 -   JavaScript:
