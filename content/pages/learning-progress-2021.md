@@ -21,6 +21,7 @@ save_as: learning-progress-2021.html
     -   Read Code Complete: Upstream Prerequisites.
 -   YouTube:
     -   [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+    -   [Design Patterns in Plain English - Mosh Hamedani](https://www.youtube.com/watch?v=NU_1StN5Tkk)
     -   [UML Diagrams](https://www.youtube.com/watch?v=WnMQ8HlmeXc).
 
 ## April
