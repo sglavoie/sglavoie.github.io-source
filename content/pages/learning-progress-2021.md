@@ -17,6 +17,9 @@ save_as: learning-progress-2021.html
 
 ## May
 
+-   University of London
+    -   **Software Design and Development**
+        -   Criteria for the evaluation of implemented architectures, module coupling.
 -   Misc:
     -   Read Code Complete: Upstream Prerequisites.
 -   YouTube:
