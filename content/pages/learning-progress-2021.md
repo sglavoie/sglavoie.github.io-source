@@ -18,8 +18,10 @@ save_as: learning-progress-2021.html
 ## May
 
 -   University of London
+    -   **Databases, Networks and the Web**
+        -   Passing variables to templates and backend.
     -   **Software Design and Development**
-        -   Criteria for the evaluation of implemented architectures, module coupling.
+        -   Criteria for the evaluation of implemented architectures, module coupling; module cohesion.
 -   Misc:
     -   Read Code Complete: Upstream Prerequisites.
 -   YouTube:
