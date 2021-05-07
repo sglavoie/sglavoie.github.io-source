@@ -18,15 +18,21 @@ save_as: learning-progress-2021.html
 ## May
 
 -   University of London
+    -   **Computer Security**
+        -   Software backdoors; sabotage; intellectual property; entitlement to privacy, rights and freedom.
     -   **Databases, Networks and the Web**
         -   Passing variables to templates and backend.
     -   **Software Design and Development**
         -   Criteria for the evaluation of implemented architectures, module coupling; module cohesion.
--   Misc:
-    -   Read Code Complete: Upstream Prerequisites.
+-   Articles:
+    -   [A beginner’s guide to writing documentation](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/).
+    -   [An introduction to Sphinx and Read the Docs for Technical Writers](https://www.ericholscher.com/blog/2016/jul/1/sphinx-and-rtd-for-writers/).
+-   Books:
+    -   Code Complete: Upstream Prerequisites.
 -   YouTube:
     -   [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
     -   [Design Patterns in Plain English - Mosh Hamedani](https://www.youtube.com/watch?v=NU_1StN5Tkk)
+    -   [Efficient Exponentiation](https://www.youtube.com/watch?v=BfNlzdFa_a4).
     -   [UML Diagrams](https://www.youtube.com/watch?v=WnMQ8HlmeXc).
 
 ## April
