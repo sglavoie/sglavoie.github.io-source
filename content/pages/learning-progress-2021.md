@@ -22,6 +22,7 @@ save_as: learning-progress-2021.html
         -   Software backdoors; sabotage; intellectual property; entitlement to privacy, rights and freedom.
     -   **Databases, Networks and the Web**
         -   Passing variables to templates and backend.
+        -   [Web Server Concepts and Examples](https://www.youtube.com/watch?v=9J1nJOivdyw).
     -   **Software Design and Development**
         -   Criteria for the evaluation of implemented architectures, module coupling; module cohesion.
 -   Articles:
@@ -32,8 +33,10 @@ save_as: learning-progress-2021.html
 -   YouTube:
     -   [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
     -   [Design Patterns in Plain English - Mosh Hamedani](https://www.youtube.com/watch?v=NU_1StN5Tkk)
-    -   [Efficient Exponentiation](https://www.youtube.com/watch?v=BfNlzdFa_a4).
-    -   [UML Diagrams](https://www.youtube.com/watch?v=WnMQ8HlmeXc).
+    -   [Docker Explained](https://www.youtube.com/watch?v=WoZobj2Ruj0)
+    -   [Efficient Exponentiation](https://www.youtube.com/watch?v=BfNlzdFa_a4)
+    -   [Google Apps Script](https://www.youtube.com/watch?v=OFuaoeq7gSw)
+    -   [UML Diagrams](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
 
 ## April
 
