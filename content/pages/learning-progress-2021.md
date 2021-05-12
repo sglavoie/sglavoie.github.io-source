@@ -19,7 +19,7 @@ save_as: learning-progress-2021.html
 
 -   University of London
     -   **Computer Security**
-        -   Software backdoors; sabotage; intellectual property; entitlement to privacy, rights and freedom.
+        -   Software backdoors; sabotage; intellectual property; entitlement to privacy, rights and freedom; trifid cipher; transposition cipher.
     -   **Databases, Networks and the Web**
         -   Passing variables to templates and backend.
         -   [Web Server Concepts and Examples](https://www.youtube.com/watch?v=9J1nJOivdyw).
