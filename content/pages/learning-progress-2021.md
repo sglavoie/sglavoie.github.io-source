@@ -19,10 +19,11 @@ save_as: learning-progress-2021.html
 
 -   University of London
     -   **Computer Security**
-        -   Software backdoors; sabotage; intellectual property; entitlement to privacy, rights and freedom; trifid cipher; transposition cipher.
+        -   Software backdoors; sabotage; intellectual property; entitlement to privacy, rights and freedom; trifid cipher; transposition cipher; ethics in information security.
     -   **Databases, Networks and the Web**
         -   Passing variables to templates and backend.
         -   [Web Server Concepts and Examples](https://www.youtube.com/watch?v=9J1nJOivdyw).
+        -   Dynamic web applications.
     -   **Software Design and Development**
         -   Criteria for the evaluation of implemented architectures; module coupling; module cohesion; language features (modularity, unit testing, assertions, exception handling, security); testing; test-driven development; defensive programming.
 -   Articles:
