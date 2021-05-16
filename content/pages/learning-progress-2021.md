@@ -24,6 +24,7 @@ save_as: learning-progress-2021.html
         -   Passing variables to templates and backend.
         -   [Web Server Concepts and Examples](https://www.youtube.com/watch?v=9J1nJOivdyw).
         -   Dynamic web applications.
+        -   Database schema, ER diagram.
     -   **Software Design and Development**
         -   Criteria for the evaluation of implemented architectures; module coupling; module cohesion; language features (modularity, unit testing, assertions, exception handling, security); testing; test-driven development; defensive programming; security engineering.
 -   Articles:
