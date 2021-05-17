@@ -24,7 +24,7 @@ save_as: learning-progress-2021.html
         -   Passing variables to templates and backend.
         -   [Web Server Concepts and Examples](https://www.youtube.com/watch?v=9J1nJOivdyw).
         -   Dynamic web applications.
-        -   Database schema, ER diagram.
+        -   Database schema, ER diagram; foreign keys and SQL join; aggregate functions in MySQL; left and right joins.
     -   **Software Design and Development**
         -   Criteria for the evaluation of implemented architectures; module coupling; module cohesion; language features (modularity, unit testing, assertions, exception handling, security); testing; test-driven development; defensive programming; security engineering.
 -   Articles:
@@ -34,6 +34,7 @@ save_as: learning-progress-2021.html
     -   [Sphinx Overview](https://www.sphinx-doc.org/en/master/)
 -   Books:
     -   Code Complete: Upstream Prerequisites.
+    -   Practical LaTeX: Mission Impossible.
 -   YouTube:
     -   [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
     -   [Design Patterns in Plain English - Mosh Hamedani](https://www.youtube.com/watch?v=NU_1StN5Tkk)
