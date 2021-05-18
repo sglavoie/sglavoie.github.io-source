@@ -33,9 +33,9 @@ save_as: learning-progress-2021.html
     -   [Parsing XML](https://diveintopython3.net/xml.html)
     -   [Sphinx Overview](https://www.sphinx-doc.org/en/master/)
 -   Books:
-    -   Code Complete: Upstream Prerequisites.
-    -   Practical LaTeX: Mission Impossible.
-    -   Don't Make Me Think, Revisited (Steve Krug): Guiding Principles.
+    -   Code Complete (by Steve McConnell): Upstream Prerequisites.
+    -   Practical LaTeX (by George Grätzer): Mission Impossible.
+    -   Don't Make Me Think, Revisited (by Steve Krug): Guiding Principles.
 -   YouTube:
     -   [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
     -   [Design Patterns in Plain English - Mosh Hamedani](https://www.youtube.com/watch?v=NU_1StN5Tkk)
@@ -66,6 +66,9 @@ save_as: learning-progress-2021.html
 -   Articles:
     -   [Why You Shouldn’t Use “Markdown” for Documentation](https://www.ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs/).
     -   [reStructuredText Primer](https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html).
+-   Books:
+    -   Code Complete (by Steve McConnell): Metaphors for a Richer Understanding of Software Development; Upstream Prerequisites.
+    -   Clean Coder (by Robert C. Martin): collaboration; teams and projects; mentoring.
 -   Misc:
     -   Getting started with LaTeX in [Overleaf](https://www.overleaf.com).
     -   Git worktrees.
@@ -73,8 +76,6 @@ save_as: learning-progress-2021.html
     -   Interactive components in Figma.
     -   Learn about [Prefect](https://www.prefect.io).
     -   [Database paradigms](https://www.youtube.com/watch?v=W2Z7fbCLSTw).
-    -   Read Clean Coder: collaboration; teams and projects; mentoring.
-    -   Read Code Complete: Metaphors for a Richer Understanding of Software Development; Upstream Prerequisites.
     -   Review [SQL concepts](https://www.youtube.com/watch?v=HXV3zeQKqGY), [SQL tutorial](https://www.sqltutorial.org).
     -   Software architecture: [designing a system](https://www.youtube.com/watch?v=FLtqAi7WNBY); [implementing a design](https://www.youtube.com/watch?v=6thjSbJcoUc); [class diagrams](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-class-diagram/).
 -   JavaScript:
@@ -93,12 +94,13 @@ save_as: learning-progress-2021.html
     -   **Graphics Programming**
         -   Making a "webcam piano" with [howler.js](https://howlerjs.com/); integrating a music player with playlist.
         -   Working on an "average face" sketch, combining different images.
+-   Books:
+    -   Clean Coder (by Robert C. Martin): Professionalism; saying no; saying yes; coding; test driven development; practicing; acceptance test; testing strategies; time management; estimation; pressure.
 -   Misc:
     -   Basics of blockchain technology, Web Assembly (WASM), GraphQL.
     -   Learning how to use [Docusaurus](https://v2.docusaurus.io/).
     -   Learning how to use [Hasura](https://hasura.io/).
     -   Model checker: Alloy, ["Finding bugs without running or even looking at code"](https://www.youtube.com/watch?v=FvNRlE4E9QQ).
-    -   Read Clean Coder: Professionalism; saying no; saying yes; coding; test driven development; practicing; acceptance test; testing strategies; time management; estimation; pressure.
 -   JavaScript:
     -   Review promises.
 
@@ -118,8 +120,9 @@ save_as: learning-progress-2021.html
         -   Customize 3D sine game.
         -   Working on an "average face" sketch, combining different images.
 -   [Introduction to convolution](https://www.khanacademy.org/math/differential-equations/laplace-transform/convolution-integral/v/introduction-to-the-convolution).
--   Read Clean Code: smells and heuristics; refactoring; systems; classes; unit tests; error handling; formatting; comments; functions; names; concurrency programming.
--   Read Clean Coder: Professionalism; saying no; saying yes; coding; test driven development.
+-   Books:
+    -   Clean Code: smells and heuristics; refactoring; systems; classes; unit tests; error handling; formatting; comments; functions; names; concurrency programming.
+    -   Clean Coder (by Robert C. Martin): Professionalism; saying no; saying yes; coding; test driven development.
 -   Taking screenshots with Chrome developer tools.
 -   Using [Click](https://click.palletsprojects.com) to build command-line tools.
 -   Using [Kitty](https://github.com/kovidgoyal/kitty) terminal.
