@@ -17,7 +17,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #ffffff;
-    color: #4d4d4d;
+    color: black;
     font-family: 'PT Sans', sans-serif;
     font-size: 18px;
 }
@@ -25,11 +25,16 @@ body {
 a {
     color: #000000;
     text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
 }
 
 hr {
-    color: #eeeeee;
-    background-color: #eeeeee;
+    color: #007bff;
+    background-color: #007bff;
     height: 1px;
     border: none;
     margin: auto 0.25em;
@@ -81,7 +86,7 @@ aside div#user_meta ul li {
 
 aside div#user_meta ul li a {
     padding: 5px 15px 5px 15px;
-    border: 3px solid #eeeeee;
+    border: 3px solid #007bff;
     border-radius: 15px;
     -moz-border-radius: 15px;
     -webkit-border-radius: 15px;
@@ -90,15 +95,17 @@ aside div#user_meta ul li a {
 
 main header {
     padding: 40px;
-    border-top: #eeeeee 1px solid;
-    border-bottom: #eeeeee 1px solid;
+    border-top: #007bff 1px solid;
+    border-bottom: #007bff 1px solid;
     margin: auto 0.25em;
 }
 
 main header p {
     font-weight: bold;
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #007bff;
 }
 
 main article {
@@ -114,19 +121,23 @@ main article div.article_text a {
     text-decoration: underline;
 }
 
+main article div.article_text a:hover {
+    text-decoration: none;
+}
+
 main article div.article_text code {
-    margin: 2px;
+    margin: 0;
     padding: 0;
     color: #000000;
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     font-family: 'PT Mono', monospace;
     background: #eeeeee;
-    line-height: 1.2;
+    line-height: 1.4;
 }
 
 main article div.article_text pre {
     margin: 22px 2px 22px 2px;
-    padding: 2px;
+    padding: 6px;
     color: #000000;
     border-left: 3px solid #005790;
     font-size: 0.8rem;
@@ -144,7 +155,7 @@ main article div.article_text blockquote {
 }
 
 main article div.article_text div.quoteblock {
-    border-left: 5px solid #eeeeee;
+    border-left: 5px solid #007bff;
     color: #000864;
     margin-bottom: 1.5em;
     margin-left: 1em;
@@ -159,13 +170,14 @@ main article div.article_text div.quoteblock > div.attribution {
 }
 
 main article div.article_text dt {
-  font-weight: bold;
-  margin-bottom: 0.25em;
+    font-weight: bold;
+    margin-bottom: 0.25em;
+    color: #007bff;
 }
 
 main article div.article_text dd {
-  margin-inline-start: 15px;
-  margin-bottom: 2em;
+    margin-inline-start: 15px;
+    margin-bottom: 2em;
 }
 
 main article div.gist {
@@ -175,7 +187,8 @@ main article div.gist {
 main article div.article_meta,
 div.article_readtime {
     font-size: 0.9rem;
-    color: #000;
+    color: #007bff;
+    font-weight: bold;
 }
 
 main article div.article_text ul {
@@ -183,19 +196,19 @@ main article div.article_text ul {
 }
 
 main footer {
-    border-top: #eeeeee 1px solid;
+    border-top: #007bff 1px solid;
     padding: 40px;
     margin: auto 0.25em;
 }
 
 main footer a.button_accent {
     padding: 8px;
-    border: 2px solid #005790;
-    border-radius: 20px;
-    -moz-border-radius: 20px;
-    -webkit-border-radius: 20px;
+    border-radius: 8px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
     text-transform: uppercase;
-    color: #005790;
+    color: white;
+    background-color: #005790;
     font-size: 1rem;
 }
 
@@ -215,7 +228,7 @@ div.space-out {
 }
 
 main div#ending_message {
-    border-top: #eeeeee 1px solid;
+    border-top: #007bff 1px solid;
     padding: 0 40px 0 40px;
     color: #000864;
     font-size: 0.8rem;
@@ -239,7 +252,6 @@ main div#ending_message {
         position: fixed;
         top: 0;
         left: 0;
-        border-right: #eeeeee 1px solid;
     }
     aside h2 {
         margin: 10px 0 0 0;
@@ -260,10 +272,11 @@ main div#ending_message {
         overflow-y: hidden;
     }
     main article {
-        max-width: 75%;
+        max-width: 80%;
     }
     main header {
         border-top: 0;
+        padding: 20px 40px 20px 40px;
     }
     div.space-out {
         margin: 0 1em 0 0;
@@ -276,6 +289,7 @@ main div#ending_message {
 
 table {
     padding: 0;
+    margin-bottom: 1em;
 }
 
 table tr {
@@ -314,4 +328,9 @@ table tr td :first-child {
 table tr th :last-child,
 table tr td :last-child {
     margin-bottom: 0;
+}
+
+strong,
+em {
+    color: #007bff;
 }
