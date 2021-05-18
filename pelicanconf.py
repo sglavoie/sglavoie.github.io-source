@@ -5,6 +5,8 @@ from __future__ import unicode_literals
 
 from pelican import __version__
 
+from datetime import datetime
+
 PELICAN_VERSION = __version__
 
 # Pelican-specific settings
@@ -18,6 +20,11 @@ DEFAULT_PAGINATION = 5
 USE_FOLDER_AS_CATEGORY = True
 DEFAULT_CATEGORY = "misc"
 DISPLAY_CATEGORIES_ON_MENU = True
+
+# Allows to automatically update to today's date for a page that does not
+# specify a date
+t = datetime.today()
+DEFAULT_DATE = (t.year, t.month, t.day, t.hour, t.minute, t.second)
 
 TYPOGRIFY = True
 

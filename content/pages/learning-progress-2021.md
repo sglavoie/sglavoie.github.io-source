@@ -1,5 +1,4 @@
 Title: Learning Progress 2021
-Date: 2021-01-01 10:36
 Slug: learning-progress-2021
 Authors: Sébastien Lavoie
 URL: learning-progress-2021.html

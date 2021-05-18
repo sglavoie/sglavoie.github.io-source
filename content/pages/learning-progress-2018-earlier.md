@@ -1,5 +1,5 @@
 Title: Learning Progress 2018 and Earlier
-Date: 2019-05-15 19:14
+Date: 2019-12-31 19:14
 Slug: learning-progress-2018-earlier
 Authors: Sébastien Lavoie
 URL:

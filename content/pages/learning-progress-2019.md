@@ -1,5 +1,5 @@
 Title: Learning Progress 2019
-Date: 2018-12-10 14:24
+Date: 2018-12-30 14:24
 Slug: learning-progress-2019
 Authors: Sébastien Lavoie
 URL: learning-progress-2019.html
