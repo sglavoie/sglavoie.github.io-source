@@ -24,6 +24,7 @@ save_as: learning-progress-2021.html
         -   [Web Server Concepts and Examples](https://www.youtube.com/watch?v=9J1nJOivdyw).
         -   Dynamic web applications.
         -   Database schema, ER diagram; foreign keys and SQL join; aggregate functions in MySQL; left and right joins.
+        -   Packet switching.
     -   **Software Design and Development**
         -   Criteria for the evaluation of implemented architectures; module coupling; module cohesion; language features (modularity, unit testing, assertions, exception handling, security); testing; test-driven development; defensive programming; security engineering.
 -   Articles:
@@ -34,6 +35,7 @@ save_as: learning-progress-2021.html
 -   Books:
     -   Code Complete: Upstream Prerequisites.
     -   Practical LaTeX: Mission Impossible.
+    -   Don't Make Me Think, Revisited (Steve Krug): Guiding Principles.
 -   YouTube:
     -   [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
     -   [Design Patterns in Plain English - Mosh Hamedani](https://www.youtube.com/watch?v=NU_1StN5Tkk)
