@@ -24,7 +24,7 @@ save_as: learning-progress-2021.html
         -   [Web Server Concepts and Examples](https://www.youtube.com/watch?v=9J1nJOivdyw).
         -   Dynamic web applications.
         -   Database schema, ER diagram; foreign keys and SQL join; aggregate functions in MySQL; left and right joins.
-        -   Packet switching.
+        -   Packet switching; TCP/IP model; internet protocol stack; transport layer; network layer; link layer.
     -   **Software Design and Development**
         -   Criteria for the evaluation of implemented architectures; module coupling; module cohesion; language features (modularity, unit testing, assertions, exception handling, security); testing; test-driven development; defensive programming; security engineering.
 -   Articles:
