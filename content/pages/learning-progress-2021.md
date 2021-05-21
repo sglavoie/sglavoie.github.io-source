@@ -34,7 +34,7 @@ save_as: learning-progress-2021.html
     -   [Sphinx Overview](https://www.sphinx-doc.org/en/master/)
 -   Books:
     -   Code Complete (by Steve McConnell): Upstream Prerequisites.
-    -   Practical LaTeX (by George Grätzer): Mission Impossible.
+    -   Practical LaTeX (by George Grätzer): Mission Impossible; text.
     -   Don't Make Me Think, Revisited (by Steve Krug): Guiding Principles.
 -   YouTube:
     -   [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
@@ -43,6 +43,7 @@ save_as: learning-progress-2021.html
     -   [Efficient Exponentiation](https://www.youtube.com/watch?v=BfNlzdFa_a4)
     -   [Google Apps Script](https://www.youtube.com/watch?v=OFuaoeq7gSw)
     -   [UML Diagrams](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
+    -   New in Python 3.10, [part 1](https://www.youtube.com/watch?v=mvJuxowIwIc) and [part 2](https://www.youtube.com/watch?v=S9C1C6WXq7A).
 
 ## April
 
