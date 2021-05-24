@@ -34,10 +34,10 @@ save_as: learning-progress-2021.html
     -   [Sphinx Overview](https://www.sphinx-doc.org/en/master/)
 -   Books:
     -   Code Complete (by Steve McConnell): Upstream Prerequisites.
-    -   Practical LaTeX (by George Grätzer): Mission Impossible; text.
+    -   Practical LaTeX (by George Grätzer): Mission Impossible; text; text environments.
     -   Don't Make Me Think, Revisited (by Steve Krug): Guiding Principles.
 - Courses:
-    -   [Data Warehousing for Business Intelligence Specialization](https://www.coursera.org/specializations/data-warehousing): DB characteristics; organizational roles; DBMS overview and database definition; non-procedural access; transaction processing; data warehouse processing; DBMS technology evolution.
+    -   [Data Warehousing for Business Intelligence Specialization](https://www.coursera.org/specializations/data-warehousing): DB characteristics; organizational roles; DBMS overview and database definition; non-procedural access; transaction processing; data warehouse processing; DBMS technology evolution; basics of relational databases; integrity rules; integrity constraint syntax.
 -   YouTube:
     -   [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
     -   [Design Patterns in Plain English - Mosh Hamedani](https://www.youtube.com/watch?v=NU_1StN5Tkk)
