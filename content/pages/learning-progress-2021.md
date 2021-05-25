@@ -38,6 +38,7 @@ save_as: learning-progress-2021.html
     -   Don't Make Me Think, Revisited (by Steve Krug): Guiding Principles.
 - Courses:
     -   [Data Warehousing for Business Intelligence Specialization](https://www.coursera.org/specializations/data-warehousing): DB characteristics; organizational roles; DBMS overview and database definition; non-procedural access; transaction processing; data warehouse processing; DBMS technology evolution; basics of relational databases; integrity rules; integrity constraint syntax.
+    -   [Database Design and Basic SQL in PostgreSQL](https://www.coursera.org/learn/database-design-postgresql): history of relational databases; SQL architecture.
 -   YouTube:
     -   [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
     -   [Design Patterns in Plain English - Mosh Hamedani](https://www.youtube.com/watch?v=NU_1StN5Tkk)
