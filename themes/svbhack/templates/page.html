@@ -9,8 +9,12 @@
   <div class="article_text">
     {{ page.content }}
   </div>
+
+  <!-- Skip the display of updated date on some pages -->
+  {% if page.url not in ["contact.html", "learning-progress-2021.html"] %}
   <div class="article_meta">
     <p>Updated on: {{ page.locale_date }}</p>
   </div>
+  {% endif %}
 </article>
 {% endblock %}
