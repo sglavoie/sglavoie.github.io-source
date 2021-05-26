@@ -26,10 +26,11 @@ save_as: learning-progress-2021.html
         -   Database schema, ER diagram; foreign keys and SQL join; aggregate functions in MySQL; left and right joins.
         -   Packet switching; TCP/IP model; internet protocol stack; transport layer; network layer; link layer.
     -   **Software Design and Development**
-        -   Criteria for the evaluation of implemented architectures; module coupling; module cohesion; language features (modularity, unit testing, assertions, exception handling, security); testing; test-driven development; defensive programming; security engineering.
+        -   Criteria for the evaluation of implemented architectures; module coupling; module cohesion; language features (modularity, unit testing, assertions, exception handling, security); testing; test-driven development; defensive programming; security engineering; metamorphic testing; assertive testing.
 -   Articles:
     -   [A beginner’s guide to writing documentation](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
     -   [An introduction to Sphinx and Read the Docs for Technical Writers](https://www.ericholscher.com/blog/2016/jul/1/sphinx-and-rtd-for-writers/)
+    -   [Kibana Query Language](https://www.elastic.co/guide/en/kibana/7.12/kuery-query.html)
     -   [Parsing XML](https://diveintopython3.net/xml.html)
     -   [Sphinx Overview](https://www.sphinx-doc.org/en/master/)
 -   Books:
@@ -39,6 +40,7 @@ save_as: learning-progress-2021.html
 - Courses:
     -   [Data Warehousing for Business Intelligence Specialization](https://www.coursera.org/specializations/data-warehousing): DB characteristics; organizational roles; DBMS overview and database definition; non-procedural access; transaction processing; data warehouse processing; DBMS technology evolution; basics of relational databases; integrity rules; integrity constraint syntax.
     -   [Database Design and Basic SQL in PostgreSQL](https://www.coursera.org/learn/database-design-postgresql): history of relational databases; SQL architecture.
+    -   [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1).
 -   YouTube:
     -   [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
     -   [Design Patterns in Plain English - Mosh Hamedani](https://www.youtube.com/watch?v=NU_1StN5Tkk)
