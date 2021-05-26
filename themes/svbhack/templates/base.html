@@ -113,9 +113,9 @@
           in categories %}
           <li><a href="{{ SITEURL }}/{{ c.url }}">{{ c }}</a></li>
           {% endfor %}{% endif %} {% for name, link in LINKS %}
-          <li><a href="{{ link }}" target="_blank">{{ name }}</a></li>
+          <li><a href="{{ link }}" target="_blank" rel="noopener noreferrer">{{ name }}</a></li>
           {% endfor %} {% for name, link in SOCIAL %}
-          <li><a href="{{ link }}" target="_blank">{{ name }}</a></li>
+          <li><a href="{{ link }}" target="_blank" rel="noopener noreferrer">{{ name }}</a></li>
           {% endfor %}
         </ul>
       </div>
