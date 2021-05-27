@@ -34,11 +34,12 @@ save_as: learning-progress-2021.html
     -   [Parsing XML](https://diveintopython3.net/xml.html)
     -   [Sphinx Overview](https://www.sphinx-doc.org/en/master/)
 -   Books:
+    -   Algorithms, 4th Edition (by Robert Sedgewick and Kevin Wayne): Analysis of algorithms.
     -   Code Complete (by Steve McConnell): Upstream Prerequisites.
-    -   Practical LaTeX (by George Grätzer): Mission Impossible; text; text environments.
     -   Don't Make Me Think, Revisited (by Steve Krug): Guiding Principles.
+    -   Practical LaTeX (by George Grätzer): Mission Impossible; text; text environments.
 - Courses:
-    -   [Data Warehousing for Business Intelligence Specialization](https://www.coursera.org/specializations/data-warehousing): DB characteristics; organizational roles; DBMS overview and database definition; non-procedural access; transaction processing; data warehouse processing; DBMS technology evolution; basics of relational databases; integrity rules; integrity constraint syntax.
+    -   [Data Warehousing for Business Intelligence Specialization](https://www.coursera.org/specializations/data-warehousing): DB characteristics; organizational roles; DBMS overview and database definition; non-procedural access; transaction processing; data warehouse processing; DBMS technology evolution; basics of relational databases; integrity rules; integrity constraint syntax; SQL overview.
     -   [Database Design and Basic SQL in PostgreSQL](https://www.coursera.org/learn/database-design-postgresql): history of relational databases; SQL architecture.
     -   [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1).
 -   YouTube:
