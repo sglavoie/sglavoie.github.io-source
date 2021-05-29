@@ -41,15 +41,16 @@ save_as: learning-progress-2021.html
 - Courses:
     -   [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1).
     -   [Data Warehousing for Business Intelligence Specialization](https://www.coursera.org/specializations/data-warehousing): DB characteristics; organizational roles; DBMS overview and database definition; non-procedural access; transaction processing; data warehouse processing; DBMS technology evolution; basics of relational databases; integrity rules; integrity constraint syntax; SQL overview.
-    -   [Database Design and Basic SQL in PostgreSQL](https://www.coursera.org/learn/database-design-postgresql): history of relational databases; SQL architecture; using PythonAnywhere and DBeaver with Postgres; data types in Postgres; database keys and indexes.
+    -   [Database Design and Basic SQL in PostgreSQL](https://www.coursera.org/learn/database-design-postgresql): history of relational databases; SQL architecture; using PythonAnywhere and DBeaver with Postgres; data types in Postgres; database keys and indexes; relational database design.
 -   YouTube:
     -   [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
     -   [Design Patterns in Plain English - Mosh Hamedani](https://www.youtube.com/watch?v=NU_1StN5Tkk)
     -   [Docker Explained](https://www.youtube.com/watch?v=WoZobj2Ruj0)
     -   [Efficient Exponentiation](https://www.youtube.com/watch?v=BfNlzdFa_a4)
     -   [Google Apps Script](https://www.youtube.com/watch?v=OFuaoeq7gSw)
-    -   [UML Diagrams](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
     -   New in Python 3.10, [part 1](https://www.youtube.com/watch?v=mvJuxowIwIc) and [part 2](https://www.youtube.com/watch?v=S9C1C6WXq7A).
+    -   [Typography for Developers - Full Course from Treehouse](https://www.youtube.com/watch?v=agbh1wbfJt8)
+    -   [UML Diagrams](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
 
 ## April
 
