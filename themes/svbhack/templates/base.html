@@ -1,155 +1,218 @@
 <!DOCTYPE html>
 <html lang="{{ DEFAULT_LANG }}">
-  <head>
-    <link
-      rel="stylesheet"
-      type="text/css"
-      href="{{ SITEURL }}/theme/css/style.css"
-    />
-    <link
-      rel="stylesheet"
-      type="text/css"
-      href="{{ SITEURL }}/theme/css/pygments.css"
-    />
+    <head>
+        <link
+            rel="stylesheet"
+            type="text/css"
+            href="{{ SITEURL }}/theme/css/style.css"
+        />
+        <link
+            rel="stylesheet"
+            type="text/css"
+            href="{{ SITEURL }}/theme/css/pygments.css"
+        />
 
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="author" content="{{ AUTHOR }}" />
-    <meta name="description" content="Posts and writings by {{ AUTHOR }}" />
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="author" content="{{ AUTHOR }}" />
+        <meta name="description" content="Posts and writings by {{ AUTHOR }}" />
 
-    {% if FEED_ALL_ATOM %}
-    <link
-      href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}"
-      type="application/atom+xml"
-      rel="alternate"
-      title="{{ SITENAME }} Atom"
-    />
-    {% endif %} {% if FEED_ALL_RSS %}
-    <link
-      href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}"
-      type="application/rss+xml"
-      rel="alternate"
-      title="{{ SITENAME }} RSS"
-    />
-    {% endif %}
-
-    <!-- Favicon -->
-    <link rel="apple-touch-icon" href="/theme/favicon/apple-touch-icon.png" />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="32x32"
-      href="/theme/favicon/favicon-32x32.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="16x16"
-      href="/theme/favicon/favicon-16x16.png"
-    />
-    <link rel="manifest" href="/theme/favicon/site.webmanifest" />
-    <link
-      rel="mask-icon"
-      href="/theme/favicon/safari-pinned-tab.svg"
-      color="#5bbad5"
-    />
-    <link rel="shortcut icon" href="/theme/favicon/favicon.ico" />
-    <meta name="msapplication-TileColor" content="#2d89ef" />
-    <meta
-      name="msapplication-TileImage"
-      content="/theme/favicon/mstile-144x144.png"
-    />
-    <meta
-      name="msapplication-config"
-      content="/theme/favicon/browserconfig.xml"
-    />
-    <meta name="theme-color" content="#000000" />
-    <meta
-      name="msapplication-config"
-      content="/theme/favicon/browserconfig.xml"
-    />
-    <meta name="theme-color" content="#000000" />
-
-    {% block head %} {% endblock %}
-
-    <title>
-      {{ SITENAME }} {% block title %}{% endblock %}
-    </title>
-  </head>
-
-  <body>
-    <aside>
-      <div id="user_meta">
-        {% if not HIDE_USER_LOGO %}
-        <a href="{{ SITEURL }}">
-                <div>
-                    <svg width="24.348mm" height="24.348mm" version="1.1" viewBox="0 0 24.348095 24.347754" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-                        <metadata>
-                        <rdf:RDF>
-                        <cc:Work rdf:about="">
-                        <dc:format>image/svg+xml</dc:format>
-                        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                        <dc:title/>
-                        </cc:Work>
-                        </rdf:RDF>
-                        </metadata>
-                        <g transform="translate(81.397 -84.454)">
-                        <path d="m-57.049 105.9v2.9029h-11.173v-2.9029z" fill="#c0c0c0">
-                        <animate attributeName="fill" values="white;grey;white" dur="2s" repeatCount="indefinite" />
-                        </path>
-                        <path d="m-72.272 98.481-9.1246 5.7598v-3.548l5.8658-3.5019v-0.09215l-5.8658-3.5019v-3.548l9.1246 5.7598z" fill="#c0c0c0"/>
-                        <path transform="scale(.26458)" d="m-273.15 319.2-27.588 14.77 8.498 5.3613 19.09-12.049zm15.309 25.67v44.412h8.8672v-35.635h33.361v-8.7773h-33.783zm25.336 24.66v8.7774h8.0254v10.975h8.8672v-19.752z" fill="#007bff"/>
-                        </g>
-                    </svg>
-                </div>
-        </a>
+        {% if FEED_ALL_ATOM %}
+        <link
+            href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}"
+            type="application/atom+xml"
+            rel="alternate"
+            title="{{ SITENAME }} Atom"
+        />
+        {% endif %} {% if FEED_ALL_RSS %}
+        <link
+            href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}"
+            type="application/rss+xml"
+            rel="alternate"
+            title="{{ SITENAME }} RSS"
+        />
         {% endif %}
-        <ul>
-          {% for title, link in MENUITEMS %}
-          <li><a href="{{ link }}">{{ title }}</a></li>
-          {% endfor %} {% if DISPLAY_PAGES_ON_MENU %}{% for p in pages %}
-          <li><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
-          {% endfor %}{% endif %} {% if DISPLAY_CATEGORIES_ON_MENU %}{% for c, _
-          in categories %}
-          <li><a href="{{ SITEURL }}/{{ c.url }}">{{ c }}</a></li>
-          {% endfor %}{% endif %} {% for name, link in LINKS %}
-          <li><a href="{{ link }}" target="_blank" rel="noopener noreferrer">{{ name }}</a></li>
-          {% endfor %} {% for name, link in SOCIAL %}
-          <li><a href="{{ link }}" target="_blank" rel="noopener noreferrer">{{ name }}</a></li>
-          {% endfor %}
-        </ul>
-      </div>
-    </aside>
 
-    <main>
-      <header>
-        <p>
-          <a href="{{ SITEURL }}">Index</a> &brvbar;
-          <a href="{{ SITEURL }}/archives.html">Archives</a> &brvbar;
-          <a href="{{ SITEURL }}/tags.html">Tags</a> &brvbar;
-          <a href="{{ SITEURL }}/learning-progress-2021.html"
-            >Learning Progress</a> &brvbar;
-          <a href="{{ SITEURL }}/contact.html"
-            >Contact</a> &brvbar;
-          <a href="https://drive.google.com/file/d/1t6GdZjC13naJXVGe6RinGowZLfkRzjy_/view" target="_blank" rel="noopener noreferrer"
-            >Resume</a>
-        </p>
-      </header>
+        <!-- Favicon -->
+        <link
+            rel="apple-touch-icon"
+            href="/theme/favicon/apple-touch-icon.png"
+        />
+        <link
+            rel="icon"
+            type="image/png"
+            sizes="32x32"
+            href="/theme/favicon/favicon-32x32.png"
+        />
+        <link
+            rel="icon"
+            type="image/png"
+            sizes="16x16"
+            href="/theme/favicon/favicon-16x16.png"
+        />
+        <link rel="manifest" href="/theme/favicon/site.webmanifest" />
+        <link
+            rel="mask-icon"
+            href="/theme/favicon/safari-pinned-tab.svg"
+            color="#5bbad5"
+        />
+        <link rel="shortcut icon" href="/theme/favicon/favicon.ico" />
+        <meta name="msapplication-TileColor" content="#2d89ef" />
+        <meta
+            name="msapplication-TileImage"
+            content="/theme/favicon/mstile-144x144.png"
+        />
+        <meta
+            name="msapplication-config"
+            content="/theme/favicon/browserconfig.xml"
+        />
+        <meta name="theme-color" content="#000000" />
+        <meta
+            name="msapplication-config"
+            content="/theme/favicon/browserconfig.xml"
+        />
+        <meta name="theme-color" content="#000000" />
 
-      {% block content %} {% endblock %} {% block footer %} {% endblock %}
+        {% block head %} {% endblock %}
 
-      <div id="ending_message">
-        <p>
-          &copy; {{ AUTHOR }}. Built in
-          <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer" >Python</a>
-          using
-          <a href="http://getpelican.com" target="_blank" rel="noopener noreferrer" >Pelican</a> v{{ PELICAN_VERSION }}.
-          Theme adapted from Giulio Fidente on
-          <a href="https://github.com/gfidente/pelican-svbhack" target="_blank"
-             rel="noopener noreferrer">GitHub</a>.
-        <p><a href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}">RSS feed</a>.</p>
-        </p>
-      </div>
-    </main>
-  </body>
+        <title>{{ SITENAME }} {% block title %}{% endblock %}</title>
+    </head>
+
+    <body>
+        <aside>
+            <div id="user_meta">
+                {% if not HIDE_USER_LOGO %}
+                <a href="{{ SITEURL }}">
+                    <div>
+                        <svg
+                            width="24.348mm"
+                            height="24.348mm"
+                            version="1.1"
+                            viewBox="0 0 24.348095 24.347754"
+                            xmlns="http://www.w3.org/2000/svg"
+                            xmlns:cc="http://creativecommons.org/ns#"
+                            xmlns:dc="http://purl.org/dc/elements/1.1/"
+                            xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                        >
+                            <metadata>
+                                <rdf:RDF>
+                                    <cc:Work rdf:about="">
+                                        <dc:format>image/svg+xml</dc:format>
+                                        <dc:type
+                                            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+                                        />
+                                        <dc:title />
+                                    </cc:Work>
+                                </rdf:RDF>
+                            </metadata>
+                            <g transform="translate(81.397 -84.454)">
+                                <path
+                                    d="m-57.049 105.9v2.9029h-11.173v-2.9029z"
+                                    fill="#c0c0c0"
+                                >
+                                    <animate
+                                        attributeName="fill"
+                                        values="white;grey;white"
+                                        dur="2s"
+                                        repeatCount="indefinite"
+                                    />
+                                </path>
+                                <path
+                                    d="m-72.272 98.481-9.1246 5.7598v-3.548l5.8658-3.5019v-0.09215l-5.8658-3.5019v-3.548l9.1246 5.7598z"
+                                    fill="#c0c0c0"
+                                />
+                                <path
+                                    transform="scale(.26458)"
+                                    d="m-273.15 319.2-27.588 14.77 8.498 5.3613 19.09-12.049zm15.309 25.67v44.412h8.8672v-35.635h33.361v-8.7773h-33.783zm25.336 24.66v8.7774h8.0254v10.975h8.8672v-19.752z"
+                                    fill="#007bff"
+                                />
+                            </g>
+                        </svg>
+                    </div>
+                </a>
+                {% endif %}
+                <ul>
+                    {% for title, link in MENUITEMS %}
+                    <li><a href="{{ link }}">{{ title }}</a></li>
+                    {% endfor %} {% if DISPLAY_PAGES_ON_MENU %}{% for p in pages
+                    %}
+                    <li>
+                        <a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
+                    </li>
+                    {% endfor %}{% endif %} {% if DISPLAY_CATEGORIES_ON_MENU
+                    %}{% for c, _ in categories %}
+                    <li><a href="{{ SITEURL }}/{{ c.url }}">{{ c }}</a></li>
+                    {% endfor %}{% endif %} {% for name, link in LINKS %}
+                    <li>
+                        <a
+                            href="{{ link }}"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            >{{ name }}</a
+                        >
+                    </li>
+                    {% endfor %} {% for name, link in SOCIAL %}
+                    <li>
+                        <a
+                            href="{{ link }}"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            >{{ name }}</a
+                        >
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </aside>
+
+        <main>
+            <header>
+                <p>
+                    <a href="{{ SITEURL }}">Index</a> &brvbar;
+                    <a href="{{ SITEURL }}/archives.html">Archives</a> &brvbar;
+                    <a href="{{ SITEURL }}/tags.html">Tags</a> &brvbar;
+                    <a href="{{ SITEURL }}/learning-progress-2021.html"
+                        >Learning Progress</a
+                    >
+                    &brvbar;
+                    <a href="{{ SITEURL }}/contact.html">Contact</a> &brvbar;
+                    <a
+                        href="https://drive.google.com/file/d/1t6GdZjC13naJXVGe6RinGowZLfkRzjy_/view"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        >Resume</a
+                    >
+                </p>
+            </header>
+
+            {% block content %} {% endblock %} {% block footer %} {% endblock %}
+
+            <div id="ending_message">
+                <p>
+                    &copy; {{ AUTHOR }}. Built in
+                    <a
+                        href="https://www.python.org/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        >Python</a
+                    >
+                    using
+                    <a
+                        href="http://getpelican.com"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        >Pelican</a
+                    >
+                    v{{ PELICAN_VERSION }}. Theme adapted from Giulio Fidente on
+                    <a
+                        href="https://github.com/gfidente/pelican-svbhack"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        >GitHub</a
+                    >.
+                    <a href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}">RSS feed</a>.
+                </p>
+            </div>
+        </main>
+    </body>
 </html>
