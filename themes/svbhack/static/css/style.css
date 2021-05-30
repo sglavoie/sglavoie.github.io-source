@@ -25,7 +25,7 @@ h5 {
 }
 
 h1 {
-    margin-top: 0;
+    margin-top: 1rem;
     font-size: 1.383rem;
 }
 
@@ -158,7 +158,7 @@ main article div.article_text a:hover {
 }
 
 main article div.article_text code {
-    margin: auto 4px;
+    margin: 0;
     padding: 0;
     font-size: 0.9rem;
     font-family: 'JetBrains Mono', monospace;
@@ -167,7 +167,6 @@ main article div.article_text code {
 
 p > code {
     font-weight: bold;
-    background: #eeeeee;
     margin: 4px !important;
 }
 
@@ -283,7 +282,6 @@ main div#ending_message {
     }
 
     h1 {
-        margin-top: 1rem;
         font-size: 3.052rem;
     }
 
