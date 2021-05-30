@@ -566,7 +566,7 @@ bindsym $mod+F3   $exec $brightness-monitor-default
 bindsym $mod+Control+b    $exec $brightness-toggle-laptop
 ```
 
-To control the screen brightness, I use [`light`](https://github.com/haikarainen/light). I also like to just toggle the brightness of my laptop at night when I read something on my external monitor, so I use a [`toggle_laptop_brightness`](https://github.com/sglavoie/dotfiles/blob/master/.local/bin/toggle_laptop_brightness) script that I found somewhere online and adapted slightly.
+To control the screen brightness, I use [`light`](https://github.com/haikarainen/light). I also like to just toggle the brightness of my laptop at night when I read something on my external monitor, so I use a [`toggle_laptop_brightness`](https://github.com/sglavoie/dotfiles/blob/main/.local/bin/toggle_laptop_brightness) script that I found somewhere online and adapted slightly.
 
 ## Applications
 
@@ -760,7 +760,7 @@ Theming i3 can be tedious, but thankfully there are tools to automate the proces
 
 # Conclusion
 
-You can find the [complete `config` file in my dotfiles on GitHub](https://github.com/sglavoie/dotfiles/blob/master/.config/i3/config). If you liked this article, you may also enjoy reading the following ones:
+You can find the [complete `config` file in my dotfiles on GitHub](https://github.com/sglavoie/dotfiles/blob/main/.config/i3/config). If you liked this article, you may also enjoy reading the following ones:
 
 - [Suckless: Minimalist Tools That Work Great](https://www.sglavoie.com/posts/2019/05/12/suckless-minimalist-tools-that-work-great/)
 - [Using dmenu to Optimize Common Tasks](https://www.sglavoie.com/posts/2019/11/10/using-dmenu-to-optimize-common-tasks/)

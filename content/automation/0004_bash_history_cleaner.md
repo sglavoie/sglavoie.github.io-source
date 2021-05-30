@@ -71,8 +71,7 @@ And here is the script in question \*. It comes in two files that need to be in 
     settings of the script, which will be detailed below.
 
 \* <sub>Improvements to the original script can be found on <a
-href="https://github.com/sglavoie/python-utilities/tree/master/bash_hist
-ory_cleaner">Github</a>. To keep this
+href="https://github.com/sglavoie/python-utilities/tree/main/bash_history_cleaner">Github</a>. To keep this
 article a bit more readable, the original version is shown.</sub>
 
 ## `bash_history_cleaner.py`
@@ -382,4 +381,4 @@ This is a simple solution to an nonexistent problem, but it was
 in the end very instructive to me nonetheless. You may even find
 a use for it! Otherwise, you might use the same functions for
 other files such as logs! If you would like to take a closer look
-at the source in a more convenient way, you can find the code <a href="https://github.com/sglavoie/python-utilities/tree/master/bash_history_cleaner">available on Github</a>.
+at the source in a more convenient way, you can find the code <a href="https://github.com/sglavoie/python-utilities/tree/main/bash_history_cleaner">available on Github</a>.

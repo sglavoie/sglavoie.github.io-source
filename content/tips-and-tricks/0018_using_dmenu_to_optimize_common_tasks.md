@@ -303,6 +303,6 @@ DMENU_OPTIONS="-fn $DMENU_FN -nb $DMENU_NB -nf $DMENU_NF -sf $DMENU_SF -sb $DMEN
 
 # Conclusion
 
-Hopefully this introduction to what **dmenu** has to offer gave you some ideas. I hope you'll find many ways to adapt the examples so you can benefit from this amazing tool. You can find more configuration details in my [dotfiles on GitHub](https://github.com/sglavoie/dotfiles/tree/master/config) for anything related to **i3**, **dmenu**, **zathura**, **st**, **slock** and many more useful programs.
+Hopefully this introduction to what **dmenu** has to offer gave you some ideas. I hope you'll find many ways to adapt the examples so you can benefit from this amazing tool. You can find more configuration details in my [dotfiles on GitHub](https://github.com/sglavoie/dotfiles/) for anything related to **i3**, **dmenu**, **zathura**, **st**, **slock** and many more useful programs.
 
 Have a good time automating your digital life!

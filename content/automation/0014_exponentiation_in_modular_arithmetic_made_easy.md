@@ -142,4 +142,4 @@ a basic approach like the one shown above can quickly churn out the
 results for seemingly quite large numbers.
 
 As always, this code is
-[available on GitHub](https://github.com/sglavoie/code-snippets/blob/master/python/mathematics/modular_arithmetic/exponentiation_mod_k.py).
+[available on GitHub](https://github.com/sglavoie/code-snippets/blob/main/python/mathematics/modular_arithmetic/exponentiation_mod_k.py).

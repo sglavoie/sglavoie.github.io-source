@@ -2244,7 +2244,7 @@ save_as: learning-progress-2019.html
 -   _Google IT_
     -   System administration consultation (process improvements).
 -   Finish reading [Atomic Habits](https://amzn.to/2Y0QGis), by [James Clear](https://jamesclear.com/).
--   Managing duplicates in Python ([Bash History Cleaner](https://github.com/sglavoie/python-utilities/tree/master/bash_history_cleaner)).
+-   Managing duplicates in Python ([Bash History Cleaner](https://github.com/sglavoie/dev-helpers/tree/main/bash_history_cleaner)).
 
 ### 5
 

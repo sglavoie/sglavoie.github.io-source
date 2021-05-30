@@ -167,8 +167,7 @@ if __name__ == '__main__':
 If you are familiar with Python,
 you can easily make sense of how this little tool works by
 reading its code. You can also have a look at this [repository on
-GitHub](https://github.com/sglavoie/python-utilities/tree/master/haveibe
-enpwnwed_password_checker) if you want
+GitHub](https://github.com/sglavoie/dev-helpers/tree/main/haveibeenpwnwed_password_checker) if you want
 to fork it or reuse it any other way you wish. I have personally found
 it much easier to work with [Click](https://github.com/pallets/click)
 instead of `argparse` and `optparse`. I haven't got to try
