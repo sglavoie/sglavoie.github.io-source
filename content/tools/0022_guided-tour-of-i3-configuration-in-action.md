@@ -1,6 +1,6 @@
 Title: A Guided Tour of an i3 Configuration
 Date: 2020-08-15 10:51
-Modified: 2021-05-29 11:33
+Modified: 2021-05-30 18:48
 Slug: a-guided-tour-of-an-i3-configuration
 Tags: i3, window-manager
 Authors: Sébastien Lavoie
@@ -13,7 +13,7 @@ Description: This article will go over my dear i3 configuration file, which cont
 
 # Introduction
 
-In [Using i3 as a Window Manager for Increased Productivity](https://www.sglavoie.com/posts/2019/01/08/using-i3-as-a-window-manager-for-increased-productivity/), a number of reasons were given to get going with this fantastic tiling window manager. Now, it's time to jump in and explore how to actually use i3! If you're looking for an in-depth guide, the [official i3 documentation](https://i3wm.org/docs/userguide.html) or the [i3 page on the Arch Wiki](https://wiki.archlinux.org/index.php/i3) are awesome resources to dive deeper. Here, we'll focus on day-to-day usage based on my current configuration file which I have used and refined over the past two years or so. I hope that you'll be able to glean useful tips and tricks to apply to your own use case.
+In [Using i3 as a Window Manager for Increased Productivity](https://www.sglavoie.com/posts/2019/01/08/using-i3-as-a-window-manager-for-increased-productivity/), a number of reasons were given to get going with this fantastic tiling window manager. Now, it's time to jump in and explore how to actually use i3! If you're looking for an in-depth guide, the [official i3 documentation](https://i3wm.org/docs/userguide.html) or the [i3 page on the Arch Wiki](https://wiki.archlinux.org/index.php/i3) are awesome resources to dive deeper. Here, we'll focus on day-to-day usage based on my current configuration file which I have used and refined over the past three years or so. I hope that you'll be able to glean useful tips and tricks to apply to your own use case.
 
 ---
 
