@@ -160,23 +160,25 @@ main article div.article_text a:hover {
 main article div.article_text code {
     margin: auto 4px;
     padding: 0;
-    color: #000000;
     font-size: 0.9rem;
     font-family: 'JetBrains Mono', monospace;
-    background: #eeeeee;
     line-height: 1.4;
+}
+
+p > code {
+    font-weight: bold;
+    background: #eeeeee;
+    margin: 4px !important;
 }
 
 main article div.article_text pre {
     margin: 22px 2px 22px 2px;
     padding: 6px;
-    color: #000000;
-    border-left: 3px solid #005790;
+    color: #eee9e9;
     font-size: 0.8rem;
     font-family: 'JetBrains Mono', monospace;
-    background: #eeeeee;
-    line-height: 1.125em;
     overflow-x: auto;
+    font-size: 1.2rem;
 }
 
 main article div.article_text blockquote {
