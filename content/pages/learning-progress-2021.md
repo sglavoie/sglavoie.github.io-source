@@ -39,9 +39,10 @@ save_as: learning-progress-2021.html
     -   Don't Make Me Think, Revisited (by Steve Krug): Guiding Principles.
     -   Practical LaTeX (by George Grätzer): Mission Impossible; text; text environments.
 - Courses:
-    -   [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1).
-    -   [Data Warehousing for Business Intelligence Specialization](https://www.coursera.org/specializations/data-warehousing): DB characteristics; organizational roles; DBMS overview and database definition; non-procedural access; transaction processing; data warehouse processing; DBMS technology evolution; basics of relational databases; integrity rules; integrity constraint syntax; SQL overview.
+    -   [Object-Oriented Design](coursera.org/learn/object-oriented-design/): software architect and design roles in industry.
     -   [Database Design and Basic SQL in PostgreSQL](https://www.coursera.org/learn/database-design-postgresql): history of relational databases; SQL architecture; using PythonAnywhere and DBeaver with Postgres; data types in Postgres; database keys and indexes; relational database design; many-to-many relationships.
+    -   [Database Management Essentials](https://www.coursera.org/learn/database-management/): DB characteristics; organizational roles; DBMS overview and database definition; non-procedural access; transaction processing; data warehouse processing; DBMS technology evolution; basics of relational databases; integrity rules; integrity constraint syntax; SQL overview; `JOIN` with `SELECT`; `GROUP BY`.
+    -   [Intermediate PostgreSQL](https://www.coursera.org/learn/intermediate-postgresql): altering table schema; dates; `DISTINCT` / `GROUP BY`; `SELECT DISTINCT`; subqueries.
 -   YouTube:
     -   [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
     -   [Design Patterns in Plain English - Mosh Hamedani](https://www.youtube.com/watch?v=NU_1StN5Tkk)
