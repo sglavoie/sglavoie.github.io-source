@@ -1,6 +1,6 @@
 Title: My Current Set of Tools and Customizations
 Date: 2020-06-06 10:41
-Modified: 2021-03-04 14:15
+Modified: 2021-05-31 19:49
 Slug: my-current-set-of-tools-and-customizations
 Tags: customization, software
 Authors: Sébastien Lavoie
@@ -46,7 +46,7 @@ Description: I like to keep track of the tools I use and see the shifts that occ
 | partition manager               | gparted              |                      |
 | password manager                | keepassxc            |                      |
 | pdf editing (minimal)           | pdfarranger          |                      |
-| pdf viewer                      | zathura              | atril, evince        |
+| pdf viewer                      | atril                | evince, zathura      |
 | publishing                      | scribus              |                      |
 | python documentation            | sphinx               |                      |
 | python formatter                | black                |                      |
@@ -62,10 +62,11 @@ Description: I like to keep track of the tools I use and see the shifts that occ
 | sound system                    | pulseaudio           |                      |
 | source code explorer            | sourcetrail          |                      |
 | sql client                      | dbeaver              |                      |
+| sql database                    | postgres             | mysql, sqlite        |
 | sql viewer                      | sqlitebrowser        |                      |
 | static website generator        | pelican              |                      |
-| task management                 | todoist              | clickup              |
-| terminal calculator             | bc                   | wcalc, galculator    |
+| task management                 | todoist              | google keep          |
+| terminal calculator             | ipython              | bc                   |
 | terminal clipboard              | xclip                |                      |
 | terminal coursera downloader    | coursera-dl          |                      |
 | terminal disk usage             | ncdu                 |                      |
@@ -90,12 +91,12 @@ Description: I like to keep track of the tools I use and see the shifts that occ
 | torrent                         | transmission         | deluge               |
 | version control stats           | gitstats             |                      |
 | version control system          | git                  |                      |
-| video player                    | vlc                  | smplayer             |
+| video player                    | smplayer             | vlc                  |
 | visual plotting                 | geogebra             |                      |
 | wallpaper browser/setter        | nitrogen             | feh                  |
-| web browser                     | brave, chromium      | firefox              |
+| web browser                     | brave                | firefox              |
 | window manager                  | i3                   | dwm                  |
-| window manager status bar       | i3status             |                      |
+| window manager status bar       | i3blocks             | i3status             |
 
 ---
 
