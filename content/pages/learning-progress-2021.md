@@ -14,6 +14,13 @@ save_as: learning-progress-2021.html
 > to stay a bit more humble. In the process, I hope you may find some
 > inspiration too.
 
+## June
+
+- Courses:
+    -   [Object-Oriented Design](coursera.org/learn/object-oriented-design/): object-oriented analysis and design.
+    -   [Database Management Essentials](https://www.coursera.org/learn/database-management/): query formulation.
+    -   [Intermediate PostgreSQL](https://www.coursera.org/learn/intermediate-postgresql): concurrency and transactions; stored procedures.
+
 ## May
 
 -   University of London
