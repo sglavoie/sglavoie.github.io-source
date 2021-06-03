@@ -17,9 +17,12 @@ save_as: learning-progress-2021.html
 ## June
 
 - Courses:
-    -   [Object-Oriented Design](coursera.org/learn/object-oriented-design/): object-oriented analysis and design.
-    -   [Database Management Essentials](https://www.coursera.org/learn/database-management/): query formulation.
-    -   [Intermediate PostgreSQL](https://www.coursera.org/learn/intermediate-postgresql): concurrency and transactions; stored procedures.
+    -   [Object-Oriented Design](coursera.org/learn/object-oriented-design/): object-oriented analysis and design; object-oriented modelling.
+    -   [Database Management Essentials](https://www.coursera.org/learn/database-management/): query formulation; set operators.
+    -   [Intermediate PostgreSQL](https://www.coursera.org/learn/intermediate-postgresql): concurrency and transactions; stored procedures; reading and parsing files.
+-   YouTube:
+    -   Python: [Not all exceptions are Exceptions](https://www.youtube.com/watch?v=zrVfY9SuO64)
+    -   [Python 3.10's New Match Statement](https://www.youtube.com/watch?v=-gf4z3g71Mg)
 
 ## May
 
