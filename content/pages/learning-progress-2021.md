@@ -30,6 +30,7 @@ save_as: learning-progress-2021.html
 -   YouTube:
     -   Python: [Not all exceptions are Exceptions](https://www.youtube.com/watch?v=zrVfY9SuO64)
     -   [Python 3.10's New Match Statement](https://www.youtube.com/watch?v=-gf4z3g71Mg)
+    -   [Test Driven Development vs Behavior Driven Development](https://www.youtube.com/watch?v=Bq_oz7nCNUA)
     -   [XML & ElementTree](https://www.youtube.com/watch?v=j0xr0-IAqyk)
 
 ## May
