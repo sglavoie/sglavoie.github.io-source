@@ -26,8 +26,9 @@ save_as: learning-progress-2021.html
 -   Articles:
     -   [Python vs C++: Selecting the Right Tool for the Job](https://realpython.com/python-vs-cpp/)
 -   Books:
-    -   Practical LaTeX (by George Grätzer): Inline formulas.
+    -   Practical LaTeX (by George Grätzer): Inline formulas; displayed formulas.
 -   YouTube:
+    -   [Object Oriented Programming vs Functional Programming](https://www.youtube.com/watch?v=wyABTfR9UTU)
     -   Python: [Not all exceptions are Exceptions](https://www.youtube.com/watch?v=zrVfY9SuO64)
     -   [Python 3.10's New Match Statement](https://www.youtube.com/watch?v=-gf4z3g71Mg)
     -   [Test Driven Development vs Behavior Driven Development](https://www.youtube.com/watch?v=Bq_oz7nCNUA)
