@@ -18,7 +18,7 @@ save_as: learning-progress-2021.html
 
 -   University of London
     -   **Computer Security**
-        -   Review trifid cipher.
+        -   Review trifid cipher, RSA algorithm.
 - Courses:
     -   [Object-Oriented Design](coursera.org/learn/object-oriented-design/): object-oriented analysis and design; object-oriented modelling; design principles; UML class diagrams.
     -   [Database Management Essentials](https://www.coursera.org/learn/database-management/): query formulation; set operators; ERD notation; relationship variations; diagram rules; conceptual data modeling; design transformations.
@@ -28,11 +28,13 @@ save_as: learning-progress-2021.html
 -   Books:
     -   Practical LaTeX (by George Grätzer): Inline formulas; displayed formulas.
 -   YouTube:
+    -   [Cracking passwords using only timing information](https://www.youtube.com/watch?v=XThL0LP3RjY)
     -   [Object Oriented Programming vs Functional Programming](https://www.youtube.com/watch?v=wyABTfR9UTU)
-    -   Python: [Not all exceptions are Exceptions](https://www.youtube.com/watch?v=zrVfY9SuO64)
     -   [Python 3.10's New Match Statement](https://www.youtube.com/watch?v=-gf4z3g71Mg)
+    -   [Python: Not all exceptions are Exceptions](https://www.youtube.com/watch?v=zrVfY9SuO64)
     -   [Test Driven Development vs Behavior Driven Development](https://www.youtube.com/watch?v=Bq_oz7nCNUA)
     -   [XML & ElementTree](https://www.youtube.com/watch?v=j0xr0-IAqyk)
+    -   [Self-Avoiding Walk](https://www.youtube.com/watch?v=m6-cm6GZ1iw)
 
 ## May
 
