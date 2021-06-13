@@ -24,24 +24,29 @@ h5 {
     line-height: 1.3;
 }
 
-h1 {
+h1,
+h1 > code {
     margin-top: 1rem;
     font-size: 1.383rem;
 }
 
-h2 {
+h2,
+h2 > code {
     font-size: 1.296rem;
 }
 
-h3 {
+h3,
+h3 > code {
     font-size: 1.215rem;
 }
 
-h4 {
+h4,
+h4 > code {
     font-size: 1.138rem;
 }
 
-h5 {
+h5,
+h5 > code {
     font-size: 1.067rem;
 }
 
@@ -281,24 +286,29 @@ main div#ending_message {
         line-height: 1.3;
     }
 
-    h1 {
-        font-size: 3.052rem;
+    h1,
+    h1 > code {
+        font-size: 3.052rem !important;
     }
 
-    h2 {
-        font-size: 2.441rem;
+    h2,
+    h2 > code {
+        font-size: 2.441rem !important;
     }
 
-    h3 {
-        font-size: 1.953rem;
+    h3,
+    h3 > code {
+        font-size: 1.953rem !important;
     }
 
-    h4 {
-        font-size: 1.563rem;
+    h4,
+    h4 > code {
+        font-size: 1.563rem !important;
     }
 
-    h5 {
-        font-size: 1.25rem;
+    h5,
+    h5 > code {
+        font-size: 1.25rem !important;
     }
 
     small,
