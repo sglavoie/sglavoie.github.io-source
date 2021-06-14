@@ -26,7 +26,7 @@ save_as: learning-progress-2021.html
 -   Articles:
     -   [Python vs C++: Selecting the Right Tool for the Job](https://realpython.com/python-vs-cpp/)
 -   Books:
-    -   Practical LaTeX (by George Grätzer): Inline formulas; displayed formulas.
+    -   Practical LaTeX (by George Grätzer): inline formulas; displayed formulas; documents.
 -   YouTube:
     -   [Cracking passwords using only timing information](https://www.youtube.com/watch?v=XThL0LP3RjY)
     -   [Object Oriented Programming vs Functional Programming](https://www.youtube.com/watch?v=wyABTfR9UTU)
