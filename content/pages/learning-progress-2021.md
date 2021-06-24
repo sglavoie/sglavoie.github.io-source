@@ -26,15 +26,17 @@ save_as: learning-progress-2021.html
 -   Articles:
     -   [Python vs C++: Selecting the Right Tool for the Job](https://realpython.com/python-vs-cpp/)
 -   Books:
+    -   Cracking the Coding Interview 6th Edition (by Gayle Laakmann McDowell): Interview process; Behind the Scenes; Before the Interview.
     -   Practical LaTeX (by George Grätzer): inline formulas; displayed formulas; documents.
 -   YouTube:
     -   [Cracking passwords using only timing information](https://www.youtube.com/watch?v=XThL0LP3RjY)
     -   [Object Oriented Programming vs Functional Programming](https://www.youtube.com/watch?v=wyABTfR9UTU)
     -   [Python 3.10's New Match Statement](https://www.youtube.com/watch?v=-gf4z3g71Mg)
+    -   [Python f-strings can do more than you thought. `f'{val=}', f'{val!r}', f'{dt:%Y-%m-%d}'`](https://www.youtube.com/watch?v=BxUxX1Ku1EQ)
     -   [Python: Not all exceptions are Exceptions](https://www.youtube.com/watch?v=zrVfY9SuO64)
+    -   [Self-Avoiding Walk](https://www.youtube.com/watch?v=m6-cm6GZ1iw)
     -   [Test Driven Development vs Behavior Driven Development](https://www.youtube.com/watch?v=Bq_oz7nCNUA)
     -   [XML & ElementTree](https://www.youtube.com/watch?v=j0xr0-IAqyk)
-    -   [Self-Avoiding Walk](https://www.youtube.com/watch?v=m6-cm6GZ1iw)
 
 ## May
 
