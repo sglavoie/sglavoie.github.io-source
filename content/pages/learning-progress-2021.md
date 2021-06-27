@@ -27,9 +27,12 @@ save_as: learning-progress-2021.html
     -   [Python vs C++: Selecting the Right Tool for the Job](https://realpython.com/python-vs-cpp/)
 -   Books:
     -   Cracking the Coding Interview 6th Edition (by Gayle Laakmann McDowell): Interview process; Behind the Scenes; Before the Interview; Behavioral Questions; Big O.
+    -   Object-Oriented Software Engineering Practical Software Development using UML and Java (by Timothy Lethbridge, Robert Laganiere): Architecting and designing software.
     -   Practical LaTeX (by George Grätzer): inline formulas; displayed formulas; documents.
 -   YouTube:
+    -   [Cohesion and coupling: write BETTER PYTHON CODE Part 1](https://www.youtube.com/watch?v=eiDyK_ofPPM)
     -   [Cracking passwords using only timing information](https://www.youtube.com/watch?v=XThL0LP3RjY)
+    -   [Find why your Python code is slow using this essential tool. (Feat. async/await)](https://www.youtube.com/watch?v=m_a0fN48Alw) - Profiling
     -   [Object Oriented Programming vs Functional Programming](https://www.youtube.com/watch?v=wyABTfR9UTU)
     -   [Python 3.10's New Match Statement](https://www.youtube.com/watch?v=-gf4z3g71Mg)
     -   [Python f-strings can do more than you thought. `f'{val=}', f'{val!r}', f'{dt:%Y-%m-%d}'`](https://www.youtube.com/watch?v=BxUxX1Ku1EQ)
