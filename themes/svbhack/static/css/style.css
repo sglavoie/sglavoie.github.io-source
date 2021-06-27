@@ -74,7 +74,7 @@ hr {
     background-color: #007bff;
     height: 1px;
     border: none;
-    margin: auto 0.25em;
+    margin: 2.5em 0.25em;
 }
 
 img {
@@ -170,7 +170,7 @@ main article div.article_text code {
     line-height: 1.4;
 }
 
-p > code {
+p > code, li > code {
     font-weight: bold;
     margin: 4px !important;
 }
