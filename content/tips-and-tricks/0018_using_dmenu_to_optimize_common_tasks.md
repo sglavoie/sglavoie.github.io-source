@@ -1,6 +1,6 @@
 Title: Using dmenu to Optimize Common Tasks
 Date: 2019-11-10 9:02
-Modified: 2019-11-11 10:56
+Modified: 2021-06-27 09:54
 Slug: using-dmenu-to-optimize-common-tasks
 Tags: bash, dmenu, i3, linux, productivity, script
 Authors: Sébastien Lavoie
@@ -265,6 +265,36 @@ myscript      script.sh
 ```
 
 And that's all there is to know to get piping with `dmenu`! You may also find [this video from Luke Smith](https://www.youtube.com/watch?v=8E8sUNHdzG8) on YouTube to be quite helpful as well, which is where the inspiration for this post came from. He also [posted a complementary video](https://www.youtube.com/watch?v=R9m723tAurA) about adding prompts to your commands which is a nice way to add interactivity to your scripts!
+
+---
+
+## Chaining dmenu prompts
+
+Another useful scenario is when you want to take a specific action based on the output of a previous command. For instance, let's say you want to read a book but when you choose a `pdf` with `dmenu`, you want to be prompted for which reader to use while you want to let the system choose the default application for other types of files (e.g. `epub` or `mobi`). This could be achieved with a script similar to the following one:
+
+```bash
+#!/bin/bash
+FILE=`find ~/Documents/calibre_library -type f -iname "*.pdf" -o \
+    -iname "*.epub" -o -iname "*.mobi" | dmenu -l 30`
+
+if [[ "$FILE" == *.pdf ]]
+then
+    READER=`echo -e "zathura\natril" | dmenu -i -p "Which reader?"`
+    $READER "$FILE"
+else
+    xdg-open "$FILE"
+fi
+```
+
+Here's what's happening:
+
+1. We `find` all the files (`-type f`)
+2. in the directory `~/Documents/calibre_library`
+3. that match a pattern that's case-insensitive with `-iname` (here, ending in either `pdf`, `mobi` or `epub`)
+4. matching one file at a time (`-o` can be interpreted to mean "only" and will keep searching if the previous file extension was not matched)
+5. then presenting 30 lines (`-l 30`) of results at a time with `dmenu`
+6. then, if the file is a PDF, prompts whether to use `atril` or `zathura` as the file reader and open with the chosen program
+7. otherwise, open the file with the default application.
 
 ---
 
