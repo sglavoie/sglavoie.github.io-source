@@ -26,7 +26,7 @@ save_as: learning-progress-2021.html
 -   Articles:
     -   [Python vs C++: Selecting the Right Tool for the Job](https://realpython.com/python-vs-cpp/)
 -   Books:
-    -   Cracking the Coding Interview 6th Edition (by Gayle Laakmann McDowell): Interview process; Behind the Scenes; Before the Interview; Behavioral Questions; Big O; Technical Questions.
+    -   Cracking the Coding Interview 6th Edition (by Gayle Laakmann McDowell): Interview process; Behind the Scenes; Before the Interview; Behavioral Questions; Big O; Technical Questions; The Offer and Beyond; Arrays and Strings.
     -   Object-Oriented Software Engineering Practical Software Development using UML and Java (by Timothy Lethbridge, Robert Laganiere): Architecting and designing software.
     -   Practical LaTeX (by George Grätzer): inline formulas; displayed formulas; documents.
 -   YouTube:
