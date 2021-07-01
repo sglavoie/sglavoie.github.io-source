@@ -26,6 +26,8 @@ save_as: learning-progress-2021.html
     -   [Database Management Essentials](https://www.coursera.org/learn/database-management/): query formulation; set operators; ERD notation; relationship variations; diagram rules; conceptual data modeling; design transformations.
     -   [Intermediate PostgreSQL](https://www.coursera.org/learn/intermediate-postgresql): concurrency and transactions; stored procedures; reading and parsing files; loading and normalizing csv data; text functions; character sets; hashing and cryptography; indexes and performance; regular expressions.
 -   Articles:
+    -   [Julia Vs Python: Will it unseat the king of programming?](https://theiotmagazine.com/julia-vs-python-will-it-unseat-the-king-of-programming-8220e4cd2e0a) & [Thoughts on Julia after 2 weeks](https://liorsinai.github.io/coding/2020/12/15/julia-review.html).
+    -   [Metaprogramming](https://en.wikipedia.org/wiki/Metaprogramming).
     -   [Python vs C++: Selecting the Right Tool for the Job](https://realpython.com/python-vs-cpp/)
 -   Books:
     -   Cracking the Coding Interview 6th Edition (by Gayle Laakmann McDowell): Interview process; Behind the Scenes; Before the Interview; Behavioral Questions; Big O; Technical Questions; The Offer and Beyond; Arrays and Strings.
@@ -60,6 +62,7 @@ save_as: learning-progress-2021.html
 -   Articles:
     -   [A beginner’s guide to writing documentation](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
     -   [An introduction to Sphinx and Read the Docs for Technical Writers](https://www.ericholscher.com/blog/2016/jul/1/sphinx-and-rtd-for-writers/)
+    -   [Buffer overflow](https://en.wikipedia.org/wiki/Buffer_overflow)
     -   [Kibana Query Language](https://www.elastic.co/guide/en/kibana/7.12/kuery-query.html)
     -   [Parsing XML](https://diveintopython3.net/xml.html)
     -   [Sphinx Overview](https://www.sphinx-doc.org/en/master/)
