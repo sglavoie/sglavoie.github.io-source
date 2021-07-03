@@ -63,6 +63,7 @@ save_as: learning-progress-2021.html
     -   [A beginner’s guide to writing documentation](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
     -   [An introduction to Sphinx and Read the Docs for Technical Writers](https://www.ericholscher.com/blog/2016/jul/1/sphinx-and-rtd-for-writers/)
     -   [Buffer overflow](https://en.wikipedia.org/wiki/Buffer_overflow)
+    -   [Hypothesis](https://hypothesis.works) (Python): articles on [writing good software](https://hypothesis.works/articles/writing-good-software/); [What is Hypothesis](https://hypothesis.works/articles/what-is-hypothesis/); [Getting started with Hypothesis](https://hypothesis.works/articles/getting-started-with-hypothesis/); [Evolving toward property-based testing with Hypothesis](https://hypothesis.works/articles/incremental-property-based-testing/); [Generating the right data](https://hypothesis.works/articles/generating-the-right-data/); [Testing performance optimizations](https://hypothesis.works/articles/testing-performance-optimizations/); [The Encode/Decode invariant](https://hypothesis.works/articles/encode-decode-invariant/); [Rule Based Stateful Testing](https://hypothesis.works/articles/rule-based-stateful-testing/).
     -   [Kibana Query Language](https://www.elastic.co/guide/en/kibana/7.12/kuery-query.html)
     -   [Parsing XML](https://diveintopython3.net/xml.html)
     -   [Sphinx Overview](https://www.sphinx-doc.org/en/master/)
@@ -85,6 +86,7 @@ save_as: learning-progress-2021.html
     -   New in Python 3.10, [part 1](https://www.youtube.com/watch?v=mvJuxowIwIc) and [part 2](https://www.youtube.com/watch?v=S9C1C6WXq7A).
     -   [Typography for Developers - Full Course from Treehouse](https://www.youtube.com/watch?v=agbh1wbfJt8)
     -   [UML Diagrams](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
+    -   [Zac Hatfield-Dodds - Escape from auto-manual testing with Hypothesis! - PyCon 2019](youtube.com/watch?v=KcyGUVzL7HA)
 
 ## April
 
