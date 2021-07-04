@@ -83,6 +83,7 @@ save_as: learning-progress-2021.html
     -   [Docker Explained](https://www.youtube.com/watch?v=WoZobj2Ruj0)
     -   [Efficient Exponentiation](https://www.youtube.com/watch?v=BfNlzdFa_a4)
     -   [Google Apps Script](https://www.youtube.com/watch?v=OFuaoeq7gSw)
+    -   [MD5 - A completely broken secure hash algorithm](https://www.youtube.com/watch?v=HWpaz5XsECc)
     -   New in Python 3.10, [part 1](https://www.youtube.com/watch?v=mvJuxowIwIc) and [part 2](https://www.youtube.com/watch?v=S9C1C6WXq7A).
     -   [Typography for Developers - Full Course from Treehouse](https://www.youtube.com/watch?v=agbh1wbfJt8)
     -   [UML Diagrams](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
