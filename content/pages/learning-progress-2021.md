@@ -18,13 +18,12 @@ save_as: learning-progress-2021.html
 
 -   University of London
     -   **Databases, Networks and the Web**
-        -   Reviewing templating engines.
+        -   Reviewing templating engines; CRUD application with Express.
 -   Articles:
     -   [Hypothesis](https://hypothesis.works) (Python): articles on [writing good software](https://hypothesis.works/articles/writing-good-software/); [What is Hypothesis](https://hypothesis.works/articles/what-is-hypothesis/); [Getting started with Hypothesis](https://hypothesis.works/articles/getting-started-with-hypothesis/); [Evolving toward property-based testing with Hypothesis](https://hypothesis.works/articles/incremental-property-based-testing/); [Generating the right data](https://hypothesis.works/articles/generating-the-right-data/); [Testing performance optimizations](https://hypothesis.works/articles/testing-performance-optimizations/); [The Encode/Decode invariant](https://hypothesis.works/articles/encode-decode-invariant/); [Rule Based Stateful Testing](https://hypothesis.works/articles/rule-based-stateful-testing/).
 -   YouTube:
     -   [MD5 - A completely broken secure hash algorithm](https://www.youtube.com/watch?v=HWpaz5XsECc)
     -   [Zac Hatfield-Dodds - Escape from auto-manual testing with Hypothesis! - PyCon 2019](youtube.com/watch?v=KcyGUVzL7HA)
-
 
 ## June
 
